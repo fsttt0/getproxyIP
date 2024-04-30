@@ -1,38 +1,39 @@
-http://103.147.247.26:3127#ID--AS139972 PT. Putra Lebak Banten
-http://164.163.187.243:999#AR--AS271794 UNITY NETWORK S.A.S.
-http://41.209.10.148:8080#KE--AS9129 MTN SA
-http://119.92.236.53:8081#PH--AS9299 Philippine Long Distance Telephone Company
-http://103.171.31.175:8080#ID--AS131111 PT Mora Telematika Indonesia
-http://20.33.5.27:8888#BR--AS8075 Microsoft Corporation
-http://181.212.41.172:999#CL--AS269988 BINET NETWORKING DATA LIMITADA
+http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://93.159.247.109:3128#RU--AS39785 Axioma, LLC
+http://1.10.141.45:8080#TH--AS23969 TOT Public Company Limited
+http://46.175.1.65:8080#SK--AS56356 Andrex s.r.o.
+http://103.164.160.22:8080#BD--AS133325 Genfive Technology
+http://190.94.212.216:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://160.248.80.176:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
 http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.252.23.249:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://203.95.198.29:32650#KH--AS135375 Today Communication Co.,Ltd
-http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://109.175.9.203:8080#BA--AS9146 BH Telecom d.d. Sarajevo
+http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
 http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.246.203.197:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://34.23.14.17:3128#US--AS396982 Google LLC
+http://200.95.184.58:999#CL--AS264859 Comunicaciones Cablevision Ltda.
+http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.3.176:3128#JP--AS2514 NTT PC Communications, Inc.
-http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
-http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://203.201.172.222:8877#ID--AS38778 PT. Dutakom Wibawa Putra
-http://91.227.66.139:8080#PL--AS200750 Klikom.net Sp.z o.o.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://158.179.215.122:8080#ES--AS31898 Oracle Corporation
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
-http://37.238.168.122:1111#IQ--AS205800 Steps Telecom For Internet Ltd.
 http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
 http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
-http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
 http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://91.189.237.78:8080#RU--AS42742 InterkamService LLC
+http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
