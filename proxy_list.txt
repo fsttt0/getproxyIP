@@ -1,69 +1,39 @@
+http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://82.113.157.122:31280#GB--AS30827 Extraordinary Managed Services Ltd
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://103.141.109.237:8080#ID--AS138886 PT Data Buana Nusantara
 http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://211.51.126.134:3128#KR--AS4766 Korea Telecom
-http://176.211.113.246:80#RU--AS12389 PJSC Rostelecom
-http://103.101.229.220:8080#ID--AS17451 BIZNET NETWORKS
-http://45.133.107.64:81#AM--AS216086 ART-NET LLC
-http://69.160.223.129:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://181.224.205.42:999#DO--AS52412 BW TELECOM SRL
 http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://201.71.3.45:999#VE--AS3549 Level 3 Parent, LLC
-http://191.97.3.210:9992#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://41.57.138.196:6060#ZA--AS327688 Screamer Telecommunications
 http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://103.191.58.60:8080#ID--AS149909 PT Panjalu Sarana Data Indonesia
-http://93.123.16.188:3128#BG--AS9028 OHOST LLC
-http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://201.246.203.197:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://38.45.46.2:6332#DO--AS272110 FENIX NETWORKS, S.R.L.
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
-http://103.207.1.82:8080#IN--AS134877 Sri Vari Network Private Limited
-http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://101.255.148.86:8085#ID--AS38511 PT Remala Abadi
-http://148.251.16.138:80#DE--AS24940 Hetzner Online GmbH
 http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://103.173.139.222:8080#ID--AS147078 PT Serayu Multi Connection
+http://160.248.3.176:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://51.250.46.17:8080#RU--AS200350 Yandex.Cloud LLC
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
 http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://91.233.111.49:1080#UA--AS57605 Helpteh Ukraine Ltd
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
+http://200.39.120.78:999#MX--AS265606 DIGY NETWORKS
+http://47.184.144.115:3128#US--AS5650 Frontier Communications of America, Inc.
 http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
-http://62.183.96.194:8080#RU--AS25490 PJSC Rostelecom
-http://51.195.151.153:3128#GB--AS16276 OVH SAS
+http://181.65.180.190:999#PE--AS6147 Telefonica del Peru S.A.A.
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://103.8.68.48:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://124.83.51.94:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://212.192.3.101:8080#PS--AS210974 AjyalFi Company for Information and Communication Technology LLC
-http://45.173.231.155:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://103.99.27.162:8080#ID--AS150279 PT Lintas Network Solusi
 http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
 http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
-http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
-http://41.77.7.234:3129#ZM--AS37287 Zain Zambia PLC
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
 http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://103.152.232.52:8181#ID--AS140446 PT Kingpolah Network Solutions
-http://103.136.163.137:8181#ID--AS138814 PT Telemedia Prima Nusantara
-http://193.169.4.12:8091#RU--AS49261 Lekstar Communication Ltd.
-http://103.194.70.169:83#IN--AS134257 Hostaxis Network Private Limited
-http://45.4.201.17:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://103.203.175.49:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://103.127.220.70:8181#ID--AS7713 PT Telekomunikasi Indonesia
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://24.176.53.183:8080#US--AS20115 Charter Communications
-http://103.152.232.217:8181#ID--AS140446 PT Kingpolah Network Solutions
-http://163.172.31.44:80#FR--AS12876 SCALEWAY S.A.S.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://101.255.167.253:8080#ID--AS38511 PT Remala Abadi
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
