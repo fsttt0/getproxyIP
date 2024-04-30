@@ -1,45 +1,37 @@
+http://190.94.212.216:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.160.184.222:8080#ID--AS139952 PT Trisari Data Indonusa
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://180.190.200.210:8085#PH--AS132199 Globe Telecom Inc.
+http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
+http://103.159.194.149:8081#ID--AS141145 PT Giga Digital Nusantara
+http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://160.248.3.176:3128#JP--AS2514 NTT PC Communications, Inc.
+http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://70.69.134.83:4001#CA--AS812 Rogers Communications Canada Inc.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
+http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
+http://45.174.77.20:999#MX--AS28431 RAUL DUARTE URITA
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
 http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://103.181.25.158:8080#BD--AS149491 Right Net
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
+http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
 http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
-http://103.141.109.237:8080#ID--AS138886 PT Data Buana Nusantara
-http://45.189.252.245:999#MX--AS265613 TRACERED SA DE CV
-http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://137.59.50.39:8080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
-http://63.239.220.117:8080#US--AS209 CenturyLink Communications, LLC
-http://201.77.108.21:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://201.246.203.197:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://189.85.82.38:3128#BR--AS28178 Networld Provedor e Servicos de Internet Ltda
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://103.88.237.91:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://200.55.249.135:8080#EC--AS262154 Comm & Net S.A.
-http://102.68.128.211:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://91.233.111.49:1080#UA--AS57605 Helpteh Ukraine Ltd
-http://85.117.56.147:8080#GE--AS20771 Caucasus Online Ltd.
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
-http://45.185.163.111:999#EC--AS52468 UFINET PANAMA S.A.
+http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
+http://157.100.63.69:999#EC--AS52468 UFINET PANAMA S.A.
+http://36.93.130.218:66#ID--AS7713 PT Telekomunikasi Indonesia
