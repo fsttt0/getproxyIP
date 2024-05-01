@@ -1,44 +1,37 @@
+http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://91.227.66.139:8080#PL--AS200750 Klikom.net Sp.z o.o.
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://211.51.126.134:3128#KR--AS4766 Korea Telecom
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://5.189.130.215:32633#ES--AS203020 HostRoyale Technologies Pvt Ltd
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.80.82.178:8181#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
 http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://113.179.83.118:3128#VN--AS45899 VNPT Corp
-http://103.106.193.5:53281#IN--AS134319 Elyzium Technologies Pvt. Ltd.
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
+http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
+http://181.78.194.75:999#EC--AS52468 UFINET PANAMA S.A.
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://177.87.250.66:999#AR--AS270061 TWAINSAT SRL
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://154.73.29.161:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
+http://112.198.129.34:8082#PH--AS132199 Globe Telecom Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://36.91.15.241:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://200.41.170.211:11201#AR--AS10834 Telefonica de Argentina
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://103.152.232.51:8181#ID--AS140446 PT Kingpolah Network Solutions
-http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
-http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://36.93.174.103:3001#ID--AS7713 PT Telekomunikasi Indonesia
-http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://47.184.144.115:3128#US--AS5650 Frontier Communications of America, Inc.
-http://178.212.49.30:41258#PL--AS197025 Lubuskie Sieci Swiatlowodowe Sp. z o. o.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://103.152.232.36:8181#ID--AS140446 PT Kingpolah Network Solutions
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
