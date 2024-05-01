@@ -1,47 +1,32 @@
-http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
 http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
 http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
-http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
 http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://160.248.185.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://177.200.91.109:12312#BR--AS28368 SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME
-http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
 http://160.248.0.137:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://51.38.38.132:3128#FR--AS16276 OVH SAS
-http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://114.245.106.82:34811#CN--AS4808 China Unicom Beijing Province Network
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://47.184.144.115:3128#US--AS5650 Frontier Communications of America, Inc.
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://154.0.132.35:3128#UG--AS37063 Roke Investments International Ltd
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://187.79.146.98:8080#BR--AS7738 V tal
-http://181.78.11.218:999#CO--AS52468 UFINET PANAMA S.A.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://119.92.70.8:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://103.231.236.14:8080#ID--AS150964 PT Level Indodata Teknologi
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://103.159.225.34:80#ID--AS141147 PT Arkananta Global Media
-http://91.227.66.139:8080#PL--AS200750 Klikom.net Sp.z o.o.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://114.9.24.214:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://181.78.107.170:999#GT--AS52468 UFINET PANAMA S.A.
+http://190.85.122.27:8080#CO--AS14080 Telmex Colombia S.A.
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://181.196.254.201:999#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://45.166.93.29:999#HN--AS263725 MULTICABLE DE HONDURAS
+http://194.163.179.146:8090#EG--AS24835 Vodafone Data
