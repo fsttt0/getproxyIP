@@ -1,63 +1,55 @@
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://160.72.98.165:3128#US--AS46887 Crown Castle Fiber LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://177.69.118.177:8080#BR--AS16735 ALGAR TELECOM S/A
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://202.6.234.52:51234#ID--AS23756 PADINET - Padi Internet
 http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://170.79.36.60:8081#PE--AS6147 Telefonica del Peru S.A.A.
 http://160.248.185.27:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.152.232.53:8181#ID--AS140446 PT Kingpolah Network Solutions
+http://154.73.28.193:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://179.1.134.75:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
-http://180.191.14.123:8181#PH--AS132199 Globe Telecom Inc.
-http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
-http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://193.138.178.6:8282#RU--AS34241 New Communication Technologies LLC
-http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://103.88.239.118:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://38.56.70.183:999#DO--AS271965 ORBITEK SRL
+http://131.100.48.233:999#CO--AS270062 FIBERNET TV SAS
+http://190.90.39.78:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
+http://91.227.66.139:8080#PL--AS200750 Klikom.net Sp.z o.o.
+http://103.147.246.135:8080#ID--AS63859 PT. Eka Mas Republik
+http://103.203.174.182:84#IN--AS139490 Aspt Networks Pvt Ltd
 http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
-http://160.248.80.176:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.229.94.168:3128#SG--AS16509 Amazon.com, Inc.
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
 http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
-http://66.70.235.23:5454#CA--AS16276 OVH SAS
-http://34.126.125.90:8080#SG--AS396982 Google LLC
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://94.131.14.66:3128#LT--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.94.212.197:999#VE--AS8053 IFX Networks Venezuela C.A.
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.72.98.165:3128#US--AS46887 Crown Castle Fiber LLC
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
 http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
 http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
 http://191.252.196.14:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://78.189.148.19:3310#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
 http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
-http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://5.252.23.249:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://36.92.48.103:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://103.169.254.39:8090#ID--AS142370 PT Master Star Network
-http://190.128.152.37:8080#PY--AS27895 Núcleo S.A.
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
-http://5.135.188.62:9999#FR--AS16276 OVH SAS
-http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://91.214.31.136:8080#UA--AS49327 TOV "Telza"
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://194.163.179.146:13#EG--AS24835 Vodafone Data
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://45.71.3.51:999#EC--AS266672 SYSNOVELLTEL S.A
+http://170.238.112.71:8080#BR--AS266337 MARLON LIMA GOMES ME
+http://45.230.8.28:999#PY--AS52468 UFINET PANAMA S.A.
+http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://160.248.3.122:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
