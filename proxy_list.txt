@@ -1,44 +1,81 @@
+http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://104.236.78.102:3128#US--AS14061 DigitalOcean, LLC
+http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
+http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
+http://160.248.0.137:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://94.182.146.250:8080#US--AS63949 Akamai Connected Cloud
+http://190.61.80.98:999#HN--AS52468 UFINET PANAMA S.A.
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
+http://38.49.158.78:999#MX--AS28458 IENTC S DE RL DE CV
+http://185.67.95.91:80#RU--AS56689 Elitel Telecom Group Ltd
+http://57.180.36.142:3128#JP--AS16509 Amazon.com, Inc.
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://201.246.204.201:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
 http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://5.189.130.215:32633#ES--AS203020 HostRoyale Technologies Pvt Ltd
-http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://179.1.68.206:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
-http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
-http://161.34.36.79:3128#JP--AS2514 NTT PC Communications, Inc.
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
+http://85.239.232.245:3128#US--AS40021 Nubes, LLC
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.10.101.12:3128#HK--AS134196 ANYUN INTERNET TECHNOLOGY (HK) CO.,LIMITED
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://121.146.251.236:3128#KR--AS4766 Korea Telecom
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://197.248.86.237:32650#KE--AS37061 Safaricom Limited
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
+http://202.78.166.20:8080#DE--AS199524 G-Core Labs S.A.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://5.189.130.215:32633#ES--AS203020 HostRoyale Technologies Pvt Ltd
+http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://103.203.174.182:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://103.88.239.118:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://179.1.68.206:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
+http://13.229.126.191:3128#SG--AS16509 Amazon.com, Inc.
+http://45.167.93.235:999#MX--AS265561 LANTOINTERNET SA DE CV
+http://212.110.188.213:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://185.139.56.133:6961#GE--AS57814 Cloud 9 Ltd.
 http://140.227.142.202:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
-http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://191.252.196.14:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://54.38.138.114:3128#PL--AS16276 OVH SAS
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://170.80.242.78:999#MX--AS265525 TV CABLE DEL GUADIANA S.A DE C.V.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://85.239.232.245:3128#US--AS40021 Nubes, LLC
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://93.123.16.188:3128#BG--AS9028 OHOST LLC
-http://222.127.139.2:80#PH--AS4775 Globe Telecoms
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
-http://201.65.173.180:8080#BR--AS4230 CLARO S.A.
-http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
