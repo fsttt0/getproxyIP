@@ -1,47 +1,38 @@
-http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://95.163.230.147:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
+http://85.239.232.245:3128#US--AS40021 Nubes, LLC
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
-http://137.184.156.168:8000#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
-http://103.255.222.1:80#IN--AS136627 CHAMPARAN INTERNET PRIVATE LIMITED
-http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
-http://122.2.79.174:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://23.225.72.123:3501#US--AS40065 CNSERVERS LLC
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
-http://177.222.25.9:8080#BR--AS28165 Wireless Comm Services LTDA
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://113.160.155.121:19132#VN--AS45899 VNPT Corp
-http://112.198.129.34:8082#PH--AS132199 Globe Telecom Inc.
-http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://103.152.232.162:8181#ID--AS140446 PT Kingpolah Network Solutions
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://49.151.94.29:8181#PH--AS9299 Philippine Long Distance Telephone Company
+http://202.78.166.20:8080#DE--AS199524 G-Core Labs S.A.
+http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
+http://190.53.46.11:38525#NI--AS27742 Amnet Telecomunicaciones S.A.
+http://179.48.80.9:8085#BR--AS271241 Fbnet Telecom
+http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
+http://181.119.100.207:999#HN--AS52468 UFINET PANAMA S.A.
+http://14.143.145.35:80#IN--AS4755 TATA Communications formerly VSNL is Leading ISP
+http://103.187.162.75:8080#ID--AS149744 PT Misqot Sejahtera Indonesia
+http://190.94.213.28:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://31.148.7.130:3128#UA--AS212571 Nitrocom Ltd.
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
 http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://177.136.85.193:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
-http://103.179.46.49:6789#IN--AS138296 Juweriyah Networks Private Limited
-http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://200.39.139.65:999#CL--AS270024 ICONEX SPA
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://222.174.178.122:4999#CN--AS4134 CHINANET-BACKBONE
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://103.8.68.48:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://183.91.80.194:8089#ID--AS4800 PT Aplikanusa Lintasarta
