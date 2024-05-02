@@ -1,39 +1,43 @@
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://201.246.201.157:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://201.246.201.157:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://103.84.235.162:8789#ID--AS38320 PT Maxindo Mitra Solusi
+http://202.78.166.20:8080#DE--AS199524 G-Core Labs S.A.
+http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
+http://41.75.123.117:32650#MW--AS37187 Inq. Digital Limited
+http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
+http://67.73.184.178:8081#CO--AS3549 Level 3 Parent, LLC
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://91.209.114.179:8080#HU--AS47169 MVM NET Zrt.
+http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
+http://149.86.146.151:8080#TR--AS208972 GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://201.251.61.143:8080#AR--AS22927 Telefonica de Argentina
+http://103.173.138.171:8080#ID--AS147078 PT Serayu Multi Connection
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.4.201.17:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
 http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://103.153.35.85:8080#ID--AS140452 PT Jaya Media Expres
 http://85.239.232.245:3128#US--AS40021 Nubes, LLC
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://8.222.152.158:55555#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://160.248.185.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://136.243.82.121:1082#DK--AS42708 GleSYS AB
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://103.59.45.53:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
-http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
-http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
-http://181.209.116.20:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://45.239.28.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://62.103.66.18:3128#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
-http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
-http://114.5.182.190:1111#ID--AS142323 PT Jaringan Cepat Indonesia
-http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://103.178.42.3:8181#ID--AS149316 PT Jaring Solusi Persada
-http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://189.151.89.228:999#MX--AS8151 UNINET
+http://49.151.94.29:8181#PH--AS9299 Philippine Long Distance Telephone Company
+http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
