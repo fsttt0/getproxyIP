@@ -1,37 +1,39 @@
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://103.9.134.234:100#BD--AS9832 ISN, Internet Service Provider
 http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
 http://66.94.108.138:3128#US--AS40021 Nubes, LLC
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
-http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
-http://103.159.196.145:1080#ID--AS140470 PT Andalan Dinamika Informatika
-http://161.34.36.79:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.215.196.50:3128#BR--AS267199 REDEMETRO TELECOMUNICACOES LTDA
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
 http://85.239.232.245:3128#US--AS40021 Nubes, LLC
 http://95.163.230.147:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
 http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://90.161.186.147:3128#ES--AS12479 Orange Espagne SA
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
+http://66.54.106.56:8104#US--AS7029 Windstream Communications LLC
 http://103.51.205.98:8080#ID--AS45305 Lintas Data Prima, PT
-http://103.163.13.159:8090#ID--AS141889 PT Solusi Media Telekomunikasi
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://202.78.166.20:8080#DE--AS199524 G-Core Labs S.A.
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://203.189.88.156:80#ID--AS38765 Departemen Energi dan Sumber Daya Mineral
-http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://201.71.3.62:999#VE--AS3549 Level 3 Parent, LLC
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://103.15.223.251:3131#VN--AS149137 TAN THANH AN INTERNATIONAL TRADE DEVELOPMENT COMPANY LIMITED
+http://177.93.59.70:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://181.204.172.170:999#CO--AS27831 Colombia Móvil
+http://129.205.106.42:8080#NG--AS37148 Globacom Limited
