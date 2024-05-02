@@ -1,48 +1,38 @@
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://64.76.43.120:999#MX--AS3549 Level 3 Parent, LLC
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://201.246.204.201:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://37.204.209.198:8080#RU--AS42610 PJSC Rostelecom
-http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://34.126.125.90:8080#SG--AS396982 Google LLC
-http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
-http://5.189.130.215:32633#ES--AS203020 HostRoyale Technologies Pvt Ltd
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://147.251.6.25:3128#CZ--AS2852 CESNET z.s.p.o.
-http://57.180.36.142:3128#JP--AS16509 Amazon.com, Inc.
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
-http://103.245.16.222:8888#ID--AS46023 PT Quantum Tera Network
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://129.154.225.163:8100#IN--AS31898 Oracle Corporation
-http://201.71.2.115:999#VE--AS3549 Level 3 Parent, LLC
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://5.189.130.215:32633#ES--AS203020 HostRoyale Technologies Pvt Ltd
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://181.204.172.170:999#CO--AS27831 Colombia Móvil
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
+http://45.173.231.155:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://147.251.6.21:3128#CZ--AS2852 CESNET z.s.p.o.
+http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://201.246.204.201:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://160.72.98.165:3128#US--AS46887 Crown Castle Fiber LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://178.63.84.228:60053#US--AS6128 Cablevision Systems Corp.
+http://160.248.80.176:3128#JP--AS2514 NTT PC Communications, Inc.
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://147.251.6.31:3128#CZ--AS2852 CESNET z.s.p.o.
+http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
-http://178.63.84.228:60360#US--AS7922 Comcast Cable Communications, LLC
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://103.159.225.34:80#ID--AS141147 PT Arkananta Global Media
-http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
 http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
-http://103.80.82.178:8181#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
 http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
 http://95.110.227.85:3128#IT--AS31034 Aruba S.p.A.
 http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
