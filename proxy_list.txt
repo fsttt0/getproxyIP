@@ -1,37 +1,43 @@
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://103.162.54.147:8080#ID--AS141105 PT Dapur Remaja Multi Sarana
 http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://190.90.39.78:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
 http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
-http://103.165.211.174:3128#ID--AS17995 PT iForte Global Internet
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://103.169.254.39:8090#ID--AS142370 PT Master Star Network
+http://186.215.196.50:3128#BR--AS267199 REDEMETRO TELECOMUNICACOES LTDA
+http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
 http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
-http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
 http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
+http://170.239.205.10:8080#CO--AS265629 FIBERNET
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
+http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://212.92.23.235:31288#HU--AS29278 Deninet KFT
+http://121.146.251.236:3128#KR--AS4766 Korea Telecom
+http://45.185.163.111:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.203.172.182:84#IN--AS139490 Aspt Networks Pvt Ltd
 http://115.167.124.75:8080#PK--AS136030 Redtone Telecommunications Pakistan (Private) Limited
 http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://213.221.46.10:3128#RU--AS3216 PJSC "Vimpelcom"
-http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://103.9.134.234:100#BD--AS9832 ISN, Internet Service Provider
 http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://13.40.146.136:9836#GB--AS16509 Amazon.com, Inc.
-http://138.84.40.117:999#CO--AS14593 Space Exploration Technologies Corporation
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://103.186.204.48:8080#ID--AS149723 PT Afna Digital Indonesia
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://157.119.222.22:8080#ID--AS45302 PT DES Teknologi Informasi
-http://41.207.249.166:8080#NG--AS37540 Winrock Nigeria Limited
-http://49.0.34.194:8080#BD--AS38744 AlwaysOn Network Bangladesh Ltd
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
+http://200.110.173.17:999#CO--AS27951 Media Commerce Partners S.A
+http://102.222.173.33:8080#ZA--AS328757 Donya Digital (Pty) Ltd
+http://186.125.218.188:999#AR--AS7303 Telecom Argentina S.A.
+http://114.9.24.214:8080#ID--AS4761 INDOSAT Internet Network Provider
