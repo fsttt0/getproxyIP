@@ -1,31 +1,37 @@
-http://190.94.212.244:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://188.132.222.38:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://92.255.7.162:8080#RU--AS24739 SEVEREN TELECOM
-http://103.247.14.103:1111#ID--AS131706 PT SELARAS CITRA TERABIT
-http://37.220.139.219:8080#HU--AS50261 ACE Telecom Kft
-http://137.59.49.134:8080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://23.225.72.122:3500#US--AS40065 CNSERVERS LLC
-http://190.242.125.186:8080#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
-http://62.201.251.217:8585#IQ--AS44217 IQ Networks for Data and Internet Services Ltd
-http://163.47.210.74:8080#IN--AS55839 Microsense Private Limited
-http://110.235.250.77:8080#KH--AS23673 Cogetel Online, Cambodia, ISP
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.0.137:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.129.183.14:3128#DE--AS197540 netcup GmbH
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://136.243.82.121:1083#DE--AS174 Cogent Communications
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.200.37.121:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://201.170.22.174:8080#MX--AS8151 UNINET
+http://160.248.0.137:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.6.63:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.158.220.2:83#IN--AS141310 Nt Cybronet Pvt Ltd
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://45.9.5.34:8080#TR--AS215622 MECRA BILISIM
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://102.212.30.22:8080#KE--AS329246 HANIF TELECOM LIMITED
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://131.100.48.233:999#CO--AS270062 FIBERNET TV SAS
+http://45.191.75.188:999#CO--AS272942 GLOBAL RAICES S.A.S
+http://181.78.19.252:999#CO--AS52468 UFINET PANAMA S.A.
+http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.171.244.64:8080#ID--AS141674 PT Data Arta Sedaya
+http://103.203.175.101:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://163.47.210.74:8080#IN--AS55839 Microsense Private Limited
+http://45.185.163.111:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
