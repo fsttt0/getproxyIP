@@ -1,37 +1,37 @@
-http://191.252.92.34:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://181.224.207.142:999#DO--AS52412 BW TELECOM SRL
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.174.122.46:8181#ID--AS147096 PT Jaya Sejahtra Nugraha
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.181.121.213:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://45.181.123.129:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
+http://103.165.211.174:3128#ID--AS17995 PT iForte Global Internet
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
+http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
 http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://85.239.232.245:3128#US--AS40021 Nubes, LLC
+http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
+http://212.92.23.235:31288#HU--AS29278 Deninet KFT
 http://115.167.124.75:8080#PK--AS136030 Redtone Telecommunications Pakistan (Private) Limited
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
+http://213.221.46.10:3128#RU--AS3216 PJSC "Vimpelcom"
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
 http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://13.40.146.136:9836#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://200.70.56.203:3128#AR--AS10834 Telefonica de Argentina
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://103.36.11.246:8181#ID--AS133360 PT Awinet Global Mandiri
-http://103.179.27.133:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.46.11.74:8080#ID--AS45305 Lintas Data Prima, PT
+http://138.84.40.117:999#CO--AS14593 Space Exploration Technologies Corporation
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://181.78.82.213:999#CO--AS3549 Level 3 Parent, LLC
-http://202.137.8.149:8080#ID--AS9905 Linknet ASN
-http://45.236.198.249:666#BR--AS268261 CLAUDINEI SOUSA CERQUEIRA
+http://103.186.204.48:8080#ID--AS149723 PT Afna Digital Indonesia
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://103.247.21.225:2024#ID--AS58485 WIFIAN ID
-http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
-http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://8.222.152.158:55555#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://157.119.222.22:8080#ID--AS45302 PT DES Teknologi Informasi
+http://41.207.249.166:8080#NG--AS37540 Winrock Nigeria Limited
+http://49.0.34.194:8080#BD--AS38744 AlwaysOn Network Bangladesh Ltd
