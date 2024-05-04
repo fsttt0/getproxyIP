@@ -1,37 +1,49 @@
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
-http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
-http://103.109.125.155:5555#ID--AS137316 PT. PANCA DUTA UTAMA
-http://201.71.2.103:999#VE--AS3549 Level 3 Parent, LLC
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://70.90.138.109:8080#US--AS7922 Comcast Cable Communications, LLC
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://177.44.223.109:8080#BR--AS263139 Dataware Telecomunicações LTDA. - EPP
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
+http://180.190.200.210:8085#PH--AS132199 Globe Telecom Inc.
 http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://27.112.70.155:8083#SG--AS46063 PT.Graha Telekomunikasi Indonesia
+http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
+http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
+http://45.239.30.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://190.85.122.27:8080#CO--AS14080 Telmex Colombia S.A.
+http://103.10.71.81:80#ID--AS150210 PT Wadma Berkah Sedaya
+http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
 http://81.23.153.93:8080#RU--AS41668 JSC "ER-Telecom Holding"
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://23.162.160.1:16099#US--AS14860 SMARTCOM TELEPHONE, LLC
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://179.125.51.54:27234#BR--AS263631 Via Link Telecomunicacoes
 http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
+http://109.72.232.217:8080#RU--AS31370 OOO "Gruppa MosLine"
 http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.150.113.252:8080#TH--AS4618 Internet Thailand Company Limited
 http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://103.162.54.147:8080#ID--AS141105 PT Dapur Remaja Multi Sarana
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://45.188.164.3:999#MX--AS265605 VELOCOM SA DE CV
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
 http://190.242.101.202:999#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
-http://103.99.22.28:8080#ID--AS150466 PT Pesona Nusa Vision
-http://45.173.231.155:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://182.191.84.39:80#PK--AS17557 Pakistan Telecommunication Company Limited
+http://46.246.14.3:8118#SE--AS42708 GleSYS AB
