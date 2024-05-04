@@ -1,56 +1,59 @@
-http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.204.20.21:8080#IN--AS17483 CityOnline Services Ltd
-http://103.80.82.178:8181#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://180.191.59.3:8082#PH--AS132199 Globe Telecom Inc.
-http://34.94.148.191:3128#US--AS396982 Google LLC
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://181.209.100.50:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://172.232.124.249:8080#IN--AS63949 Akamai Connected Cloud
 http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://45.191.75.188:999#CO--AS272942 GLOBAL RAICES S.A.S
-http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://148.251.16.138:80#DE--AS24940 Hetzner Online GmbH
-http://222.119.186.81:3128#KR--AS4766 Korea Telecom
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://190.242.101.202:999#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
-http://103.156.15.212:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://71.14.23.121:8080#US--AS20115 Charter Communications
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://91.107.143.161:3128#DE--AS24940 Hetzner Online GmbH
-http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.59.44.75:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://38.253.95.96:999#DO--AS272027 LAUAM MEGARED TELECOM, S.R.L.
+http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://123.31.19.244:3128#VN--AS45899 VNPT Corp
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.239.232.245:3128#US--AS40021 Nubes, LLC
-http://175.138.113.230:8080#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
-http://95.110.227.85:3128#IT--AS31034 Aruba S.p.A.
-http://172.232.216.110:22027#IT--AS63949 Akamai Connected Cloud
-http://165.16.27.42:1981#LY--AS37284 Aljeel Aljadeed For Technology
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://54.149.58.220:3128#US--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://13.40.146.136:9836#GB--AS16509 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://5.189.42.155:8080#RU--AS12668 LLC "KomTehCentr"
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://116.6.226.122:8800#CN--AS4809 China Telecom Next Generation Carrier Network
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://161.34.33.182:3128#JP--AS2514 NTT PC Communications, Inc.
+http://72.14.184.125:22030#US--AS63949 Akamai Connected Cloud
+http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
+http://187.19.200.217:8090#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://61.28.230.182:3128#VN--AS38244 VNG Corporation
+http://41.209.10.211:8080#KE--AS9129 MTN SA
+http://37.44.247.217:3128#US--AS47583 Hostinger International Limited
+http://185.105.185.185:3128#DE--AS174 Cogent Communications
+http://38.45.36.196:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://202.40.185.146:8080#BD--AS23991 Ranks ITT Ltd.
+http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://202.173.217.4:8080#TH--AS24187 KIRZ Service Provider
+http://189.3.69.230:8080#BR--AS4230 CLARO S.A.
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://96.80.235.1:8080#US--AS7922 Comcast Cable Communications, LLC
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://95.154.20.113:34248#DK--AS39642 Norlys Digital A/S
