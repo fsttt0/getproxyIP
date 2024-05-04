@@ -1,42 +1,70 @@
+http://95.163.230.147:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
+http://61.28.230.182:3128#VN--AS38244 VNG Corporation
+http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://148.230.168.198:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://38.183.152.250:999#DO--AS272015 INVERSIONES BONAFER, SRL
+http://190.121.239.195:999#VE--AS27717 Corporacion Digitel C.A.
+http://45.191.75.188:999#CO--AS272942 GLOBAL RAICES S.A.S
+http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
+http://18.117.218.196:8096#US--AS16509 Amazon.com, Inc.
+http://103.167.2.63:8080#ID--AS141967 Institut Agama Islam Negeri Salatiga
+http://37.44.247.217:3128#US--AS47583 Hostinger International Limited
+http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
+http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
+http://103.26.176.73:8080#ID--AS58821 PT Lintas Jaringan Nusantara
+http://38.45.36.196:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://192.203.0.78:999#PR--AS63393 BOOM NET
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://182.191.84.39:80#PK--AS17557 Pakistan Telecommunication Company Limited
+http://59.90.196.30:8080#IN--AS9829 National Internet Backbone
+http://103.170.115.213:2020#ID--AS142369 PT Mega Data Akses
+http://37.58.58.206:80#DE--AS28753 Leaseweb Deutschland GmbH
+http://181.119.100.207:999#HN--AS52468 UFINET PANAMA S.A.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://217.182.194.108:3128#FR--AS16276 OVH SAS
+http://45.225.89.145:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://103.189.249.163:1111#ID--AS149888 PT Berkah Media Kusuma Vision
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://177.234.194.154:999#EC--AS52468 UFINET PANAMA S.A.
+http://27.147.157.77:6969#BD--AS23688 Link3 Technologies Ltd.
+http://202.173.217.4:8080#TH--AS24187 KIRZ Service Provider
+http://103.156.15.212:8080#ID--AS58821 PT Lintas Jaringan Nusantara
+http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
+http://175.193.58.170:3128#KR--AS4766 Korea Telecom
+http://103.15.223.251:3128#VN--AS149137 TAN THANH AN INTERNATIONAL TRADE DEVELOPMENT COMPANY LIMITED
+http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://103.189.197.83:8181#ID--AS149912 PT Graha Sumber Teknologi
+http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://137.59.48.20:8080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
+http://154.127.240.117:64002#AO--AS36907 TV CABO ANGOLA LDA
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
 http://91.107.143.161:3128#DE--AS24940 Hetzner Online GmbH
 http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://175.138.113.230:8080#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://154.127.240.121:64002#AO--AS36907 TV CABO ANGOLA LDA
+http://103.164.223.54:8080#ID--AS17995 PT iForte Global Internet
+http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://85.239.232.245:3128#US--AS40021 Nubes, LLC
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
 http://66.94.108.138:3128#US--AS40021 Nubes, LLC
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.232.216.110:22027#IT--AS63949 Akamai Connected Cloud
-http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://45.65.138.48:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
 http://54.149.58.220:3128#US--AS16509 Amazon.com, Inc.
 http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://5.189.42.155:8080#RU--AS12668 LLC "KomTehCentr"
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://84.247.128.92:3128#DE--AS51167 Contabo GmbH
 http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
-http://38.41.0.60:11201#VE--AS269832 MDS TELECOM C.A.
+http://45.180.140.209:8081#EC--AS269728 DECERET CIA. LTDA.
 http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.179.171:8080#ID--AS17451 BIZNET NETWORKS
-http://160.248.3.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
-http://103.80.224.33:83#IN--AS151764 Robust Pixel Connect Private Limited
-http://103.217.224.69:8989#ID--AS151006 PT Nesta Indo Media
-http://103.169.254.39:8090#ID--AS142370 PT Master Star Network
-http://13.127.22.25:11267#IN--AS16509 Amazon.com, Inc.
-http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.127.220.251:8181#ID--AS150259 PT Multi Guna Sinergi
-http://170.238.104.213:8080#BR--AS266315 Ubbinet Provedor de Servicos de Internet Ltda ME
-http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.4.201.17:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://183.91.80.194:8089#ID--AS4800 PT Aplikanusa Lintasarta
