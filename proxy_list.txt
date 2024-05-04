@@ -1,57 +1,46 @@
-http://200.108.190.42:999#VE--AS269928 TELECOMUNICACIONES RHJ, C. A.
-http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
+http://103.166.10.138:8181#ID--AS139967 PT. Yasmin Amanah Media
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://80.66.112.2:31280#ES--AS202766 Servicios Digitales Codinet S.L.
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://103.184.54.42:8080#ID--AS140401 PT Proxi Jaringan Nusantara
+http://38.156.15.160:999#MX--AS265622 WISTARIP S DE RL DE CV
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://45.81.146.7:8080#IQ--AS208859 FACT LTD
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.135.188.62:9999#FR--AS16276 OVH SAS
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://103.99.27.26:7777#ID--AS150279 PT Lintas Network Solusi
+http://160.248.6.105:3128#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://3.18.226.115:443#US--AS16509 Amazon.com, Inc.
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
 http://3.18.226.115:80#US--AS16509 Amazon.com, Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://20.219.235.172:3129#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.204.190.254:3129#IN--AS8075 Microsoft Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://66.94.108.138:3128#US--AS40021 Nubes, LLC
-http://103.41.90.52:83#IN--AS18229 CtrlS
-http://103.88.239.118:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://140.227.142.202:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.91.216.243:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://177.221.140.99:8080#CL--AS270014 GRUPO CG LIMITADA
-http://187.73.188.35:8080#BR--AS270543 Gwg telco telecomunicaçoes eireli
-http://177.234.213.9:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.230.8.28:999#PY--AS52468 UFINET PANAMA S.A.
-http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
-http://112.78.40.210:8080#ID--AS45302 PT DES Teknologi Informasi
+http://195.159.124.56:85#NO--AS2116 GLOBALCONNECT AS
+http://170.81.131.70:3128#BR--AS28330 IFTNET Telecomunicacoes Ltda
+http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://103.125.240.237:8080#PK--AS138453 GCS (Private) Limited
+http://200.60.83.189:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://14.241.111.97:8080#VN--AS45899 VNPT Corp
+http://115.124.75.58:8080#ID--AS38511 PT Remala Abadi
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://185.200.37.121:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://159.255.163.153:47193#IQ--AS213098 Pirmam For Information Technology Ltd
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://190.195.225.34:80#AR--AS7303 Telecom Argentina S.A.
-http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://103.234.254.6:7777#ID--AS38320 PT Maxindo Mitra Solusi
-http://121.146.251.236:3128#KR--AS4766 Korea Telecom
-http://38.156.23.230:999#DO--AS64134 VISNETWORK SRL
-http://58.11.14.135:8080#TH--AS17552 True Online
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
-http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.35.108.89:5020#BD--AS23991 Ranks ITT Ltd.
+http://93.177.126.101:8088#RU--AS209059 G COM Ltd.
+http://36.66.111.81:8080#ID--AS9341 PT Indonesia Comnets Plus
+http://103.153.35.85:8080#ID--AS140452 PT Jaya Media Expres
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
