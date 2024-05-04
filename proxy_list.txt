@@ -1,35 +1,39 @@
-http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
+http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://66.94.108.138:3128#US--AS40021 Nubes, LLC
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://205.196.184.69:50704#US--AS22442 Phonoscope, Inc.
-http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
-http://115.127.95.81:8080#BD--AS24342 BRACNet Limited
-http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://83.219.43.27:27702#GB--AS5089 Virgin Media Limited
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://179.125.51.54:27234#BR--AS263631 Via Link Telecomunicacoes
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
 http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://13.127.22.25:11267#IN--AS16509 Amazon.com, Inc.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
 http://43.153.84.84:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://5.252.23.220:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
 http://31.148.7.130:3128#UA--AS212571 Nitrocom Ltd.
 http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
-http://103.175.236.222:8080#ID--AS147121 PT Marva Global Telekomunikasi
-http://103.177.9.104:8080#ID--AS147137 HELIUM
-http://182.253.147.91:8080#ID--AS17451 BIZNET NETWORKS
-http://103.28.114.140:80#ID--AS45305 Lintas Data Prima, PT
+http://201.71.3.56:999#VE--AS3549 Level 3 Parent, LLC
+http://213.165.168.190:9898#MT--AS12709 Melita Limited
+http://45.189.252.193:999#MX--AS265613 TRACERED SA DE CV
+http://103.165.155.77:1111#ID--AS141921 PT Jaringan Keluarga Bersama
+http://45.117.29.33:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://45.185.163.111:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
 http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.77.108.130:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
-http://45.65.138.48:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
