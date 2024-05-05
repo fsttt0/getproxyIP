@@ -1,53 +1,41 @@
-http://212.92.23.235:31288#HU--AS29278 Deninet KFT
-http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
-http://91.203.242.66:222#RU--AS47335 ABN LTD
-http://133.130.90.75:4343#JP--AS7506 GMO Internet,Inc
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://61.28.230.182:3128#VN--AS38244 VNG Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
 http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
-http://34.126.125.90:8080#SG--AS396982 Google LLC
+http://61.28.230.182:3128#VN--AS38244 VNG Corporation
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.141.109.219:8080#ID--AS138886 PT Data Buana Nusantara
-http://176.36.235.47:8087#UA--AS39608 Lanet Network Ltd
+http://202.165.40.138:80#ID--AS17538 PT. Circlecom Nusantara Indonesia
+http://84.51.15.251:32650#TR--AS34984 Superonline Iletisim Hizmetleri A.S.
+http://212.92.23.235:31288#HU--AS29278 Deninet KFT
+http://190.85.122.27:8080#CO--AS14080 Telmex Colombia S.A.
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://190.26.255.28:999#CO--AS19429 ETB - Colombia
 http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://45.236.104.25:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://187.102.238.49:999#MX--AS270114 SERVICIOS DE INFRAESTRUCTURA DE RADIOCOMUNICACION Y REDES PRIVADAS DE DATOS HYPERNET, SC DE RL DE CV
+http://94.182.146.250:8080#US--AS63949 Akamai Connected Cloud
+http://102.214.104.56:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://101.128.93.144:8090#ID--AS135478 PT. Cyberindo Aditama
+http://190.90.39.78:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
+http://202.5.36.152:5020#BD--AS45326 Broad Band Telecom Services Ltd
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://103.156.140.239:8080#ID--AS149883 PT Tekling Media Telematika
+http://27.112.70.155:8083#SG--AS46063 PT.Graha Telekomunikasi Indonesia
 http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://185.25.117.1:3128#UA--AS200000 Hosting Ukraine LTD
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
+http://120.28.221.214:80#PH--AS132199 Globe Telecom Inc.
+http://103.162.63.162:8080#ID--AS141642 PT Ring Media Nusantara
+http://75.119.131.36:9393#DE--AS51167 Contabo GmbH
 http://217.182.194.108:3128#FR--AS16276 OVH SAS
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://94.198.221.4:3128#KZ--AS9123 TimeWeb Ltd.
-http://154.127.240.121:64002#AO--AS36907 TV CABO ANGOLA LDA
-http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.74:3128#JP--AS2514 NTT PC Communications, Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://154.127.240.118:64002#AO--AS36907 TV CABO ANGOLA LDA
-http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://203.57.255.139:3128#CN--AS58519 Cloud Computing Corporation
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://161.34.37.76:3128#JP--AS2514 NTT PC Communications, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://41.231.37.76:3128#TN--AS31245 ATI - Agence Tunisienne Internet
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://154.73.28.193:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
