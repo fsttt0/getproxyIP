@@ -1,49 +1,85 @@
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://180.190.200.210:8085#PH--AS132199 Globe Telecom Inc.
-http://160.248.3.171:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://147.28.155.23:9401#US--AS54825 Packet Host, Inc.
+http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
+http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://203.57.255.139:3128#CN--AS58519 Cloud Computing Corporation
+http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://34.94.148.191:3128#US--AS396982 Google LLC
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
 http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
+http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://119.196.143.79:1024#KR--AS4766 Korea Telecom
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://20.219.235.172:3129#IN--AS8075 Microsoft Corporation
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://20.219.177.73:3129#IN--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://161.34.37.76:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://154.127.240.117:64002#AO--AS36907 TV CABO ANGOLA LDA
+http://154.127.240.119:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://67.43.228.254:1739#IN--AS55836 Reliance Jio Infocomm Limited
+http://154.127.240.118:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
+http://154.127.240.118:64002#AO--AS36907 TV CABO ANGOLA LDA
+http://154.127.240.126:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://103.141.109.219:8080#ID--AS138886 PT Data Buana Nusantara
+http://154.127.240.123:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://103.148.25.201:8080#ID--AS139981 PT. Menaksopal Link Nusantara
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://172.232.216.110:22027#IT--AS63949 Akamai Connected Cloud
+http://41.57.138.196:6060#ZA--AS22750 BCS Group (BCSNet)
+http://103.87.212.140:8999#BD--AS136429 BAS Network
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://181.78.19.252:999#CO--AS52468 UFINET PANAMA S.A.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://103.13.204.24:8082#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
+http://42.118.202.113:4006#VN--AS7552 Viettel Group
+http://154.127.240.121:64002#AO--AS36907 TV CABO ANGOLA LDA
+http://154.127.240.116:64002#AO--AS36907 TV CABO ANGOLA LDA
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://181.119.106.106:999#GT--AS52468 UFINET PANAMA S.A.
+http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://154.127.240.120:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://118.99.73.186:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://154.127.240.122:64001#AO--AS36907 TV CABO ANGOLA LDA
+http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
+http://45.175.237.184:999#MX--AS265587 HULUX TELECOMUNICACIONES
+http://195.211.154.44:3128#UA--AS59564 Unit-IS Ltd.
+http://200.13.47.165:8080#AR--AS52296 Trynet S.R.L.
+http://201.170.22.174:8080#MX--AS8151 UNINET
+http://85.117.63.207:8080#GE--AS20771 Caucasus Online Ltd.
+http://94.154.152.7:8079#AL--AS209839 Luva Group Sh.p.k.
+http://45.149.93.213:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://45.239.30.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
-http://5.135.188.62:9999#FR--AS16276 OVH SAS
-http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
-http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://3.226.182.186:3128#US--AS14618 Amazon.com, Inc.
+http://103.8.68.48:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://190.85.122.27:8080#CO--AS14080 Telmex Colombia S.A.
-http://103.10.71.81:80#ID--AS150210 PT Wadma Berkah Sedaya
-http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://81.23.153.93:8080#RU--AS41668 JSC "ER-Telecom Holding"
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://179.125.51.54:27234#BR--AS263631 Via Link Telecomunicacoes
-http://160.248.81.223:3128#JP--AS2514 NTT PC Communications, Inc.
-http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
-http://109.72.232.217:8080#RU--AS31370 OOO "Gruppa MosLine"
-http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.54:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
-http://203.150.113.252:8080#TH--AS4618 Internet Thailand Company Limited
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://45.188.164.3:999#MX--AS265605 VELOCOM SA DE CV
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://190.242.101.202:999#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
-http://46.246.14.3:8118#SE--AS42708 GleSYS AB
