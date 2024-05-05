@@ -1,34 +1,38 @@
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://18.209.197.247:3128#US--AS14618 Amazon.com, Inc.
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://103.109.125.155:5555#ID--AS137316 PT. PANCA DUTA UTAMA
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://62.3.30.70:8080#GE--AS209743 Enbinet Ltd.
-http://27.147.131.122:8090#BD--AS23688 Link3 Technologies Ltd.
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.252.236.157:8080#ID--AS55701 PT. Usaha Adisanggoro
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://35.225.16.82:2387#US--AS396982 Google LLC
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://103.126.86.200:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://45.191.75.188:999#CO--AS272942 GLOBAL RAICES S.A.S
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.141.109.219:8080#ID--AS138886 PT Data Buana Nusantara
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://170.239.205.10:8080#CO--AS265629 FIBERNET
+http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://221.165.93.242:8080#KR--AS4766 Korea Telecom
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://101.255.209.42:8080#ID--AS38511 PT Remala Abadi
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
 http://116.6.226.122:8800#CN--AS4809 China Telecom Next Generation Carrier Network
-http://5.252.23.220:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://36.93.130.219:66#ID--AS7713 PT Telekomunikasi Indonesia
-http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.154.161.152:80#IT--AS396982 Google LLC
+http://120.28.138.52:8081#PH--AS9299 Philippine Long Distance Telephone Company
+http://69.160.223.129:8181#US--AS53989 Swayzee Telephone Company, Inc.
