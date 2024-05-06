@@ -1,43 +1,37 @@
-http://191.242.111.195:8080#BR--AS263476 V W INTERNET
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://161.123.116.54:22332#NL--AS50028 EDGOO NETWORKS UNIPESSOAL LDA
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://203.190.46.83:8080#ID--AS45317 Jaringan Lintas Utara, PT
-http://51.68.220.201:8080#GB--AS16276 OVH SAS
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://200.35.34.134:999#CO--AS27695 EDATEL S.A. E.S.P
+http://82.202.151.57:8080#RU--AS30745 Site LLC
+http://116.197.132.201:8080#ID--AS58369 PT. Fiber Networks Indonesia
+http://171.4.192.66:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://76.169.129.241:8080#US--AS20001 Charter Communications Inc
+http://102.182.134.53:8082#ZA--AS37611 Afrihost (Pty) Ltd
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.127:8080#ID--AS17451 BIZNET NETWORKS
 http://49.254.175.179:22718#KR--AS4766 Korea Telecom
-http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
+http://116.197.134.13:8080#ID--AS58369 PT. Fiber Networks Indonesia
+http://190.109.168.196:8080#CO--AS27695 EDATEL S.A. E.S.P
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://202.8.74.10:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://58.147.189.222:443#ID--AS24534 PT. Transhybrid Communication
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://124.105.186.206:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://217.182.194.108:3128#FR--AS16276 OVH SAS
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://81.43.68.47:8080#ES--AS3352 TELEFONICA DE ESPANA S.A.U.
+http://201.89.89.34:8080#BR--AS8167 V tal
+http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://134.19.254.2:21231#GE--AS16010 Magticom Ltd.
-http://103.178.43.26:8080#ID--AS138130 PT PHATRIA INTI PERSADA
-http://160.248.80.176:3128#JP--AS2514 NTT PC Communications, Inc.
-http://27.54.117.88:8089#ID--AS58396 PT. DEWATA TELEMATIKA
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://213.133.98.201:1369#DE--AS24940 Hetzner Online GmbH
+http://103.246.247.149:3128#HK--AS55933 Cloudie Limited
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
