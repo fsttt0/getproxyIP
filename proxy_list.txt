@@ -1,59 +1,37 @@
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://103.246.247.149:3128#HK--AS55933 Cloudie Limited
-http://110.235.250.77:8080#KH--AS23673 Cogetel Online, Cambodia, ISP
-http://103.26.129.27:8080#ID--AS149704 PT Panglima Kamayo Media
-http://162.55.236.29:60329#US--AS701 Verizon Business
-http://103.184.54.7:8080#ID--AS140401 PT Proxi Jaringan Nusantara
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.35.34.134:999#CO--AS27695 EDATEL S.A. E.S.P
+http://190.95.195.105:999#EC--AS27947 Telconet S.A
 http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
 http://5.135.188.62:9999#FR--AS16276 OVH SAS
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://72.14.184.125:22030#US--AS63949 Akamai Connected Cloud
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
-http://176.211.113.246:80#RU--AS12389 PJSC Rostelecom
 http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.6.26:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
 http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
 http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
 http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://182.253.109.127:8080#ID--AS17451 BIZNET NETWORKS
-http://103.6.223.2:3128#CN--AS4811 China Telecom (Group)
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://213.188.211.61:3128#SE--AS30081 CacheNetworks, Inc.
 http://44.225.65.25:80#US--AS16509 Amazon.com, Inc.
-http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
+http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://148.244.210.141:999#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.184.247:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://115.167.124.75:8080#PK--AS136030 Redtone Telecommunications Pakistan (Private) Limited
 http://205.233.79.78:999#DO--AS46198 Trilogy Dominicana, S.A.
-http://193.138.178.6:8282#RU--AS34241 New Communication Technologies LLC
-http://45.143.220.99:8118#NL--AS216014 BestDC Limited
-http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://119.13.110.147:3128#SG--AS136907 HUAWEI CLOUDS
-http://161.34.33.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://177.93.36.151:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
