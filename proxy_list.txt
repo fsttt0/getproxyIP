@@ -1,28 +1,42 @@
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://133.130.90.75:4343#JP--AS7506 GMO Internet,Inc
+http://36.66.111.81:8080#ID--AS9341 PT Indonesia Comnets Plus
+http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
+http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
+http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://160.248.184.19:3128#JP--AS2514 NTT PC Communications, Inc.
 http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
-http://45.4.252.217:999#AR--AS265661 Fernando German Fischer (FIBERNET TELECOM)
-http://172.235.16.80:8080#IN--AS63949 Akamai Connected Cloud
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://160.248.81.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
 http://182.253.109.127:8080#ID--AS17451 BIZNET NETWORKS
+http://34.94.148.191:3128#US--AS396982 Google LLC
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://190.94.212.247:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://31.148.7.130:3128#UA--AS212571 Nitrocom Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://114.141.51.51:8080#ID--AS38771 PT Cyberplus Media Pratama
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://8.222.152.158:55555#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.154.161.152:80#IT--AS396982 Google LLC
-http://149.86.146.130:8080#TR--AS208972 GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI
-http://103.158.220.2:83#IN--AS141310 Nt Cybronet Pvt Ltd
-http://154.79.250.246:32650#KE--AS36926 Airtel Networks Kenya Limited
-http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://94.131.14.66:3128#LT--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://103.246.247.149:3128#HK--AS55933 Cloudie Limited
+http://210.61.216.63:60808#TW--AS3462 Data Communication Business Group
+http://5.252.23.220:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://181.49.100.190:8080#CO--AS14080 Telmex Colombia S.A.
+http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
