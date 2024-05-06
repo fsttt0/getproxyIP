@@ -1,26 +1,31 @@
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://102.213.223.46:83#GM--AS329179 Sky Telecom Company Limited
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://45.136.197.45:25124#HK--AS9009 M247 Europe SRL
+http://160.248.187.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.167.170.210:8080#ID--AS141983 PT Rajeg Media Telekomunikasi
+http://103.234.254.6:7777#ID--AS38320 PT Maxindo Mitra Solusi
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
+http://116.80.58.70:4649#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://44.225.65.25:3128#US--AS16509 Amazon.com, Inc.
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://187.73.102.70:9292#BR--AS53048 CELANTE SERVICOS DE TELECOMUNICACOES LTDA - EPP
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
 http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://45.70.236.150:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://182.253.109.127:8080#ID--AS17451 BIZNET NETWORKS
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://5.161.215.214:4228#US--AS213230 Hetzner Online GmbH
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://119.148.54.78:1419#BD--AS23923 Agni Systems Limited
-http://140.227.142.202:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.94.212.247:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://121.146.251.236:3128#KR--AS4766 Korea Telecom
-http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://116.80.58.72:4649#JP--AS2514 NTT PC Communications, Inc.
+http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://103.4.117.153:5020#BD--AS45326 Broad Band Telecom Services Ltd
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
