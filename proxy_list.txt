@@ -1,46 +1,47 @@
-http://45.189.149.140:999#MX--AS28435 JAVIER TAMAYO GARCIA
-http://41.231.37.76:3128#TN--AS31245 ATI - Agence Tunisienne Internet
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://219.65.42.165:80#IN--AS4755 TATA Communications formerly VSNL is Leading ISP
-http://216.176.187.99:8889#US--AS52393 Corporación Dana S.A.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://87.250.5.188:8181#RU--AS3226 OOO "NI"
+http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://212.22.64.14:8080#RU--AS48108 Dmitrii Vladimirovich Malkov
+http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.186.62:3128#JP--AS2514 NTT PC Communications, Inc.
+http://177.93.40.1:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://103.87.228.187:8080#ID--AS136088 PT. Araz Inti Line
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://160.248.3.215:3128#JP--AS2514 NTT PC Communications, Inc.
 http://103.184.122.114:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
-http://95.163.230.147:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
 http://49.254.175.179:22718#KR--AS4766 Korea Telecom
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://45.188.78.57:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://44.225.65.25:80#US--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
-http://103.113.71.230:3128#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://161.123.116.54:22332#NL--AS50028 EDGOO NETWORKS UNIPESSOAL LDA
-http://191.252.196.14:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://116.197.132.201:8080#ID--AS58369 PT. Fiber Networks Indonesia
-http://185.204.0.94:8080#RU--AS204997 FIRST SERVER LIMITED
-http://36.66.111.81:8080#ID--AS9341 PT Indonesia Comnets Plus
-http://13.229.126.191:3128#SG--AS16509 Amazon.com, Inc.
-http://193.38.224.169:8081#ES--AS206276 Citelia s.a.
-http://222.127.170.189:3128#PH--AS132199 Globe Telecom Inc.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://191.242.111.195:8080#BR--AS263476 V W INTERNET
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://160.248.185.4:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.80.230.21:8080#ID--AS151582 PT Dream Network Solusindo
 http://160.248.3.27:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.188.164.47:999#MX--AS265605 VELOCOM SA DE CV
-http://45.184.128.45:8181#BR--AS269329 Lidernet Telecom
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://5.135.188.62:9999#FR--AS16276 OVH SAS
-http://175.193.58.170:3128#KR--AS4766 Korea Telecom
+http://160.248.5.55:3128#JP--AS2514 NTT PC Communications, Inc.
 http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
-http://160.248.2.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.156.235.35:999#DO--AS272882 BITNET DOMINICANA, S.R.L.
-http://45.136.197.45:25124#HK--AS9009 M247 Europe SRL
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://161.34.35.116:3128#JP--AS2514 NTT PC Communications, Inc.
