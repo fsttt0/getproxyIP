@@ -1,43 +1,35 @@
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.238.58.1:999#EC--AS266834 INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.
+http://201.170.22.174:8080#MX--AS8151 UNINET
+http://49.254.175.179:22718#KR--AS4766 Korea Telecom
+http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
+http://196.37.255.249:8080#ZA--AS3741 Dimension Data
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
+http://45.4.201.17:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://172.232.124.249:8080#IN--AS63949 Akamai Connected Cloud
+http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://209.97.170.122:3128#SG--AS14061 DigitalOcean, LLC
+http://5.252.23.249:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://62.3.30.70:8080#GE--AS209743 Enbinet Ltd.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://20.219.177.73:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://161.123.116.54:22332#NL--AS50028 EDGOO NETWORKS UNIPESSOAL LDA
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
 http://200.174.198.241:8888#BR--AS4230 CLARO S.A.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://49.254.175.179:22718#KR--AS4766 Korea Telecom
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://192.99.244.74:3128#CA--AS16276 OVH SAS
-http://13.40.144.164:1898#GB--AS16509 Amazon.com, Inc.
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://95.163.230.147:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
 http://103.107.182.16:25512#VN--AS45899 VNPT Corp
-http://172.232.124.249:8080#IN--AS63949 Akamai Connected Cloud
-http://85.26.218.76:3128#RU--AS31213 PJSC MegaFon
-http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://160.248.81.143:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.204.208.208:8080#BD--AS58682 Level3 Carrier Ltd.
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://34.154.161.152:80#IT--AS396982 Google LLC
-http://103.180.123.203:8080#ID--AS149360 PT Indo Telemedia Solusi
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://161.34.33.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.246.247.148:3128#HK--AS55933 Cloudie Limited
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://116.128.228.107:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://140.227.142.202:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
 http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://95.110.227.85:3128#IT--AS31034 Aruba S.p.A.
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://160.248.6.25:3128#JP--AS2514 NTT PC Communications, Inc.
-http://119.148.55.89:1419#BD--AS23923 Agni Systems Limited
+http://64.76.211.58:999#CO--AS3549 Level 3 Parent, LLC
+http://45.231.170.137:999#MX--AS265547 GigNet, S.A. de C.V.
