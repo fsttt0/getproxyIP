@@ -1,39 +1,21 @@
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://212.112.125.44:45555#KG--AS12764 AKNET Ltd.
-http://95.158.179.216:32799#BG--AS44247 Videosat 21 Vek OOD
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://45.161.236.99:999#PY--AS61512 GIG@NET SOCIEDAD ANONIMA
+http://5.252.23.220:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://116.80.58.70:4649#JP--AS2514 NTT PC Communications, Inc.
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://186.125.235.253:999#AR--AS7303 Telecom Argentina S.A.
+http://138.36.151.199:6969#AR--AS263729 Pedraza Luis Eduardo (DANEZ)
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://47.91.22.18:808#JP--AS45102 Alibaba (US) Technology Co., Ltd.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://190.26.255.28:999#CO--AS19429 ETB - Colombia
 http://186.5.31.251:999#EC--AS272121 MONTAÑO VELEZ MARIA TERESA (VISIONNET)
 http://160.248.6.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.222.152.158:55555#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.252.23.206:3128#SK--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://116.80.58.72:4649#JP--AS2514 NTT PC Communications, Inc.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
-http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
-http://160.248.6.107:3128#JP--AS2514 NTT PC Communications, Inc.
-http://191.240.153.165:8080#BR--AS28165 Wireless Comm Services LTDA
-http://103.155.166.34:8185#ID--AS141064 PT Network Lintas Fiberindo
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://103.59.44.75:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
-http://38.156.23.230:999#DO--AS64134 VISNETWORK SRL
-http://91.227.66.139:8080#PL--AS200750 Klikom.net Sp.z o.o.
-http://103.39.51.98:8080#ID--AS63501 PT Mega Mentari Mandiri
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
-http://45.185.163.111:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.154.118.154:17378#ID--AS38320 PT Maxindo Mitra Solusi
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://103.167.68.255:8080#ID--AS141982 PT Kataji Nukami Indonesia
-http://103.186.254.218:2016#IN--AS18229 CtrlS
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://37.152.91.219:8080#ES--AS57910 Soluciones Corporativas IP, SL
+http://193.30.13.21:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
