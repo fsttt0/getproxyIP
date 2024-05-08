@@ -1,2 +1,2 @@
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
