@@ -1,18 +1,5 @@
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
+http://154.0.132.35:3128#UG--AS37063 Roke Investments International Ltd
+http://37.228.65.107:32052#KZ--AS35104 Jusan Mobile JSC
 http://160.248.6.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://13.229.126.191:3128#SG--AS16509 Amazon.com, Inc.
-http://160.248.2.125:3128#JP--AS2514 NTT PC Communications, Inc.
-http://8.242.154.36:999#CO--AS3549 Level 3 Parent, LLC
-http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
-http://94.131.14.66:3128#LT--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://200.35.50.22:3028#CO--AS27695 EDATEL S.A. E.S.P
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://181.78.11.83:999#CO--AS52468 UFINET PANAMA S.A.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://222.119.186.81:3128#KR--AS4766 Korea Telecom
+http://152.231.87.11:999#CL--AS27651 ENTEL CHILE S.A.
