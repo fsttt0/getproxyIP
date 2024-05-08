@@ -1,4 +1,9 @@
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://47.91.22.18:808#JP--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.118.143.1:999#AR--AS52492 SITERNET SRL
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://94.131.107.45:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://181.78.11.83:999#CO--AS52468 UFINET PANAMA S.A.
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://103.107.182.16:25512#VN--AS45899 VNPT Corp
+http://38.188.249.40:8181#ID--AS139981 PT. Menaksopal Link Nusantara
