@@ -1,1 +1,5 @@
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://200.95.184.62:999#CL--AS264859 Comunicaciones Cablevision Ltda.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
