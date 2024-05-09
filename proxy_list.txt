@@ -1,1 +1,2 @@
-http://38.45.46.2:6332#DO--AS272110 FENIX NETWORKS, S.R.L.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
