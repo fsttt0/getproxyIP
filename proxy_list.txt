@@ -1,2 +1,1 @@
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
