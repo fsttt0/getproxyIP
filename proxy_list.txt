@@ -1,1 +1,41 @@
+http://103.52.17.69:1234#ID--AS133811 PT Inti Bangun Sejahtera, tbk
+http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
+http://207.244.254.27:3192#US--AS40021 Nubes, LLC
+http://119.110.71.161:63123#ID--AS38320 PT Maxindo Mitra Solusi
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://101.255.167.173:8080#ID--AS38511 PT Remala Abadi
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://148.251.16.138:80#DE--AS24940 Hetzner Online GmbH
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://157.100.7.218:999#EC--AS27947 Telconet S.A
+http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
+http://171.4.192.66:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://20.204.190.254:3129#IN--AS8075 Microsoft Corporation
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://20.75.136.244:9000#US--AS8075 Microsoft Corporation
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://103.35.189.217:3128#US--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
+http://161.123.116.54:22332#NL--AS50028 EDGOO NETWORKS UNIPESSOAL LDA
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://143.198.217.102:3128#SG--AS14061 DigitalOcean, LLC
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://140.238.245.116:8100#IN--AS31898 Oracle Corporation
+http://72.14.184.125:22030#US--AS63949 Akamai Connected Cloud
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://218.6.120.111:7777#CN--AS4134 CHINANET-BACKBONE
+http://172.232.216.110:22001#IT--AS63949 Akamai Connected Cloud
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://172.232.216.110:22027#IT--AS63949 Akamai Connected Cloud
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
