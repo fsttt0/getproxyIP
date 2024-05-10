@@ -1,2 +1,1 @@
-http://20.235.159.154:3128#IN--AS8075 Microsoft Corporation
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
