@@ -1,6 +1,20 @@
-http://34.67.64.157:3128#US--AS396982 Google LLC
+http://142.93.196.242:3128#US--AS14061 DigitalOcean, LLC
+http://103.12.21.6:3128#ID--AS131716 PT Equnix Business Solutions
+http://161.34.37.166:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.39.120.44:999#MX--AS265606 DIGY NETWORKS
+http://103.39.51.98:8080#ID--AS63501 PT Mega Mentari Mandiri
+http://93.123.16.188:3128#BG--AS9028 OHOST LLC
+http://148.244.210.142:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://161.34.36.39:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://34.170.0.159:3128#US--AS396982 Google LLC
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://72.10.160.90:2825#PE--AS6147 Telefonica del Peru S.A.A.
+http://160.248.5.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://187.250.215.99:8080#MX--AS8151 UNINET
+http://222.120.69.178:3128#KR--AS4766 Korea Telecom
+http://205.196.184.69:50704#US--AS22442 Phonoscope, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://222.243.174.132:81#CN--AS4134 CHINANET-BACKBONE
-http://205.164.84.250:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
-http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
-http://177.87.250.66:999#AR--AS270061 TWAINSAT SRL
