@@ -1,28 +1,2 @@
-http://103.163.175.28:8080#ID--AS141891 PT Lima Satu Tiga Global Tel-Access
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://103.189.96.38:8080#ID--AS45305 Lintas Data Prima, PT
-http://161.34.36.39:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.170:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.90.63:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.180.198.21:8181#ID--AS149368 PT Bentang Johar Awal
-http://161.34.37.166:3128#JP--AS2514 NTT PC Communications, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://197.232.10.202:41890#KE--AS36866 Jamii Telecommunications Limited
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://103.156.217.101:1111#ID--AS58369 PT. Fiber Networks Indonesia
-http://161.34.37.176:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://187.250.215.99:8080#MX--AS8151 UNINET
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://182.253.109.6:8080#ID--AS17451 BIZNET NETWORKS
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
