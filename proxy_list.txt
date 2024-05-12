@@ -1,1 +1,13 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://5.135.188.62:9999#FR--AS16276 OVH SAS
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://200.59.186.82:999#VE--AS264778 TotalCom Venezuela C.A.
+http://72.10.164.178:19509#CA--AS577 Bell Canada
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://161.34.37.171:3128#JP--AS2514 NTT PC Communications, Inc.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://103.234.254.6:7777#ID--AS38320 PT Maxindo Mitra Solusi
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.80.82.178:8181#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
