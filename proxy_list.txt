@@ -1,2 +1,1 @@
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://103.143.168.130:84#IN--AS139490 Aspt Networks Pvt Ltd
