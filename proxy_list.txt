@@ -1,2 +1,1 @@
-http://103.114.52.130:8080#ID--AS45305 Lintas Data Prima, PT
-http://200.59.186.82:999#VE--AS264778 TotalCom Venezuela C.A.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
