@@ -1,18 +1,11 @@
-http://43.155.135.134:8888#KR--AS132203 Tencent Building, Kejizhongyi Avenue
-http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
-http://161.34.37.167:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://161.49.218.139:10101#PH--AS17639 Converge ICT Solutions Inc.
+http://190.52.108.248:6666#VE--AS394684 GOLD DATA USA INC
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.8.68.46:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://188.247.194.210:3128#KZ--AS21299 Kar-Tel LLC
 http://23.122.184.9:8888#US--AS206092 IPXO LIMITED
-http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
-http://148.72.140.24:30138#RO--AS9009 M247 Europe SRL
-http://103.165.155.50:1111#ID--AS141921 PT Jaringan Keluarga Bersama
-http://103.183.56.3:8080#ID--AS149405 PT Multi Karya Athira
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://131.72.137.238:999#CO--AS272978 ORINOCO VENTURES GROUP SAS
-http://102.68.128.211:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://103.217.224.139:8090#ID--AS151006 PT Nesta Indo Media
-http://195.159.124.56:85#NO--AS2116 GLOBALCONNECT AS
-http://164.70.88.64:8080#JP--AS2514 NTT PC Communications, Inc.
-http://200.59.186.83:999#VE--AS264778 TotalCom Venezuela C.A.
+http://103.115.31.181:8090#ID--AS58495 PT Parsaoran Global Datatrans
+http://119.160.13.29:3128#PK--AS45669 PMCL /LDI IP TRANSIT
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
