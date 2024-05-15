@@ -1,1 +1,2 @@
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://83.97.79.72:3128#ES--AS62005 BlueVPS OU
+http://104.128.103.32:51110#US--AS19233 Dialogix Telecom
