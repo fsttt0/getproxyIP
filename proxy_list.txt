@@ -1,17 +1,1 @@
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.155.135.134:8888#KR--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.203.175.102:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://103.164.160.66:4995#BD--AS133325 Genfive Technology
-http://34.22.84.17:3128#KR--AS396982 Google LLC
-http://87.255.200.108:60080#KZ--AS200590 NLS Kazakhstan LLC
-http://103.101.193.78:1111#ID--AS150468 PT Bintang Teknologi Sejahtera
-http://41.164.6.245:80#ZA--AS36937 Liquid Telecommunications South Africa (Pty) Ltd
-http://102.213.223.46:83#GM--AS329179 Sky Telecom Company Limited
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://103.172.42.103:8080#ID--AS142393 PT Media Solusi Sukses
-http://49.254.164.119:39915#KR--AS4766 Korea Telecom
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://49.254.175.178:39915#KR--AS4766 Korea Telecom
-http://45.129.183.14:3128#DE--AS197540 netcup GmbH
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
