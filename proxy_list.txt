@@ -1,2 +1,1 @@
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
