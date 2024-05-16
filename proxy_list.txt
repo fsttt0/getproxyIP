@@ -1,1 +1,2 @@
-http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
