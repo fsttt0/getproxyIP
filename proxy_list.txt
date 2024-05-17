@@ -1,2 +1,1 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
