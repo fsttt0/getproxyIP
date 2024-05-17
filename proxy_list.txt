@@ -1,19 +1,2 @@
-http://103.250.130.220:8080#ID--AS151555 PT Jawara Lintas Data Nusantara
-http://103.172.70.153:2022#ID--AS142386 PT JARINGAN LINTAS ARTHA
-http://103.157.58.186:8080#ID--AS63859 PT. Eka Mas Republik
-http://192.203.0.190:999#PR--AS63393 BOOM NET
-http://198.71.59.125:58080#US--AS54548 IONOS Cloud Inc.
-http://94.232.11.178:46449#RU--AS12714 PJSC MegaFon
-http://43.128.178.62:8080#IN--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.36.240:3128#JP--AS2514 NTT PC Communications, Inc.
-http://95.111.239.49:3128#DE--AS51167 Contabo GmbH
-http://114.129.19.139:8080#ID--AS38758 PT. HIPERNET INDODATA
-http://85.118.117.165:8080#GE--AS34797 System Net Ltd
-http://175.100.91.212:8080#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-http://103.155.198.53:8181#ID--AS58821 PT Lintas Jaringan Nusantara
-http://103.168.44.210:3127#ID--AS142307 PT CYB Media Group
-http://94.102.228.101:32650#ME--AS47881 One Crna Gora DOO
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://134.122.26.11:80#US--AS14061 DigitalOcean, LLC
-http://49.48.47.182:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://83.12.149.202:8080#PL--AS5617 Orange Polska Spolka Akcyjna
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
