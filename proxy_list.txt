@@ -1,1 +1,59 @@
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://124.217.246.133:9989#MY--AS45839 Shinjiru Technology Sdn Bhd
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://103.124.137.150:20#ID--AS138089 PT.Global Media Data Prima
+http://77.238.235.219:8080#NL--AS216071 SERVERS TECH FZCO
+http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.204.190.254:3129#IN--AS8075 Microsoft Corporation
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://20.219.177.73:3129#IN--AS8075 Microsoft Corporation
+http://169.255.56.177:3128#GH--AS327813 VIDOLU Group Pty Ltd-Web4Africa
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://139.198.121.254:17620#CN--AS58466 CHINANET Guangdong province network
+http://200.59.186.83:999#VE--AS264778 TotalCom Venezuela C.A.
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
+http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://188.121.128.246:10186#CA--AS16276 OVH SAS
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.59.186.80:999#VE--AS264778 TotalCom Venezuela C.A.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://175.138.113.230:8080#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
+http://181.46.243.155:3128#AR--AS27747 Telecentro S.A.
+http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
+http://190.242.181.82:8080#CO--AS23520 Columbus Networks USA, Inc.
+http://103.88.239.57:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://114.69.225.6:82#IN--AS18002 AS Number for Interdomain Routing
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://202.12.80.8:83#IN--AS56224 PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED
+http://119.196.143.79:1024#KR--AS4766 Korea Telecom
+http://200.174.198.236:8888#BR--AS4230 CLARO S.A.
+http://45.129.183.14:3128#DE--AS197540 netcup GmbH
+http://119.160.13.29:3128#PK--AS45669 PMCL /LDI IP TRANSIT
+http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
+http://200.59.186.81:999#VE--AS264778 TotalCom Venezuela C.A.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://52.80.19.207:3128#HK--AS16509 Amazon.com, Inc.
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://212.88.109.89:3128#UG--AS20294 MTN Uganda
+http://175.210.146.200:8080#KR--AS4766 Korea Telecom
+http://103.8.68.48:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://35.212.237.127:3128#US--AS396982 Google LLC
+http://156.146.58.170:10006#US--AS174 Cogent Communications
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://217.65.2.14:3333#RU--AS3175 Citytelecom LLC
+http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
