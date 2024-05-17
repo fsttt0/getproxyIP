@@ -1,2 +1,1 @@
-http://83.12.149.202:8080#PL--AS5617 Orange Polska Spolka Akcyjna
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
