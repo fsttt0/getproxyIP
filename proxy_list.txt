@@ -1,2 +1,6 @@
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://103.247.23.65:2022#ID--AS58485 WIFIAN ID
 http://64.23.153.213:443#US--AS14061 DigitalOcean, LLC
+http://117.53.46.42:3128#ID--AS58397 PT Infinys System Indonesia
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
