@@ -1,16 +1,1 @@
-http://47.245.60.185:3128#JP--AS45102 Alibaba (US) Technology Co., Ltd.
-http://67.43.227.228:21365#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://191.252.178.138:3128#BR--AS27715 Locaweb Serviços de Internet S/A
-http://160.248.184.111:8888#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.91.66:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
-http://200.108.190.38:999#VE--AS269928 TELECOMUNICACIONES RHJ, C. A.
-http://5.161.62.237:3128#US--AS213230 Hetzner Online GmbH
-http://161.34.36.240:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.90.182:3128#JP--AS2514 NTT PC Communications, Inc.
-http://189.237.210.233:999#MX--AS8151 UNINET
-http://217.65.2.14:3333#RU--AS3175 Citytelecom LLC
-http://160.248.91.70:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://116.109.189.183:4003#VN--AS7552 Viettel Group
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
