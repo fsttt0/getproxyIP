@@ -1,1 +1,6 @@
-http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
+http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
+http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
+http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
