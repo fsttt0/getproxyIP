@@ -1,2 +1,1 @@
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://83.97.79.72:3128#ES--AS62005 BlueVPS OU
