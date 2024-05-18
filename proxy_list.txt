@@ -1,7 +1,1 @@
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://59.4.229.43:3128#KR--AS4766 Korea Telecom
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://148.72.140.24:30186#ZA--AS328608 Africa on Cloud
-http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
