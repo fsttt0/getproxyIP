@@ -1,3 +1,7 @@
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://136.243.82.121:1082#LT--AS61272 Informacines sistemos ir technologijos, UAB
+http://186.125.218.188:999#AR--AS7303 Telecom Argentina S.A.
+http://116.80.58.72:4649#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
