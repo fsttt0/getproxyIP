@@ -1,2 +1,1 @@
-http://136.243.82.121:1083#CH--AS212238 Datacamp Limited
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
