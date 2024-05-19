@@ -1,66 +1,15 @@
-http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.190.254:3129#IN--AS8075 Microsoft Corporation
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://136.243.82.121:1082#CH--AS212238 Datacamp Limited
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://113.179.83.118:3128#VN--AS45899 VNPT Corp
-http://172.232.114.54:8080#IN--AS63949 Akamai Connected Cloud
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://200.174.198.236:8888#BR--AS4230 CLARO S.A.
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
 http://78.135.66.137:80#TR--AS48678 PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi
 http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
-http://103.26.176.73:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
-http://201.71.3.42:999#VE--AS3549 Level 3 Parent, LLC
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://190.242.181.82:8080#CO--AS23520 Columbus Networks USA, Inc.
+http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://160.248.91.67:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.242.85.8:999#CO--AS3549 Level 3 Parent, LLC
 http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://47.184.172.63:3128#US--AS5650 Frontier Communications of America, Inc.
-http://185.202.44.96:8888#US--AS46261 QuickPacket, LLC
 http://38.51.235.211:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://45.236.107.86:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://172.232.216.110:22001#IT--AS63949 Akamai Connected Cloud
 http://190.92.209.219:3128#SG--AS136907 HUAWEI CLOUDS
-http://147.92.36.42:3129#HK--AS59371 Dimension Network & Communication Limited
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
-http://186.125.218.145:999#AR--AS7303 Telecom Argentina S.A.
-http://119.160.13.29:3128#PK--AS45669 PMCL /LDI IP TRANSIT
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://139.84.216.210:3129#IN--AS20473 The Constant Company, LLC
-http://36.67.7.74:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.127.106.245:8085#ID--AS150971 PT Media Inovasi Data Indonesia
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://139.84.210.133:3129#IN--AS20473 The Constant Company, LLC
-http://138.0.231.202:999#HN--AS263725 MULTICABLE DE HONDURAS
-http://117.252.9.178:3128#IN--AS9829 National Internet Backbone
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://159.89.227.166:3128#US--AS14061 DigitalOcean, LLC
-http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
-http://190.60.36.83:999#CO--AS52468 UFINET PANAMA S.A.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://74.82.63.18:80#US--AS6939 Hurricane Electric LLC
-http://80.66.81.61:4000#ES--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://217.65.2.14:3333#RU--AS3175 Citytelecom LLC
-http://136.243.82.121:1083#FI--AS42708 GleSYS AB
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://65.108.226.74:3128#FI--AS24940 Hetzner Online GmbH
