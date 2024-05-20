@@ -1,1 +1,7 @@
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://139.84.216.210:3129#IN--AS20473 The Constant Company, LLC
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://190.92.209.219:3128#SG--AS136907 HUAWEI CLOUDS
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://139.84.210.133:3129#IN--AS20473 The Constant Company, LLC
+http://159.89.227.166:3128#US--AS14061 DigitalOcean, LLC
+http://47.90.161.221:3128#US--AS45102 Alibaba (US) Technology Co., Ltd.
