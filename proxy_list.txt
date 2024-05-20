@@ -1,7 +1,17 @@
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://185.202.44.86:8888#US--AS46261 QuickPacket, LLC
+http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
+http://172.232.111.150:22001#IN--AS63949 Akamai Connected Cloud
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
+http://45.8.119.32:3128#KZ--AS205516 NLS ASTANA LLP
+http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://139.84.216.210:3129#IN--AS20473 The Constant Company, LLC
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
+http://185.202.44.96:8888#US--AS46261 QuickPacket, LLC
 http://190.92.209.219:3128#SG--AS136907 HUAWEI CLOUDS
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://200.39.120.123:999#MX--AS265606 DIGY NETWORKS
 http://139.84.210.133:3129#IN--AS20473 The Constant Company, LLC
-http://159.89.227.166:3128#US--AS14061 DigitalOcean, LLC
-http://47.90.161.221:3128#US--AS45102 Alibaba (US) Technology Co., Ltd.
