@@ -1,17 +1,25 @@
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://185.202.44.86:8888#US--AS46261 QuickPacket, LLC
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://172.232.111.150:22001#IN--AS63949 Akamai Connected Cloud
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
-http://45.8.119.32:3128#KZ--AS205516 NLS ASTANA LLP
-http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://139.84.216.210:3129#IN--AS20473 The Constant Company, LLC
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://185.202.44.96:8888#US--AS46261 QuickPacket, LLC
-http://190.92.209.219:3128#SG--AS136907 HUAWEI CLOUDS
+http://103.246.247.148:3128#HK--AS55933 Cloudie Limited
+http://154.73.29.1:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://185.44.26.217:43097#ES--AS50564 Electronica Martinez de Cartagena S.L.
+http://103.172.42.149:1111#ID--AS142393 PT Media Solusi Sukses
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://181.10.200.154:3128#AR--AS7303 Telecom Argentina S.A.
+http://172.247.31.126:3128#HK--AS40065 CNSERVERS LLC
+http://80.66.81.61:4000#ES--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://101.255.116.161:33333#ID--AS38511 PT Remala Abadi
+http://160.248.91.68:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://220.76.248.171:3128#KR--AS4766 Korea Telecom
+http://139.59.238.66:3128#SG--AS14061 DigitalOcean, LLC
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://157.120.61.204:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.90.161.221:3128#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.39.120.123:999#MX--AS265606 DIGY NETWORKS
-http://139.84.210.133:3129#IN--AS20473 The Constant Company, LLC
+http://103.41.250.97:8080#ID--AS58369 PT. Fiber Networks Indonesia
+http://117.252.9.178:3128#IN--AS9829 National Internet Backbone
+http://177.222.25.9:8080#BR--AS28165 Wireless Comm Services LTDA
+http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://200.35.50.22:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
