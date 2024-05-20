@@ -1,11 +1,2 @@
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://75.119.131.36:9393#DE--AS51167 Contabo GmbH
-http://45.65.227.161:999#AR--AS266725 SOLUTION LAN S.A
-http://103.88.238.1:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://160.248.1.71:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.180.140.209:8081#EC--AS269728 DECERET CIA. LTDA.
-http://58.80.134.185:1080#JP--AS17506 ARTERIA Networks Corporation
-http://51.161.50.166:3128#CA--AS16276 OVH SAS
-http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
-http://181.36.121.222:999#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
