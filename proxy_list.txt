@@ -1,3 +1,9 @@
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.161.50.166:3128#CA--AS16276 OVH SAS
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.180.126.42:8181#ID--AS149374 PT Alam Media Data
+http://103.148.130.50:8080#ID--AS141127 PT Anugerah Cimanuk Raya
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://160.248.4.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://191.97.3.210:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
