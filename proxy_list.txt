@@ -1,9 +1,11 @@
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://51.161.50.166:3128#CA--AS16276 OVH SAS
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.180.126.42:8181#ID--AS149374 PT Alam Media Data
-http://103.148.130.50:8080#ID--AS141127 PT Anugerah Cimanuk Raya
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://160.248.4.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://75.119.131.36:9393#DE--AS51167 Contabo GmbH
+http://45.65.227.161:999#AR--AS266725 SOLUTION LAN S.A
+http://103.88.238.1:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://160.248.1.71:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.180.140.209:8081#EC--AS269728 DECERET CIA. LTDA.
+http://58.80.134.185:1080#JP--AS17506 ARTERIA Networks Corporation
+http://51.161.50.166:3128#CA--AS16276 OVH SAS
+http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
+http://181.36.121.222:999#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
