@@ -1,9 +1,21 @@
-http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://79.124.77.148:3128#BG--AS203380 DA International Group Ltd.
+http://103.178.194.122:1111#ID--AS141921 PT Jaringan Keluarga Bersama
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://160.248.90.182:3128#JP--AS2514 NTT PC Communications, Inc.
+http://109.205.126.6:8080#LV--AS28699 Unistar
+http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
+http://61.28.230.30:3128#VN--AS38244 VNG Corporation
+http://47.245.60.185:3128#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.246.247.150:3128#HK--AS55933 Cloudie Limited
+http://200.174.198.236:8888#BR--AS4230 CLARO S.A.
+http://37.195.166.140:80#RU--AS31200 Novotelecom Ltd
+http://43.133.35.113:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.0.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.128.178.62:8080#IN--AS132203 Tencent Building, Kejizhongyi Avenue
+http://94.154.152.68:8079#AL--AS209839 Luva Group Sh.p.k.
+http://121.101.133.81:1111#ID--AS131706 PT SELARAS CITRA TERABIT
 http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://115.97.103.72:3128#IN--AS17488 Hathway IP Over Cable Internet
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://146.190.57.198:8081#KR--AS4766 Korea Telecom
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://154.73.28.49:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://43.134.165.213:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
