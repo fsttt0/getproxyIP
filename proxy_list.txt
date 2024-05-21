@@ -1,7 +1,3 @@
-http://157.120.61.204:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://43.153.108.224:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.180.198.21:8181#ID--AS149368 PT Bentang Johar Awal
+http://157.120.60.149:3128#JP--AS2514 NTT PC Communications, Inc.
