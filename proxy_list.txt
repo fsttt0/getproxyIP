@@ -1,2 +1,9 @@
-http://200.41.170.211:11201#AR--AS10834 Telefonica de Argentina
+http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://115.97.103.72:3128#IN--AS17488 Hathway IP Over Cable Internet
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://146.190.57.198:8081#KR--AS4766 Korea Telecom
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
