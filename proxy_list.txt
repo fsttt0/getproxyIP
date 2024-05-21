@@ -1,1 +1,5 @@
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://148.135.73.147:8888#US--AS35916 MULTACOM CORPORATION
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
