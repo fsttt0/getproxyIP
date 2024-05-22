@@ -1,2 +1,1 @@
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
