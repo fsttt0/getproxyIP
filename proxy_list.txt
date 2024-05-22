@@ -1,13 +1,1 @@
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://49.12.150.91:8080#DE--AS24940 Hetzner Online GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://188.235.146.220:40754#RU--AS50543 JSC "ER-Telecom Holding"
-http://103.10.61.186:8080#ID--AS142342 PT Media Akses Data
-http://203.81.87.186:10443#MM--AS9988 Myanma Posts and Telecommunications
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.153.214.81:9999#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://203.111.253.54:8080#ID--AS151993 PT Wifian Global Nusantara
-http://188.132.222.46:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://119.15.88.107:8083#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-http://43.128.108.216:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://117.53.46.42:3128#ID--AS58397 PT Infinys System Indonesia
