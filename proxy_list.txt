@@ -1,3 +1,10 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://182.191.123.24:8080#PK--AS17557 Pakistan Telecommunication Company Limited
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://149.78.186.161:8888#BR--AS268581 QNAX LTDA
+http://54.38.138.114:3128#PL--AS16276 OVH SAS
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://80.66.89.10:4006#PL--AS9009 M247 Europe SRL
+http://37.32.11.117:3128#DE--AS174 Cogent Communications
+http://203.190.44.81:1111#ID--AS45317 Jaringan Lintas Utara, PT
+http://103.189.250.65:8080#ID--AS150247 PT Pandawa Lima Java Network
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
