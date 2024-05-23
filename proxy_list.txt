@@ -1,5 +1,2 @@
-http://189.237.210.233:999#MX--AS8151 UNINET
-http://103.180.198.21:8181#ID--AS149368 PT Bentang Johar Awal
-http://190.94.212.222:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://161.34.0.163:8888#JP--AS2514 NTT PC Communications, Inc.
-http://45.189.118.92:999#PE--AS269857 FIBER DIGITAL S.R.L
+http://109.123.230.171:3128#JP--AS141995 Contabo Asia Private Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
