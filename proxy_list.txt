@@ -1,7 +1,5 @@
-http://103.48.68.67:83#IN--AS136290 Country Online Services PVT LTD
-http://103.246.247.150:3128#HK--AS55933 Cloudie Limited
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://181.94.244.22:8080#PY--AS27895 Núcleo S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://64.23.157.168:8081#US--AS14618 Amazon.com, Inc.
-http://114.223.11.12:8118#CN--AS4134 CHINANET-BACKBONE
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://146.190.57.198:8081#KR--AS4766 Korea Telecom
+http://45.174.77.20:999#MX--AS28431 RAUL DUARTE URITA
+http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
