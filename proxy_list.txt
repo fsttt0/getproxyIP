@@ -1,8 +1,11 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://49.12.150.91:8080#DE--AS24940 Hetzner Online GmbH
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://184.104.213.156:8888#SG--AS6939 Hurricane Electric LLC
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://45.80.207.212:8080#RU--AS50340 OOO "Network of data-centers "Selectel"
+http://72.10.164.178:9649#AU--AS4804 Microplex PTY LTD
+http://67.43.236.20:3167#PK--AS138655 Trans World Enterprise Services (Private) Limited
+http://185.198.3.1:11223#PL--AS206052 Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS
+http://125.26.99.41:8080#TH--AS23969 TOT Public Company Limited
+http://103.169.254.37:8080#ID--AS142370 PT Master Star Network
+http://146.190.57.198:8081#TW--AS3462 Data Communication Business Group
+http://103.246.247.148:3128#HK--AS55933 Cloudie Limited
+http://64.23.157.168:8081#US--AS46844 Sharktech
 http://132.148.74.201:8080#US--AS398101 GoDaddy.com, LLC
-http://103.178.42.3:8181#ID--AS149316 PT Jaring Solusi Persada
+http://216.9.224.141:80#TR--AS208287 DC Host INC
+http://103.234.27.78:9990#BD--AS38200 BTS Communications (BD) ltd,
