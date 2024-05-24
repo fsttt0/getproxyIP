@@ -1,2 +1,2 @@
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://124.83.51.94:8082#PH--AS9299 Philippine Long Distance Telephone Company
