@@ -1,5 +1,11 @@
-http://189.201.191.75:999#MX--AS265606 DIGY NETWORKS
-http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
-http://181.28.111.161:8080#AR--AS7303 Telecom Argentina S.A.
-http://180.190.200.210:8085#PH--AS132199 Globe Telecom Inc.
-http://146.190.57.198:8081#US--AS62904 Eonix Corporation
+http://190.94.212.244:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://200.39.154.1:999#PE--AS270010 AIRWIZ PERU E.I.R.L
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://8.242.85.8:999#CO--AS3549 Level 3 Parent, LLC
+http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
+http://185.65.247.133:48049#UA--AS200000 Hosting Ukraine LTD
+http://96.80.235.1:8080#US--AS7922 Comcast Cable Communications, LLC
+http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
+http://38.51.243.201:999#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://49.48.88.45:8080#TH--AS45758 Triple T Broadband Public Company Limited
