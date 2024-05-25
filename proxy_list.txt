@@ -1,3 +1,1 @@
-http://184.104.213.156:8888#SG--AS6939 Hurricane Electric LLC
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://125.26.99.41:8080#TH--AS23969 TOT Public Company Limited
