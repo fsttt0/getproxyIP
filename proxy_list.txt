@@ -1,3 +1,2 @@
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://186.7.92.60:999#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
 http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://103.165.64.74:83#IN--AS135686 Navyug Networks Info Private Limited
