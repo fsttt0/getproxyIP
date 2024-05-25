@@ -1,12 +1,18 @@
+http://190.95.195.105:999#EC--AS27947 Telconet S.A
+http://189.51.123.7:80#BR--AS263349 Rapeedo Ltda
+http://181.78.77.229:8080#CO--AS52468 UFINET PANAMA S.A.
+http://81.163.56.104:23500#RU--AS57227 Subnet LLC
+http://220.76.248.171:3128#KR--AS4766 Korea Telecom
+http://103.156.17.63:8080#ID--AS141077 RSTNET
+http://154.73.29.1:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://185.185.168.112:8080#FI--AS204779 Local Loop Oy
+http://103.176.96.140:8082#ID--AS147131 PT Global Sarana Elektronika
+http://160.248.184.111:8888#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
-http://119.2.43.143:8080#ID--AS38524 Laxo Global Akses, PT
+http://138.84.40.117:999#CO--AS14593 Space Exploration Technologies Corporation
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://103.203.174.182:84#IN--AS139490 Aspt Networks Pvt Ltd
-http://181.209.82.154:23500#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://80.80.163.190:46276#AL--AS21246 IPKO Telecommunications LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://150.136.4.250:3128#US--AS31898 Oracle Corporation
-http://209.15.113.250:80#TH--AS135566 Thailand Government Data Center and Cloud service (TGDCC)
+http://64.23.147.246:8081#FR--AS31898 Oracle Corporation
