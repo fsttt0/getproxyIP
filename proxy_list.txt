@@ -1,2 +1,1 @@
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
-http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://49.12.150.91:8080#DE--AS24940 Hetzner Online GmbH
