@@ -1,5 +1,15 @@
-http://67.43.236.18:4443#MM--AS136255 Telecom International Myanmar Co., Ltd
-http://188.163.170.130:41209#UA--AS15895 "Kyivstar" PJSC
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
+http://20.219.180.149:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
+http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://36.64.52.226:8081#ID--AS7713 PT Telekomunikasi Indonesia
-http://117.102.86.146:8080#ID--AS38482 Biznet ISP
-http://103.231.236.14:8080#ID--AS150964 PT Level Indodata Teknologi
+http://190.109.168.196:8080#CO--AS27695 EDATEL S.A. E.S.P
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://85.94.24.29:1488#RU--AS25515 PJSC Rostelecom
