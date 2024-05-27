@@ -1,57 +1,13 @@
-http://80.66.81.61:4000#NL--AS208258 Access2.IT Group B.V.
+http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://144.76.225.182:3128#DE--AS24940 Hetzner Online GmbH
-http://20.37.207.8:8080#AU--AS8075 Microsoft Corporation
 http://158.69.185.37:3129#CA--AS16276 OVH SAS
-http://209.15.113.250:80#TH--AS135566 Thailand Government Data Center and Cloud service (TGDCC)
-http://20.235.47.207:3128#IN--AS8075 Microsoft Corporation
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://135.181.102.118:7117#FI--AS24940 Hetzner Online GmbH
 http://14.140.167.189:10176#IN--AS4755 TATA Communications formerly VSNL is Leading ISP
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://116.203.207.197:8080#DE--AS24940 Hetzner Online GmbH
 http://144.76.64.184:3128#DE--AS24940 Hetzner Online GmbH
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.214.158.184:18123#DE--AS6724 Strato AG
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://49.12.150.91:8080#DE--AS24940 Hetzner Online GmbH
-http://94.182.146.250:8080#US--AS14061 DigitalOcean, LLC
 http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://181.205.251.115:999#CO--AS27831 Colombia Móvil
-http://67.43.227.227:28127#PE--AS270068 DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://200.95.184.58:999#CL--AS264859 Comunicaciones Cablevision Ltda.
-http://103.126.86.200:3127#ID--AS138109 PT. Rasi Bintang Perkasa
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://116.73.243.169:9889#IN--AS17488 Hathway IP Over Cable Internet
-http://103.126.86.200:3127#ID--AS138109 PT. Rasi Bintang Perkasa
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.151.246.10:7777#ID--AS63859 PT. Eka Mas Republik
-http://200.125.168.56:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
-http://18.189.21.249:3128#US--AS16509 Amazon.com, Inc.
-http://124.217.235.96:3128#MY--AS45839 Shinjiru Technology Sdn Bhd
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://80.66.81.39:4000#NL--AS208258 Access2.IT Group B.V.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://147.92.36.42:3129#HK--AS59371 Dimension Network & Communication Limited
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://161.34.37.140:3128#JP--AS2514 NTT PC Communications, Inc.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://103.224.124.75:8080#ID--AS150197 PT Curug Lintas Indonesia
-http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
-http://216.39.249.210:3128#US--AS63023 GTHost
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.219.183.188:3129#IN--AS8075 Microsoft Corporation
-http://45.4.201.99:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://159.89.227.166:3128#US--AS14061 DigitalOcean, LLC
+http://103.54.36.90:8674#BD--AS58715 EARTH TELECOMMUNICATION (Pvt) LTD.
