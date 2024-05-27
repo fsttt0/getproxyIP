@@ -1,1 +1,4 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://146.190.57.198:8081#US--AS21928 T-Mobile USA, Inc.
