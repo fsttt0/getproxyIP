@@ -1,2 +1,1 @@
-http://20.170.91.53:443#DE--AS8075 Microsoft Corporation
-http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
+http://150.95.26.146:7080#TH--AS135161 GMO-Z com NetDesign Holdings Co., Ltd.
