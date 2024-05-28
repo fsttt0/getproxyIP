@@ -1,2 +1,2 @@
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://195.68.158.11:3129#RU--AS3216 PJSC "Vimpelcom"
+http://20.122.126.40:7979#US--AS8075 Microsoft Corporation
