@@ -1,17 +1,2 @@
-http://160.248.8.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
-http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://195.68.158.11:3129#RU--AS3216 PJSC "Vimpelcom"
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://160.248.1.119:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
-http://176.88.166.218:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://80.78.22.36:3128#SE--AS39287 ab stract
-http://161.34.0.163:8888#JP--AS2514 NTT PC Communications, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://20.170.91.53:443#DE--AS8075 Microsoft Corporation
+http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
