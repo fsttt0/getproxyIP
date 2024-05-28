@@ -1,2 +1,1 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://160.248.7.129:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.150.128.51:8080#TH--AS4618 Internet Thailand Company Limited
