@@ -1,1 +1,2 @@
-http://150.95.26.146:7080#TH--AS135161 GMO-Z com NetDesign Holdings Co., Ltd.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://160.248.7.129:3128#JP--AS2514 NTT PC Communications, Inc.
