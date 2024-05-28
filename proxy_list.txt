@@ -1,1 +1,6 @@
-http://112.163.201.32:3129#KR--AS4766 Korea Telecom
+http://182.253.109.101:8080#ID--AS17451 BIZNET NETWORKS
+http://94.75.76.10:8080#PL--AS6830 Liberty Global B.V.
+http://184.104.213.156:8888#SG--AS6939 Hurricane Electric LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
