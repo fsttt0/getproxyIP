@@ -1,2 +1,40 @@
-http://195.68.158.11:3129#RU--AS3216 PJSC "Vimpelcom"
-http://20.122.126.40:7979#US--AS8075 Microsoft Corporation
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://20.204.190.254:3129#IN--AS8075 Microsoft Corporation
+http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
+http://50.31.187.20:3128#TR--AS206505 MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.219.178.121:3129#IN--AS8075 Microsoft Corporation
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://104.167.6.218:80#US--AS13886 Cloud South
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://74.82.63.18:80#US--AS6939 Hurricane Electric LLC
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://20.37.207.8:8080#AU--AS8075 Microsoft Corporation
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.235.47.207:3128#IN--AS8075 Microsoft Corporation
+http://64.23.147.246:8081#US--AS36352 HostPapa
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.219.177.73:3129#IN--AS8075 Microsoft Corporation
+http://123.200.18.155:80#BD--AS23688 Link3 Technologies Ltd.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://20.219.177.85:3129#IN--AS8075 Microsoft Corporation
+http://103.8.68.48:3128#CN--AS146817 Hubei Feixun Network Co., Ltd
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://41.231.37.76:3128#TN--AS31245 ATI - Agence Tunisienne Internet
+http://43.207.201.40:3128#JP--AS16509 Amazon.com, Inc.
+http://103.184.122.89:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://161.34.68.229:8888#JP--AS2514 NTT PC Communications, Inc.
