@@ -1,2 +1,2 @@
+http://101.33.252.195:8081#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
