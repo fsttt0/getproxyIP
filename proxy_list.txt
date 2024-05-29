@@ -1,8 +1,21 @@
-http://160.248.91.68:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.16.153.137:3128#JP--AS9370 SAKURA Internet Inc.
+http://103.107.182.16:25512#VN--AS45899 VNPT Corp
+http://206.189.108.248:8081#SG--AS16276 OVH SAS
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://101.255.118.10:3127#ID--AS38511 PT Remala Abadi
+http://178.207.11.148:3129#RU--AS28840 PJSC "TATTELECOM"
+http://103.84.177.35:8083#PH--AS136244 Panay Broadband / Buenavista Cable TV Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://103.166.10.138:8181#ID--AS139967 PT. Yasmin Amanah Media
+http://38.45.46.2:6332#DO--AS272110 FENIX NETWORKS, S.R.L.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://45.189.118.232:999#PE--AS273133 CONEX TV E.I.R.L.
+http://161.34.38.194:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.156.16.227:8080#ID--AS141077 RSTNET
+http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://161.34.38.193:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.243.161.210:999#CO--AS3356 Level 3 Parent, LLC
 http://117.50.55.159:3128#CN--AS4808 China Unicom Beijing Province Network
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://103.127.220.98:8090#ID--AS150259 PT Multi Guna Sinergi
-http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
+http://112.26.181.61:8118#CN--AS9808 China Mobile Communications Group Co., Ltd.
+http://207.244.254.27:3192#US--AS40021 Nubes, LLC
