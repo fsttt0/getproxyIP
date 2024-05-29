@@ -1,30 +1,5 @@
-http://20.37.207.8:8080#AU--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://101.47.4.29:6066#SG--AS150436 Byteplus Pte. Ltd.
-http://160.16.153.137:3128#JP--AS9370 SAKURA Internet Inc.
-http://38.188.249.32:8080#ID--AS139981 PT. Menaksopal Link Nusantara
-http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
-http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://160.248.8.210:3128#JP--AS2514 NTT PC Communications, Inc.
-http://119.196.143.79:1024#KR--AS4766 Korea Telecom
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
-http://23.122.184.9:8888#US--AS206092 IPXO LIMITED
-http://38.51.235.212:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://94.198.220.17:8443#KZ--AS9123 TimeWeb Ltd.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://31.186.241.8:8888#NL--AS30282 Unitas Global
-http://159.89.227.166:3128#US--AS14061 DigitalOcean, LLC
+http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://119.196.143.79:1024#KR--AS4766 Korea Telecom
