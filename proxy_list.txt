@@ -1,4 +1,20 @@
+http://43.250.173.38:38080#HK--AS21859 Zenlayer Inc
+http://4.240.97.249:3128#IN--AS8075 Microsoft Corporation
+http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://45.146.161.90:3128#TR--AS206505 MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI
+http://103.169.148.2:1111#ID--AS142339 PT Kangen Network Solusindo
+http://23.122.184.9:8888#US--AS206092 IPXO LIMITED
+http://117.242.189.115:3128#IN--AS9829 National Internet Backbone
+http://181.204.84.125:999#CO--AS27831 Colombia Móvil
+http://38.188.249.5:8080#ID--AS139981 PT. Menaksopal Link Nusantara
+http://103.156.217.101:1111#ID--AS58369 PT. Fiber Networks Indonesia
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://45.22.209.157:8888#US--AS206092 IPXO LIMITED
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://190.120.249.60:999#VE--AS264628 CORPORACION FIBEX TELECOM, C.A.
+http://136.62.144.33:80#US--AS16591 Google Fiber Inc.
+http://147.92.36.42:3129#HK--AS59371 Dimension Network & Communication Limited
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
