@@ -1,7 +1,26 @@
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
-http://103.54.36.90:8674#BD--AS58715 EARTH TELECOMMUNICATION (Pvt) LTD.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://125.26.183.75:8080#TH--AS23969 TOT Public Company Limited
+http://13.212.23.235:3128#SG--AS16509 Amazon.com, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://20.219.177.38:3129#IN--AS8075 Microsoft Corporation
+http://38.51.235.217:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://20.219.180.105:3129#IN--AS8075 Microsoft Corporation
+http://20.219.235.172:3129#IN--AS8075 Microsoft Corporation
+http://31.186.241.8:8888#NL--AS30282 Unitas Global
+http://20.219.182.59:3129#IN--AS8075 Microsoft Corporation
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://222.243.174.132:81#CN--AS4134 CHINANET-BACKBONE
+http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://103.184.122.89:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
+http://77.238.235.219:8080#NL--AS216071 SERVERS TECH FZCO
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://190.92.209.219:3128#SG--AS136907 HUAWEI CLOUDS
+http://84.254.0.86:32650#GR--AS25472 Nova Telecommunications & Media Single Member S.A
+http://41.86.252.90:443#BJ--AS37090 ISOCEL SA
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
