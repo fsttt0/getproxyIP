@@ -1,11 +1,20 @@
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://187.204.18.213:8081#MX--AS8151 UNINET
+http://180.191.255.147:8081#PH--AS132199 Globe Telecom Inc.
+http://182.160.103.220:8090#BD--AS24323 aamra networks limited,
+http://103.172.120.96:8080#ID--AS142398 PT Digital Akses Nusantara
+http://102.68.128.211:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://181.205.251.115:999#CO--AS27831 Colombia Móvil
+http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://3.131.36.165:3128#US--AS16509 Amazon.com, Inc.
-http://188.132.222.168:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.165.157.234:8090#ID--AS136873 MEGADATA-ISP
+http://103.155.62.163:8080#PK--AS136969 KK Networks (Pvt) Ltd.
+http://103.166.10.138:8181#ID--AS139967 PT. Yasmin Amanah Media
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://186.215.68.51:3127#BR--AS18881 TELEFÔNICA BRASIL S.A
 http://182.253.109.17:8080#ID--AS17451 BIZNET NETWORKS
-http://113.21.238.40:8800#CN--AS45110 Beijing Tian Wei Xin Tong technology corp. limited.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
