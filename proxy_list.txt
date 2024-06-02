@@ -1,9 +1,1 @@
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://58.80.134.185:1080#JP--AS17506 ARTERIA Networks Corporation
-http://161.34.37.140:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://220.77.233.228:3128#KR--AS4766 Korea Telecom
+http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
