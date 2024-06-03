@@ -1,18 +1,25 @@
-http://181.78.95.49:999#PY--AS52468 UFINET PANAMA S.A.
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://103.153.35.87:3127#ID--AS140452 PT Jaya Media Expres
+http://45.70.238.182:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.156.248.50:8181#ID--AS58821 PT Lintas Jaringan Nusantara
+http://161.34.68.229:8888#JP--AS2514 NTT PC Communications, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.92.121:3128#JP--AS2514 NTT PC Communications, Inc.
 http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://188.68.176.2:8080#RU--AS197078 Yarnet Ltd
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.248.9.71:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
+http://139.178.81.71:3128#US--AS54825 Packet Host, Inc.
 http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://38.51.235.217:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://23.131.184.76:3128#US--AS30399 Host-Engine.com
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://38.51.235.219:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://85.209.154.148:33333#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://95.214.123.199:8080#HU--AS209001 DELTAKON KFT.
+http://80.66.81.46:4001#NL--AS208258 Access2.IT Group B.V.
+http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
 http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
