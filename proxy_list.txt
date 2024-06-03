@@ -1,1 +1,18 @@
+http://181.78.95.49:999#PY--AS52468 UFINET PANAMA S.A.
+http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://188.68.176.2:8080#RU--AS197078 Yarnet Ltd
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.248.9.71:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://38.51.235.219:999#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://85.209.154.148:33333#DE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
