@@ -1,1 +1,2 @@
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://125.25.82.190:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
