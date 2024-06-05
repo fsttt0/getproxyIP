@@ -1,23 +1,32 @@
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
-http://103.164.223.54:8080#ID--AS17995 PT iForte Global Internet
-http://160.248.184.217:8888#JP--AS2514 NTT PC Communications, Inc.
 http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://43.130.146.142:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://20.37.207.8:8080#AU--AS8075 Microsoft Corporation
-http://13.235.208.36:3128#IN--AS16509 Amazon.com, Inc.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.235.47.207:3128#IN--AS8075 Microsoft Corporation
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://77.238.235.219:8080#NL--AS216071 SERVERS TECH FZCO
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.172.42.93:1111#ID--AS142393 PT Media Solusi Sukses
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://191.243.46.166:43241#BR--AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://13.235.208.36:3128#IN--AS16509 Amazon.com, Inc.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://41.75.123.117:32650#MW--AS37187 Inq. Digital Limited
+http://200.13.47.165:8080#AR--AS52296 Trynet S.R.L.
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
