@@ -1,3 +1,13 @@
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://77.238.235.219:8080#NL--AS216071 SERVERS TECH FZCO
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://172.96.117.205:38001#US--AS21859 Zenlayer Inc
+http://103.221.254.102:48146#BD--AS135524 university of dhaka
+http://20.37.207.8:8080#AU--AS8075 Microsoft Corporation
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
