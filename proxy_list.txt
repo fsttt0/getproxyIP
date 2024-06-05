@@ -1,2 +1,1 @@
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://103.156.15.212:8080#ID--AS58821 PT Lintas Jaringan Nusantara
