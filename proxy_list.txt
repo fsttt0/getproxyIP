@@ -1,11 +1,21 @@
-http://8.219.169.55:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://207.248.108.129:20185#MX--AS263127 Redes y Comunicaciones de Michoacan S.A. de C.V.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://219.135.230.77:8081#CN--AS4134 CHINANET-BACKBONE
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://170.239.205.114:999#CO--AS265629 FIBERNET
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
 http://170.239.205.113:999#CO--AS265629 FIBERNET
+http://43.243.140.58:10001#ID--AS131111 PT Mora Telematika Indonesia
+http://170.239.205.114:999#CO--AS265629 FIBERNET
+http://112.78.131.6:8080#ID--AS17451 BIZNET NETWORKS
+http://149.81.6.202:8080#DE--AS36351 SoftLayer Technologies Inc.
+http://45.173.7.10:999#CO--AS14593 Space Exploration Technologies Corporation
+http://36.50.58.20:9000#PH--AS152107 Fiberbro Internet Communication Services Corp.
+http://45.70.201.253:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.219.169.55:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://181.115.67.3:999#HN--AS52468 UFINET PANAMA S.A.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
