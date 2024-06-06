@@ -1,12 +1,1 @@
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
-http://191.102.254.53:8085#AR--AS262934 IP·RED
-http://103.165.138.236:8080#ID--AS17995 PT iForte Global Internet
-http://160.248.189.219:3128#JP--AS2514 NTT PC Communications, Inc.
-http://177.222.25.9:8080#BR--AS28165 Wireless Comm Services LTDA
-http://159.192.102.249:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
-http://38.56.70.75:999#DO--AS271965 ORBITEK SRL
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
