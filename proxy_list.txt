@@ -1,41 +1,39 @@
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://49.254.107.191:22685#KR--AS4766 Korea Telecom
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://203.74.125.18:8888#TW--AS3462 Data Communication Business Group
 http://209.15.117.148:80#TH--AS135566 Thailand Government Data Center and Cloud service (TGDCC)
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://189.22.142.29:8091#BR--AS4230 CLARO S.A.
 http://148.72.165.71:30127#HU--AS9009 M247 Europe SRL
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://149.81.6.202:8080#DE--AS36351 SoftLayer Technologies Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
+http://91.214.78.176:8000#NL--AS215826 Partner Hosting LTD
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://190.95.202.210:999#EC--AS27947 Telconet S.A
 http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
 http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://161.34.38.93:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
 http://181.188.239.229:999#EC--AS19114 Otecel S.A.
-http://194.163.179.146:8090#EG--AS24835 Vodafone Data
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
-http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.38.94:3128#JP--AS2514 NTT PC Communications, Inc.
-http://165.255.244.220:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://80.78.22.36:3128#SE--AS39287 ab stract
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://85.132.37.9:1313#AZ--AS29049 Delta Telecom Ltd
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://175.100.91.80:8080#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+http://170.239.205.114:999#CO--AS265629 FIBERNET
+http://157.230.178.216:3128#US--AS14061 DigitalOcean, LLC
+http://200.59.10.50:999#AR--AS12150 COTELCAM
+http://114.79.146.166:8080#IN--AS45769 D-Vois Broadband Pvt Ltd
 http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://8.219.169.55:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
-http://46.166.165.33:4000#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://142.190.149.206:8080#US--AS13760 Uniti Fiber Holdings Inc.
-http://103.164.160.22:8080#BD--AS133325 Genfive Technology
-http://187.86.133.125:3128#BR--AS270462 CHUINET Provedor
 http://65.21.141.136:17143#LU--AS206804 EstNOC OY
-http://190.12.21.146:3030#EC--AS22724 PUNTONET S.A.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://41.203.213.211:8080#KE--AS37061 Safaricom Limited
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
