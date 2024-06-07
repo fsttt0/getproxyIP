@@ -1,5 +1,4 @@
-http://190.14.239.58:999#CO--AS27951 Media Commerce Partners S.A
-http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://209.145.61.97:1010#US--AS40021 Nubes, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://36.95.3.243:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://45.188.164.3:999#MX--AS265605 VELOCOM SA DE CV
