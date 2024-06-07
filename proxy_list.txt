@@ -1,21 +1,28 @@
-http://103.237.78.102:4995#BD--AS132622 Combined Soft BD
-http://193.138.178.6:8282#RU--AS34241 New Communication Technologies LLC
+http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://185.255.46.121:8080#IQ--AS205254 Valin Company for General Trading and Communication LTD
+http://142.190.149.206:8080#US--AS13760 Uniti Fiber Holdings Inc.
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://38.65.172.10:999#MX--AS270172 Guillermo Robles Ramirez
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://38.64.60.254:999#US--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://204.199.125.94:999#CO--AS3549 Level 3 Parent, LLC
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://181.129.74.58:40667#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
 http://154.26.129.27:3128#SG--AS141995 Contabo Asia Private Limited
-http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
+http://138.0.231.202:999#HN--AS263725 MULTICABLE DE HONDURAS
+http://190.94.212.36:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://178.212.51.159:41258#PL--AS197025 Lubuskie Sieci Swiatlowodowe Sp. z o. o.
-http://190.94.212.199:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://157.100.60.170:999#EC--AS52468 UFINET PANAMA S.A.
+http://91.187.113.68:8080#AL--AS21246 IPKO Telecommunications LLC
 http://65.21.141.136:17143#MX--AS396356 Latitude.sh
-http://38.45.44.109:999#DO--AS271806 MR Networking, SRL
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
-http://123.200.7.110:8080#BD--AS24323 aamra networks limited,
-http://201.71.3.58:999#VE--AS3549 Level 3 Parent, LLC
-http://134.214.147.115:80#FR--AS2060 Renater
+http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.234.26.108:9990#BD--AS38200 BTS Communications (BD) ltd,
+http://115.127.114.209:5020#BD--AS24342 BRACNet Limited
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://38.7.106.253:999#DO--AS272962 KW SERVICES RD, S.R.L.
 http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://66.54.106.56:8104#US--AS7029 Windstream Communications LLC
