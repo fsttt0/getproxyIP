@@ -1,6 +1,11 @@
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://91.192.33.52:43801#CZ--AS47232 ISP Alliance a.s.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://114.6.27.84:8520#ID--AS4761 INDOSAT Internet Network Provider
+http://65.21.141.136:17143#PL--AS206092 Internet Utilities Europe and Asia Limited
 http://209.145.61.97:1010#US--AS40021 Nubes, LLC
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://103.130.212.53:3128#VN--AS135953 Vietnam Online Network Solution Joint Stock Compnay
+http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://181.205.251.115:999#CO--AS27831 Colombia Móvil
+http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
