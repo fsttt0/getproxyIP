@@ -1,7 +1,4 @@
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://67.43.228.250:29283#IN--AS45117 Ishan's Network
-http://72.10.160.170:6431#CA--AS577 Bell Canada
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://80.78.22.36:3128#SE--AS39287 ab stract
+http://177.37.217.45:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
