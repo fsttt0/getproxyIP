@@ -1,4 +1,4 @@
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.153.52.223:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://103.159.194.241:8080#ID--AS141145 PT Giga Digital Nusantara
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
+http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
