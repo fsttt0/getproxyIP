@@ -1,64 +1,59 @@
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://103.184.122.89:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://149.81.6.202:8080#DE--AS36351 SoftLayer Technologies Inc.
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://171.102.10.74:8080#TH--AS38082 True International Gateway Co., Ltd.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://118.70.184.10:31300#VN--AS18403 FPT Telecom Company
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://83.242.120.190:7070#PL--AS198579 KOMPUTERSAT SP. Z O.O.
+http://82.209.210.19:3128#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
+http://45.173.231.229:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://157.10.156.100:1080#ID--AS152089 PT Singki Media Telekomunikasi
+http://181.39.24.147:999#EC--AS27947 Telconet S.A
+http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
+http://154.52.101.103:9090#TR--AS208594 Netbone Telekomunikasyon A.S.
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://201.246.207.109:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
+http://179.24.93.12:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
 http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://177.93.45.225:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://35.226.208.110:8888#US--AS396982 Google LLC
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://181.188.239.226:999#EC--AS19114 Otecel S.A.
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://221.152.19.11:3128#KR--AS4766 Korea Telecom
+http://204.199.81.90:999#CO--AS3356 Level 3 Parent, LLC
+http://201.222.83.146:999#BO--AS25620 COTAS LTDA.
 http://103.164.223.54:8080#ID--AS17995 PT iForte Global Internet
 http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://138.0.231.202:999#HN--AS263725 MULTICABLE DE HONDURAS
 http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
 http://160.248.92.121:3128#JP--AS2514 NTT PC Communications, Inc.
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.123.220.16:8080#MX--AS174 Cogent Communications
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://177.234.192.187:6969#EC--AS52468 UFINET PANAMA S.A.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://160.248.92.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://187.60.167.45:8090#BR--AS28156 Linhares Serviços Online LTDA EPP
+http://160.248.9.70:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.92.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://104.238.222.54:3128#US--AS23470 ReliableSite.Net LLC
+http://181.188.239.227:999#EC--AS19114 Otecel S.A.
 http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
 http://160.248.91.68:3128#JP--AS2514 NTT PC Communications, Inc.
-http://177.37.217.45:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
-http://65.21.141.136:17143#CA--AS206092 Internet Utilities Europe and Asia Limited
-http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://138.59.227.248:999#PY--AS270052 STARTELECOM S.A.
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://65.21.141.136:17143#AL--AS197706 Keminet SHPK
+http://165.255.244.220:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
 http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://113.179.83.118:3128#VN--AS45899 VNPT Corp
-http://85.173.165.36:46330#RU--AS42548 PJSC Rostelecom
+http://45.237.184.193:999#PA--AS266828 DBS NETWORK, S.A.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
