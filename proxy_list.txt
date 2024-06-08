@@ -1,26 +1,29 @@
-http://179.24.93.12:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.21.141.136:17143#AT--AS206092 Internet Utilities Europe and Asia Limited
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://72.10.160.171:28791#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://78.170.135.164:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://36.89.209.146:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://20.33.5.27:8888#BR--AS8075 Microsoft Corporation
+http://154.73.29.129:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://148.72.165.71:10528#US--AS8100 QuadraNet Enterprises LLC
 http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://67.43.236.18:17209#IN--AS55836 Reliance Jio Infocomm Limited
-http://67.43.228.253:29383#MM--AS133384 Global Technology Co., Ltd.
-http://67.43.236.20:29119#IN--AS45609 Bharti Airtel Ltd. AS for GPRS Service
-http://67.43.236.22:23429#PK--AS17557 Pakistan Telecommunication Company Limited
-http://149.81.6.202:8080#DE--AS36351 SoftLayer Technologies Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://148.72.165.71:30127#HU--AS9009 M247 Europe SRL
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://179.24.93.12:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
+http://65.21.141.136:17143#AT--AS206092 Internet Utilities Europe and Asia Limited
+http://188.247.194.210:3128#KZ--AS21299 Kar-Tel LLC
+http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
+http://103.126.86.200:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://20.122.126.40:7979#US--AS8075 Microsoft Corporation
 http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://45.174.80.79:20183#BR--AS268887 DAVILSON DOS SANTOS CORREIA-ME
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
 http://200.118.152.126:3128#CO--AS10620 Telmex Colombia S.A.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://209.15.117.148:80#TH--AS135566 Thailand Government Data Center and Cloud service (TGDCC)
-http://38.252.209.12:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
-http://181.188.239.229:999#EC--AS19114 Otecel S.A.
-http://160.248.92.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
