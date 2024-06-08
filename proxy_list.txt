@@ -1,4 +1,4 @@
-http://80.78.22.36:3128#SE--AS39287 ab stract
-http://177.37.217.45:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
-http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.153.52.223:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://103.159.194.241:8080#ID--AS141145 PT Giga Digital Nusantara
