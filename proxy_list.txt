@@ -1,22 +1,67 @@
-http://77.91.124.174:8000#FI--AS203727 Daniil Yevchenko
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://202.154.36.155:8080#ID--AS141607 PT Gayatri Lintas Nusantara
-http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.189.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://161.34.38.244:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.248.92.129:3128#JP--AS2514 NTT PC Communications, Inc.
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://161.34.38.241:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.92.130:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.92.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://111.89.130.105:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.235.159.154:3128#IN--AS8075 Microsoft Corporation
+http://160.248.92.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://131.196.42.95:667#BR--AS52872 VOANET Telecomunicações Ltda.
+http://85.209.153.173:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.111.136.82:8080#ID--AS136093 PT Mitra Lintas Multimedia
+http://103.59.45.53:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
+http://202.154.18.145:8085#ID--AS136121 PT Digital Media Telematika
 http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://161.34.38.242:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.39.153:3128#JP--AS2514 NTT PC Communications, Inc.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://85.117.56.151:8080#GE--AS20771 Caucasus Online Ltd.
+http://160.248.92.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.154:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.9.67:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.248.9.70:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.14.225.158:3128#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+http://95.154.20.113:34248#DK--AS39642 Norlys Digital A/S
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://160.248.9.71:3128#JP--AS2514 NTT PC Communications, Inc.
+http://85.209.153.173:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://117.144.175.195:8800#CN--AS24400 Shanghai Mobile Communications Co.,Ltd.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://104.236.78.102:3128#US--AS14061 DigitalOcean, LLC
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://168.228.51.84:999#CR--AS262145 Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)
+http://103.173.138.171:8080#ID--AS147078 PT Serayu Multi Connection
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://158.69.185.37:3129#CA--AS16276 OVH SAS
+http://160.248.189.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.173.231.229:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://161.34.38.242:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.189.249.196:1111#ID--AS149888 PT Berkah Media Kusuma Vision
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://65.20.189.104:9090#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
 http://160.248.92.121:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.189.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://180.88.100.7:3128#CN--AS4808 China Unicom Beijing Province Network
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://64.23.153.213:443#US--AS14061 DigitalOcean, LLC
+http://65.21.141.136:17119#AT--AS206092 Internet Utilities Europe and Asia Limited
