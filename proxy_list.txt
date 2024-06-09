@@ -1,15 +1,24 @@
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://190.94.212.198:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://103.158.27.88:1212#ID--AS141675 PT Madina Solusi Indonesia
+http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.119.141.114:999#GT--AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://103.76.149.66:8080#ID--AS135477 PT. Java Digital Nusantara
-http://161.34.38.242:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.155.196.66:8080#ID--AS141071 PT Jembatan Data Pangrango
+http://161.34.0.163:8888#JP--AS2514 NTT PC Communications, Inc.
+http://146.190.101.222:3128#SG--AS14061 DigitalOcean, LLC
+http://194.163.179.146:8090#EG--AS24835 Vodafone Data
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://103.172.70.27:1111#ID--AS17451 BIZNET NETWORKS
+http://45.173.231.221:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://213.91.232.94:8080#BG--AS8866 Vivacom Bulgaria EAD
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://101.51.107.244:8080#TH--AS23969 TOT Public Company Limited
+http://198.160.7.15:80#US--AS11782 Perfecto Mobile Inc
 http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
