@@ -1,13 +1,16 @@
-http://103.176.96.178:1111#ID--AS147131 PT Global Sarana Elektronika
-http://103.174.238.106:7777#ID--AS141127 PT Anugerah Cimanuk Raya
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://91.236.74.5:8080#GR--AS212442 Mechmet CHATIP MEMET trading as SpeedNet
+http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
+http://194.180.176.109:3128#DE--AS51167 Contabo GmbH
+http://160.248.90.64:3128#JP--AS2514 NTT PC Communications, Inc.
+http://38.199.30.234:999#CO--AS272137 CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://45.117.29.33:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://194.233.68.9:8080#SG--AS141995 Contabo Asia Private Limited
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://75.119.129.192:3128#DE--AS51167 Contabo GmbH
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://144.91.74.64:3128#DE--AS51167 Contabo GmbH
-http://27.124.83.229:8080#ID--AS138089 PT.Global Media Data Prima
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://180.88.100.7:3128#CN--AS4808 China Unicom Beijing Province Network
