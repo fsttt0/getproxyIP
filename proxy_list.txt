@@ -1,50 +1,50 @@
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://46.101.124.11:8022#KZ--AS29555 Mobile Telecom-Service LLP
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://114.67.96.47:45064#CN--AS4811 China Telecom (Group)
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://103.184.122.89:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
-http://114.67.96.47:45064#CN--AS4811 China Telecom (Group)
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://212.52.167.199:33128#HU--AS28924 INTEGRITY Informatics Ltd.
 http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://160.248.189.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://88.255.65.113:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://50.28.7.107:80#US--AS32244 Liquid Web, L.L.C
+http://80.66.81.43:4001#NL--AS208258 Access2.IT Group B.V.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://201.251.61.143:8080#AR--AS22927 Telefonica de Argentina
-http://90.5.71.249:1977#FR--AS3215 Orange S.A.
+http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
+http://140.227.143.214:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
 http://160.248.92.121:3128#JP--AS2514 NTT PC Communications, Inc.
-http://189.22.142.29:8091#BR--AS4230 CLARO S.A.
 http://161.34.39.153:3128#JP--AS2514 NTT PC Communications, Inc.
+http://182.253.168.223:8080#ID--AS17451 BIZNET NETWORKS
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://201.246.207.109:999#CL--AS7418 TELEFÓNICA CHILE S.A.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
-http://34.29.236.147:3128#US--AS396982 Google LLC
+http://43.133.162.197:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.248.189.216:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.38.244:3128#JP--AS2514 NTT PC Communications, Inc.
-http://94.250.201.140:3128#DE--AS51167 Contabo GmbH
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://161.34.38.241:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.105:3128#JP--AS2514 NTT PC Communications, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.130.146.142:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://181.209.96.157:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://85.117.56.151:8080#GE--AS20771 Caucasus Online Ltd.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.80.237.211:3888#ID--AS64315 PT MITRA VISIONER PRATAMA
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://160.248.92.129:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.92.130:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.9.73:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.235.159.154:3128#IN--AS8075 Microsoft Corporation
+http://179.1.192.58:999#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
 http://160.248.92.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.39.154:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.9.67:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.200.37.121:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.9.69:3128#JP--AS2514 NTT PC Communications, Inc.
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://158.69.185.37:3129#CA--AS16276 OVH SAS
-http://160.248.189.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://160.248.9.71:3128#JP--AS2514 NTT PC Communications, Inc.
+http://83.242.120.190:7070#PL--AS198579 KOMPUTERSAT SP. Z O.O.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://117.144.175.195:8800#CN--AS24400 Shanghai Mobile Communications Co.,Ltd.
