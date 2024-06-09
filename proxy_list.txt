@@ -1,7 +1,8 @@
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://114.67.96.47:45064#CN--AS4811 China Telecom (Group)
-http://148.72.165.71:30127#HU--AS56322 ServerAstra Kft.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://57.181.42.83:3128#JP--AS16509 Amazon.com, Inc.
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
+http://69.160.223.225:8181#US--AS53989 Swayzee Telephone Company, Inc.
