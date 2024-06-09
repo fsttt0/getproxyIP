@@ -1,22 +1,7 @@
-http://61.97.191.101:9070#KR--AS23576 NAVER Cloud Corp.
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://201.246.207.109:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://114.67.96.47:45064#CN--AS4811 China Telecom (Group)
+http://148.72.165.71:30127#HU--AS56322 ServerAstra Kft.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://65.21.141.136:17119#MX--AS396356 Latitude.sh
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://57.181.42.83:3128#JP--AS16509 Amazon.com, Inc.
-http://185.208.102.155:8080#SY--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://213.221.46.10:3128#RU--AS3216 PJSC "Vimpelcom"
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.91.68:3128#JP--AS2514 NTT PC Communications, Inc.
-http://77.247.120.3:18080#ES--AS3352 TELEFONICA DE ESPANA S.A.U.
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.38.244:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
