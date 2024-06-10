@@ -1,26 +1,27 @@
 http://91.107.152.96:8080#DE--AS24940 Hetzner Online GmbH
 http://122.249.238.203:8080#JP--AS4713 NTT Communications Corporation
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.105.220.130:3128#US--AS939 NovoServe LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://85.111.60.196:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://65.1.191.65:8080#IN--AS16509 Amazon.com, Inc.
 http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://95.73.54.204:8080#RU--AS12389 PJSC Rostelecom
-http://20.235.159.154:3128#IN--AS8075 Microsoft Corporation
-http://188.125.169.11:8080#SY--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://119.110.69.182:63123#ID--AS38320 PT Maxindo Mitra Solusi
+http://36.91.135.141:40#ID--AS7713 PT Telekomunikasi Indonesia
+http://65.21.141.136:17032#UA--AS206092 Internet Utilities Europe and Asia Limited
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.237.185.17:999#PA--AS266828 DBS NETWORK, S.A.
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.127.136.16:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.133.162.197:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
+http://103.163.175.28:8080#ID--AS141891 PT Lima Satu Tiga Global Tel-Access
+http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
+http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
+http://160.248.9.71:3128#JP--AS2514 NTT PC Communications, Inc.
 http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://14.140.167.189:10187#IN--AS45609 Bharti Airtel Ltd. AS for GPRS Service
-http://103.172.70.138:1111#ID--AS142386 PT JARINGAN LINTAS ARTHA
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://160.248.92.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://160.248.9.74:3128#JP--AS2514 NTT PC Communications, Inc.
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://130.0.25.110:34607#AL--AS57388 I.B.C - Telecom Sh.p.k.
