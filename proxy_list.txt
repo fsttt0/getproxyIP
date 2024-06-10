@@ -1,7 +1,4 @@
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://49.254.175.183:53210#KR--AS4766 Korea Telecom
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://65.21.141.136:17032#DE--AS62240 Clouvider
+http://8.222.207.176:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://67.43.228.253:20785#CO--AS27831 Colombia Móvil
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
