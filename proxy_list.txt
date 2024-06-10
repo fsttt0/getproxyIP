@@ -1,22 +1,29 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.248.189.219:3128#JP--AS2514 NTT PC Communications, Inc.
-http://216.48.181.211:3128#IN--AS132420 282, Sector 19
-http://103.173.138.240:1111#ID--AS147078 PT Serayu Multi Connection
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://162.55.250.8:8080#JP--AS211440 Karolio IT paslaugos, UAB
-http://160.248.92.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.9.72:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://181.205.74.98:21901#CO--AS27831 Colombia Móvil
+http://179.60.235.249:8094#AR--AS263693 WICORP SA
 http://185.143.103.22:3128#CH--AS29222 Infomaniak Network SA
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
+http://144.91.74.64:3128#DE--AS51167 Contabo GmbH
+http://57.181.42.83:3128#JP--AS16509 Amazon.com, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://65.21.141.136:17081#DE--AS206092 Internet Utilities Europe and Asia Limited
+http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://183.96.12.152:3128#KR--AS4766 Korea Telecom
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://160.248.189.219:3128#JP--AS2514 NTT PC Communications, Inc.
+http://104.238.234.48:3128#US--AS397731 EliteWork LLC
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://193.123.251.151:3128#KR--AS31898 Oracle Corporation
+http://216.48.181.211:3128#IN--AS132420 282, Sector 19
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://142.171.133.74:3128#US--AS35916 MULTACOM CORPORATION
 http://89.105.220.130:3128#US--AS939 NovoServe LLC
-http://94.182.146.250:8080#US--AS63949 Akamai Connected Cloud
+http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.248.91.68:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://45.230.169.6:999#VE--AS266742 SOLUCIONES DCN NETWORK C.A
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://95.73.54.204:8080#RU--AS12389 PJSC Rostelecom
+http://101.255.169.250:8080#ID--AS38511 PT Remala Abadi
