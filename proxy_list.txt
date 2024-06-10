@@ -1,25 +1,20 @@
-http://177.19.167.242:80#BR--AS25933 Vogel Soluções em Telecom e Informática S/A
+http://207.180.234.234:3128#DE--AS51167 Contabo GmbH
+http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
+http://80.66.81.42:4006#PL--AS9009 M247 Europe SRL
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
 http://49.254.164.118:53210#KR--AS4766 Korea Telecom
-http://65.21.141.136:17017#PL--AS206092 Internet Utilities Europe and Asia Limited
-http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://49.254.164.116:53210#KR--AS4766 Korea Telecom
-http://49.254.175.180:53210#KR--AS4766 Korea Telecom
-http://194.233.68.9:8080#SG--AS141995 Contabo Asia Private Limited
+http://65.21.141.136:17017#MC--AS13213 UK-2 Limited
+http://121.1.3.178:8888#PH--AS10139 Smart Broadband, Inc.
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://103.10.231.189:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
+http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.133.14.229:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://80.78.22.36:3128#SE--AS39287 ab stract
 http://49.254.175.189:53210#KR--AS4766 Korea Telecom
-http://38.65.172.10:999#MX--AS270172 Guillermo Robles Ramirez
 http://49.254.175.185:53210#KR--AS4766 Korea Telecom
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://180.88.100.7:3128#CN--AS4808 China Unicom Beijing Province Network
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://103.148.192.82:9012#ID--AS139995 PT. Akashia Thuba Jaya
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://49.254.175.178:53210#KR--AS4766 Korea Telecom
-http://49.254.175.186:53210#KR--AS4766 Korea Telecom
-http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
 http://49.254.175.179:53210#KR--AS4766 Korea Telecom
 http://43.247.38.57:8080#ID--AS38320 PT Maxindo Mitra Solusi
-http://72.204.225.85:20805#US--AS21928 T-Mobile USA, Inc.
