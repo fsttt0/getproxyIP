@@ -1,5 +1,2 @@
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://148.72.173.18:30127#HU--AS9009 M247 Europe SRL
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
