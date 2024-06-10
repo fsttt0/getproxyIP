@@ -1,72 +1,46 @@
-http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
+http://188.68.176.2:8080#RU--AS197078 Yarnet Ltd
 http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
 http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://90.84.17.133:3128#FR--AS2280 Orange S.A.
-http://58.80.134.185:1080#JP--AS17506 ARTERIA Networks Corporation
 http://89.105.220.130:3128#US--AS939 NovoServe LLC
 http://145.239.146.18:8080#FR--AS16276 OVH SAS
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://85.111.60.196:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
 http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://103.118.28.41:1004#VN--AS150834 IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://45.179.71.90:3180#BR--AS269109 MARKTEC TELECOM
-http://160.248.3.173:8888#JP--AS2514 NTT PC Communications, Inc.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://203.202.248.36:8080#BD--AS24323 aamra networks limited,
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://65.21.141.136:17154#LU--AS206804 EstNOC OY
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://65.21.141.136:17154#DE--AS206092 Internet Utilities Europe and Asia Limited
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://160.248.9.74:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.14.10.19:999#GT--AS23243 COMCEL GUATEMALA S.A.
 http://57.181.42.83:3128#JP--AS16509 Amazon.com, Inc.
 http://144.91.74.64:3128#DE--AS51167 Contabo GmbH
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://85.209.153.173:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://160.248.92.130:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.189.216:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
-http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.248.92.114:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.9.70:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.209.153.174:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
 http://20.235.159.154:3128#IN--AS8075 Microsoft Corporation
-http://65.21.141.136:17117#SE--AS206092 Internet Utilities Europe and Asia Limited
-http://47.89.25.204:9085#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://34.92.250.88:10000#HK--AS396982 Google LLC
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://94.139.204.51:8081#BG--AS48747 Lukovitnet Ltd.
-http://170.239.205.113:999#CO--AS265629 FIBERNET
+http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://110.78.186.109:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
 http://104.238.234.48:8800#US--AS397731 EliteWork LLC
 http://65.21.141.136:17081#CA--AS206092 Internet Utilities Europe and Asia Limited
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.21.141.136:17032#MX--AS396356 Latitude.sh
-http://89.163.157.129:80#DE--AS24961 WIIT AG
-http://85.209.153.175:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://160.248.9.73:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.184.217:8888#JP--AS2514 NTT PC Communications, Inc.
-http://191.102.254.54:8085#AR--AS262934 IP·RED
-http://160.248.92.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://180.33.99.94:8080#JP--AS4713 NTT Communications Corporation
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://41.57.182.12:6060#ZA--AS327688 Screamer Telecommunications
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
 http://160.248.9.72:3128#JP--AS2514 NTT PC Communications, Inc.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://104.238.234.48:3128#US--AS397731 EliteWork LLC
-http://103.247.23.198:8080#ID--AS58485 WIFIAN ID
 http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://211.51.126.221:3128#KR--AS4766 Korea Telecom
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://212.132.68.226:8118#DE--AS8560 IONOS SE
