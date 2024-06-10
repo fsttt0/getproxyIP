@@ -1,12 +1,25 @@
+http://177.19.167.242:80#BR--AS25933 Vogel Soluções em Telecom e Informática S/A
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://49.254.164.118:53210#KR--AS4766 Korea Telecom
+http://65.21.141.136:17017#PL--AS206092 Internet Utilities Europe and Asia Limited
+http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://49.254.164.116:53210#KR--AS4766 Korea Telecom
+http://49.254.175.180:53210#KR--AS4766 Korea Telecom
+http://194.233.68.9:8080#SG--AS141995 Contabo Asia Private Limited
+http://43.133.14.229:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://80.78.22.36:3128#SE--AS39287 ab stract
 http://49.254.175.189:53210#KR--AS4766 Korea Telecom
+http://38.65.172.10:999#MX--AS270172 Guillermo Robles Ramirez
 http://49.254.175.185:53210#KR--AS4766 Korea Telecom
+http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.148.192.82:9012#ID--AS139995 PT. Akashia Thuba Jaya
 http://49.254.175.178:53210#KR--AS4766 Korea Telecom
 http://49.254.175.186:53210#KR--AS4766 Korea Telecom
 http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://49.254.175.181:53210#KR--AS4766 Korea Telecom
-http://49.254.175.190:53210#KR--AS4766 Korea Telecom
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://49.254.175.179:53210#KR--AS4766 Korea Telecom
+http://43.247.38.57:8080#ID--AS38320 PT Maxindo Mitra Solusi
+http://72.204.225.85:20805#US--AS21928 T-Mobile USA, Inc.
