@@ -1,31 +1,33 @@
-http://72.10.164.178:1729#IN--AS55577 Atria Convergence Technologies pvt ltd
-http://49.254.175.181:53210#KR--AS4766 Korea Telecom
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://49.254.164.118:53210#KR--AS4766 Korea Telecom
+http://49.254.175.186:53210#KR--AS4766 Korea Telecom
+http://49.254.164.116:53210#KR--AS4766 Korea Telecom
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://72.10.164.178:1729#IQ--AS199739 Earthlink Telecommunications Equipment Trading & Services DMCC
+http://123.60.133.147:7890#CN--AS55990 Huawei Cloud Service data center
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://45.173.7.10:999#CO--AS14593 Space Exploration Technologies Corporation
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
-http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://103.78.80.66:32650#ID--AS131111 PT Mora Telematika Indonesia
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://207.180.234.234:3128#DE--AS51167 Contabo GmbH
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
-http://49.254.175.179:53210#KR--AS4766 Korea Telecom
-http://49.254.175.190:53210#KR--AS4766 Korea Telecom
-http://113.179.83.118:3128#VN--AS45899 VNPT Corp
-http://65.21.141.136:17037#FR--AS9009 M247 Europe SRL
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://65.21.141.136:17037#SG--AS137409 GSL Networks Pty LTD
+http://154.91.1.213:3129#HK--AS58944 Telekomunikasi Indonesia International (HongKong) Limited
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
 http://43.133.14.229:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
-http://49.254.164.126:53210#KR--AS4766 Korea Telecom
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://65.21.141.136:17005#DE--AS137409 GSL Networks Pty LTD
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.21.141.136:17032#US--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17005#CA--AS7040 Netminders Server Hosting
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://65.21.141.136:17017#JE--AS13213 UK-2 Limited
 http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://45.81.113.32:8080#TR--AS205463 Pembe Gul Isguzar Karagoz
+http://223.25.110.227:8080#ID--AS136873 MEGADATA-ISP
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
