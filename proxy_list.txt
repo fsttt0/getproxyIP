@@ -1,46 +1,33 @@
+http://65.21.141.136:17017#SI--AS13213 UK-2 Limited
+http://65.21.141.136:17037#UA--AS206092 Internet Utilities Europe and Asia Limited
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://65.21.141.136:17005#NL--AS137409 GSL Networks Pty LTD
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://85.111.60.196:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://125.133.249.86:8080#KR--AS4766 Korea Telecom
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://179.96.28.58:80#BR--AS28329 Megatelecom Telecomunicacoes Ltda
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://85.111.60.196:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://190.94.213.5:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://161.34.34.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://170.239.205.114:999#CO--AS265629 FIBERNET
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://212.128.70.78:80#ES--AS766 Entidad Publica Empresarial Red.es
+http://188.132.221.189:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://65.21.141.136:17017#FR--AS9009 M247 Europe SRL
-http://103.119.55.232:10001#ID--AS63859 PT. Eka Mas Republik
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://91.214.78.171:8000#NL--AS215826 Partner Hosting LTD
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
-http://185.223.93.250:3128#NL--AS14576 Hosting Solution Ltd.
-http://43.133.162.197:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://181.209.78.78:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://112.163.160.24:3128#KR--AS4766 Korea Telecom
-http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
+http://80.66.81.47:4001#NL--AS208258 Access2.IT Group B.V.
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://144.91.74.64:3128#DE--AS51167 Contabo GmbH
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://181.209.82.154:23500#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
+http://45.127.135.28:8181#ID--AS7713 PT Telekomunikasi Indonesia
+http://99.107.240.88:8080#US--AS7018 AT&T Services, Inc.
