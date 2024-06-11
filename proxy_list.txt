@@ -1,4 +1,19 @@
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://64.23.244.227:3128#US--AS14061 DigitalOcean, LLC
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://207.180.234.234:3128#DE--AS51167 Contabo GmbH
+http://104.238.234.48:8800#US--AS397731 EliteWork LLC
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://43.163.193.39:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://80.66.81.47:4000#NL--AS208258 Access2.IT Group B.V.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.156.16.182:1111#ID--AS141077 RSTNET
+http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
+http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://43.130.238.86:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://177.93.36.151:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://104.238.234.48:3128#US--AS397731 EliteWork LLC
+http://65.21.141.136:17005#DE--AS206092 Internet Utilities Europe and Asia Limited
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
