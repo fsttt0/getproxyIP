@@ -1,20 +1,4 @@
-http://207.180.234.234:3128#DE--AS51167 Contabo GmbH
-http://121.172.52.126:3128#KR--AS4766 Korea Telecom
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://49.254.175.178:53210#KR--AS4766 Korea Telecom
-http://49.254.164.116:53210#KR--AS4766 Korea Telecom
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://170.239.205.113:999#CO--AS265629 FIBERNET
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://65.21.141.136:17037#GE--AS47810 Proservice LLC
-http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://65.21.141.136:17005#CA--AS7040 Netminders Server Hosting
-http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://65.21.141.136:17017#PL--AS206092 Internet Utilities Europe and Asia Limited
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.130.238.86:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.93.36.151:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
