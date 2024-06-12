@@ -1,7 +1,2 @@
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://134.249.185.223:41890#UA--AS15895 "Kyivstar" PJSC
-http://49.254.175.185:53210#KR--AS4766 Korea Telecom
+http://45.189.252.240:999#MX--AS265613 TRACERED SA DE CV
+http://160.248.91.69:3128#JP--AS2514 NTT PC Communications, Inc.
