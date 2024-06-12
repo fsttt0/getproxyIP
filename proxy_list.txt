@@ -1,1 +1,2 @@
-http://43.130.238.86:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://49.254.175.183:53210#KR--AS4766 Korea Telecom
