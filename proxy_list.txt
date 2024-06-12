@@ -1,33 +1,44 @@
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://196.115.52.146:8080#MA--AS36925 MEDITELECOM
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
 http://85.111.60.196:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
 http://35.247.131.172:3128#SG--AS396982 Google LLC
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://181.119.68.107:999#CO--AS52468 UFINET PANAMA S.A.
+http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://65.21.141.136:17017#US--AS396356 Latitude.sh
-http://65.21.141.136:17037#MC--AS13213 UK-2 Limited
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://104.238.234.48:8800#US--AS397731 EliteWork LLC
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://65.21.141.136:17037#AT--AS206092 Internet Utilities Europe and Asia Limited
 http://18.231.146.18:8888#BR--AS16509 Amazon.com, Inc.
-http://65.21.141.136:17024#DE--AS206092 Internet Utilities Europe and Asia Limited
-http://65.21.141.136:17005#GE--AS47810 Proservice LLC
+http://65.21.141.136:17024#GB--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17005#SI--AS13213 UK-2 Limited
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
+http://91.107.152.96:8080#DE--AS24940 Hetzner Online GmbH
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://49.254.175.184:53210#KR--AS4766 Korea Telecom
-http://45.173.231.229:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://180.88.100.7:3128#CN--AS4808 China Unicom Beijing Province Network
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://185.105.230.45:3128#TJ--AS43197 Closed Joint Stock Company TT mobile
 http://114.67.96.47:45064#CN--AS4811 China Telecom (Group)
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://181.204.21.122:999#CO--AS27831 Colombia Móvil
-http://112.163.160.24:3128#KR--AS4766 Korea Telecom
-http://103.65.214.144:8080#ID--AS135449 PT. Broadband Indonesia Pratama
-http://160.248.184.111:8888#JP--AS2514 NTT PC Communications, Inc.
-http://188.132.221.81:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://41.216.178.108:3128#ID--AS139989 CV Atha Media Prima
-http://190.103.29.176:999#VE--AS264628 CORPORACION FIBEX TELECOM, C.A.
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://99.107.240.88:8080#US--AS7018 AT&T Services, Inc.
+http://157.100.57.180:999#EC--AS52468 UFINET PANAMA S.A.
+http://49.254.175.190:53210#KR--AS4766 Korea Telecom
+http://43.133.160.119:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://49.254.164.126:53210#KR--AS4766 Korea Telecom
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://43.133.14.229:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.163.193.39:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://49.254.175.189:53210#KR--AS4766 Korea Telecom
+http://67.73.184.178:8081#CO--AS3549 Level 3 Parent, LLC
