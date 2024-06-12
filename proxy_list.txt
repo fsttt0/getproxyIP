@@ -1,8 +1,1 @@
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://38.60.254.99:3128#TH--AS138915 Kaopu Cloud HK Limited
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://85.209.153.175:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://181.78.73.73:999#CO--AS52468 UFINET PANAMA S.A.
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://43.130.238.86:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
