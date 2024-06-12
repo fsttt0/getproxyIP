@@ -1,10 +1,7 @@
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://160.248.9.45:3128#JP--AS2514 NTT PC Communications, Inc.
-http://49.254.95.158:53210#KR--AS4766 Korea Telecom
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
-http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://65.21.141.136:17024#ES--AS206092 Internet Utilities Europe and Asia Limited
+http://13.233.130.101:3128#IN--AS16509 Amazon.com, Inc.
+http://78.138.45.179:3128#FR--AS210403 Groupe LWS SARL
+http://49.254.164.116:53210#KR--AS4766 Korea Telecom
+http://49.254.175.190:53210#KR--AS4766 Korea Telecom
+http://35.247.131.172:3128#SG--AS396982 Google LLC
+http://49.254.175.181:53210#KR--AS4766 Korea Telecom
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
