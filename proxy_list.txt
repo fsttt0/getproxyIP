@@ -1,33 +1,20 @@
-http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://193.123.251.151:3128#KR--AS31898 Oracle Corporation
-http://113.107.4.198:1105#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.133.212.188:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.163.208.200:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://170.239.205.113:999#CO--AS265629 FIBERNET
-http://124.156.212.168:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://119.160.13.4:3128#PK--AS45669 PMCL /LDI IP TRANSIT
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://103.84.235.162:8789#ID--AS38320 PT Maxindo Mitra Solusi
-http://65.21.141.136:18080#GB--AS206092 Internet Utilities Europe and Asia Limited
-http://43.133.206.244:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://65.21.141.136:17053#AT--AS206092 Internet Utilities Europe and Asia Limited
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://103.116.82.135:8080#ID--AS150959 PT SSR Digital Informatika
-http://124.83.74.218:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://177.153.33.94:80#BR--AS27715 Locaweb Serviços de Internet S/A
-http://170.239.205.114:999#CO--AS265629 FIBERNET
-http://43.133.173.132:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://119.160.13.29:3128#PK--AS45669 PMCL /LDI IP TRANSIT
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://35.187.204.53:8080#JP--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
-http://180.33.99.94:8080#JP--AS4713 NTT Communications Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://3.71.196.28:3128#DE--AS16509 Amazon.com, Inc.
+http://113.203.238.82:8080#PK--AS9387 SHARP TELECOM (PRIVATE) LIMITED
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://201.77.108.130:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
+http://189.240.60.168:9090#MX--AS8151 UNINET
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://180.33.99.94:8080#JP--AS4713 NTT Communications Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://43.133.162.197:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://206.42.27.113:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
