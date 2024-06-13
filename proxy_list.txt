@@ -1,31 +1,23 @@
-http://89.105.220.130:3128#US--AS939 NovoServe LLC
 http://217.182.194.108:3128#FR--AS16276 OVH SAS
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://80.66.81.26:4000#NL--AS208258 Access2.IT Group B.V.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://189.100.247.109:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.130.238.86:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.163.208.200:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.128.212.190:8080#BR--AS52873 Softdados Telecomunicações
+http://195.128.96.213:8080#RU--AS31566 SkyNetwork Ltd.
+http://124.156.212.168:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://49.0.34.194:80#BD--AS38744 AlwaysOn Network Bangladesh Ltd
 http://35.247.131.172:3128#SG--AS396982 Google LLC
+http://121.172.52.126:3128#KR--AS4766 Korea Telecom
 http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://43.130.248.143:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
 http://123.31.19.244:3128#VN--AS45899 VNPT Corp
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://198.12.254.161:3128#US--AS398101 GoDaddy.com, LLC
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://43.133.162.197:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.163.193.39:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://34.92.250.88:10000#HK--AS396982 Google LLC
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://103.246.247.149:3128#HK--AS55933 Cloudie Limited
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://129.213.160.66:3128#US--AS31898 Oracle Corporation
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
+http://34.92.250.88:11111#HK--AS396982 Google LLC
