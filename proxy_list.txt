@@ -1,37 +1,16 @@
-http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
-http://196.213.196.210:8088#ZA--AS3741 Dimension Data
-http://46.101.124.11:8086#KZ--AS29555 Mobile Telecom-Service LLP
-http://177.44.223.109:8080#BR--AS263139 Dataware Telecomunicações LTDA. - EPP
-http://31.128.69.121:8080#UA--AS3326 PRIVATE JOINT STOCK COMPANY "DATAGROUP"
-http://1.20.203.54:8080#TH--AS23969 TOT Public Company Limited
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://45.236.107.86:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://65.21.141.136:17037#US--AS206092 Internet Utilities Europe and Asia Limited
-http://14.241.111.97:8080#VN--AS45899 VNPT Corp
-http://201.222.83.146:999#BO--AS25620 COTAS LTDA.
-http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://217.182.194.108:3128#FR--AS16276 OVH SAS
-http://129.213.160.66:3128#US--AS31898 Oracle Corporation
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://193.123.251.151:3128#KR--AS31898 Oracle Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://147.28.145.212:10012#US--AS54825 Packet Host, Inc.
+http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://65.21.141.136:17143#CH--AS9009 M247 Europe SRL
 http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://180.88.100.7:3128#CN--AS4808 China Unicom Beijing Province Network
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://85.234.119.37:32650#RU--AS25381 LLC "Svyaztranzit"
