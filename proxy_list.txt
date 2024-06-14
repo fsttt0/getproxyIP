@@ -1,9 +1,11 @@
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://18.193.116.149:3128#DE--AS16509 Amazon.com, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://89.105.220.130:3128#US--AS939 NovoServe LLC
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://188.132.222.28:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://18.193.116.149:3128#DE--AS16509 Amazon.com, Inc.
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
