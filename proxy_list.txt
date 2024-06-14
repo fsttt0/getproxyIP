@@ -1,23 +1,10 @@
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
-http://65.21.141.136:17005#JE--AS13213 UK-2 Limited
-http://65.21.141.136:17032#CA--AS206092 Internet Utilities Europe and Asia Limited
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://190.69.157.215:999#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://119.17.55.101:8080#AU--AS45780 Broadband Solutions Pty Ltd
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://164.163.40.15:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.184.122.89:3128#ID--AS149705 PT Wijaya Trimitra Indonesia
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://146.56.101.199:22001#KR--AS31898 Oracle Corporation
-http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
