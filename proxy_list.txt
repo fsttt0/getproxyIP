@@ -1,6 +1,1 @@
-http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
