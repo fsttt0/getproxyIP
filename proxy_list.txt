@@ -1,25 +1,19 @@
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://65.21.141.136:17032#GB--AS206092 Internet Utilities Europe and Asia Limited
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.159.195.233:9091#ID--AS150970 PT Kalimasada Inti Sarana
+http://103.57.80.28:58080#IN--None
+http://177.37.160.81:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://103.129.115.245:8096#BD--AS58715 EARTH TELECOMMUNICATION (Pvt) LTD.
+http://181.48.126.38:36413#CO--AS14080 Telmex Colombia S.A.
+http://103.169.254.186:8061#ID--AS142370 PT Master Star Network
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://89.105.220.130:3128#US--AS939 NovoServe LLC
 http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
-http://54.93.217.90:3128#DE--AS16509 Amazon.com, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://65.21.141.136:17024#US--AS206092 Internet Utilities Europe and Asia Limited
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
 http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://50.231.0.43:4481#US--AS7922 Comcast Cable Communications, LLC
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://113.179.83.118:3128#VN--AS45899 VNPT Corp
-http://103.105.76.99:8080#ID--AS136874 PT. Garuda Media Telematika
-http://43.163.202.5:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.146.185.90:8080#ID--AS139967 PT. Yasmin Amanah Media
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
