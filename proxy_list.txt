@@ -1,11 +1,2 @@
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://89.105.220.130:3128#US--AS939 NovoServe LLC
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://131.100.51.252:999#CO--AS270062 FIBERNET TV SAS
