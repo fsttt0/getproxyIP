@@ -1,7 +1,6 @@
-http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://161.34.38.94:3128#JP--AS2514 NTT PC Communications, Inc.
-http://67.43.236.20:2659#US--AS21928 T-Mobile USA, Inc.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://160.248.9.43:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
