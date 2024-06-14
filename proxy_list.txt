@@ -1,15 +1,29 @@
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.75.35.9:32650#IN--AS134319 Elyzium Technologies Pvt. Ltd.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://46.243.71.2:8888#SK--AS39574 Minet Slovakia s.r.o.
-http://80.66.81.44:4001#NL--AS208258 Access2.IT Group B.V.
+http://103.175.237.12:3125#ID--AS147121 PT Marva Global Telekomunikasi
+http://181.118.143.1:999#AR--AS52492 SITERNET SRL
+http://103.110.34.43:8081#ID--AS150936 PT RECONET SEMESTA INDONESIA
+http://103.184.180.30:8080#ID--AS139381 PT.CITRA BERDIKARI NUSANTARA
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://65.21.141.136:17032#RO--AS9009 M247 Europe SRL
+http://82.138.114.148:3128#FR--AS198545 FLEX NETWORK SARL
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://182.253.109.4:8080#ID--AS17451 BIZNET NETWORKS
+http://190.94.212.199:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://89.105.220.130:3128#US--AS939 NovoServe LLC
