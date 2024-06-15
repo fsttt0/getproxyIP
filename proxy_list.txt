@@ -1,25 +1,25 @@
+http://194.146.43.39:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://89.105.220.130:3128#US--AS939 NovoServe LLC
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.156.15.239:8080#ID--AS58821 PT Lintas Jaringan Nusantara
 http://160.248.93.5:3128#JP--AS2514 NTT PC Communications, Inc.
 http://140.227.143.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://160.248.9.68:3128#JP--AS2514 NTT PC Communications, Inc.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.248.9.64:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.92.129:3128#JP--AS2514 NTT PC Communications, Inc.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://58.251.127.167:3128#CN--AS4134 CHINANET-BACKBONE
 http://160.248.9.67:3128#JP--AS2514 NTT PC Communications, Inc.
