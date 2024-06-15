@@ -1,15 +1,11 @@
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.231.249.242:3128#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://210.247.252.5:3128#ID--AS131745 PT. Cybertechtonic Pratama
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://122.144.6.66:3777#ID--AS38320 PT Maxindo Mitra Solusi
-http://183.178.50.58:8080#HK--AS9269 Hong Kong Broadband Network Ltd.
-http://72.10.164.178:2967#VE--AS21826 Corporación Telemic C.A.
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://179.49.113.230:999#HN--AS262234 ASOCIACION DE SERVICIO DE INTERNET S. DE RL.
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://91.234.97.161:8998#RU--AS198083 Virtual Station LLC
+http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
