@@ -1,3 +1,18 @@
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://85.209.153.175:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://58.251.127.167:3128#CN--AS4134 CHINANET-BACKBONE
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
