@@ -1,31 +1,13 @@
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://161.34.38.94:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.9.45:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.230.206.229:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://160.248.9.64:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
-http://190.119.170.43:999#PE--AS12252 America Movil Peru S.A.C.
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://194.186.248.97:80#RU--AS3216 PJSC "Vimpelcom"
+http://43.130.242.246:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
 http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
 http://160.248.185.51:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.38.120:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.93.3:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.185.50:3128#JP--AS2514 NTT PC Communications, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://160.248.9.68:3128#JP--AS2514 NTT PC Communications, Inc.
-http://77.91.124.248:8000#FI--AS203727 Daniil Yevchenko
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://58.251.127.167:3128#CN--AS4134 CHINANET-BACKBONE
-http://160.248.9.67:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.139.228.243:3128#SE--AS36007 Kamatera, Inc.
-http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
