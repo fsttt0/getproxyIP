@@ -1,2 +1,1 @@
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.248.9.43:3128#JP--AS2514 NTT PC Communications, Inc.
