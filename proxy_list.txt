@@ -1,2 +1,8 @@
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
+http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://65.21.141.136:17032#DE--AS137409 GSL Networks Pty LTD
