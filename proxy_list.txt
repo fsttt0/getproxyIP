@@ -1,11 +1,1 @@
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://170.239.205.9:8080#CO--AS265629 FIBERNET
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://91.234.97.161:8998#RU--AS198083 Virtual Station LLC
-http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
