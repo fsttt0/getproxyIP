@@ -1,15 +1,15 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.250.130.110:8080#ID--AS151555 PT Jawara Lintas Data Nusantara
-http://140.227.143.85:3128#JP--AS2514 NTT PC Communications, Inc.
-http://140.227.143.72:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.21.141.136:17005#GB--AS62240 Clouvider
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://65.21.141.136:17017#US--AS206092 Internet Utilities Europe and Asia Limited
-http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://102.67.101.242:8080#BF--AS37721 Virtual Technologies & Solutions
+http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://65.21.141.136:17032#LU--AS206804 EstNOC OY
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://64.23.153.213:443#US--AS14061 DigitalOcean, LLC
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://147.28.145.213:9443#US--AS54825 Packet Host, Inc.
+http://190.187.163.2:999#PE--AS19180 AMERICATEL PERU S.A.
