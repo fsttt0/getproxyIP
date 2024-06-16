@@ -1,14 +1,2 @@
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://212.52.167.199:33128#HU--AS28924 INTEGRITY Informatics Ltd.
-http://103.156.16.227:8080#ID--AS141077 RSTNET
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://140.227.143.85:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.21.141.136:17024#GB--AS206092 Internet Utilities Europe and Asia Limited
-http://103.93.93.220:3127#ID--AS141140 PT Jinde Grup Indonesia
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://23.225.72.123:3501#US--AS40065 CNSERVERS LLC
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
