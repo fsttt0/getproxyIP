@@ -1,30 +1,22 @@
-http://37.223.30.6:80#ES--AS12430 VODAFONE ESPANA S.A.U.
-http://181.64.75.158:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://5.9.148.144:8888#US--AS9009 M247 Europe SRL
-http://65.21.141.136:17032#UA--AS206092 Internet Utilities Europe and Asia Limited
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://103.191.155.70:8080#ID--AS149926 PT Ilham Wifi Solution
+http://119.93.43.16:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://181.205.251.115:999#CO--AS27831 Colombia Móvil
+http://49.49.193.165:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://180.210.120.42:8081#KR--AS45974 NHNCLOUD
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.21.141.136:17024#ES--AS206092 Internet Utilities Europe and Asia Limited
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://134.195.156.211:3128#US--AS399296 Rackdog, LLC
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://187.245.214.7:999#MX--AS13999 Mega Cable, S.A. de C.V.
-http://161.34.38.94:3128#JP--AS2514 NTT PC Communications, Inc.
-http://140.227.143.94:3128#JP--AS2514 NTT PC Communications, Inc.
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
-http://129.222.176.138:999#PE--AS14593 Space Exploration Technologies Corporation
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://103.48.71.58:83#IN--AS136290 Country Online Services PVT LTD
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://138.201.139.121:3128#DE--AS24940 Hetzner Online GmbH
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://65.21.141.136:17037#UA--AS206092 Internet Utilities Europe and Asia Limited
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://103.158.253.29:8382#ID--AS141137 PT Media Cepat Indonesia
 http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://38.44.17.60:999#DO--AS272083 REYNOSO, S.R.L.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://89.105.220.130:3128#US--AS939 NovoServe LLC
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://37.223.30.6:80#ES--AS12430 VODAFONE ESPANA S.A.U.
+http://36.83.51.205:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://186.215.196.50:3128#BR--AS18881 TELEFÔNICA BRASIL S.A
+http://65.21.141.136:17017#HK--AS206092 Internet Utilities Europe and Asia Limited
+http://134.195.156.211:3128#US--AS399296 Rackdog, LLC
