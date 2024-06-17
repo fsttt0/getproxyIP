@@ -1,25 +1,29 @@
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://89.105.220.130:3128#US--AS939 NovoServe LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://85.209.153.173:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://180.254.144.237:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://85.209.153.174:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.147.134.253:1111#ID--AS139963 PT.MURNI MAKMUR ABADI
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://202.29.232.62:3128#TH--AS4621 UNINET-TH
+http://45.173.231.15:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
+http://103.171.89.100:8082#PH--AS135607 Infinivan Incorporated
+http://83.12.149.202:8080#PL--AS5617 Orange Polska Spolka Akcyjna
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://113.179.83.118:3128#VN--AS45899 VNPT Corp
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://135.181.102.118:7117#FI--AS24940 Hetzner Online GmbH
+http://65.21.141.136:17017#IT--AS206092 Internet Utilities Europe and Asia Limited
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
 http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://161.34.38.95:3128#JP--AS2514 NTT PC Communications, Inc.
-http://191.240.153.165:8080#BR--AS28165 Wireless Comm Services LTDA
-http://85.209.153.173:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://65.21.141.136:17032#SE--AS206092 Internet Utilities Europe and Asia Limited
-http://65.21.141.136:17037#MC--AS13213 UK-2 Limited
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://180.210.120.42:8081#KR--AS45974 NHNCLOUD
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://5.75.132.26:3129#DE--AS24940 Hetzner Online GmbH
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
