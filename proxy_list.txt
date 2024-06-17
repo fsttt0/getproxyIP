@@ -1,14 +1,25 @@
-http://216.238.115.107:31280#BR--AS20473 The Constant Company, LLC
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://203.190.44.252:8090#ID--AS45317 Jaringan Lintas Utara, PT
-http://65.21.141.136:17017#UA--AS206092 Internet Utilities Europe and Asia Limited
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://65.21.141.136:17032#FR--AS9009 M247 Europe SRL
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://65.21.141.136:17024#SI--AS13213 UK-2 Limited
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://180.210.120.42:8081#KR--AS45974 NHNCLOUD
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://85.209.153.173:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://180.254.144.237:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://85.209.153.174:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://161.34.38.95:3128#JP--AS2514 NTT PC Communications, Inc.
+http://191.240.153.165:8080#BR--AS28165 Wireless Comm Services LTDA
+http://85.209.153.173:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://65.21.141.136:17032#SE--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17037#MC--AS13213 UK-2 Limited
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
