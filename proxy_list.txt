@@ -1,16 +1,32 @@
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://65.21.141.136:17017#DE--AS206092 Internet Utilities Europe and Asia Limited
-http://160.248.189.169:3128#JP--AS2514 NTT PC Communications, Inc.
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.21.141.136:17032#FI--AS24940 Hetzner Online GmbH
-http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://161.34.38.94:3128#JP--AS2514 NTT PC Communications, Inc.
+http://88.80.103.9:6888#BG--AS39184 UltraNET Ltd
+http://140.227.143.94:3128#JP--AS2514 NTT PC Communications, Inc.
+http://14.140.167.189:10189#IN--AS4755 TATA Communications formerly VSNL is Leading ISP
+http://177.93.45.225:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://65.21.141.136:17005#LU--AS206804 EstNOC OY
+http://177.107.16.252:3128#BR--AS264294 Ora Servicos de Telecomunicacoes Ltda
+http://103.247.14.37:8080#ID--AS131706 PT SELARAS CITRA TERABIT
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://65.21.141.136:17037#DE--AS137409 GSL Networks Pty LTD
+http://95.154.124.114:58000#RU--AS44724 Octopusnet LTD
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://103.56.205.84:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://8.215.56.13:7777#ID--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://124.106.66.194:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://45.71.115.223:999#EC--AS52468 UFINET PANAMA S.A.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.78.85.45:998#CO--AS52468 UFINET PANAMA S.A.
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://89.105.220.130:3128#US--AS939 NovoServe LLC
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://104.238.234.48:8800#US--AS397731 EliteWork LLC
-http://188.132.222.41:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.104.214.239:3128#PK--AS150750 IN CABLE INTERNET (PRIVATE) LIMITED
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
