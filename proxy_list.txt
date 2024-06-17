@@ -1,10 +1,16 @@
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://65.21.141.136:17017#DE--AS206092 Internet Utilities Europe and Asia Limited
+http://160.248.189.169:3128#JP--AS2514 NTT PC Communications, Inc.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://65.21.141.136:17032#FI--AS24940 Hetzner Online GmbH
+http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://65.21.141.136:17037#DE--AS137409 GSL Networks Pty LTD
+http://38.129.166.122:3128#US--AS174 Cogent Communications
 http://89.105.220.130:3128#US--AS939 NovoServe LLC
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://104.238.234.48:8800#US--AS397731 EliteWork LLC
-http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
-http://38.199.30.234:999#CO--AS272137 CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://116.103.251.46:5053#VN--AS24086 Viettel Corporation
+http://188.132.222.41:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
