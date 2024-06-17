@@ -1,1 +1,18 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://65.21.141.136:17017#KZ--AS206092 Internet Utilities Europe and Asia Limited
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.242.125.186:8080#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
+http://65.21.141.136:17024#AL--AS197706 Keminet SHPK
+http://35.197.74.64:8888#US--AS396982 Google LLC
+http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
+http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
+http://103.153.35.87:3127#ID--AS140452 PT Jaya Media Expres
+http://5.9.148.144:8888#JP--AS9009 M247 Europe SRL
+http://34.29.236.147:3128#US--AS396982 Google LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://65.21.141.136:17032#ES--AS206092 Internet Utilities Europe and Asia Limited
