@@ -1,7 +1,24 @@
-http://5.9.148.144:8888#BE--AS9009 M247 Europe SRL
-http://65.21.141.136:17032#DE--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17024#BY--AS13213 UK-2 Limited
+http://5.9.148.144:8888#JP--AS9009 M247 Europe SRL
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://72.10.164.178:27477#VE--AS272809 THUNDERNET, C.A.
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://45.70.238.182:999#EC--AS52468 UFINET PANAMA S.A.
+http://65.21.141.136:17037#US--AS206092 Internet Utilities Europe and Asia Limited
 http://65.21.141.136:17005#FR--AS9009 M247 Europe SRL
-http://134.195.156.211:3128#US--AS399296 Rackdog, LLC
+http://65.21.141.136:17032#DE--AS206092 Internet Utilities Europe and Asia Limited
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://170.239.205.113:999#CO--AS265629 FIBERNET
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://38.158.202.82:999#MX--AS28447 ONFIBER SA DE CV
+http://103.57.80.51:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://137.184.123.71:3131#US--AS14061 DigitalOcean, LLC
+http://178.128.93.46:3128#SG--AS14061 DigitalOcean, LLC
+http://65.21.141.136:17017#AT--AS206092 Internet Utilities Europe and Asia Limited
+http://38.44.17.60:999#DO--AS272083 REYNOSO, S.R.L.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://1.20.200.154:8081#TH--AS23969 TOT Public Company Limited
+http://200.94.102.10:8080#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://181.46.243.155:3128#AR--AS27747 Telecentro S.A.
+http://90.161.186.147:3128#ES--AS12479 Orange Espagne SA
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://131.100.51.161:999#CO--AS3549 Level 3 Parent, LLC
