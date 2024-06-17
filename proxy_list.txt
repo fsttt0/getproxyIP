@@ -1,18 +1,19 @@
-http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://65.21.141.136:17017#KZ--AS206092 Internet Utilities Europe and Asia Limited
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.242.125.186:8080#CO--AS262191 LIBERTY NETWORKS DE COLOMBIA S.A.S
-http://65.21.141.136:17024#AL--AS197706 Keminet SHPK
-http://35.197.74.64:8888#US--AS396982 Google LLC
-http://45.159.189.244:3128#NL--AS14576 Hosting Solution Ltd.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://103.153.35.87:3127#ID--AS140452 PT Jaya Media Expres
-http://5.9.148.144:8888#JP--AS9009 M247 Europe SRL
-http://34.29.236.147:3128#US--AS396982 Google LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://65.21.141.136:17032#ES--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17037#DE--AS137409 GSL Networks Pty LTD
+http://185.55.40.196:8282#RU--AS13178 LLC "Real-net"
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://132.147.137.52:8080#US--AS26077 Nextlink Broadband
+http://154.73.28.161:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://103.165.155.243:2016#ID--AS141921 PT Jaringan Keluarga Bersama
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://119.15.88.108:8083#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
