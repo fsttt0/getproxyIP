@@ -1,19 +1,19 @@
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://35.197.74.64:8888#US--AS396982 Google LLC
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://134.209.147.34:8080#IN--AS14061 DigitalOcean, LLC
-http://91.173.236.172:3128#FR--AS12322 Free SAS
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://77.91.124.245:8000#FI--AS203727 Daniil Yevchenko
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
 http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://5.9.148.144:8888#SE--AS51815 GlobalConnect AB
-http://134.122.26.11:80#US--AS14061 DigitalOcean, LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://194.246.34.188:3128#US--AS979 NetLab Global
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
+http://38.129.166.122:3128#US--AS174 Cogent Communications
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://31.46.33.59:53281#HU--AS5483 Magyar Telekom plc.
-http://45.71.115.223:999#EC--AS52468 UFINET PANAMA S.A.
+http://65.21.141.136:17024#GE--AS47810 Proservice LLC
+http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://111.89.130.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://27.147.157.77:6969#BD--AS23688 Link3 Technologies Ltd.
+http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
