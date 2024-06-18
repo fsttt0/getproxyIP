@@ -1,13 +1,9 @@
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://134.195.156.211:3128#US--AS399296 Rackdog, LLC
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.215.196.50:3128#BR--AS18881 TELEFÔNICA BRASIL S.A
 http://140.227.143.79:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
+http://179.61.110.253:999#CL--AS264780 HomeNet LTDA
