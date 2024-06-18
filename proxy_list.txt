@@ -1,14 +1,2 @@
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://81.173.84.146:3128#AT--AS47692 Nessus GmbH
-http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.21.141.136:17024#US--AS206092 Internet Utilities Europe and Asia Limited
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://160.248.93.71:3128#JP--AS2514 NTT PC Communications, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://65.21.141.136:17032#UA--AS206092 Internet Utilities Europe and Asia Limited
