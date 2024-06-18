@@ -1,24 +1,5 @@
-http://45.173.231.15:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://94.182.146.250:8080#SE--AS63949 Akamai Connected Cloud
-http://134.195.156.211:3128#US--AS399296 Rackdog, LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://136.243.125.1:1369#DE--AS24940 Hetzner Online GmbH
-http://140.227.143.79:3128#JP--AS2514 NTT PC Communications, Inc.
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://152.26.229.86:9443#US--AS81 MCNC
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://103.124.198.118:8080#ID--AS138096 PT INFORMASI NUSANTARA TEKNOLOGI
-http://65.21.141.136:17037#AU--AS137409 GSL Networks Pty LTD
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://192.210.228.107:3128#US--AS36352 HostPapa
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
