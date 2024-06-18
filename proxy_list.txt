@@ -1,19 +1,22 @@
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://72.10.164.178:27881#EC--AS14522 SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC)
+http://103.145.14.56:8080#ID--AS139438 PT Pembangunan Sarana Telematika
+http://177.234.251.187:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.174.80.79:20183#BR--AS268887 DAVILSON DOS SANTOS CORREIA-ME
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
+http://197.211.8.166:8080#KE--AS15399 Wananchi Group (Kenya) Limited
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
 http://77.91.124.245:8000#FI--AS203727 Daniil Yevchenko
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.99.27.234:8080#ID--AS150279 PT Lintas Network Solusi
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://65.21.141.136:17024#GE--AS47810 Proservice LLC
-http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://65.21.141.136:17005#PL--AS206092 Internet Utilities Europe and Asia Limited
+http://65.21.141.136:17024#UA--AS206092 Internet Utilities Europe and Asia Limited
 http://111.89.130.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
-http://27.147.157.77:6969#BD--AS23688 Link3 Technologies Ltd.
-http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
