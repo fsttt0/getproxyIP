@@ -1,19 +1,19 @@
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
-http://212.1.64.147:8080#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
-http://65.21.141.136:17024#AD--AS13213 UK-2 Limited
-http://160.248.93.71:3128#JP--AS2514 NTT PC Communications, Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://5.9.148.144:8888#GB--AS9009 M247 Europe SRL
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://45.173.231.15:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://37.120.187.59:80#DE--AS197540 netcup GmbH
-http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.21.141.136:17032#AU--AS137409 GSL Networks Pty LTD
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://103.156.217.101:1111#ID--AS58369 PT. Fiber Networks Indonesia
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://35.197.74.64:8888#US--AS396982 Google LLC
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://134.209.147.34:8080#IN--AS14061 DigitalOcean, LLC
+http://91.173.236.172:3128#FR--AS12322 Free SAS
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://5.9.148.144:8888#SE--AS51815 GlobalConnect AB
+http://134.122.26.11:80#US--AS14061 DigitalOcean, LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://194.246.34.188:3128#US--AS979 NetLab Global
+http://217.182.194.108:3128#BE--AS16276 OVH SAS
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://31.46.33.59:53281#HU--AS5483 Magyar Telekom plc.
+http://45.71.115.223:999#EC--AS52468 UFINET PANAMA S.A.
