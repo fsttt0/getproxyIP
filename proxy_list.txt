@@ -1,2 +1,21 @@
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://65.21.141.136:17017#ES--AS206092 Internet Utilities Europe and Asia Limited
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://65.21.141.136:17032#CA--AS206092 Internet Utilities Europe and Asia Limited
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://34.92.250.88:11111#HK--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.21.141.136:17032#UA--AS206092 Internet Utilities Europe and Asia Limited
+http://177.70.174.103:8080#BR--AS53019 infotec- serviços de provedor da internet ltda
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://111.89.130.53:3128#JP--AS2514 NTT PC Communications, Inc.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://57.181.42.83:3128#JP--AS16509 Amazon.com, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
