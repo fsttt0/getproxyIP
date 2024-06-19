@@ -1,10 +1,2 @@
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://35.197.74.64:80#US--AS396982 Google LLC
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://210.247.252.103:3128#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.247.23.181:1111#ID--AS58485 WIFIAN ID
