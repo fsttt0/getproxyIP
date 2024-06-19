@@ -1,5 +1,1 @@
-http://45.159.188.7:7777#NL--AS14576 Hosting Solution Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
