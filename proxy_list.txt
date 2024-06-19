@@ -1,16 +1,1 @@
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://103.179.46.49:6789#IN--AS138296 Juweriyah Networks Private Limited
-http://8.215.62.141:7777#ID--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://181.10.160.155:8080#AR--AS7303 Telecom Argentina S.A.
-http://41.191.105.185:3129#LR--AS37094 Orange Liberia, INC
-http://124.106.45.64:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://114.132.202.246:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://190.69.157.215:999#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
-http://181.46.243.155:3128#AR--AS27747 Telecentro S.A.
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
+http://103.87.212.140:8999#BD--AS136429 BAS Network
