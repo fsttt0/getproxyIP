@@ -1,24 +1,22 @@
-http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
 http://111.89.130.50:3128#JP--AS2514 NTT PC Communications, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
 http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://178.233.140.211:3128#TR--AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://119.148.54.78:1419#BD--AS23923 Agni Systems Limited
 http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
-http://109.164.38.201:2306#CZ--AS44489 STARNET, s.r.o.
-http://179.50.90.164:8511#CO--AS26619 GTD COLOMBIA S.A.S
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
 http://221.168.33.155:8080#KR--AS9526 KOSCOM
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://65.21.141.136:17024#NL--AS206092 Internet Utilities Europe and Asia Limited
 http://65.21.141.136:17017#GE--AS47810 Proservice LLC
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://111.89.130.53:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://134.35.4.247:8080#YE--AS30873 Public Telecommunication Corporation
