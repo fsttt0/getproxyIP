@@ -1,15 +1,26 @@
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://111.89.130.50:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.100:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.159.188.7:7777#NL--AS14576 Hosting Solution Ltd.
-http://38.156.23.230:999#DO--AS64134 VISNETWORK SRL
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://103.165.43.140:8080#ID--AS17995 PT iForte Global Internet
+http://103.59.44.33:2022#ID--AS138881 PT INDONESIA TRANS NETWORK
+http://116.97.240.147:4995#VN--AS7552 Viettel Group
 http://36.66.242.117:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://111.89.130.52:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
 http://80.66.81.26:4000#NL--AS208258 Access2.IT Group B.V.
 http://111.89.130.107:3128#JP--AS2514 NTT PC Communications, Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
 http://111.89.130.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://111.89.130.98:3128#JP--AS2514 NTT PC Communications, Inc.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.53:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
