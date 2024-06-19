@@ -1,23 +1,29 @@
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://117.250.3.58:8080#IN--AS9829 National Internet Backbone
+http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
+http://79.139.61.227:3128#HU--AS62214 Rackforest Zrt.
+http://157.100.60.170:999#EC--AS52468 UFINET PANAMA S.A.
 http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
 http://111.89.130.108:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.21.141.136:17005#US--AS206092 Internet Utilities Europe and Asia Limited
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://79.106.108.150:8079#AL--AS42313 ONE ALBANIA SH.A.
-http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://216.238.115.107:31280#BR--AS20473 The Constant Company, LLC
+http://34.29.236.147:3128#US--AS396982 Google LLC
+http://65.109.205.12:3128#FI--AS24940 Hetzner Online GmbH
 http://43.163.193.7:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
 http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
-http://65.49.194.127:8888#US--AS25820 IT7 Networks Inc
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.38.247:3128#JP--AS2514 NTT PC Communications, Inc.
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.87.169.170:32650#IN--AS55507 Tejays Dynamic Limited
-http://103.48.71.126:83#IN--AS136290 Country Online Services PVT LTD
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://20.249.92.222:8080#KR--AS8075 Microsoft Corporation
-http://65.21.141.136:17017#US--AS396356 Latitude.sh
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://103.87.212.140:8999#BD--AS136429 BAS Network
