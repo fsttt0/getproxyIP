@@ -1,22 +1,22 @@
-http://111.89.130.50:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://111.89.130.100:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.159.188.7:7777#NL--AS14576 Hosting Solution Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://38.156.23.230:999#DO--AS64134 VISNETWORK SRL
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://111.89.130.52:3128#JP--AS2514 NTT PC Communications, Inc.
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.91.115.133:80#ID--AS7713 PT Telekomunikasi Indonesia
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://190.94.212.36:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://87.242.123.92:8090#RU--AS208677 "Cloud Technologies" LLC trading as Cloud.ru
 http://111.89.130.107:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.10.231.189:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
-http://45.173.231.15:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://38.156.235.36:999#DO--AS267845 Exito Vision Cable S.A.S
-http://103.156.248.55:8080#ID--AS58821 PT Lintas Jaringan Nusantara
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://111.89.130.98:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.249.92.222:8080#KR--AS8075 Microsoft Corporation
-http://45.159.188.7:7777#NL--AS14576 Hosting Solution Ltd.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
+http://191.240.153.165:8080#BR--AS28165 Wireless Comm Services LTDA
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
