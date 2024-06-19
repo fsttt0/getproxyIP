@@ -1,15 +1,23 @@
-http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://178.233.140.211:3128#TR--AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.
-http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
-http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://104.238.234.48:3128#US--AS397731 EliteWork LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://111.89.130.108:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.21.141.136:17005#US--AS206092 Internet Utilities Europe and Asia Limited
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://79.106.108.150:8079#AL--AS42313 ONE ALBANIA SH.A.
 http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.163.193.7:3128#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
+http://65.49.194.127:8888#US--AS25820 IT7 Networks Inc
+http://161.34.38.247:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://103.87.169.170:32650#IN--AS55507 Tejays Dynamic Limited
+http://103.48.71.126:83#IN--AS136290 Country Online Services PVT LTD
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://65.21.141.136:17017#HK--AS206092 Internet Utilities Europe and Asia Limited
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.53:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.249.92.222:8080#KR--AS8075 Microsoft Corporation
+http://65.21.141.136:17017#US--AS396356 Latitude.sh
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://103.87.212.140:8999#BD--AS136429 BAS Network
