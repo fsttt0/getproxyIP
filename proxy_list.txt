@@ -1,2 +1,1 @@
-http://210.247.252.103:3128#ID--AS131745 PT. Cybertechtonic Pratama
-http://103.247.23.181:1111#ID--AS58485 WIFIAN ID
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
