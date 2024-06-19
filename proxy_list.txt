@@ -1,1 +1,23 @@
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://65.21.141.136:17032#SI--AS13213 UK-2 Limited
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://152.26.229.86:9443#US--AS81 MCNC
+http://45.188.164.3:999#MX--AS265605 VELOCOM SA DE CV
+http://178.233.140.211:3128#TR--AS47524 Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://5.9.148.144:8888#NO--AS9009 M247 Europe SRL
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://111.89.130.108:3128#JP--AS2514 NTT PC Communications, Inc.
+http://221.168.33.155:8080#KR--AS9526 KOSCOM
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://154.26.130.175:3128#SG--AS141995 Contabo Asia Private Limited
