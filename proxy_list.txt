@@ -1,27 +1,32 @@
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://180.214.179.92:9090#TW--AS18419 DaDa Broadband LTD.
+http://80.66.81.39:4000#PL--AS9009 M247 Europe SRL
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
-http://117.55.202.206:3128#NL--AS3920 ESTOXY OU
-http://111.89.130.50:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.98:3128#JP--AS2514 NTT PC Communications, Inc.
+http://181.65.139.232:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.120.167.109:8885#BD--AS134562 DISCOVERY INTERNET
+http://190.83.15.241:999#EC--AS269935 TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)
+http://111.89.130.101:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.189.96.232:80#JP--AS7506 GMO Internet,Inc
+http://103.230.49.132:8080#ID--AS140031 PT Mandala Lintas Nusa
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://121.151.223.163:1337#KR--AS4766 Korea Telecom
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://179.48.80.1:8082#BR--AS271241 Fbnet Telecom
+http://103.159.195.233:9091#ID--AS150970 PT Kalimasada Inti Sarana
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://77.242.22.225:8080#AL--AS35047 Abissnet sh.a.
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
