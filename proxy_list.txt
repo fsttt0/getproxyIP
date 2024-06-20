@@ -1,8 +1,16 @@
 http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://104.238.234.48:8800#US--AS397731 EliteWork LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://182.253.109.188:8080#ID--AS17451 BIZNET NETWORKS
-http://111.89.130.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
+http://112.198.129.234:8085#PH--AS132199 Globe Telecom Inc.
+http://119.18.149.110:5020#BD--AS45326 Broad Band Telecom Services Ltd
+http://111.89.130.98:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://45.231.170.137:999#MX--AS265547 GigNet, S.A. de C.V.
+http://103.156.217.101:1111#ID--AS58369 PT. Fiber Networks Indonesia
+http://182.253.109.188:8080#ID--AS17451 BIZNET NETWORKS
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://103.105.76.49:8080#ID--AS136874 PT. Garuda Media Telematika
+http://49.48.41.244:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
