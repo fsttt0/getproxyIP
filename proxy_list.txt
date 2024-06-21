@@ -1,1 +1,17 @@
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://180.214.179.92:9090#TW--AS18419 DaDa Broadband LTD.
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#DE--AS9009 M247 Europe SRL
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://91.173.236.172:3128#FR--AS12322 Free SAS
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://106.227.87.11:3128#CN--AS149837 China Telecom
+http://58.210.227.210:8088#CN--AS4134 CHINANET-BACKBONE
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
