@@ -1,31 +1,29 @@
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.82.105.122:43949#CL--AS15311 TELEFONICA EMPRESAS CHILE SA
+http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.137.160.186:8090#BD--AS138953 Top Network
+http://5.9.148.144:8888#DE--AS9009 M247 Europe SRL
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://103.36.11.246:8181#ID--AS133360 PT Awinet Global Mandiri
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://80.91.27.209:3128#RU--AS15493 "Russian company" LLC
+http://103.220.206.138:59417#BD--AS59362 KS Network Limited
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
-http://200.39.120.45:999#MX--AS265606 DIGY NETWORKS
-http://103.191.129.126:8080#ID--AS149920 PT Metro Ring Bersama
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://111.89.130.53:3128#JP--AS2514 NTT PC Communications, Inc.
-http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://111.89.130.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://13.52.98.218:3128#US--AS16509 Amazon.com, Inc.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://103.179.46.49:6789#IN--AS138296 Juweriyah Networks Private Limited
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://150.107.136.205:39843#ID--AS23679 PT. Media Antar Nusa
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://36.37.86.26:9812#ID--AS4800 PT Aplikanusa Lintasarta
 http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://5.9.148.144:8888#DE--AS9009 M247 Europe SRL
+http://111.89.130.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://111.89.130.54:3128#JP--AS2514 NTT PC Communications, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
+http://67.43.228.253:15895#PH--AS9299 Philippine Long Distance Telephone Company
 http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://102.66.104.29:8080#ZA--AS328471 HERO TELECOMS (PTY) LTD
+http://77.242.22.225:8080#AL--AS35047 Abissnet sh.a.
