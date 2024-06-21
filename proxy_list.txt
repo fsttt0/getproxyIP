@@ -1,26 +1,15 @@
-http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://190.14.10.19:999#GT--AS23243 COMCEL GUATEMALA S.A.
-http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://45.167.44.64:65423#BR--AS268050 SUPRINET SOLUCOES EM INTERNET LTDA
-http://103.107.84.124:8080#ID--AS136879 DELAPAN BIT
-http://170.80.242.78:999#MX--AS265525 TV CABLE DEL GUADIANA S.A DE C.V.
-http://111.89.130.49:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.65.227.161:999#AR--AS266725 SOLUTION LAN S.A
-http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.106:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.52:3128#JP--AS2514 NTT PC Communications, Inc.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://111.89.130.102:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.180.196.141:8080#ID--AS149369 PT Dekadata Lingkar Nusantara
-http://111.89.130.104:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://140.227.143.196:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.184.131:3128#JP--AS2514 NTT PC Communications, Inc.
 http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://113.161.187.190:8080#VN--AS45899 VNPT Corp
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://111.89.130.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.100:3128#JP--AS2514 NTT PC Communications, Inc.
+http://69.160.223.225:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://111.89.130.99:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://122.3.41.154:8090#PH--AS9299 Philippine Long Distance Telephone Company
+http://45.176.92.156:999#DO--AS267845 Exito Vision Cable S.A.S
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
