@@ -1,3 +1,17 @@
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://67.43.228.253:15233#AE--AS15802 Emirates Integrated Telecommunications Company PJSC
+http://177.103.219.51:3128#BR--AS27699 TELEFÔNICA BRASIL S.A
+http://13.52.98.218:3128#US--AS16509 Amazon.com, Inc.
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://111.89.130.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#DE--AS9009 M247 Europe SRL
+http://111.89.130.54:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.235.104.105:3729#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
