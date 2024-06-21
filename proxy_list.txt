@@ -1,13 +1,17 @@
-http://190.83.15.241:999#EC--AS269935 TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)
-http://114.132.202.78:8080#CN--AS45090 Shenzhen Tencent Computer Systems Company Limited
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://111.89.130.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.57:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#CH--AS9009 M247 Europe SRL
+http://111.89.130.56:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.52:3128#JP--AS2514 NTT PC Communications, Inc.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://41.86.252.90:443#BJ--AS37090 ISOCEL SA
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://102.222.51.105:8080#ZA--AS327750 JENNY INTERNET (PTY) LTD
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://201.251.61.143:8080#AR--AS22927 Telefonica de Argentina
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://148.72.173.18:30127#HU--AS9009 M247 Europe SRL
-http://111.89.130.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.89.130.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://140.227.143.227:3128#JP--AS2514 NTT PC Communications, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://79.106.170.34:8989#AL--AS42313 ONE ALBANIA SH.A.
+http://111.89.130.99:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://140.227.143.196:3128#JP--AS2514 NTT PC Communications, Inc.
+http://216.122.181.234:999#DO--AS273162 PELLEGRINI SKYNET SOLUTIONS SRL
