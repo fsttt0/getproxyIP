@@ -1,23 +1,25 @@
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
+http://181.204.39.202:26312#CO--AS27831 Colombia Móvil
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://161.34.38.220:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.6.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.129.166.122:3128#US--AS174 Cogent Communications
 http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://36.93.130.219:66#ID--AS7713 PT Telekomunikasi Indonesia
-http://160.248.8.175:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.186.90.18:8080#ID--AS149707 PT Akses Data Internusa
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://62.103.66.18:3128#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
 http://5.9.148.144:8888#SG--AS9009 M247 Europe SRL
 http://160.248.9.43:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.0.197:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.184.131:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://182.253.109.205:8080#ID--AS17451 BIZNET NETWORKS
+http://93.123.16.188:3128#BG--AS9028 OHOST LLC
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://160.248.6.135:3128#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://124.167.20.48:7777#CN--AS4837 CHINA UNICOM China169 Backbone
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
