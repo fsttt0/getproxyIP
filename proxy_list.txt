@@ -1,22 +1,30 @@
-http://156.240.111.19:59145#HK--AS140227 Hong Kong Communications International Co., Limited
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://161.34.38.220:3128#JP--AS2514 NTT PC Communications, Inc.
+http://115.241.146.122:3129#IN--AS55836 Reliance Jio Infocomm Limited
 http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
 http://182.253.109.205:8080#ID--AS17451 BIZNET NETWORKS
+http://160.248.5.99:3128#JP--AS2514 NTT PC Communications, Inc.
 http://5.9.148.144:8888#GB--AS9009 M247 Europe SRL
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://103.80.230.21:8080#ID--AS151582 PT Dream Network Solusindo
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://14.162.146.186:19132#VN--AS45899 VNPT Corp
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://45.239.30.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://160.248.184.131:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://163.172.33.137:5678#NL--AS62240 Clouvider
-http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://160.248.7.50:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://160.248.7.60:3128#JP--AS2514 NTT PC Communications, Inc.
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://101.255.148.86:8085#ID--AS38511 PT Remala Abadi
+http://43.153.214.81:9999#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://170.239.207.78:8080#CO--AS265629 FIBERNET
+http://97.76.251.138:8080#US--AS33363 Charter Communications, Inc
 http://160.248.5.46:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.133.63.134:8181#ID--AS138134 PT Tunas Link Indonesia
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
-http://160.248.9.43:3128#JP--AS2514 NTT PC Communications, Inc.
-http://112.197.3.200:8080#VN--AS45543 SaiGon Tourist cable Televition Company
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
