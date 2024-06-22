@@ -1,3 +1,5 @@
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://193.138.178.6:8282#RU--AS34241 New Communication Technologies LLC
-http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
