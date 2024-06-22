@@ -1,14 +1,10 @@
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://103.239.175.90:1111#IN--AS138225 One Eight Technologies Private Limited
+http://181.10.160.155:8080#AR--AS7303 Telecom Argentina S.A.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://163.44.0.85:3128#JP--AS2514 NTT PC Communications, Inc.
+http://64.157.16.84:8080#US--AS3356 Level 3 Parent, LLC
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://217.182.194.108:3128#BE--AS16276 OVH SAS
+http://140.227.143.136:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.205:8080#ID--AS17451 BIZNET NETWORKS
-http://160.248.187.195:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.5.99:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.9.148.144:8888#GB--AS9009 M247 Europe SRL
-http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://72.204.225.85:20805#US--AS21928 T-Mobile USA, Inc.
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://93.123.16.188:3128#BG--AS9028 OHOST LLC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
