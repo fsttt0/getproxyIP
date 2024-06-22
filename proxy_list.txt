@@ -1,8 +1,11 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://81.161.121.114:8080#RU--AS59475 Electron-Service Ltd.
-http://152.26.229.86:9443#US--AS81 MCNC
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
-http://160.248.5.99:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.81.174:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.234.27.78:9990#BD--AS38200 BTS Communications (BD) ltd,
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://34.84.14.127:3128#JP--AS396982 Google LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://45.184.152.97:999#AR--AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)
+http://103.153.35.87:3127#ID--AS140452 PT Jaya Media Expres
+http://103.84.177.246:8084#PH--AS136244 Panay Broadband / Buenavista Cable TV Inc.
