@@ -1,21 +1,28 @@
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://103.170.64.128:80#IN--AS142449 DREAM CABLES
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://170.80.242.78:999#MX--AS265525 TV CABLE DEL GUADIANA S.A DE C.V.
+http://160.248.5.46:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.107.84.124:8080#ID--AS136879 DELAPAN BIT
+http://117.121.205.254:8899#ID--AS46029 PT. SEKAWAN GLOBAL KOMUNIKA
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://161.34.38.220:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.6.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.38.122:3128#JP--AS2514 NTT PC Communications, Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://160.248.8.175:3128#JP--AS2514 NTT PC Communications, Inc.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://5.9.148.144:8888#GB--AS9009 M247 Europe SRL
+http://160.248.9.43:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.0.197:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.248.184.131:3128#JP--AS2514 NTT PC Communications, Inc.
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://160.248.6.135:3128#JP--AS2514 NTT PC Communications, Inc.
+http://115.124.75.58:8080#ID--AS38511 PT Remala Abadi
 http://182.253.109.205:8080#ID--AS17451 BIZNET NETWORKS
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
 http://123.31.19.244:3128#VN--AS45899 VNPT Corp
