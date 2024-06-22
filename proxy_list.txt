@@ -1,5 +1,21 @@
-http://84.51.15.254:32650#TR--AS34984 Superonline Iletisim Hizmetleri A.S.
-http://111.89.130.103:3128#JP--AS2514 NTT PC Communications, Inc.
-http://222.216.37.138:808#CN--AS4134 CHINANET-BACKBONE
-http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://163.172.33.137:5678#NL--AS62240 Clouvider
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
