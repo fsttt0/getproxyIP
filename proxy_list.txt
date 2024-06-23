@@ -1,11 +1,11 @@
+http://104.232.134.24:5678#US--AS22552 eSited Solutions
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://183.103.170.34:1001#KR--AS4766 Korea Telecom
-http://167.88.175.18:34567#SG--AS14956 RouterHosting LLC
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://182.253.109.205:8080#ID--AS17451 BIZNET NETWORKS
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
