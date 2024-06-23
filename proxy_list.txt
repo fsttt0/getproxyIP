@@ -1,1 +1,11 @@
-http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://104.194.152.30:34567#SG--AS14956 RouterHosting LLC
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://104.194.152.36:34567#SG--AS14956 RouterHosting LLC
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://34.214.74.191:443#US--AS16509 Amazon.com, Inc.
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
+http://172.245.12.53:34567#US--AS36352 HostPapa
