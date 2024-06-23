@@ -1,46 +1,32 @@
-http://193.105.123.194:8123#AZ--AS209360 Bulud Telecom LLC
-http://172.245.12.62:34567#US--AS36352 HostPapa
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.154.36.129:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://124.105.24.80:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://213.19.123.178:229#CZ--AS28851 Nordic Telecom Regional s.r.o.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://170.239.205.10:8080#CO--AS265629 FIBERNET
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.73.93.227:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://217.182.194.108:3128#BE--AS16276 OVH SAS
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://172.245.10.130:34567#US--AS36352 HostPapa
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.245.10.132:34567#US--AS36352 HostPapa
 http://172.245.10.133:34567#US--AS36352 HostPapa
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://178.62.233.42:3128#NL--AS14061 DigitalOcean, LLC
+http://163.172.33.137:5678#NL--AS62240 Clouvider
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
+http://43.153.93.14:18088#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://128.199.158.69:3128#SG--AS14061 DigitalOcean, LLC
+http://152.32.148.233:3128#US--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 http://27.147.130.65:58080#BD--AS23688 Link3 Technologies Ltd.
 http://103.148.192.82:9012#ID--AS139995 PT. Akashia Thuba Jaya
+http://209.14.119.209:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
-http://36.91.135.141:40#ID--AS7713 PT Telekomunikasi Indonesia
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://172.245.10.130:34567#US--AS36352 HostPapa
 http://5.9.148.144:8888#US--AS63018 Dedicated.com
 http://136.239.176.85:8080#PH--AS17639 Converge ICT Solutions Inc.
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://148.72.173.18:30127#HU--AS9009 M247 Europe SRL
+http://203.194.108.23:3129#IN--AS45117 Ishan's Network
+http://186.97.192.61:999#CO--AS27831 Colombia Móvil
+http://119.2.52.152:8282#ID--AS55666 PT Media Sarana Data
 http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
-http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
-http://80.78.65.230:8080#AL--AS21183 Vodafone Albania Sh.A.
-http://172.245.12.56:34567#US--AS36352 HostPapa
-http://172.245.10.131:34567#US--AS36352 HostPapa
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://49.7.38.123:45212#CN--AS23724 IDC, China Telecommunications Corporation
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://106.227.87.11:3128#CN--AS149837 China Telecom
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
