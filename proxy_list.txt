@@ -1,39 +1,33 @@
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://203.194.108.23:3129#IN--AS45117 Ishan's Network
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://172.245.10.132:34567#US--AS36352 HostPapa
+http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
 http://172.245.12.61:34567#US--AS36352 HostPapa
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://172.245.12.58:34567#US--AS36352 HostPapa
 http://104.194.152.29:34567#SG--AS14956 RouterHosting LLC
-http://186.148.175.118:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://172.245.10.133:34567#US--AS36352 HostPapa
+http://172.245.10.130:34567#US--AS36352 HostPapa
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://172.245.12.62:34567#US--AS36352 HostPapa
+http://172.245.12.56:34567#US--AS36352 HostPapa
+http://103.48.71.50:83#IN--AS136290 Country Online Services PVT LTD
+http://103.166.33.110:1111#ID--AS141929 PT Daniswara Citra Informatika
+http://114.130.86.145:5443#BD--AS132608 Mango Teleservices Limited (ISP)
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://5.44.101.53:13128#DE--AS45012 dogado GmbH
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://180.149.221.251:8080#PK--AS136030 Redtone Telecommunications Pakistan (Private) Limited
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.83.0.38:8085#ID--AS150252 PT Kia Integrasi Akses
+http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://170.239.205.9:8080#CO--AS265629 FIBERNET
 http://15.204.151.142:31158#US--AS16276 OVH SAS
 http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.155.197.117:7777#ID--AS141071 PT Jembatan Data Pangrango
 http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.245.12.58:34567#US--AS36352 HostPapa
 http://34.172.92.211:3128#US--AS396982 Google LLC
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://172.245.10.133:34567#US--AS36352 HostPapa
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://172.245.12.56:34567#US--AS36352 HostPapa
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://172.245.10.131:34567#US--AS36352 HostPapa
-http://94.70.195.145:8080#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
-http://103.171.245.14:8080#ID--AS141674 PT Data Arta Sedaya
-http://58.147.186.31:3125#ID--AS24534 PT. Transhybrid Communication
-http://103.25.210.102:3319#ID--AS132653 PT Transdata Sejahtera
-http://109.205.126.6:8080#LV--AS28699 Unistar
-http://202.191.123.228:58080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
-http://103.231.236.14:8080#ID--AS150964 PT Level Indodata Teknologi
-http://104.232.134.24:5678#US--AS22552 eSited Solutions
-http://103.165.155.195:2016#ID--AS141921 PT Jaringan Keluarga Bersama
-http://103.247.23.189:8080#ID--AS58485 WIFIAN ID
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://45.142.104.233:5555#DE--AS49581 Ferdinand Zink trading as Tube-Hosting
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
