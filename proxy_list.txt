@@ -1,13 +1,24 @@
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://172.245.12.55:34567#US--AS36352 HostPapa
-http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
-http://172.245.10.133:34567#US--AS36352 HostPapa
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://172.245.10.130:34567#US--AS36352 HostPapa
+http://161.35.214.176:36000#DE--AS14061 DigitalOcean, LLC
 http://172.245.10.132:34567#US--AS36352 HostPapa
-http://104.194.152.29:34567#SG--AS14956 RouterHosting LLC
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.137.83.120:8080#ID--AS138828 PT TELIO INTI NUSA
-http://221.140.235.237:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
+http://172.245.12.55:34567#US--AS36352 HostPapa
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://172.245.10.130:34567#US--AS36352 HostPapa
+http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://172.245.10.133:34567#US--AS36352 HostPapa
+http://5.161.203.26:3128#US--AS213230 Hetzner Online GmbH
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://49.7.38.151:45149#CN--AS23724 IDC, China Telecommunications Corporation
+http://49.7.38.151:45212#CN--AS23724 IDC, China Telecommunications Corporation
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://58.210.227.210:8088#CN--AS4134 CHINANET-BACKBONE
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://212.46.210.226:8080#RU--AS3216 PJSC "Vimpelcom"
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
