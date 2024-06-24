@@ -1,22 +1,13 @@
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
-http://172.245.12.55:34567#US--AS36352 HostPapa
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://34.172.92.211:3128#US--AS396982 Google LLC
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://128.92.239.190:8080#US--AS20115 Charter Communications
+http://114.9.24.162:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://38.188.249.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://142.93.142.36:9122#NL--AS14576 Hosting Solution Ltd.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://103.250.130.106:8085#ID--AS151555 PT Jawara Lintas Data Nusantara
+http://23.237.145.36:31288#US--AS174 Cogent Communications
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://106.227.87.11:3128#CN--AS149837 China Telecom
-http://152.26.229.86:9443#US--AS81 MCNC
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
+http://190.82.105.122:43949#CL--AS15311 TELEFONICA EMPRESAS CHILE SA
