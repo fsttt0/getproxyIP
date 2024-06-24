@@ -1,23 +1,20 @@
-http://189.240.60.171:9090#MX--AS8151 UNINET
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://49.7.38.151:45212#CN--AS23724 IDC, China Telecommunications Corporation
-http://128.199.158.69:8080#SG--AS14061 DigitalOcean, LLC
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://104.194.152.29:34567#SG--AS14956 RouterHosting LLC
-http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://5.9.148.144:8888#US--AS9009 M247 Europe SRL
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://172.245.12.55:34567#US--AS36352 HostPapa
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://172.245.10.133:34567#US--AS36352 HostPapa
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
 http://172.245.10.130:34567#US--AS36352 HostPapa
-http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
-http://116.110.28.174:4000#VN--AS24086 Viettel Corporation
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://189.240.60.169:9090#MX--AS8151 UNINET
+http://172.245.10.132:34567#US--AS36352 HostPapa
+http://104.194.152.29:34567#SG--AS14956 RouterHosting LLC
+http://182.191.84.39:80#PK--AS17557 Pakistan Telecommunication Company Limited
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://186.215.87.194:6032#BR--AS4230 CLARO S.A.
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://221.140.235.236:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
