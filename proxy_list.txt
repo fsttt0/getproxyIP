@@ -1,13 +1,8 @@
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://212.128.70.78:80#ES--AS766 Entidad Publica Empresarial Red.es
+http://36.64.52.226:8081#ID--AS7713 PT Telekomunikasi Indonesia
+http://45.70.238.189:999#EC--AS52468 UFINET PANAMA S.A.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://128.92.239.190:8080#US--AS20115 Charter Communications
-http://114.9.24.162:8080#ID--AS4761 INDOSAT Internet Network Provider
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://38.188.249.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
-http://142.93.142.36:9122#NL--AS14576 Hosting Solution Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://103.250.130.106:8085#ID--AS151555 PT Jawara Lintas Data Nusantara
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
-http://190.82.105.122:43949#CL--AS15311 TELEFONICA EMPRESAS CHILE SA
