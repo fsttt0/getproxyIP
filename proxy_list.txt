@@ -1,30 +1,45 @@
-http://103.158.27.83:1212#ID--AS141675 PT Madina Solusi Indonesia
 http://38.91.101.96:8850#US--AS63023 GTHost
+http://109.236.91.104:3128#NL--AS49981 WorldStream B.V.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://102.134.166.11:80#BW--AS327776 STATURE (PTY) LTD
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://103.172.42.93:1111#ID--AS142393 PT Media Solusi Sukses
+http://103.160.184.158:8080#ID--AS139952 PT Trisari Data Indonusa
+http://196.43.178.65:3128#UG--AS327687 Research and Education Network for Uganda
 http://34.172.92.211:3128#US--AS396982 Google LLC
-http://91.185.84.228:3128#RU--AS60490 MTS PJSC
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://162.251.233.74:3128#US--AS53340 VegasNAP, LLC
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://115.241.146.122:3129#IN--AS55836 Reliance Jio Infocomm Limited
 http://15.204.151.142:31158#US--AS16276 OVH SAS
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://211.253.36.172:5008#KR--AS4766 Korea Telecom
 http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
+http://165.16.27.42:1981#LY--AS37284 Aljeel Aljadeed For Technology
+http://116.97.240.147:4995#VN--AS7552 Viettel Group
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
 http://23.237.145.36:31288#US--AS174 Cogent Communications
 http://5.9.148.144:8888#DE--AS9009 M247 Europe SRL
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://103.182.79.141:8080#ID--AS149665 PT Cybernet Data Multimedia
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://187.49.124.10:666#BR--AS28144 G3 TELECOM
+http://201.20.65.234:9896#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
+http://144.91.111.4:3128#DE--AS51167 Contabo GmbH
+http://178.71.222.49:8080#RU--AS12389 PJSC Rostelecom
+http://198.99.81.198:8080#US--AS397142 City of Fort Collins
+http://20.122.126.40:7979#US--AS8075 Microsoft Corporation
+http://141.145.204.7:3128#FR--AS31898 Oracle Corporation
+http://187.204.18.213:8081#MX--AS8151 UNINET
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://43.130.146.142:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.44.101.53:13128#DE--AS45012 dogado GmbH
 http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://27.147.130.65:58080#BD--AS23688 Link3 Technologies Ltd.
-http://43.252.236.158:8080#ID--AS55701 PT. Usaha Adisanggoro
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://45.167.44.64:65423#BR--AS268050 SUPRINET SOLUCOES EM INTERNET LTDA
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
