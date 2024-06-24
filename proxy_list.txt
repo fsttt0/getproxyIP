@@ -1,20 +1,13 @@
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://221.140.235.237:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
 http://172.245.12.55:34567#US--AS36352 HostPapa
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
+http://172.245.10.133:34567#US--AS36352 HostPapa
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://221.140.235.236:5002#JP--AS206092 Internet Utilities Europe and Asia Limited
 http://172.245.10.130:34567#US--AS36352 HostPapa
 http://172.245.10.132:34567#US--AS36352 HostPapa
 http://104.194.152.29:34567#SG--AS14956 RouterHosting LLC
-http://182.191.84.39:80#PK--AS17557 Pakistan Telecommunication Company Limited
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.137.83.120:8080#ID--AS138828 PT TELIO INTI NUSA
+http://221.140.235.237:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
 http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://186.215.87.194:6032#BR--AS4230 CLARO S.A.
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://221.140.235.236:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.44.190.150:3129#JP--AS8075 Microsoft Corporation
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
