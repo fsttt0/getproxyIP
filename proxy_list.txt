@@ -1,6 +1,2 @@
-http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
-http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.70.201.253:999#EC--AS52468 UFINET PANAMA S.A.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://45.239.28.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
