@@ -1,22 +1,12 @@
-http://191.242.111.195:8080#BR--AS263476 V W INTERNET
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://5.9.148.144:8888#AT--AS9009 M247 Europe SRL
+http://185.89.156.2:44224#AL--AS198279 Albanian Telecommunications Union SH. P.K.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://190.121.239.195:999#VE--AS27717 Corporacion Digitel C.A.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://124.106.66.194:8080#PH--AS9299 Philippine Long Distance Telephone Company
 http://27.147.130.65:58080#BD--AS23688 Link3 Technologies Ltd.
-http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://103.41.250.97:8080#ID--AS58369 PT. Fiber Networks Indonesia
-http://103.165.218.234:8085#ID--AS17995 PT iForte Global Internet
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://91.136.142.155:8080#DE--AS41585 ELEMENTMEDIA GmbH
-http://161.34.37.93:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
+http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
