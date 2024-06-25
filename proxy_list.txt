@@ -1,4 +1,3 @@
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.222.83.146:999#BO--AS25620 COTAS LTDA.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
