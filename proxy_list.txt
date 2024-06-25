@@ -1,2 +1,8 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://45.239.28.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
+http://23.237.145.36:31288#US--AS174 Cogent Communications
+http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://20.93.21.223:9000#IE--AS8075 Microsoft Corporation
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
