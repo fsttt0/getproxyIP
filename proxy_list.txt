@@ -1,37 +1,8 @@
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://149.28.147.110:10000#SG--AS20473 The Constant Company, LLC
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://109.236.91.104:3128#NL--AS49981 WorldStream B.V.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://106.227.87.11:3128#CN--AS149837 China Telecom
+http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://103.74.122.162:6868#VN--AS135967 Bach Kim Network solutions Join stock company
-http://172.245.12.55:34567#US--AS36352 HostPapa
+http://212.46.210.226:8080#RU--AS3216 PJSC "Vimpelcom"
+http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
