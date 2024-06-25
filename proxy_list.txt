@@ -1,8 +1,1 @@
-http://106.227.87.11:3128#CN--AS149837 China Telecom
-http://51.145.176.250:8080#NL--AS8075 Microsoft Corporation
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://31.45.237.146:8080#HR--AS12810 A1 Hrvatska d.o.o.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://212.46.210.226:8080#RU--AS3216 PJSC "Vimpelcom"
-http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://221.140.235.236:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
