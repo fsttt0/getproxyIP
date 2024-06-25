@@ -1,33 +1,4 @@
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
-http://221.140.235.236:5001#JP--AS206092 Internet Utilities Europe and Asia Limited
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://172.245.12.55:34567#US--AS36352 HostPapa
-http://197.5.153.4:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.129.166.122:3128#US--AS174 Cogent Communications
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://109.236.91.104:3128#NL--AS49981 WorldStream B.V.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://103.88.90.70:8080#ID--AS150222 PT Paket Switch Bersama
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://75.119.130.35:3128#DE--AS51167 Contabo GmbH
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.222.83.146:999#BO--AS25620 COTAS LTDA.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
