@@ -1,17 +1,6 @@
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://197.5.153.3:8000#TN--AS327934 SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
-http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
-http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
+http://45.79.43.178:6969#US--AS63949 Akamai Connected Cloud
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://45.70.201.253:999#EC--AS52468 UFINET PANAMA S.A.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
