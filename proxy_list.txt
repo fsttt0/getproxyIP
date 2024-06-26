@@ -1,24 +1,16 @@
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://188.93.247.27:8084#RU--AS31376 Smart Telecom Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.80.99:3128#JP--AS2514 NTT PC Communications, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://160.248.81.140:3128#JP--AS2514 NTT PC Communications, Inc.
+http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
+http://103.147.246.184:3127#ID--AS139972 PT. Putra Lebak Banten
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://174.138.16.39:3128#SG--AS14061 DigitalOcean, LLC
-http://150.239.111.249:3128#US--AS36351 SoftLayer Technologies Inc.
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://158.177.111.146:31288#DE--AS36351 SoftLayer Technologies Inc.
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://201.144.25.10:8080#MX--AS8151 UNINET
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://45.177.80.234:8080#AR--AS267897 WABCOM S.A.S.
-http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
-http://66.23.195.93:3128#US--AS398395 Dot-Tech LLC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://87.239.168.52:3128#PL--AS50467 Beskid Media Sp. z o.o.
-http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
