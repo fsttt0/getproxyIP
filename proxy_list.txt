@@ -1,10 +1,12 @@
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://183.103.170.34:1001#KR--AS4766 Korea Telecom
-http://103.165.218.234:8085#ID--AS17995 PT iForte Global Internet
-http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
+http://5.9.148.144:8888#US--AS11878 tzulo, inc.
+http://200.194.191.4:58080#BR--AS271641 ANDERSON L. DA SILVA MULTIMÍDIA - @NET
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://163.44.0.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://217.25.95.220:8443#PL--AS9123 TimeWeb Ltd.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://103.160.205.86:8080#ID--AS141595 PT Akbar Prima Media
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://5.9.148.144:8888#US--AS63018 Dedicated.com
