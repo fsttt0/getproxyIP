@@ -1,16 +1,27 @@
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://211.253.36.172:5008#KR--AS4766 Korea Telecom
+http://38.51.243.137:999#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://85.94.24.29:1488#RU--AS25515 PJSC Rostelecom
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://161.34.39.158:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
+http://188.132.222.46:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://200.194.191.4:58080#BR--AS271641 ANDERSON L. DA SILVA MULTIMÍDIA - @NET
+http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://161.34.39.156:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.248.90.225:3128#JP--AS2514 NTT PC Communications, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
 http://188.93.247.27:8084#RU--AS31376 Smart Telecom Limited
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.160:3128#JP--AS2514 NTT PC Communications, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.80.99:3128#JP--AS2514 NTT PC Communications, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://160.248.81.140:3128#JP--AS2514 NTT PC Communications, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
-http://103.147.246.184:3127#ID--AS139972 PT. Putra Lebak Banten
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://102.68.129.54:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
