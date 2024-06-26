@@ -1,8 +1,32 @@
-http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://160.248.188.252:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://38.129.166.122:3128#US--AS174 Cogent Communications
+http://41.220.134.11:8080#TZ--AS36909 Habari Node Public Limited
+http://212.174.15.142:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://23.237.145.36:31288#US--AS174 Cogent Communications
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://20.119.77.88:8199#US--AS8075 Microsoft Corporation
 http://172.245.12.55:34567#US--AS36352 HostPapa
-http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://160.248.80.99:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.9.148.144:8888#CA--AS32489 Amanah Tech Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://172.245.10.132:34567#US--AS36352 HostPapa
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
+http://103.231.239.166:58080#BD--AS63526 Systems Solutions & development Technologies Limited
 http://172.245.10.130:34567#US--AS36352 HostPapa
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
