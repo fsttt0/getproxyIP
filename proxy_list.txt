@@ -1,16 +1,21 @@
-http://160.248.188.251:3128#JP--AS2514 NTT PC Communications, Inc.
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://160.248.187.149:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.199.117.98:8080#ID--AS150924 PT Hepra Teknologi Indonesia
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://181.205.251.115:999#CO--AS27831 Colombia Móvil
+http://160.248.80.99:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.93.235.76:80#IN--AS45820 Tata Teleservices ISP AS
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
 http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
+http://134.122.5.219:3128#US--AS14061 DigitalOcean, LLC
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://160.248.90.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.188.251:3128#JP--AS2514 NTT PC Communications, Inc.
+http://178.217.168.164:55443#KG--AS197119 KRENA - Kyrgyz research and education network association
+http://162.251.233.74:3128#US--AS53340 VegasNAP, LLC
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://103.239.253.106:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://200.194.191.4:58080#BR--AS271641 ANDERSON L. DA SILVA MULTIMÍDIA - @NET
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://181.196.254.201:999#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
