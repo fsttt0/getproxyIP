@@ -1,10 +1,16 @@
-http://45.7.64.100:999#MX--AS270143 MAYSNET SA DE CV
+http://160.248.188.251:3128#JP--AS2514 NTT PC Communications, Inc.
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://179.60.129.195:8080#BR--AS270672 MP INFORMATICA LTDA
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://160.248.187.149:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.199.117.98:8080#ID--AS150924 PT Hepra Teknologi Indonesia
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://5.9.148.144:8888#SE--AS51430 AltusHost B.V.
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://208.67.28.28:58090#US--AS174 Cogent Communications
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://158.177.111.146:31288#DE--AS36351 SoftLayer Technologies Inc.
+http://45.70.238.186:999#EC--AS52468 UFINET PANAMA S.A.
+http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://181.205.251.115:999#CO--AS27831 Colombia Móvil
+http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
