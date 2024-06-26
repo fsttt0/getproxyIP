@@ -1,21 +1,18 @@
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://160.248.80.99:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.93.235.76:80#IN--AS45820 Tata Teleservices ISP AS
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
-http://134.122.5.219:3128#US--AS14061 DigitalOcean, LLC
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://41.254.52.105:1981#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://160.248.90.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.188.251:3128#JP--AS2514 NTT PC Communications, Inc.
-http://178.217.168.164:55443#KG--AS197119 KRENA - Kyrgyz research and education network association
-http://162.251.233.74:3128#US--AS53340 VegasNAP, LLC
+http://160.248.185.11:3128#JP--AS2514 NTT PC Communications, Inc.
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://190.82.105.122:43949#CL--AS15311 TELEFONICA EMPRESAS CHILE SA
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://103.239.253.106:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://200.194.191.4:58080#BR--AS271641 ANDERSON L. DA SILVA MULTIMÍDIA - @NET
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://181.196.254.201:999#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://38.123.79.3:999#MX--AS174 Cogent Communications
+http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://35.212.237.127:3128#US--AS396982 Google LLC
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
