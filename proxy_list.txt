@@ -1,49 +1,35 @@
-http://211.222.177.81:3128#KR--AS4766 Korea Telecom
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
+http://158.177.111.146:31288#DE--AS36351 SoftLayer Technologies Inc.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://209.97.149.157:80#US--AS14061 DigitalOcean, LLC
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
+http://183.103.170.34:1001#KR--AS4766 Korea Telecom
 http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://57.128.159.224:8005#GB--AS16276 OVH SAS
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.119.77.88:8231#US--AS8075 Microsoft Corporation
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.40.142.236:3128#IT--AS49367 Seflow s.r.l.
-http://23.237.145.36:31288#US--AS174 Cogent Communications
+http://139.162.224.37:3128#GB--AS63949 Akamai Connected Cloud
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
 http://172.245.12.54:34567#US--AS36352 HostPapa
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
 http://81.173.84.146:3128#AT--AS47692 Nessus GmbH
-http://161.34.39.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.94.212.222:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://157.15.80.20:7777#ID--AS152384 PT Digitama Network Indonesia
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://176.105.220.74:3129#UA--AS24812 NPK Home-Net Ltd.
-http://77.37.244.119:8080#RU--AS42610 PJSC Rostelecom
-http://201.71.2.49:999#VE--AS3549 Level 3 Parent, LLC
-http://157.90.203.104:12988#DE--AS24940 Hetzner Online GmbH
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://114.9.24.198:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://110.34.1.178:7777#NP--AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://177.130.63.80:8080#BR--AS52747 Wsp Serviços de Telecomunicações Ltda
-http://27.147.138.131:58080#BD--AS23688 Link3 Technologies Ltd.
-http://190.121.239.195:999#VE--AS27717 Corporacion Digitel C.A.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://38.156.15.160:999#MX--AS265622 WISTARIP S DE RL DE CV
+http://191.241.184.61:40033#BR--AS263677 Netglória Serviços de Internet Ltda
+http://157.66.16.40:8080#ID--AS136089 PT Mitra Mandiri Network
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://103.53.78.26:8080#ID--AS133817 PT Inti Data Telematika
+http://200.118.152.126:3128#CO--AS10620 Telmex Colombia S.A.
+http://190.128.248.134:999#PY--AS23201 Telecel S.A.
+http://71.14.23.121:8080#US--AS20115 Charter Communications
+http://190.109.168.196:8080#CO--AS27695 EDATEL S.A. E.S.P
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
