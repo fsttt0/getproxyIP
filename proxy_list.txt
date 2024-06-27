@@ -1,20 +1,9 @@
-http://103.156.16.236:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://161.34.37.90:3128#JP--AS2514 NTT PC Communications, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
-http://188.93.247.27:8084#RU--AS31376 Smart Telecom Limited
-http://103.242.107.146:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://188.132.222.46:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://158.177.111.146:31288#DE--AS36351 SoftLayer Technologies Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.186.169:3128#JP--AS2514 NTT PC Communications, Inc.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://160.248.90.225:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
+http://38.188.249.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://160.248.91.64:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
