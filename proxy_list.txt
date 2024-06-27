@@ -1,20 +1,9 @@
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://72.10.164.178:23529#JP--AS2516 KDDI CORPORATION
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://190.122.185.170:999#GT--AS22869 CABLECOLOR S.A.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://181.204.156.66:41890#CO--AS27831 Colombia Móvil
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://160.248.91.87:3128#JP--AS2514 NTT PC Communications, Inc.
-http://203.128.73.122:8910#ID--AS18103 Neuviz Net
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
