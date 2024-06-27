@@ -1,9 +1,9 @@
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://121.126.128.100:45212#KR--AS4766 Korea Telecom
-http://38.188.249.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
-http://160.248.91.64:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://188.93.247.27:8084#RU--AS31376 Smart Telecom Limited
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://62.236.76.83:8085#FI--AS16086 DNA Oyj
+http://172.245.12.55:34567#US--AS36352 HostPapa
