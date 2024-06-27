@@ -1,52 +1,23 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://172.245.12.55:34567#US--AS36352 HostPapa
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://5.9.148.144:8888#NL--AS49453 Global Layer B.V.
-http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://161.34.39.158:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://181.58.31.201:8080#CO--AS10620 Telmex Colombia S.A.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://200.39.120.44:999#MX--AS265606 DIGY NETWORKS
-http://161.34.39.156:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://72.10.160.92:22751#VE--AS263703 VIGINET C.A
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://131.100.48.105:999#CO--AS270062 FIBERNET TV SAS
-http://159.69.203.183:3128#GB--AS25369 Hydra Communications Ltd
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://160.248.185.17:3128#JP--AS2514 NTT PC Communications, Inc.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://188.132.222.140:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://160.248.90.225:3128#JP--AS2514 NTT PC Communications, Inc.
 http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.247.14.37:8080#ID--AS131706 PT SELARAS CITRA TERABIT
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://189.240.60.171:9090#MX--AS8151 UNINET
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://190.128.248.134:999#PY--AS23201 Telecel S.A.
+http://27.121.82.54:8090#ID--AS55652 Sumidhaz Permata Bunda, PT
+http://64.227.6.0:4003#US--AS14061 DigitalOcean, LLC
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://172.245.10.132:34567#US--AS36352 HostPapa
