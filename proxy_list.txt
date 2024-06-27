@@ -1,26 +1,33 @@
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://217.182.194.108:3128#FR--AS16276 OVH SAS
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
 http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://160.248.184.170:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://162.212.152.9:31280#US--AS11878 tzulo, inc.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://57.128.159.224:8005#GB--AS16276 OVH SAS
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://23.237.145.36:31288#US--AS174 Cogent Communications
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
 http://172.245.12.54:34567#US--AS36352 HostPapa
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
 http://161.34.39.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.94.212.222:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://188.132.222.66:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://103.172.71.15:8080#ID--AS142386 PT JARINGAN LINTAS ARTHA
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://157.15.80.20:7777#ID--AS152384 PT Digitama Network Indonesia
+http://47.251.85.12:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://132.255.50.126:3128#BR--AS264452 R & B Serviços de Telecomunicações Ltda.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://206.233.165.172:58394#HK--AS139646 HONG KONG Megalayer Technology Co.,Limited
