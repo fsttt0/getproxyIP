@@ -1,1 +1,10 @@
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://200.118.152.126:3128#CO--AS10620 Telmex Colombia S.A.
+http://172.245.10.130:34567#US--AS36352 HostPapa
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
