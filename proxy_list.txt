@@ -1,21 +1,22 @@
-http://157.90.203.104:12988#DE--AS24940 Hetzner Online GmbH
+http://143.198.194.227:3128#SG--AS14061 DigitalOcean, LLC
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://181.39.24.155:999#EC--AS27947 Telconet S.A
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
 http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
 http://15.204.151.142:31158#US--AS16276 OVH SAS
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://185.198.2.113:11223#PL--AS206052 Krzysztof Pluciennik Bartlomiej trading as PRONET-SERWIS
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://190.94.213.14:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://157.100.63.66:999#EC--AS52468 UFINET PANAMA S.A.
 http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://177.222.25.9:8080#BR--AS28165 Wireless Comm Services LTDA
+http://120.28.204.19:80#PH--AS132199 Globe Telecom Inc.
 http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://200.94.102.10:8080#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://188.132.222.46:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://186.192.15.26:5445#BR--AS262725 RG SILVEIRA LTDA
 http://41.173.7.82:8080#UG--AS30844 Liquid Telecommunications Ltd
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
