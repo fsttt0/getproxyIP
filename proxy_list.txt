@@ -1,9 +1,20 @@
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://72.10.164.178:23529#JP--AS2516 KDDI CORPORATION
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://172.245.10.132:34567#US--AS36352 HostPapa
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://188.93.247.27:8084#RU--AS31376 Smart Telecom Limited
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://62.236.76.83:8085#FI--AS16086 DNA Oyj
-http://172.245.12.55:34567#US--AS36352 HostPapa
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://190.122.185.170:999#GT--AS22869 CABLECOLOR S.A.
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://181.204.156.66:41890#CO--AS27831 Colombia Móvil
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://160.248.91.87:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.128.73.122:8910#ID--AS18103 Neuviz Net
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
