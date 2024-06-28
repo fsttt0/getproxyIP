@@ -1,17 +1,18 @@
-http://172.245.10.131:34567#US--AS36352 HostPapa
-http://196.43.178.65:3128#UG--AS327687 Research and Education Network for Uganda
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
-http://172.245.12.59:34567#US--AS36352 HostPapa
-http://112.213.39.74:3128#AU--AS133159 Mammoth Media Pty Ltd
-http://185.231.207.104:3128#IE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
-http://134.122.5.219:3128#US--AS14061 DigitalOcean, LLC
+http://202.93.244.38:8080#ID--AS38778 PT. Dutakom Wibawa Putra
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.161:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://47.238.192.169:9999#HK--AS13335 Cloudflare, Inc.
+http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
+http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
