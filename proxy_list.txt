@@ -1,27 +1,7 @@
-http://157.66.16.40:8080#ID--AS136089 PT Mitra Mandiri Network
-http://194.140.198.23:80#US--AS40021 Nubes, LLC
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://23.237.145.36:31288#US--AS174 Cogent Communications
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://172.245.12.62:34567#US--AS36352 HostPapa
-http://172.245.12.57:34567#US--AS36352 HostPapa
-http://115.97.103.72:3128#IN--AS17488 Hathway IP Over Cable Internet
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://172.245.10.132:34567#US--AS36352 HostPapa
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://172.245.10.131:34567#US--AS36352 HostPapa
-http://172.245.12.59:34567#US--AS36352 HostPapa
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://47.238.192.169:9999#HK--AS13335 Cloudflare, Inc.
-http://161.34.39.156:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://161.34.39.158:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.159:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
