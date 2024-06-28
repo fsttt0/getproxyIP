@@ -1,18 +1,20 @@
-http://202.93.244.38:8080#ID--AS38778 PT. Dutakom Wibawa Putra
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.39.161:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://47.238.192.169:9999#HK--AS13335 Cloudflare, Inc.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
 http://161.34.37.88:3128#JP--AS2514 NTT PC Communications, Inc.
-http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://38.52.208.3:999#GT--AS272818 CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
