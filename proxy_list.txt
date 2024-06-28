@@ -1,29 +1,48 @@
-http://38.156.235.36:999#DO--AS267845 Exito Vision Cable S.A.S
+http://172.245.10.132:34567#US--AS36352 HostPapa
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
 http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
 http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://161.34.39.159:3128#JP--AS2514 NTT PC Communications, Inc.
+http://27.75.99.238:4010#VN--AS7552 Viettel Group
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://77.41.146.26:8080#RU--AS3216 PJSC "Vimpelcom"
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://200.118.152.126:3128#CO--AS10620 Telmex Colombia S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://112.213.39.74:3128#AU--AS133159 Mammoth Media Pty Ltd
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
+http://172.245.10.130:34567#US--AS36352 HostPapa
+http://51.222.9.156:80#CA--AS16276 OVH SAS
+http://180.179.35.244:9889#IN--AS17439 Netmagic Datacenter Mumbai
+http://216.87.69.230:8383#US--AS13649 Flexential Colorado Corp.
 http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://172.247.84.13:3128#US--AS40065 CNSERVERS LLC
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://1.1.220.100:8080#TH--AS23969 TOT Public Company Limited
+http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
+http://144.91.111.4:3128#DE--AS51167 Contabo GmbH
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://201.144.25.10:8080#MX--AS8151 UNINET
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.21.112.150:4443#FI--AS24940 Hetzner Online GmbH
