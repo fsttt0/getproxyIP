@@ -1,2 +1,17 @@
+http://172.245.10.131:34567#US--AS36352 HostPapa
+http://196.43.178.65:3128#UG--AS327687 Research and Education Network for Uganda
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
+http://172.245.12.59:34567#US--AS36352 HostPapa
+http://112.213.39.74:3128#AU--AS133159 Mammoth Media Pty Ltd
+http://185.231.207.104:3128#IE--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://161.34.39.162:3128#JP--AS2514 NTT PC Communications, Inc.
+http://134.122.5.219:3128#US--AS14061 DigitalOcean, LLC
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
