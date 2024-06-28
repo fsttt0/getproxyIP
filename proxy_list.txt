@@ -1,9 +1,2 @@
-http://58.69.125.145:8081#PH--AS9299 Philippine Long Distance Telephone Company
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.230.170.66:999#VE--AS266742 SOLUCIONES DCN NETWORK C.A
-http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://172.245.10.132:34567#US--AS36352 HostPapa
