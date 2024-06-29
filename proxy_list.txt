@@ -1,14 +1,3 @@
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://115.97.103.72:3128#IN--AS17488 Hathway IP Over Cable Internet
-http://46.243.71.2:8888#SK--AS39574 Minet Slovakia s.r.o.
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://152.26.229.86:9443#US--AS81 MCNC
-http://103.76.108.94:8080#ID--AS151576 PT Mahawira Nusantara Grup
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://103.187.111.81:82#IN--AS141834 Neolog Online Services Private Limited
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
