@@ -1,5 +1,13 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://142.93.142.36:9122#US--AS26548 PureVoltage Hosting Inc.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
