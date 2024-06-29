@@ -1,14 +1,21 @@
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://45.7.64.100:999#MX--AS270143 MAYSNET SA DE CV
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://45.229.31.34:11211#AR--AS270089 FIBRAS OPTICAS DE MAR DEL PLATA S.A.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://115.97.103.72:3128#IN--AS17488 Hathway IP Over Cable Internet
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://180.211.183.130:8080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
-http://203.194.108.23:3129#IN--AS45117 Ishan's Network
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.39.163:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
 http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://161.34.37.89:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://41.220.134.11:8080#TZ--AS36909 Habari Node Public Limited
+http://161.34.39.157:3128#JP--AS2514 NTT PC Communications, Inc.
 http://165.225.106.128:30001#IN--AS53813 ZSCALER, INC.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
