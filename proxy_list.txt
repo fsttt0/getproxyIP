@@ -1,37 +1,55 @@
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://161.132.37.206:3128#PE--AS3132 Red Cientifica Peruana
+http://147.135.54.182:3128#US--AS16276 OVH SAS
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://152.67.9.179:8100#IN--AS31898 Oracle Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.39.161:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
-http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
+http://38.45.46.2:6332#DO--AS272110 FENIX NETWORKS, S.R.L.
+http://211.222.177.81:3128#KR--AS4766 Korea Telecom
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://45.7.64.100:999#MX--AS270143 MAYSNET SA DE CV
+http://45.234.61.12:999#VE--AS266766 SOLUCIONES INSTALRED CH&C C.A.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://103.88.90.70:8080#ID--AS150222 PT Paket Switch Bersama
+http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
 http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://117.103.194.90:3128#VN--AS38248 VTC-VN
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://91.108.241.115:8080#AU--AS210644 AEZA INTERNATIONAL LTD
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://188.132.222.35:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
+http://190.97.236.40:2023#VE--AS263703 VIGINET C.A
+http://190.97.228.198:999#VE--AS263703 VIGINET C.A
+http://179.49.162.133:999#CO--AS267857 INTEGRA MULTISOLUTIONS S.A.S.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://38.156.93.242:999#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://38.41.5.85:999#VE--AS269832 MDS TELECOM C.A.
+http://103.231.236.14:8080#ID--AS150964 PT Level Indodata Teknologi
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.132.222.168:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://185.128.240.77:8080#RO--AS49052 DATA ZYX SRL
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://188.125.169.11:8080#TR--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
-http://142.93.142.36:9122#US--AS26548 PureVoltage Hosting Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://172.245.10.132:34567#US--AS36352 HostPapa
+http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://210.247.252.154:3128#ID--AS131745 PT. Cybertechtonic Pratama
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.12.80.11:83#IN--AS56224 PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://103.234.27.78:9990#BD--AS38200 BTS Communications (BD) ltd,
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
