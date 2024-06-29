@@ -1,15 +1,5 @@
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://102.67.101.250:8080#BF--AS37721 Virtual Technologies & Solutions
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://196.43.178.65:3128#UG--AS327687 Research and Education Network for Uganda
-http://161.34.39.164:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://45.171.242.3:8083#BR--AS268733 MaetingaNET Informática e Telecomunicações
-http://80.66.81.61:4003#NL--AS208258 Access2.IT Group B.V.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://142.93.142.36:9122#US--AS26548 PureVoltage Hosting Inc.
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
