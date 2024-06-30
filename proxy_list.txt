@@ -1,6 +1,1 @@
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://177.93.16.66:8080#CR--AS52263 Telecable Economico S.A.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://179.125.51.54:27234#BR--AS263631 Via Link Telecomunicacoes
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://58.210.227.210:8088#CN--AS4134 CHINANET-BACKBONE
