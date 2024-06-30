@@ -1,35 +1,19 @@
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://142.93.142.36:9122#FI--AS51765 Oy Crea Nova Hosting Solution Ltd
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://165.225.106.128:30001#IN--AS53813 ZSCALER, INC.
-http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://172.245.12.58:34567#US--AS36352 HostPapa
-http://172.245.10.130:34567#US--AS36352 HostPapa
-http://63.209.32.128:6868#US--AS20473 The Constant Company, LLC
-http://131.100.51.252:999#CO--AS270062 FIBERNET TV SAS
-http://201.20.65.234:9896#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://51.222.9.156:80#CA--AS16276 OVH SAS
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.188.82.134:3128#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://113.160.154.32:19132#VN--AS45899 VNPT Corp
-http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://15.204.151.144:31158#US--AS16276 OVH SAS
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.155:3128#JP--AS2514 NTT PC Communications, Inc.
+http://150.95.26.146:7080#TH--AS135161 GMO-Z com NetDesign Holdings Co., Ltd.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
