@@ -1,15 +1,6 @@
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://160.248.92.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://36.73.129.203:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://199.167.236.12:3128#US--AS16841 GLOBAL IT
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://51.38.38.132:3128#FR--AS16276 OVH SAS
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.67.90.2:8181#ID--AS152005 PT Soultan Network Indonesia
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
