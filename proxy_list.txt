@@ -1,5 +1,11 @@
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://142.93.142.36:9122#FI--AS51765 Oy Crea Nova Hosting Solution Ltd
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://67.43.228.253:28963#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://152.42.229.153:3128#SG--AS14061 DigitalOcean, LLC
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
