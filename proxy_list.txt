@@ -1,12 +1,24 @@
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://185.213.91.129:3128#US--AS32338 Hostiserver Ltd
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://185.241.149.161:8080#US--AS397423 Tier.Net Technologies LLC
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://185.241.149.160:8080#US--AS397423 Tier.Net Technologies LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://112.198.129.234:8085#PH--AS132199 Globe Telecom Inc.
+http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://177.124.38.231:3128#BR--AS52861 SN Internet Navegantes Ltda ME
+http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.241.149.164:8080#US--AS397423 Tier.Net Technologies LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://165.22.110.68:8888#SG--AS14061 DigitalOcean, LLC
+http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://192.228.100.57:3128#US--AS53340 VegasNAP, LLC
+http://36.73.129.203:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://177.136.84.232:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
