@@ -1,9 +1,6 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
 http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://200.32.51.179:8080#AR--AS10834 Telefonica de Argentina
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://181.198.1.82:999#EC--AS27947 Telconet S.A
