@@ -1,14 +1,6 @@
-http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.241.149.161:8080#US--AS397423 Tier.Net Technologies LLC
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://36.73.129.203:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://185.241.149.158:8080#US--AS397423 Tier.Net Technologies LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://172.247.244.36:7777#US--AS40065 CNSERVERS LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://124.217.97.131:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://200.37.187.62:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
