@@ -1,6 +1,3 @@
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
+http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
