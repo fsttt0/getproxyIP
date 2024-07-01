@@ -1,11 +1,12 @@
-http://58.210.227.210:8088#CN--AS4134 CHINANET-BACKBONE
-http://180.178.40.26:3128#HK--AS45753 Netsec Limited
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://185.213.91.129:3128#US--AS32338 Hostiserver Ltd
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://185.241.149.161:8080#US--AS397423 Tier.Net Technologies LLC
 http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
+http://185.241.149.160:8080#US--AS397423 Tier.Net Technologies LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://185.241.149.164:8080#US--AS397423 Tier.Net Technologies LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://165.22.110.68:8888#SG--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
