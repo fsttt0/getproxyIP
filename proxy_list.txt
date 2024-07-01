@@ -1,41 +1,54 @@
-http://103.217.216.66:8000#ID--AS24529 PT. Infotama Lintas Global
 http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
 http://52.48.131.65:3128#IE--AS16509 Amazon.com, Inc.
-http://185.241.149.168:8080#US--AS397423 Tier.Net Technologies LLC
-http://185.241.149.164:8080#US--AS397423 Tier.Net Technologies LLC
+http://47.76.43.82:8080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://185.241.149.175:8080#US--AS397423 Tier.Net Technologies LLC
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://203.194.108.23:3129#IN--AS45117 Ishan's Network
 http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://15.204.151.149:31158#US--AS16276 OVH SAS
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
 http://121.151.223.163:1337#KR--AS4766 Korea Telecom
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://185.241.149.173:8080#US--AS397423 Tier.Net Technologies LLC
 http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://47.184.177.250:3128#US--AS5650 Frontier Communications of America, Inc.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
 http://185.241.149.163:8080#US--AS397423 Tier.Net Technologies LLC
 http://44.226.167.102:1080#US--AS16509 Amazon.com, Inc.
+http://185.241.149.162:8080#US--AS397423 Tier.Net Technologies LLC
 http://185.241.149.174:8080#US--AS397423 Tier.Net Technologies LLC
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://14.162.162.180:8080#VN--AS45899 VNPT Corp
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://185.241.149.158:8080#US--AS397423 Tier.Net Technologies LLC
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://82.165.180.64:3128#DE--AS8560 IONOS SE
 http://185.241.149.160:8080#US--AS397423 Tier.Net Technologies LLC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://185.213.91.129:3128#US--AS32338 Hostiserver Ltd
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://185.213.91.14:3128#US--AS32338 Hostiserver Ltd
-http://185.241.149.156:8080#US--AS397423 Tier.Net Technologies LLC
-http://198.199.70.20:31028#US--AS14061 DigitalOcean, LLC
-http://103.148.130.6:8080#ID--AS141127 PT Anugerah Cimanuk Raya
+http://93.85.69.65:3128#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://15.204.151.144:31158#US--AS16276 OVH SAS
