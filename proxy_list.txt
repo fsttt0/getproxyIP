@@ -1,4 +1,5 @@
-http://190.128.195.58:999#PY--AS23201 Telecel S.A.
-http://103.158.27.83:1212#ID--AS141675 PT Madina Solusi Indonesia
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://142.93.142.36:9122#FI--AS51765 Oy Crea Nova Hosting Solution Ltd
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.173.231.220:999#EC--AS263238 Eliana Vanessa Morocho Oña
