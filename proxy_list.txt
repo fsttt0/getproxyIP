@@ -1,6 +1,4 @@
-http://124.217.97.131:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://190.128.195.58:999#PY--AS23201 Telecel S.A.
+http://103.158.27.83:1212#ID--AS141675 PT Madina Solusi Indonesia
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://200.37.187.62:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
