@@ -1,3 +1,43 @@
-http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://117.102.76.252:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://34.92.250.88:11111#HK--AS396982 Google LLC
+http://51.38.38.132:3128#FR--AS16276 OVH SAS
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://45.173.231.221:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://175.100.98.190:8080#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://182.253.109.91:8080#ID--AS17451 BIZNET NETWORKS
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://58.210.227.210:8088#CN--AS4134 CHINANET-BACKBONE
+http://154.82.63.182:40000#HK--AS133180 Starbow Ltd.
+http://69.79.101.97:999#US--AS23520 Columbus Networks USA, Inc.
+http://154.82.63.52:40000#HK--AS133180 Starbow Ltd.
+http://213.165.168.190:9898#MT--AS12709 Melita Limited
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://187.189.175.136:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://189.240.60.168:9090#MX--AS8151 UNINET
