@@ -1,43 +1,11 @@
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://195.161.41.163:8080#AT--AS9009 M247 Europe SRL
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://39.191.223.9:3128#CN--AS56041 China Mobile communications corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://82.165.180.64:3128#DE--AS8560 IONOS SE
-http://152.42.229.153:3128#SG--AS14061 DigitalOcean, LLC
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://34.92.250.88:11111#HK--AS396982 Google LLC
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://57.128.84.153:3128#FR--AS16276 OVH SAS
-http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://180.178.40.26:3128#HK--AS45753 Netsec Limited
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://27.147.143.18:58080#BD--AS23688 Link3 Technologies Ltd.
-http://47.238.210.31:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://182.253.109.91:8080#ID--AS17451 BIZNET NETWORKS
-http://199.167.236.12:3128#US--AS16841 GLOBAL IT
-http://200.37.187.62:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://192.228.100.57:3128#US--AS53340 VegasNAP, LLC
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://142.93.142.36:9122#NL--AS14576 Hosting Solution Ltd.
-http://23.134.91.156:3128#FR--AS63023 GTHost
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://154.83.15.79:8080#HK--AS142403 YISU CLOUD LTD
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
