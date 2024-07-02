@@ -1,11 +1,20 @@
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://39.191.223.9:3128#CN--AS56041 China Mobile communications corporation
+http://57.128.84.153:3128#FR--AS16276 OVH SAS
+http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
+http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://213.169.33.7:4000#BG--AS8717 A1 Bulgaria EAD
+http://177.124.38.231:3128#BR--AS52861 SN Internet Navegantes Ltda ME
+http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
+http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
+http://202.8.74.12:8080#KH--AS137236 TURBOTECH CO., LTD.
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
