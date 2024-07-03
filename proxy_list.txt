@@ -1,24 +1,51 @@
-http://47.236.54.118:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://57.128.84.153:3128#FR--AS16276 OVH SAS
-http://47.238.192.169:9999#KR--AS13335 Cloudflare, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.144.166.24:3128#TH--AS56309 Siamdata Communication Co.,Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://82.165.180.64:3128#DE--AS8560 IONOS SE
-http://194.186.248.97:80#RU--AS3216 PJSC "Vimpelcom"
-http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://170.80.242.78:999#MX--AS265525 TV CABLE DEL GUADIANA S.A DE C.V.
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://154.83.15.79:8080#HK--AS142403 YISU CLOUD LTD
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://154.82.63.226:40000#HK--AS133180 Starbow Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://154.82.63.178:40000#HK--AS133180 Starbow Ltd.
+http://154.82.63.126:40000#HK--AS133180 Starbow Ltd.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://154.82.63.28:40000#HK--AS133180 Starbow Ltd.
+http://154.82.63.63:40000#HK--AS133180 Starbow Ltd.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://47.238.192.169:9999#TW--AS13335 Cloudflare, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://103.147.246.184:3127#ID--AS139972 PT. Putra Lebak Banten
+http://187.17.166.66:92#BR--AS28263 Ensite Brasil Telecomunicações Ltda - ME
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://182.160.103.220:8090#BD--AS24323 aamra networks limited,
+http://103.69.20.99:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://200.125.170.106:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
+http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
