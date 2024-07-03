@@ -1,17 +1,34 @@
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://172.99.188.178:3128#NL--AS63023 GTHost
+http://152.42.229.153:3128#SG--AS14061 DigitalOcean, LLC
+http://57.128.84.153:3128#FR--AS16276 OVH SAS
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://123.49.44.103:3128#BD--AS17494 Telecom Operator & Internet Service Provider as well
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.75.129.171:3128#DE--AS24940 Hetzner Online GmbH
+http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://84.247.190.159:3128#DE--AS51167 Contabo GmbH
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://5.9.226.152:8080#DE--AS24940 Hetzner Online GmbH
+http://140.227.204.70:3128#JP--AS2514 NTT PC Communications, Inc.
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://37.228.65.107:32052#KZ--AS35104 Jusan Mobile JSC
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://200.94.102.10:8080#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://145.239.239.33:3128#PL--AS16276 OVH SAS
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://113.160.154.32:19132#VN--AS45899 VNPT Corp
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://8.210.2.235:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.193.144.20:80#IN--AS8075 Microsoft Corporation
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://180.178.40.26:3128#HK--AS45753 Netsec Limited
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://5.9.226.152:8080#DE--AS24940 Hetzner Online GmbH
-http://57.128.84.153:3128#FR--AS16276 OVH SAS
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
