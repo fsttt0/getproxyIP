@@ -1,16 +1,2 @@
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://173.212.244.38:3128#DE--AS51167 Contabo GmbH
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.66.223.220:80#US--AS396982 Google LLC
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://145.239.239.33:3128#PL--AS16276 OVH SAS
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
