@@ -1,33 +1,21 @@
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://20.232.120.176:80#US--AS8075 Microsoft Corporation
+http://8.210.2.235:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://38.22.175.134:8080#MX--AS174 Cogent Communications
+http://119.160.13.4:3128#PK--AS45669 PMCL /LDI IP TRANSIT
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://181.78.8.154:999#CO--AS52468 UFINET PANAMA S.A.
+http://154.73.87.241:8080#BW--AS327776 STATURE (PTY) LTD
+http://154.38.176.82:3128#US--AS40021 Nubes, LLC
+http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
+http://202.154.36.21:8080#ID--AS141607 PT Gayatri Lintas Nusantara
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://36.72.249.123:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://45.173.7.10:999#CO--AS14593 Space Exploration Technologies Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://38.22.175.134:8080#MX--AS174 Cogent Communications
-http://201.71.3.42:999#VE--AS3549 Level 3 Parent, LLC
+http://134.209.139.1:3128#NL--AS14061 DigitalOcean, LLC
 http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://82.165.180.64:3128#DE--AS8560 IONOS SE
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://57.128.84.153:3128#FR--AS16276 OVH SAS
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://47.238.192.169:9999#HK--AS13335 Cloudflare, Inc.
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://103.84.235.162:8789#ID--AS38320 PT Maxindo Mitra Solusi
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://103.203.234.28:8080#ID--AS151006 PT Nesta Indo Media
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://145.239.239.33:3128#PL--AS16276 OVH SAS
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
