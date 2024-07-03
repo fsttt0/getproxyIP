@@ -1,34 +1,31 @@
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://5.44.101.53:13128#DE--AS45012 dogado GmbH
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://103.203.234.28:8080#ID--AS151006 PT Nesta Indo Media
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://23.134.91.156:3128#FR--AS63023 GTHost
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://145.239.239.33:3128#PL--AS16276 OVH SAS
-http://57.128.84.153:3128#FR--AS16276 OVH SAS
-http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
-http://23.134.91.191:3128#FR--AS63023 GTHost
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://121.126.128.101:45212#KR--AS4766 Korea Telecom
+http://121.126.128.102:45212#KR--AS4766 Korea Telecom
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://144.91.78.142:3128#DE--AS51167 Contabo GmbH
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://45.70.201.186:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.32.51.179:8080#AR--AS10834 Telefonica de Argentina
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
