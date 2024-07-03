@@ -1,28 +1,23 @@
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://111.1.61.62:3128#CN--AS56041 China Mobile communications corporation
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
+http://152.42.229.153:3128#SG--AS14061 DigitalOcean, LLC
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
 http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://123.49.44.103:3128#BD--AS17494 Telecom Operator & Internet Service Provider as well
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.95.194.52:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://177.136.84.232:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
+http://15.204.151.149:31158#US--AS16276 OVH SAS
+http://103.133.63.135:8181#ID--AS138134 PT Tunas Link Indonesia
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
-http://160.248.7.46:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.48.70.185:83#IN--AS136290 Country Online Services PVT LTD
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://5.9.226.152:8080#DE--AS24940 Hetzner Online GmbH
-http://140.227.204.70:3128#JP--AS2514 NTT PC Communications, Inc.
-http://121.126.128.100:45212#KR--AS4766 Korea Telecom
-http://82.165.180.64:3128#DE--AS8560 IONOS SE
-http://103.84.177.35:8083#PH--AS136244 Panay Broadband / Buenavista Cable TV Inc.
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://8.210.2.235:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.169.254.185:2068#ID--AS142370 PT Master Star Network
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
