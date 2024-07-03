@@ -1,44 +1,31 @@
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://69.20.150.165:8080#US--AS17306 JAB Wireless, INC.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://45.188.164.47:999#MX--AS265605 VELOCOM SA DE CV
+http://109.195.98.207:80#RU--AS51604 JSC "ER-Telecom Holding"
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://145.239.239.33:3128#PL--AS16276 OVH SAS
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://121.126.128.102:45212#KR--AS4766 Korea Telecom
-http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
+http://101.255.118.89:8080#ID--AS38511 PT Remala Abadi
 http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://144.91.78.142:3128#DE--AS51167 Contabo GmbH
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
 http://185.217.136.67:1337#NL--AS208949 HBING LIMITED
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://47.238.192.169:9999#HK--AS13335 Cloudflare, Inc.
-http://185.89.156.2:44224#AL--AS198279 Albanian Telecommunications Union SH. P.K.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://150.136.4.250:3128#US--AS31898 Oracle Corporation
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
-http://117.102.76.252:8080#ID--AS17451 BIZNET NETWORKS
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://177.67.86.96:999#BR--AS53013 W I X NET DO BRASIL LTDA - ME
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.169.186.151:3125#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.137.83.120:8080#ID--AS138828 PT TELIO INTI NUSA
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://103.30.30.73:58080#BD--AS45326 Broad Band Telecom Services Ltd
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.137.110.42:8080#ID--AS138829 PT Capoeng Digital Nusantara
