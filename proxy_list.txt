@@ -1,21 +1,4 @@
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://20.232.120.176:80#US--AS8075 Microsoft Corporation
 http://8.210.2.235:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://38.22.175.134:8080#MX--AS174 Cogent Communications
-http://119.160.13.4:3128#PK--AS45669 PMCL /LDI IP TRANSIT
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://181.78.8.154:999#CO--AS52468 UFINET PANAMA S.A.
-http://154.73.87.241:8080#BW--AS327776 STATURE (PTY) LTD
-http://154.38.176.82:3128#US--AS40021 Nubes, LLC
-http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://202.154.36.21:8080#ID--AS141607 PT Gayatri Lintas Nusantara
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://36.72.249.123:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://134.209.139.1:3128#NL--AS14061 DigitalOcean, LLC
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
