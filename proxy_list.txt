@@ -1,10 +1,12 @@
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.165.126.65:8080#ID--AS17995 PT iForte Global Internet
-http://101.51.139.219:8180#TH--AS23969 TOT Public Company Limited
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://36.72.249.123:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://177.234.241.35:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://34.92.250.88:10000#HK--AS396982 Google LLC
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://72.183.130.136:8089#US--AS11427 Charter Communications Inc
+http://189.177.3.115:8080#MX--AS8151 UNINET
+http://202.57.25.127:8080#ID--AS140469 PT Wahyu Adidaya Network
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
