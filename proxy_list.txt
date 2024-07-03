@@ -1,2 +1,4 @@
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
+http://103.172.70.191:8181#ID--AS142386 PT JARINGAN LINTAS ARTHA
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
