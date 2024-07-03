@@ -1,12 +1,17 @@
-http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://36.72.249.123:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://34.92.250.88:10000#HK--AS396982 Google LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://145.239.239.33:3128#PL--AS16276 OVH SAS
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://8.210.2.235:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://20.193.144.20:80#IN--AS8075 Microsoft Corporation
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://72.183.130.136:8089#US--AS11427 Charter Communications Inc
-http://189.177.3.115:8080#MX--AS8151 UNINET
-http://202.57.25.127:8080#ID--AS140469 PT Wahyu Adidaya Network
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://5.9.226.152:8080#DE--AS24940 Hetzner Online GmbH
+http://57.128.84.153:3128#FR--AS16276 OVH SAS
