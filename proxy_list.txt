@@ -1,57 +1,46 @@
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://47.236.54.118:3128#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://140.227.143.61:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.240.110.242:8080#ID--AS58819 PT Arsenet Global Solusi
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://157.230.127.125:3128#DE--AS14061 DigitalOcean, LLC
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://36.89.209.146:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://57.128.84.153:3128#FR--AS16276 OVH SAS
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://51.38.38.132:3128#FR--AS16276 OVH SAS
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://36.64.20.207:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://103.184.4.42:3535#IN--AS133296 Web Werks India Pvt. Ltd.
+http://145.239.239.33:3128#PL--AS16276 OVH SAS
+http://103.156.17.52:3127#ID--AS141077 RSTNET
 http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://154.83.15.79:8080#HK--AS142403 YISU CLOUD LTD
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://15.204.151.149:31158#US--AS16276 OVH SAS
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://102.214.104.56:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://189.240.60.171:9090#MX--AS8151 UNINET
+http://103.137.83.120:8080#ID--AS138828 PT TELIO INTI NUSA
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
 http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
-http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://200.94.96.174:999#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://202.154.36.21:8080#ID--AS141607 PT Gayatri Lintas Nusantara
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://121.126.128.102:45212#KR--AS4766 Korea Telecom
-http://157.15.80.20:7777#ID--AS152384 PT Digitama Network Indonesia
+http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
 http://192.228.100.57:3128#US--AS53340 VegasNAP, LLC
-http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
-http://194.186.248.97:80#RU--AS3216 PJSC "Vimpelcom"
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
