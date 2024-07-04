@@ -1,57 +1,79 @@
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://180.178.40.26:3128#HK--AS45753 Netsec Limited
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://57.128.84.153:3128#FR--AS16276 OVH SAS
+http://172.99.188.178:3128#NL--AS63023 GTHost
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://152.42.229.153:3128#SG--AS14061 DigitalOcean, LLC
+http://15.204.151.144:31158#US--AS16276 OVH SAS
+http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
 http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
 http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://34.92.250.88:10000#HK--AS396982 Google LLC
 http://95.216.147.59:3128#FI--AS24940 Hetzner Online GmbH
-http://103.151.223.209:8080#ID--AS140423 PT Chandra Media Nusantara
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://175.41.148.78:3128#SG--AS16509 Amazon.com, Inc.
-http://45.185.206.30:999#AR--AS270070 ESCOM COMUNICACIONES SRL
-http://206.85.9.10:999#MX--AS28398 INTERNET TELEFONIA Y TV DE MICHOACAN SA DE CV
+http://23.134.91.53:3128#FR--AS63023 GTHost
+http://34.126.178.198:3128#SG--AS396982 Google LLC
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://125.163.139.0:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://189.240.60.171:9090#MX--AS8151 UNINET
+http://181.78.82.211:999#CO--AS3549 Level 3 Parent, LLC
+http://210.103.95.118:8080#KR--AS4766 Korea Telecom
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://190.195.225.34:80#AR--AS7303 Telecom Argentina S.A.
-http://177.234.241.38:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://27.102.85.55:3128#KR--AS45996 DAOU TECHNOLOGY
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://58.84.33.172:8080#BD--AS59249 Mowna Optical Fiber Network
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://182.52.66.46:8080#TH--AS23969 TOT Public Company Limited
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://49.48.124.132:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://24.204.29.115:8080#US--AS32505 Conterra
+http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.193.144.20:80#IN--AS8075 Microsoft Corporation
+http://23.166.88.209:3128#CH--AS63023 GTHost
+http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://27.72.113.65:3128#VN--AS18403 FPT Telecom Company
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://52.66.119.151:3128#IN--AS16509 Amazon.com, Inc.
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://189.240.60.163:9090#MX--AS8151 UNINET
+http://103.76.149.102:8181#ID--AS135477 PT. Java Digital Nusantara
 http://145.239.239.33:3128#PL--AS16276 OVH SAS
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.154.113.90:8080#ID--AS131111 PT Mora Telematika Indonesia
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://23.166.88.205:3128#CH--AS63023 GTHost
 http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://34.92.250.88:11111#HK--AS396982 Google LLC
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://23.166.88.238:3128#CH--AS63023 GTHost
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://91.228.53.239:4128#DE--AS41108 FirstRoot
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://36.64.132.91:3127#ID--AS7713 PT Telekomunikasi Indonesia
-http://91.203.242.66:222#RU--AS47335 ABN LTD
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://190.60.36.78:8080#CO--AS52468 UFINET PANAMA S.A.
+http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.147.246.184:3127#ID--AS139972 PT. Putra Lebak Banten
-http://77.235.31.24:8080#KG--AS41750 Mega-Line Ltd.
+http://177.129.242.245:48580#BR--AS270888 V8 Telecom LTDA
+http://101.255.165.218:8080#ID--AS38511 PT Remala Abadi
