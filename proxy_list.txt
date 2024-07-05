@@ -1,8 +1,7 @@
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://36.64.20.207:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://112.204.177.95:8080#PH--AS9299 Philippine Long Distance Telephone Company
