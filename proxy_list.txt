@@ -1,4 +1,4 @@
-http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://180.250.143.189:17#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.127.220.70:8181#ID--AS150259 PT Multi Guna Sinergi
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://190.128.248.134:999#PY--AS23201 Telecel S.A.
+http://188.132.222.168:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://203.74.125.18:8888#TW--AS3462 Data Communication Business Group
