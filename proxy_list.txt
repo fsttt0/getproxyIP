@@ -1,1 +1,10 @@
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://103.69.193.148:1311#VN--AS45899 VNPT Corp
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
+http://45.152.188.240:3128#US--AS174 Cogent Communications
+http://34.45.205.168:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.152.188.212:3128#US--AS174 Cogent Communications
+http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
