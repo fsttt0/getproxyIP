@@ -1,59 +1,66 @@
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://185.198.165.216:10001#NL--AS21100 GREEN FLOID LLC
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://103.69.193.148:1311#VN--AS45899 VNPT Corp
+http://103.79.143.12:2256#VN--AS135967 Bach Kim Network solutions Join stock company
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.152.188.241:3128#US--AS174 Cogent Communications
+http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
 http://91.228.53.239:4128#DE--AS41108 FirstRoot
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
-http://15.204.151.141:31158#US--AS16276 OVH SAS
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://103.147.247.101:8080#ID--AS139972 PT. Putra Lebak Banten
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
 http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://115.72.35.29:80#VN--AS7552 Viettel Group
-http://123.30.234.204:1311#VN--AS45899 VNPT Corp
-http://103.79.143.12:2256#VN--AS135967 Bach Kim Network solutions Join stock company
+http://51.79.241.31:3128#SG--AS16276 OVH SAS
+http://15.204.216.229:24665#US--AS16276 OVH SAS
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://23.134.91.53:3128#FR--AS63023 GTHost
 http://180.9.181.232:8080#JP--AS4713 NTT Communications Corporation
-http://160.16.109.252:18080#JP--AS9370 SAKURA Internet Inc.
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
 http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.134.91.156:3128#FR--AS63023 GTHost
 http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.204.216.229:8181#US--AS16276 OVH SAS
 http://112.137.142.8:2240#VN--AS45542 VietNam National University Ha Noi
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://15.204.151.149:31158#US--AS16276 OVH SAS
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://15.204.216.229:15346#US--AS16276 OVH SAS
 http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
+http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
+http://193.30.13.231:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://1.10.211.114:8080#TH--AS23969 TOT Public Company Limited
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://43.134.16.101:3333#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://45.152.188.241:3128#US--AS174 Cogent Communications
 http://15.204.216.229:9329#US--AS16276 OVH SAS
+http://51.158.148.158:3128#NL--AS12876 SCALEWAY S.A.S.
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://37.187.24.201:81#FR--AS16276 OVH SAS
+http://180.250.143.189:17#ID--AS7713 PT Telekomunikasi Indonesia
+http://154.82.63.235:40006#HK--AS133180 Starbow Ltd.
+http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
 http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://45.70.238.22:999#EC--AS52468 UFINET PANAMA S.A.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
