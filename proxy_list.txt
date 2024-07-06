@@ -1,3 +1,4 @@
-http://103.184.56.125:8080#ID--AS149667 PT Gading Bhakti Utama
-http://103.69.20.118:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://180.250.143.189:17#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.127.220.70:8181#ID--AS150259 PT Multi Guna Sinergi
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
