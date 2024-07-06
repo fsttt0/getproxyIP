@@ -1,17 +1,40 @@
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.134.16.101:3333#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://45.152.188.241:3128#US--AS174 Cogent Communications
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://161.34.66.56:3128#JP--AS2514 NTT PC Communications, Inc.
+http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://85.132.37.9:1313#AZ--AS29049 Delta Telecom Ltd
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://35.225.16.82:2387#US--AS396982 Google LLC
+http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://3.229.53.219:3128#US--AS14618 Amazon.com, Inc.
+http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://104.167.6.218:80#US--AS13886 Cloud South
+http://103.160.184.158:8080#ID--AS139952 PT Trisari Data Indonusa
 http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://210.245.83.71:1803#VN--AS18403 FPT Telecom Company
-http://43.134.16.101:3333#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://15.204.151.141:31158#US--AS16276 OVH SAS
-http://15.204.216.229:9329#US--AS16276 OVH SAS
-http://51.158.148.158:3128#NL--AS12876 SCALEWAY S.A.S.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://123.49.44.103:3128#BD--AS17494 Telecom Operator & Internet Service Provider as well
+http://202.89.74.202:8080#IN--AS18002 AS Number for Interdomain Routing
+http://36.67.114.94:8187#ID--AS7713 PT Telekomunikasi Indonesia
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://185.65.247.133:48049#UA--AS200000 Hosting Ukraine LTD
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
