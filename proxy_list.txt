@@ -1,37 +1,41 @@
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://38.91.101.96:8850#US--AS63023 GTHost
+http://37.26.86.206:47464#AL--AS198279 Albanian Telecommunications Union SH. P.K.
+http://200.39.120.44:999#MX--AS265606 DIGY NETWORKS
+http://103.79.143.12:2256#VN--AS135967 Bach Kim Network solutions Join stock company
+http://209.38.196.178:8081#GR--AS50919 INTERWORKS Single Member S.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://46.250.233.51:3128#SG--AS141995 Contabo Asia Private Limited
-http://121.126.128.98:45212#KR--AS4766 Korea Telecom
+http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://177.234.241.33:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://164.90.136.32:999#US--AS14061 DigitalOcean, LLC
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
+http://217.182.194.108:3128#FR--AS16276 OVH SAS
 http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://200.111.232.94:8080#CL--AS27651 ENTEL CHILE S.A.
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
 http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://160.248.3.28:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.183.209.33:8080#ID--AS139972 PT. Putra Lebak Banten
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
+http://195.80.50.100:9090#RU--AS9123 TimeWeb Ltd.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://68.183.149.126:11002#US--AS210630 IncogNET LLC
+http://195.159.124.56:85#NO--AS2116 GLOBALCONNECT AS
+http://160.248.79.202:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.204.216.229:2256#US--AS16276 OVH SAS
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://200.119.44.50:8181#CO--AS19429 ETB - Colombia
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.82.26.77:1996#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://36.73.135.58:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://183.134.101.182:3128#CN--AS58461 CT-HangZhou-IDC
-http://154.82.63.235:40006#HK--AS133180 Starbow Ltd.
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
+http://15.204.216.229:23346#US--AS16276 OVH SAS
