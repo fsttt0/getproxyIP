@@ -1,18 +1,11 @@
-http://190.14.10.19:999#GT--AS23243 COMCEL GUATEMALA S.A.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://15.204.216.229:2515#US--AS16276 OVH SAS
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://15.204.216.229:16836#US--AS16276 OVH SAS
-http://15.204.216.229:7314#US--AS16276 OVH SAS
-http://36.73.135.58:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://15.204.216.229:2256#US--AS16276 OVH SAS
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://38.91.101.96:8850#US--AS63023 GTHost
-http://66.31.130.117:8080#US--AS7922 Comcast Cable Communications, LLC
-http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://36.73.135.58:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://209.38.196.178:8081#VN--AS7552 Viettel Group
+http://154.64.255.157:1080#HK--AS979 NetLab Global
+http://15.204.216.229:32969#US--AS16276 OVH SAS
+http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://15.204.216.229:2515#US--AS16276 OVH SAS
+http://15.204.216.229:27088#US--AS16276 OVH SAS
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
