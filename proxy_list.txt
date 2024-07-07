@@ -1,4 +1,2 @@
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.165.157.79:8090#ID--AS136873 MEGADATA-ISP
-http://112.204.177.95:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
