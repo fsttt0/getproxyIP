@@ -1,3 +1,14 @@
-http://175.6.171.225:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://15.204.216.229:27088#US--AS16276 OVH SAS
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.187.86.3:8182#ID--AS149718 PT Satunol Digital Teknologi
+http://160.248.3.28:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
+http://15.204.216.229:5772#US--AS16276 OVH SAS
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://45.124.87.67:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
