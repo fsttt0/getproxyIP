@@ -1,1 +1,3 @@
+http://175.6.171.225:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
