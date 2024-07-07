@@ -1,2 +1,7 @@
+http://66.31.130.117:8080#US--AS7922 Comcast Cable Communications, LLC
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://175.6.171.225:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
