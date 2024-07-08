@@ -1,63 +1,57 @@
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://154.82.63.235:40006#HK--AS133180 Starbow Ltd.
-http://209.38.196.178:8081#US--AS14618 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://23.134.91.46:3128#FR--AS63023 GTHost
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://103.41.32.133:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://103.175.237.12:3125#ID--AS147121 PT Marva Global Telekomunikasi
-http://15.204.216.229:5263#US--AS16276 OVH SAS
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://80.66.81.44:4000#PL--AS9009 M247 Europe SRL
-http://103.180.118.170:8080#ID--AS149359 PT Persada Data Multimedia
-http://103.48.71.34:83#IN--AS136290 Country Online Services PVT LTD
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://160.248.2.185:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://15.204.216.229:1215#US--AS16276 OVH SAS
-http://15.204.216.229:18301#US--AS16276 OVH SAS
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://161.34.33.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
-http://154.90.48.50:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://104.199.205.181:3128#TW--AS396982 Google LLC
-http://65.21.130.230:8888#NL--AS212238 Datacamp Limited
-http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://15.204.216.229:23125#US--AS16276 OVH SAS
-http://112.137.142.8:2240#VN--AS45542 VietNam National University Ha Noi
-http://82.165.180.64:3128#DE--AS8560 IONOS SE
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://77.83.173.176:3128#NL--AS204601 Zomro B.V.
-http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://15.204.216.229:22994#US--AS16276 OVH SAS
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://15.204.216.229:3030#US--AS16276 OVH SAS
-http://175.119.224.167:8080#KR--AS9318 SK Broadband Co Ltd
-http://154.82.63.127:40006#HK--AS133180 Starbow Ltd.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://161.34.34.156:3128#JP--AS2514 NTT PC Communications, Inc.
 http://144.91.78.142:3128#DE--AS51167 Contabo GmbH
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://15.204.216.229:22244#US--AS16276 OVH SAS
-http://23.166.88.209:3128#CH--AS63023 GTHost
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://39.191.223.9:3128#CN--AS56041 China Mobile communications corporation
-http://200.125.168.56:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
-http://154.82.63.63:40000#HK--AS133180 Starbow Ltd.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://15.204.216.229:3141#US--AS16276 OVH SAS
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://15.204.216.229:23346#US--AS16276 OVH SAS
+http://15.204.216.229:17396#US--AS16276 OVH SAS
+http://15.204.216.229:7314#US--AS16276 OVH SAS
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://65.21.130.230:8888#NL--AS212238 Datacamp Limited
+http://34.45.205.168:3128#US--AS396982 Google LLC
+http://104.199.205.181:3128#TW--AS396982 Google LLC
+http://154.82.63.235:40006#HK--AS133180 Starbow Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
+http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
+http://47.243.65.210:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://188.227.140.181:8080#ES--AS56882 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL
+http://200.119.44.50:8181#CO--AS19429 ETB - Colombia
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://190.110.97.62:999#CL--AS7049 Silica Networks Argentina S.A.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://15.204.216.229:5263#US--AS16276 OVH SAS
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://103.166.226.10:8181#ID--AS141959 PT Arta Flash Sintesa Nusantara
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.204.216.229:26129#US--AS16276 OVH SAS
+http://165.22.52.162:8888#SG--AS14061 DigitalOcean, LLC
+http://15.204.216.229:1215#US--AS16276 OVH SAS
+http://161.34.33.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://195.80.50.100:9090#RU--AS9123 TimeWeb Ltd.
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
+http://15.204.151.144:31158#US--AS16276 OVH SAS
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://77.83.173.176:3128#NL--AS204601 Zomro B.V.
