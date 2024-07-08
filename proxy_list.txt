@@ -1,39 +1,22 @@
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://14.160.26.79:8080#VN--AS45903 CMC Telecom Infrastructure Company
+http://103.160.184.158:8080#ID--AS139952 PT Trisari Data Indonusa
 http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
+http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://65.21.130.230:8888#SE--AS39351 31173 Services AB
+http://77.83.173.176:3128#NL--AS204601 Zomro B.V.
 http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://38.91.101.96:8850#US--AS63023 GTHost
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://154.82.63.63:40182#HK--AS133180 Starbow Ltd.
-http://103.239.252.214:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://125.20.29.73:8080#IN--AS9498 BHARTI Airtel Ltd.
 http://103.165.155.73:1111#ID--AS141921 PT Jaringan Keluarga Bersama
-http://180.191.40.45:8082#PH--AS132199 Globe Telecom Inc.
-http://161.34.66.66:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.172.42.103:8080#ID--AS142393 PT Media Solusi Sukses
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://23.134.91.168:3128#FR--AS63023 GTHost
 http://160.248.7.46:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.33.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://15.204.216.229:18301#US--AS16276 OVH SAS
-http://114.9.24.198:8080#ID--AS4761 INDOSAT Internet Network Provider
-http://15.204.151.141:31158#US--AS16276 OVH SAS
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.84.235.162:8789#ID--AS38320 PT Maxindo Mitra Solusi
-http://103.234.31.59:8080#ID--AS151512 PT Jenius Lintas Nusantara
-http://104.143.10.179:3128#US--AS36114 VegasNAP, LLC
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.66.56:3128#JP--AS2514 NTT PC Communications, Inc.
-http://15.204.216.229:23125#US--AS16276 OVH SAS
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
