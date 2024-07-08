@@ -1,31 +1,26 @@
-http://65.21.130.230:8888#NL--AS43357 Owl Limited
-http://34.41.132.8:80#US--AS396982 Google LLC
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://207.230.8.69:999#CO--AS52468 UFINET PANAMA S.A.
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://154.82.63.180:40182#HK--AS133180 Starbow Ltd.
+http://103.165.126.65:8080#ID--AS17995 PT iForte Global Internet
+http://161.34.66.66:3128#JP--AS2514 NTT PC Communications, Inc.
+http://188.165.52.148:3128#FR--AS16276 OVH SAS
+http://103.75.96.142:1111#ID--AS131111 PT Mora Telematika Indonesia
 http://51.91.119.25:3128#FR--AS16276 OVH SAS
-http://103.137.184.117:2606#VN--AS140825 Thien Quang Digital technology joint stock company
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://43.133.243.109:8084#KR--AS132203 Tencent Building, Kejizhongyi Avenue
-http://15.204.151.149:31158#US--AS16276 OVH SAS
-http://125.20.29.73:8080#IN--AS9498 BHARTI Airtel Ltd.
 http://82.165.180.64:3128#DE--AS8560 IONOS SE
 http://182.253.109.224:8080#ID--AS17451 BIZNET NETWORKS
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://66.31.130.117:8080#US--AS7922 Comcast Cable Communications, LLC
-http://109.195.98.207:80#RU--AS51604 JSC "ER-Telecom Holding"
-http://103.188.82.81:8888#VN--AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+http://161.34.39.55:9999#JP--AS2514 NTT PC Communications, Inc.
+http://105.112.135.165:8080#NG--AS36873 Airtel Networks Limited
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://15.204.216.229:22244#US--AS16276 OVH SAS
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://15.204.216.229:26863#US--AS16276 OVH SAS
 http://15.204.216.229:16836#US--AS16276 OVH SAS
 http://112.137.142.8:2240#VN--AS45542 VietNam National University Ha Noi
 http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.33.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://104.143.10.180:3128#US--AS36114 VegasNAP, LLC
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://104.143.10.179:3128#US--AS36114 VegasNAP, LLC
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://35.245.75.186:6666#US--AS396982 Google LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://172.99.188.91:3128#NL--AS63023 GTHost
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://160.248.3.28:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
