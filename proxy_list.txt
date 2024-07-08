@@ -1,17 +1,7 @@
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://185.221.219.98:3128#NL--AS63023 GTHost
 http://103.82.26.77:1996#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://136.60.0.212:80#US--AS16591 Google Fiber Inc.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.162.16.47:8080#ID--AS141636 PT Mega Data Perkasa
-http://154.82.63.180:40182#HK--AS133180 Starbow Ltd.
-http://209.38.196.178:8081#VN--AS7552 Viettel Group
+http://143.198.194.227:3128#SG--AS14061 DigitalOcean, LLC
