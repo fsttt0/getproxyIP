@@ -1,19 +1,11 @@
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://103.69.243.162:43826#IN--AS135762 Clear Beam Communications Pvt. Ltd.
-http://66.96.235.34:8080#ID--AS63859 PT. Eka Mas Republik
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.204.216.229:13051#US--AS16276 OVH SAS
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://203.150.128.46:8080#TH--AS4618 Internet Thailand Company Limited
+http://15.204.216.229:20135#US--AS16276 OVH SAS
 http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
-http://102.67.101.250:8080#BF--AS37721 Virtual Technologies & Solutions
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://181.58.31.201:8080#CO--AS10620 Telmex Colombia S.A.
-http://15.204.216.229:12148#US--AS16276 OVH SAS
-http://15.204.216.229:24665#US--AS16276 OVH SAS
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://111.8.155.54:11111#CN--AS56047 China Mobile communications corporation
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
