@@ -1,17 +1,10 @@
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://34.41.132.8:80#US--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://177.234.241.32:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://202.40.185.146:8080#BD--AS23991 Ranks ITT Ltd.
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://193.123.37.162:31280#NL--AS31898 Oracle Corporation
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://15.204.216.229:30901#US--AS16276 OVH SAS
-http://15.204.216.229:30485#US--AS16276 OVH SAS
-http://15.204.216.229:11818#US--AS16276 OVH SAS
-http://69.160.223.225:8181#US--AS53989 Swayzee Telephone Company, Inc.
