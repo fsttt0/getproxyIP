@@ -1,56 +1,53 @@
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://104.199.205.181:3128#TW--AS396982 Google LLC
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://217.182.194.108:3128#FR--AS16276 OVH SAS
+http://15.204.151.149:31158#US--AS16276 OVH SAS
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://72.10.160.92:22167#IN--AS9829 National Internet Backbone
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://70.114.40.153:808#US--AS11427 Charter Communications Inc
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://172.99.188.228:3128#NL--AS63023 GTHost
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://3.235.13.168:3128#US--AS14618 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://209.38.196.178:8081#VN--AS7552 Viettel Group
+http://103.160.184.158:8080#ID--AS139952 PT Trisari Data Indonusa
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://203.205.9.105:8080#VN--AS45903 CMC Telecom Infrastructure Company
-http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://146.0.75.178:11197#UA--AS15895 "Kyivstar" PJSC
+http://47.243.65.210:3128#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://180.250.143.189:17#ID--AS7713 PT Telekomunikasi Indonesia
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://154.82.63.180:40227#HK--AS133180 Starbow Ltd.
-http://89.135.242.1:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://209.38.196.178:8081#CN--AS4134 CHINANET-BACKBONE
-http://58.147.189.138:8080#ID--AS24534 PT. Transhybrid Communication
-http://112.78.131.6:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.159.194.249:8080#ID--AS141145 PT Giga Digital Nusantara
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.216.132.13:31280#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.134.91.77:3128#FR--AS63023 GTHost
-http://51.91.119.25:3128#FR--AS16276 OVH SAS
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://188.165.52.148:3128#FR--AS16276 OVH SAS
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://154.82.63.63:40182#HK--AS133180 Starbow Ltd.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.180.140.209:8081#EC--AS269728 DECERET CIA. LTDA.
-http://45.169.84.21:8080#BR--AS268100 7 Lan Comercio e Servicos Ltda
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://23.166.88.217:3128#CH--AS63023 GTHost
-http://112.78.134.133:7777#ID--AS17451 BIZNET NETWORKS
-http://3.235.13.168:3128#US--AS14618 Amazon.com, Inc.
+http://121.126.128.99:45212#KR--AS4766 Korea Telecom
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.168.129.124:8080#ID--AS4800 PT Aplikanusa Lintasarta
+http://196.213.196.210:8088#ZA--AS3741 Dimension Data
+http://164.92.207.53:3128#US--AS396982 Google LLC
+http://45.124.87.105:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://182.253.109.229:8080#ID--AS17451 BIZNET NETWORKS
-http://58.69.247.70:8083#PH--AS9299 Philippine Long Distance Telephone Company
-http://217.182.194.108:3128#FR--AS16276 OVH SAS
-http://89.187.191.111:8888#CZ--AS60068 Datacamp Limited
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
 http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.231.239.166:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://45.124.87.176:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://104.199.205.181:3128#TW--AS396982 Google LLC
-http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
-http://160.248.79.202:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://112.137.142.8:2240#VN--AS45542 VietNam National University Ha Noi
-http://181.78.17.191:999#CO--AS52468 UFINET PANAMA S.A.
-http://31.28.163.149:31280#UA--AS15497 Colocall
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
