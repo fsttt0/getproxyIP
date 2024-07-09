@@ -1,15 +1,17 @@
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://193.123.37.162:31280#NL--AS31898 Oracle Corporation
-http://45.174.77.119:999#MX--AS28431 RAUL DUARTE URITA
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://15.204.216.229:30901#US--AS16276 OVH SAS
 http://15.204.216.229:30485#US--AS16276 OVH SAS
 http://15.204.216.229:11818#US--AS16276 OVH SAS
-http://15.204.216.229:21801#US--AS16276 OVH SAS
-http://201.19.243.109:8086#BR--AS7738 V tal
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://161.34.66.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://15.204.216.229:1189#US--AS16276 OVH SAS
+http://69.160.223.225:8181#US--AS53989 Swayzee Telephone Company, Inc.
