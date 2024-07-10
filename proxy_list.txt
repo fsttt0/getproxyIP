@@ -1,27 +1,14 @@
-http://175.110.113.94:12128#RU--AS42892 PE Filimonov Boris Yurievich
-http://62.112.8.72:11417#DE--AS42652 inexio Informationstechnologie und Telekommunikation Gmbh
-http://93.190.142.42:11066#RU--AS8359 MTS PJSC
-http://89.38.99.209:11267#RU--AS31205 PJSC MegaFon
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://91.229.23.129:12480#IN--AS55836 Reliance Jio Infocomm Limited
-http://175.110.113.229:11066#RU--AS8492 "OBIT" Ltd.
-http://89.38.97.60:12110#IN--AS45609 Bharti Airtel Ltd. AS for GPRS Service
-http://190.2.131.143:11028#IT--AS210278 Sky Italia srl
-http://91.229.23.89:11066#IN--AS33182 HostDime.com, Inc.
-http://217.23.15.50:11028#IT--AS3269 Telecom Italia S.p.A.
-http://91.229.23.89:11197#GB--AS2856 British Telecommunications PLC
-http://109.236.81.77:11263#FR--AS15557 Societe Francaise Du Radiotelephone - SFR SA
-http://175.110.113.241:11417#RU--AS50544 JSC "ER-Telecom Holding"
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://38.91.101.96:8850#US--AS63023 GTHost
-http://93.190.141.141:11145#RU--AS204297 LLC " Belgorod Networking Telecommunication Company"
-http://178.132.0.84:11145#US--AS701 Verizon Business
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://91.229.23.11:11582#KZ--AS29355 Kcell JSC
-http://45.124.87.79:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://80.79.6.171:11197#RU--AS12389 PJSC Rostelecom
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.2.83.21:11115#PL--AS39603 P4 Sp. z o.o.
-http://91.229.23.206:11145#RU--AS12389 PJSC Rostelecom
+http://91.236.74.5:8080#GR--AS212442 Mechmet CHATIP MEMET trading as SpeedNet
+http://45.124.87.33:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://93.190.137.104:11145#RU--AS12958 T2 Mobile LLC
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://203.190.44.147:7777#ID--AS45317 Jaringan Lintas Utara, PT
