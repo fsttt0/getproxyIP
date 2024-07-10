@@ -1,21 +1,27 @@
-http://93.190.139.54:11066#RU--AS8359 MTS PJSC
-http://109.236.86.203:11066#PK--AS59257 CMPak Limited
-http://194.88.107.111:11499#ES--AS57269 DIGI SPAIN TELECOM S.L.
-http://15.204.216.229:6164#US--AS16276 OVH SAS
-http://217.23.13.32:11778#RU--AS12958 T2 Mobile LLC
-http://109.236.82.101:11197#DE--AS3209 Vodafone GmbH
-http://15.204.216.229:14645#US--AS16276 OVH SAS
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://109.236.90.73:11025#PK--AS45669 PMCL /LDI IP TRANSIT
-http://217.23.15.50:12756#RU--AS12389 PJSC Rostelecom
-http://91.232.105.90:12642#NP--AS17501 WorldLink Communications Pvt Ltd
-http://89.38.97.93:12642#RU--AS48043 Ozyorsk Telecom CJSC.
-http://109.236.91.64:11145#UA--AS197554 ISP RIAD Ltd
-http://15.204.216.229:10359#US--AS16276 OVH SAS
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://181.36.121.222:999#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
+http://175.110.113.94:12128#RU--AS42892 PE Filimonov Boris Yurievich
+http://62.112.8.72:11417#DE--AS42652 inexio Informationstechnologie und Telekommunikation Gmbh
+http://93.190.142.42:11066#RU--AS8359 MTS PJSC
+http://89.38.99.209:11267#RU--AS31205 PJSC MegaFon
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://91.229.23.129:12480#IN--AS55836 Reliance Jio Infocomm Limited
+http://175.110.113.229:11066#RU--AS8492 "OBIT" Ltd.
+http://89.38.97.60:12110#IN--AS45609 Bharti Airtel Ltd. AS for GPRS Service
+http://190.2.131.143:11028#IT--AS210278 Sky Italia srl
+http://91.229.23.89:11066#IN--AS33182 HostDime.com, Inc.
+http://217.23.15.50:11028#IT--AS3269 Telecom Italia S.p.A.
+http://91.229.23.89:11197#GB--AS2856 British Telecommunications PLC
+http://109.236.81.77:11263#FR--AS15557 Societe Francaise Du Radiotelephone - SFR SA
+http://175.110.113.241:11417#RU--AS50544 JSC "ER-Telecom Holding"
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://93.190.141.141:11145#RU--AS204297 LLC " Belgorod Networking Telecommunication Company"
+http://178.132.0.84:11145#US--AS701 Verizon Business
 http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://131.100.51.252:999#CO--AS270062 FIBERNET TV SAS
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://91.229.23.11:11582#KZ--AS29355 Kcell JSC
+http://45.124.87.79:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://80.79.6.171:11197#RU--AS12389 PJSC Rostelecom
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.2.83.21:11115#PL--AS39603 P4 Sp. z o.o.
+http://91.229.23.206:11145#RU--AS12389 PJSC Rostelecom
