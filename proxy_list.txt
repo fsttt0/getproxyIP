@@ -1,44 +1,63 @@
-http://109.236.85.118:12275#RU--AS12389 PJSC Rostelecom
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://175.110.113.241:11145#RU--AS49724 CJSC Vainah Telecom
+http://217.23.1.5:12174#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
+http://89.38.97.81:11197#RU--AS31213 PJSC MegaFon
+http://91.229.23.194:11194#RU--AS41704 JSC "Ufanet"
+http://109.236.81.77:12469#BR--AS268999 Fronteira Internet
+http://89.38.98.219:11433#LV--AS12578 SIA Tet
+http://93.190.137.104:11417#KZ--AS48503 Mobile Telecom-Service LLP
+http://93.190.138.45:12629#RU--AS12389 PJSC Rostelecom
+http://62.112.11.202:11066#RU--AS59665 Ultra-Telecom LLC
+http://67.43.236.20:3139#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://109.236.93.35:12866#LB--AS204356 HI SPEED NET WORK S.A.R.L
+http://109.236.91.27:11025#NL--AS12876 SCALEWAY S.A.S.
+http://109.236.88.88:12844#RU--AS12389 PJSC Rostelecom
+http://186.148.195.165:999#VE--AS269984 CORPORACION MATRIX TV, C.A.
+http://5.187.79.198:44331#RU--AS43727 KVANT TELECOM
+http://91.229.23.129:11689#RU--AS31213 PJSC MegaFon
+http://36.67.223.231:8090#ID--AS7713 PT Telekomunikasi Indonesia
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://109.236.91.64:11263#RU--AS12389 PJSC Rostelecom
+http://89.38.96.110:12319#AR--AS7303 Telecom Argentina S.A.
+http://89.39.107.137:11417#RU--AS48092 T2 Mobile LLC
+http://190.2.134.28:13312#UZ--AS49273 COSCOM Liability Limited Company
+http://178.132.5.26:12844#RU--AS12958 T2 Mobile LLC
+http://35.236.176.50:3128#TW--AS396982 Google LLC
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://89.39.107.216:11111#RU--AS24955 JSC "Ufanet"
+http://109.236.86.4:12619#KG--AS42581 Inform Communications Ltd.
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://136.60.0.212:80#US--AS16591 Google Fiber Inc.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://23.134.91.73:3128#FR--AS63023 GTHost
+http://36.93.3.31:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://62.112.10.47:11481#IT--AS1267 WIND TRE S.P.A.
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://103.48.71.18:83#IN--AS136290 Country Online Services PVT LTD
+http://89.39.107.216:12382#FR--AS3215 Orange S.A.
+http://93.190.139.246:11197#RU--AS31133 PJSC MegaFon
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://109.236.85.118:12128#IN--AS45609 Bharti Airtel Ltd. AS for GPRS Service
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://175.110.113.246:12570#KZ--AS9198 JSC Kazakhtelecom
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://89.38.98.219:12354#RU--AS12389 PJSC Rostelecom
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://109.236.86.4:12042#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.38.98.219:12354#RU--AS8359 MTS PJSC
+http://157.230.127.125:3128#DE--AS14061 DigitalOcean, LLC
+http://212.8.240.78:11499#RU--AS48190 T2 Mobile LLC
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
 http://93.190.140.167:11481#GE--AS42938 LLC Gudauta-net
-http://178.238.236.233:3128#DE--AS51167 Contabo GmbH
+http://91.203.179.72:65056#RU--AS47118 MAN net Ltd.
+http://103.162.16.168:8080#ID--AS141636 PT Mega Data Perkasa
+http://89.38.96.110:12479#RU--AS25159 PJSC MegaFon
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://82.165.180.64:3128#DE--AS8560 IONOS SE
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
 http://38.91.101.96:8850#US--AS63023 GTHost
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://124.105.24.80:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
