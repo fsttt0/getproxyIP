@@ -1,50 +1,43 @@
+http://172.247.244.36:7777#US--AS40065 CNSERVERS LLC
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://93.190.138.24:11194#RU--AS44056 Trytek LLC
+http://185.100.232.163:11066#BR--AS263436 POLLYNET TELECOM EIRELI
+http://89.39.107.223:12843#KZ--AS9198 JSC Kazakhtelecom
+http://1.20.207.174:8080#TH--AS23969 TOT Public Company Limited
+http://180.189.163.102:8080#TL--AS38077 Timor Telecom, SA
+http://172.99.188.91:3128#NL--AS63023 GTHost
+http://103.231.239.18:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://38.51.243.137:9991#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://91.229.23.89:12817#PH--AS10139 Smart Broadband, Inc.
 http://93.190.137.104:11417#KZ--AS48503 Mobile Telecom-Service LLP
-http://89.38.98.219:12480#US--AS7018 AT&T Services, Inc.
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://212.110.188.213:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://62.112.10.47:11481#LB--AS42334 Broadband Plus S.a.l.
 http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://80.66.81.43:4000#PL--AS9009 M247 Europe SRL
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://178.238.236.233:3128#DE--AS51167 Contabo GmbH
 http://157.230.127.125:3128#DE--AS14061 DigitalOcean, LLC
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://15.204.151.149:31158#US--AS16276 OVH SAS
 http://194.5.25.34:443#SG--AS3758 SingNet
-http://38.60.254.172:3128#TH--AS138915 Kaopu Cloud HK Limited
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
 http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://203.74.125.18:8888#TW--AS3462 Data Communication Business Group
+http://46.101.124.11:8086#KZ--AS48503 Mobile Telecom-Service LLP
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://23.166.88.217:3128#CH--AS63023 GTHost
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://89.187.191.111:8888#CZ--AS60068 Datacamp Limited
+http://117.55.202.206:3128#NL--AS3920 ESTOXY OU
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://38.91.101.96:8850#US--AS63023 GTHost
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://31.28.163.149:31280#UA--AS15497 Colocall
-http://172.247.244.36:7777#US--AS40065 CNSERVERS LLC
 http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://39.191.223.109:4096#CN--AS56041 China Mobile communications corporation
-http://47.236.243.34:80#CN--AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
-http://223.205.77.84:8080#TH--AS45758 Triple T Broadband Public Company Limited
