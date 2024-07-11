@@ -1,32 +1,30 @@
+http://35.236.176.50:3128#TW--AS396982 Google LLC
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://175.119.224.167:8080#KR--AS9318 SK Broadband Co Ltd
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://187.251.230.10:3128#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://67.43.236.20:3079#IN--AS55836 Reliance Jio Infocomm Limited
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://67.43.236.20:18841#KR--AS17858 LG POWERCOMM
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://191.252.196.14:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://209.38.196.178:8081#CN--AS4837 CHINA UNICOM China169 Backbone
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://36.109.64.7:3128#CN--AS4134 CHINANET-BACKBONE
-http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
-http://175.119.224.167:8080#KR--AS9318 SK Broadband Co Ltd
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://209.38.196.178:8081#VN--AS7552 Viettel Group
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://64.110.70.140:6666#KR--AS31898 Oracle Corporation
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://77.48.22.49:33347#CZ--AS16019 Vodafone Czech Republic a.s.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://201.77.110.129:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
