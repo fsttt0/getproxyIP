@@ -1,39 +1,44 @@
-http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
-http://109.236.86.4:12174#RU--AS12958 T2 Mobile LLC
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://109.236.85.118:12275#RU--AS12389 PJSC Rostelecom
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://89.39.107.216:11111#RU--AS24955 JSC "Ufanet"
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://136.60.0.212:80#US--AS16591 Google Fiber Inc.
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://62.112.10.47:11481#IT--AS1267 WIND TRE S.P.A.
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://175.110.113.246:12570#KZ--AS9198 JSC Kazakhtelecom
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://89.38.98.219:12354#RU--AS12389 PJSC Rostelecom
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://109.236.86.4:12042#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://93.190.140.167:11481#GE--AS42938 LLC Gudauta-net
+http://178.238.236.233:3128#DE--AS51167 Contabo GmbH
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://38.91.101.96:8850#US--AS63023 GTHost
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://195.161.41.163:8080#GR--AS212238 Datacamp Limited
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://91.232.105.19:11481#RU--AS51645 JSC "ER-Telecom Holding"
-http://178.132.0.83:11025#IN--AS55836 Reliance Jio Infocomm Limited
-http://93.190.137.104:12459#RU--AS31163 PJSC MegaFon
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://194.163.179.146:8090#EG--AS24835 Vodafone Data
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://36.93.247.226:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://93.190.137.104:12200#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://89.39.106.19:12468#KR--AS9318 SK Broadband Co Ltd
-http://93.190.141.108:11458#IN--AS55836 Reliance Jio Infocomm Limited
-http://93.190.141.141:11220#RU--AS31133 PJSC MegaFon
-http://89.39.105.117:12187#RU--AS12389 PJSC Rostelecom
+http://124.105.24.80:8082#PH--AS9299 Philippine Long Distance Telephone Company
