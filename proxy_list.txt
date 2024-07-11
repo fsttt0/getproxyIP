@@ -1,6 +1,1 @@
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://179.1.142.129:8080#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
