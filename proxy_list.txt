@@ -1,31 +1,34 @@
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://154.82.63.61:40208#HK--AS133180 Starbow Ltd.
 http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://89.39.107.137:11267#LV--AS20910 Baltcom SIA
-http://91.229.23.206:12562#RU--AS51669 Home Computer Networks ltd.
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://82.64.186.155:8080#FR--AS12322 Free SAS
-http://178.132.4.40:11582#GB--AS5607 Sky UK Limited
-http://172.99.188.91:3128#NL--AS63023 GTHost
-http://93.190.141.141:11481#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
-http://178.132.2.28:12537#UA--AS21497 PrJSC VF UKRAINE
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://93.190.137.104:12459#RU--AS31163 PJSC MegaFon
+http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://45.164.174.30:999#DO--AS267705 ORBIT CABLE, S.A.
+http://103.186.254.218:2016#IN--AS150008 Pioneer Elabs Ltd.
+http://93.190.138.24:11481#RU--AS196750 SETI WEBA LTD
+http://93.190.137.104:12200#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://154.82.63.235:40006#HK--AS133180 Starbow Ltd.
+http://217.23.1.5:11818#KZ--AS206026 Kar-Tel LLC
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
+http://91.229.23.89:11066#BR--AS61754 I3 Telecomunicacoes - EIRELI
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://89.38.97.81:11298#RU--AS48190 T2 Mobile LLC
+http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.236.176.50:3128#TW--AS396982 Google LLC
+http://211.253.36.172:5008#KR--AS4766 Korea Telecom
 http://178.238.236.233:3128#DE--AS51167 Contabo GmbH
-http://157.230.127.125:3128#DE--AS14061 DigitalOcean, LLC
 http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://82.165.180.64:3128#DE--AS8560 IONOS SE
 http://15.204.151.149:31158#US--AS16276 OVH SAS
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
