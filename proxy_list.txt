@@ -1,34 +1,36 @@
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
-http://172.99.188.154:3128#NL--AS63023 GTHost
-http://103.57.80.51:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.100.232.163:11066#IN--AS38266 Vodafone Idea Ltd
-http://185.100.232.163:11115#US--AS7922 Comcast Cable Communications, LLC
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://175.110.113.94:11145#RU--AS41330 T2 Mobile LLC
-http://175.110.113.94:11263#IN--AS133661 Netplus Broadband Services Private Limited
-http://190.94.212.36:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://200.70.56.203:3128#AR--AS10834 Telefonica de Argentina
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://49.48.43.203:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://23.134.91.73:3128#FR--AS63023 GTHost
-http://66.70.235.23:5454#CA--AS16276 OVH SAS
-http://157.20.233.213:8080#ID--AS152439 PT Applewifi Selalu Lancar
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://146.190.101.222:3128#SG--AS14061 DigitalOcean, LLC
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://172.99.188.91:3128#NL--AS63023 GTHost
-http://41.173.7.82:8080#UG--AS30844 Liquid Telecommunications Ltd
-http://103.137.52.85:100#BD--AS24323 aamra networks limited,
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://35.236.176.50:3128#TW--AS396982 Google LLC
+http://185.221.219.98:3128#NL--AS63023 GTHost
+http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
+http://175.119.224.167:8080#KR--AS9318 SK Broadband Co Ltd
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.247.244.36:7777#US--AS40065 CNSERVERS LLC
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://190.2.209.58:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
+http://103.125.50.234:8080#ID--AS63859 PT. Eka Mas Republik
+http://91.229.23.128:12101#US--AS7018 AT&T Services, Inc.
+http://94.158.155.138:54698#UA--AS41631 Comfo LTD
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://45.124.87.122:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://77.242.16.30:8080#AL--AS35047 Abissnet sh.a.
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
