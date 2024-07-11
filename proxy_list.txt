@@ -1,61 +1,31 @@
-http://154.82.63.153:40182#HK--AS133180 Starbow Ltd.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://154.82.63.61:40208#HK--AS133180 Starbow Ltd.
 http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.166.226.10:8181#ID--AS141959 PT Arta Flash Sintesa Nusantara
-http://89.39.105.117:11267#RU--AS8402 PJSC "Vimpelcom"
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://89.38.97.60:12101#GB--AS13285 TalkTalk Communications Limited
-http://181.205.74.98:21901#CO--AS27831 Colombia Móvil
-http://103.109.125.155:4444#ID--AS137316 PT. PANCA DUTA UTAMA
-http://217.23.1.5:11196#RU--AS28812 PJSC "Bashinformsvyaz"
-http://89.39.104.214:11263#DE--AS6805 Telefonica Germany GmbH & Co.OHG
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
-http://194.163.179.146:8090#EG--AS24835 Vodafone Data
-http://212.8.249.177:12012#DE--AS16276 OVH SAS
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://178.132.0.84:13718#KZ--AS48503 Mobile Telecom-Service LLP
-http://103.186.254.218:2016#IN--AS150008 Pioneer Elabs Ltd.
+http://89.39.107.137:11267#LV--AS20910 Baltcom SIA
 http://91.229.23.206:12562#RU--AS51669 Home Computer Networks ltd.
-http://62.112.9.143:11495#KR--AS9644 SK Telecom
-http://89.39.106.19:12468#KR--AS9318 SK Broadband Co Ltd
 http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://93.190.141.108:12190#RU--AS12389 PJSC Rostelecom
-http://45.65.138.48:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://82.64.186.155:8080#FR--AS12322 Free SAS
 http://178.132.4.40:11582#GB--AS5607 Sky UK Limited
-http://93.190.139.246:11267#RU--AS35728 MTS PJSC
-http://217.23.1.5:11818#KZ--AS9198 JSC Kazakhtelecom
-http://89.39.105.117:12187#RU--AS12389 PJSC Rostelecom
 http://172.99.188.91:3128#NL--AS63023 GTHost
-http://103.231.239.18:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://93.190.141.73:11433#GB--AS5089 Virgin Media Limited
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://89.38.97.81:11298#RU--AS48190 T2 Mobile LLC
+http://93.190.141.141:11481#BY--AS6697 Republican Unitary Telecommunication Enterprise Beltelecom
+http://178.132.2.28:12537#UA--AS21497 PrJSC VF UKRAINE
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
 http://35.236.176.50:3128#TW--AS396982 Google LLC
-http://175.110.113.246:11196#RU--AS216363 OOO Istra.net
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://43.129.219.153:1111#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.238.236.233:3128#DE--AS51167 Contabo GmbH
 http://157.230.127.125:3128#DE--AS14061 DigitalOcean, LLC
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://51.91.119.25:3128#FR--AS16276 OVH SAS
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://15.204.151.149:31158#US--AS16276 OVH SAS
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://188.165.52.148:3128#FR--AS16276 OVH SAS
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://195.161.41.163:8080#GR--AS212238 Datacamp Limited
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://103.153.142.18:8080#IN--AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
