@@ -1,1 +1,21 @@
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://45.65.227.97:999#AR--AS266725 SOLUTION LAN S.A
+http://51.195.44.46:3128#DE--AS16276 OVH SAS
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://121.151.223.163:1337#KR--AS4766 Korea Telecom
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://164.92.207.53:3128#US--AS396982 Google LLC
+http://209.38.196.178:8081#ID--AS38511 PT Remala Abadi
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://203.150.128.179:8080#TH--AS4618 Internet Thailand Company Limited
+http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://177.234.240.124:1993#EC--AS52468 UFINET PANAMA S.A.
