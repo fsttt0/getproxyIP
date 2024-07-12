@@ -1,34 +1,23 @@
-http://131.100.51.211:999#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
-http://201.65.173.180:8080#BR--AS4230 CLARO S.A.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://103.177.177.249:8080#ID--AS141898 PT Milenial Inti Telekomunikasi
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://103.87.169.175:32650#IN--AS55507 Tejays Dynamic Limited
-http://161.34.34.156:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://119.235.209.92:3125#ID--AS131111 PT Mora Telematika Indonesia
+http://185.208.101.216:8080#TR--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
+http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
+http://45.124.87.43:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://50.235.247.114:8085#US--AS7922 Comcast Cable Communications, LLC
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://77.48.22.49:33347#CZ--AS16019 Vodafone Czech Republic a.s.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://185.221.219.98:3128#NL--AS63023 GTHost
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://23.134.91.53:3128#FR--AS63023 GTHost
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://189.195.139.178:999#MX--AS13999 Mega Cable, S.A. de C.V.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://31.28.163.149:31280#UA--AS15497 Colocall
 http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://131.100.51.161:999#CO--AS3549 Level 3 Parent, LLC
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://190.14.10.19:999#GT--AS23243 COMCEL GUATEMALA S.A.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://200.37.253.75:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
