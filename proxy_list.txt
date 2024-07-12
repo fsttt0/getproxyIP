@@ -1,20 +1,19 @@
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://5.44.101.53:13128#DE--AS45012 dogado GmbH
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://177.130.25.76:8080#BR--AS52742 HELP INTERNET
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://43.252.236.158:8080#ID--AS55701 PT. Usaha Adisanggoro
-http://41.59.200.27:3030#TZ--AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD
-http://164.92.207.53:3128#JP--AS4713 NTT Communications Corporation
-http://103.69.20.41:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://161.34.34.156:3128#JP--AS2514 NTT PC Communications, Inc.
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://186.125.218.188:999#AR--AS7303 Telecom Argentina S.A.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://38.188.249.32:8080#ID--AS139981 PT. Menaksopal Link Nusantara
+http://185.208.101.216:8080#SY--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
+http://207.138.39.145:999#VE--AS266841 GALANET SOLUTION C.A.
+http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://103.180.118.170:8080#ID--AS149359 PT Persada Data Multimedia
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
