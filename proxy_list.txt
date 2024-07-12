@@ -1,19 +1,7 @@
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
 http://5.44.101.53:13128#DE--AS45012 dogado GmbH
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://31.28.163.149:31280#UA--AS15497 Colocall
 http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://177.130.25.76:8080#BR--AS52742 HELP INTERNET
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://38.188.249.32:8080#ID--AS139981 PT. Menaksopal Link Nusantara
-http://185.208.101.216:8080#SY--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
-http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
-http://207.138.39.145:999#VE--AS266841 GALANET SOLUTION C.A.
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://103.180.118.170:8080#ID--AS149359 PT Persada Data Multimedia
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
