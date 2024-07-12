@@ -1,43 +1,42 @@
-http://27.66.240.210:8080#VN--AS7552 Viettel Group
-http://222.127.242.123:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://102.221.224.153:8080#LY--AS328743 SmartLink Co for Information Technology and Networking
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://181.205.28.69:46380#CO--AS27831 Colombia Móvil
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://82.200.131.166:58080#KZ--AS9198 JSC Kazakhtelecom
-http://43.252.236.158:8080#ID--AS55701 PT. Usaha Adisanggoro
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://185.221.219.98:3128#NL--AS63023 GTHost
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://209.38.196.178:8081#UA--AS6698 Virtual Systems LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
+http://185.205.246.127:3218#DE--AS51167 Contabo GmbH
+http://46.8.252.100:8123#KZ--AS203481 AstanaMegatel Ltd.
+http://123.16.13.146:8080#VN--AS45899 VNPT Corp
+http://113.161.187.190:8080#VN--AS45899 VNPT Corp
+http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://89.187.191.111:8888#CZ--AS60068 Datacamp Limited
+http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.248.7.46:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://143.198.18.51:6666#US--AS14061 DigitalOcean, LLC
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://186.97.192.60:999#CO--AS27831 Colombia Móvil
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://209.38.196.178:8081#FR--AS16276 OVH SAS
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
