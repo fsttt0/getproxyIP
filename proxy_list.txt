@@ -1,37 +1,28 @@
-http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://72.10.160.92:20479#UA--AS6849 JSC "Ukrtelecom"
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://72.10.164.178:17235#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
+http://67.43.227.227:28153#MN--AS17882 Univision LLC
+http://67.43.227.227:6749#US--AS7922 Comcast Cable Communications, LLC
+http://72.10.160.90:29563#IN--AS132780 Indian Institute of Technology Delhi
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://31.28.163.149:31280#UA--AS15497 Colocall
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://45.124.87.16:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://122.50.7.246:7777#ID--AS131111 PT Mora Telematika Indonesia
-http://27.66.240.210:8080#VN--AS7552 Viettel Group
-http://37.204.209.198:8080#RU--AS42610 PJSC Rostelecom
+http://14.177.4.119:23500#VN--AS45899 VNPT Corp
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://36.67.8.169:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.189.116.109:8080#ID--AS149878 PT Callysta Total Solusindo
-http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
-http://112.198.131.71:8082#PH--AS132199 Globe Telecom Inc.
-http://118.101.56.156:8123#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://190.153.237.2:37453#CL--AS14259 Gtd Internet S.A.
+http://103.57.80.28:58080#IN--None
+http://14.162.146.186:19132#VN--AS45899 VNPT Corp
+http://103.165.155.171:1111#ID--AS141921 PT Jaringan Keluarga Bersama
+http://103.172.35.13:8080#ID--AS58821 PT Lintas Jaringan Nusantara
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.211.172.182:999#CL--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
