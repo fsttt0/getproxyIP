@@ -1,3 +1,6 @@
+http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
 http://152.26.229.86:9443#US--AS81 MCNC
 http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
