@@ -1,37 +1,26 @@
+http://72.10.160.170:14931#BR--AS28667 NETWORK TELECOMUNICACOES S.A.
+http://67.43.236.20:2417#ID--AS7713 PT Telekomunikasi Indonesia
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://38.188.248.43:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://172.99.188.129:3128#NL--AS63023 GTHost
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://113.164.94.137:3218#VN--AS45899 VNPT Corp
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://31.28.163.149:31280#UA--AS15497 Colocall
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://23.166.88.157:3128#CH--AS63023 GTHost
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://41.60.26.210:32650#CD--AS30844 Liquid Telecommunications Ltd
-http://122.54.135.155:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://154.82.63.41:40182#HK--AS133180 Starbow Ltd.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://81.94.135.202:1256#RU--AS8595 OOO WestCall Ltd.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://103.41.33.169:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://46.8.252.100:8123#KZ--AS203481 AstanaMegatel Ltd.
-http://222.127.242.123:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://103.165.155.163:1111#ID--AS141921 PT Jaringan Keluarga Bersama
-http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
