@@ -1,23 +1,19 @@
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.208.101.216:8080#TR--AS42083 Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.
-http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
-http://45.124.87.43:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://50.235.247.114:8085#US--AS7922 Comcast Cable Communications, LLC
+http://27.67.54.178:8080#VN--AS7552 Viettel Group
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://23.134.91.77:3128#FR--AS63023 GTHost
-http://77.48.22.49:33347#CZ--AS16019 Vodafone Czech Republic a.s.
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://31.28.163.149:31280#UA--AS15497 Colocall
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://43.252.236.158:8080#ID--AS55701 PT. Usaha Adisanggoro
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://203.190.44.147:7777#ID--AS45317 Jaringan Lintas Utara, PT
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
+http://103.69.20.36:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
