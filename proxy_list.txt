@@ -1,42 +1,37 @@
+http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://185.221.219.98:3128#NL--AS63023 GTHost
 http://31.28.163.149:31280#UA--AS15497 Colocall
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://209.38.196.178:8081#UA--AS6698 Virtual Systems LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
-http://185.205.246.127:3218#DE--AS51167 Contabo GmbH
-http://46.8.252.100:8123#KZ--AS203481 AstanaMegatel Ltd.
-http://123.16.13.146:8080#VN--AS45899 VNPT Corp
-http://113.161.187.190:8080#VN--AS45899 VNPT Corp
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://45.124.87.16:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://122.50.7.246:7777#ID--AS131111 PT Mora Telematika Indonesia
+http://27.66.240.210:8080#VN--AS7552 Viettel Group
+http://37.204.209.198:8080#RU--AS42610 PJSC Rostelecom
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://36.67.8.169:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.189.116.109:8080#ID--AS149878 PT Callysta Total Solusindo
+http://129.150.48.1:3128#SG--AS31898 Oracle Corporation
+http://112.198.131.71:8082#PH--AS132199 Globe Telecom Inc.
+http://118.101.56.156:8123#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
+http://190.153.237.2:37453#CL--AS14259 Gtd Internet S.A.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://213.226.71.67:31280#DE--AS56630 Melbikomas UAB
 http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.248.7.46:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://190.211.172.182:999#CL--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
