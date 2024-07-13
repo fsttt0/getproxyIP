@@ -1,22 +1,11 @@
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://45.201.136.117:9812#KH--AS131178 EZECOM CO., LTD.
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://103.190.94.46:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://36.111.143.8:15777#HK--AS152320 Goalnow Network Technology Co Limited
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://85.234.119.124:32650#RU--AS25381 LLC "Svyaztranzit"
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://46.17.63.166:10000#GB--AS39326 HighSpeed Office Limited
-http://152.26.229.86:9443#US--AS81 MCNC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://172.247.244.36:7777#US--AS40065 CNSERVERS LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://103.69.20.52:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://121.151.223.163:1337#KR--AS4766 Korea Telecom
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
