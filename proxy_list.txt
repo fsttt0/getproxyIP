@@ -1,20 +1,21 @@
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://152.26.229.86:9443#US--AS81 MCNC
+http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://38.91.101.96:8850#US--AS63023 GTHost
 http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://103.57.80.28:58080#IN--None
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://62.103.66.18:3128#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://66.70.235.23:5454#CA--AS16276 OVH SAS
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://103.231.239.18:58080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://103.189.249.196:1111#ID--AS149888 PT Berkah Media Kusuma Vision
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
