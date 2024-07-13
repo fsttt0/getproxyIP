@@ -1,21 +1,21 @@
-http://23.134.91.77:3128#FR--AS63023 GTHost
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.26.229.86:9443#US--AS81 MCNC
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://103.57.80.28:58080#IN--None
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.28.148:8081#FI--AS9009 M247 Europe SRL
 http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://152.26.229.86:9443#US--AS81 MCNC
+http://200.32.51.179:8080#AR--AS10834 Telefonica de Argentina
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://38.91.101.96:8850#US--AS63023 GTHost
+http://103.172.42.17:8080#ID--AS142393 PT Media Solusi Sukses
+http://81.163.56.104:23500#RU--AS57227 Subnet LLC
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://38.56.23.33:999#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://172.99.188.129:3128#NL--AS63023 GTHost
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
 http://103.231.239.18:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://103.189.249.196:1111#ID--AS149888 PT Berkah Media Kusuma Vision
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://124.158.167.155:2909#ID--AS9341 PT Indonesia Comnets Plus
