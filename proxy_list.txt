@@ -1,5 +1,3 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://114.9.24.198:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://188.165.52.148:3128#FR--AS16276 OVH SAS
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
