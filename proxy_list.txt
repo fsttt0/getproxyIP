@@ -1,22 +1,28 @@
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://195.158.197.96:8088#UA--AS43967 TEREMKY LAN ISP LLC
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://67.43.228.253:19007#AR--AS269802 COOPERATIVA DE SERVICIOS TELEFONICOS Y OTROS SERVICIOS PUBLICOS DE CATRIEL LTDA
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://152.26.229.86:9443#US--AS81 MCNC
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
 http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://38.183.145.126:9090#ID--AS140457 PT Ikhlas Cipta Teknologi
-http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://117.144.175.203:8800#CN--AS24400 Shanghai Mobile Communications Co.,Ltd.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://72.10.164.178:3231#AE--AS15802 Emirates Integrated Telecommunications Company PJSC
+http://72.10.160.90:16095#KR--AS17858 LG POWERCOMM
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://58.69.208.148:8082#PH--AS9299 Philippine Long Distance Telephone Company
 http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://110.78.186.228:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
+http://201.144.25.10:8080#MX--AS8151 UNINET
