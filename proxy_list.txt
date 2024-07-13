@@ -1,23 +1,22 @@
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://195.158.197.96:8088#UA--AS43967 TEREMKY LAN ISP LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://152.26.229.86:9443#US--AS81 MCNC
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
 http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://103.154.91.250:8081#ID--AS131111 PT Mora Telematika Indonesia
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://58.69.208.148:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://110.78.186.228:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://38.183.145.126:9090#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
