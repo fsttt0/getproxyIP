@@ -1,21 +1,30 @@
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://185.123.101.187:8989#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://103.99.27.234:8080#ID--AS150279 PT Lintas Network Solusi
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://45.178.133.60:999#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://103.168.164.94:83#IN--AS147236 SSICON SYSTEMS PRIVATE LIMITED
+http://202.173.217.4:8080#TH--AS24187 KIRZ Service Provider
 http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://124.158.167.155:2909#ID--AS9341 PT Indonesia Comnets Plus
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://31.28.163.149:31280#UA--AS15497 Colocall
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://164.92.207.53:3128#US--AS81 MCNC
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://37.148.212.219:3128#TR--AS34619 CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
+http://46.98.240.115:50001#UA--AS15377 TRADITIONAL LLC
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://45.124.87.43:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
