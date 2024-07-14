@@ -1,18 +1,6 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
 http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://38.91.101.96:8850#US--AS63023 GTHost
-http://82.200.131.166:58080#KZ--AS9198 JSC Kazakhtelecom
-http://45.174.176.161:8088#BR--AS268863 M & G TELECON LTDA
-http://103.130.130.179:8080#ID--AS63859 PT. Eka Mas Republik
-http://45.124.87.66:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://1.10.227.155:8080#TH--AS23969 TOT Public Company Limited
-http://115.244.196.90:3129#IN--AS55836 Reliance Jio Infocomm Limited
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
