@@ -1,12 +1,23 @@
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://177.234.241.38:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.92.151.66:9001#US--AS21928 T-Mobile USA, Inc.
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://47.251.28.148:8081#ES--AS203020 HostRoyale Technologies Pvt Ltd
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://94.179.109.254:8081#UA--AS6849 JSC "Ukrtelecom"
+http://103.182.213.13:8080#BD--AS141737 Rapid Network
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://38.188.248.34:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://37.148.212.219:3128#TR--AS34619 CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://185.123.101.187:8989#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
