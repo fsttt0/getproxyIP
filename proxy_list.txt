@@ -1,37 +1,28 @@
-http://72.10.160.92:12617#PH--AS9299 Philippine Long Distance Telephone Company
-http://52.117.160.219:8081#US--AS36351 SoftLayer Technologies Inc.
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://172.99.188.178:3128#NL--AS63023 GTHost
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://185.221.219.86:3128#NL--AS63023 GTHost
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://122.54.147.110:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://102.164.249.144:8080#GQ--AS328207 OFFICE TECH
+http://49.51.244.112:8888#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://23.166.88.36:3128#CH--AS63023 GTHost
+http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
+http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://103.88.238.225:83#IN--AS139490 Aspt Networks Pvt Ltd
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
 http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://189.51.123.7:80#BR--AS263349 Rapeedo Ltda
 http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://201.77.110.129:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://23.166.88.238:3128#CH--AS63023 GTHost
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://47.251.28.148:8081#BG--AS209372 SIA "Singularity Telecom"
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://103.75.96.142:1111#ID--AS131111 PT Mora Telematika Indonesia
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://102.134.166.11:80#BW--AS327776 STATURE (PTY) LTD
-http://51.79.23.17:8050#CA--AS16276 OVH SAS
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
-http://82.65.98.35:3128#FR--AS12322 Free SAS
-http://23.134.91.73:3128#FR--AS63023 GTHost
