@@ -1,28 +1,21 @@
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://122.54.147.110:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://102.164.249.144:8080#GQ--AS328207 OFFICE TECH
-http://49.51.244.112:8888#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://23.166.88.36:3128#CH--AS63023 GTHost
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://173.249.10.82:3128#DE--AS51167 Contabo GmbH
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://103.88.238.225:83#IN--AS139490 Aspt Networks Pvt Ltd
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://124.158.167.155:2909#ID--AS9341 PT Indonesia Comnets Plus
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
-http://182.253.109.11:8080#ID--AS17451 BIZNET NETWORKS
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
-http://23.166.88.238:3128#CH--AS63023 GTHost
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
