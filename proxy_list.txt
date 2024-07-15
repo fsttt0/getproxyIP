@@ -1,19 +1,25 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.143.221.240:8103#SG--AS396982 Google LLC
+http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://47.251.28.148:8081#GB--AS207990 HostRoyale Technologies Pvt Ltd
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://81.94.135.202:1256#RU--AS8595 OOO WestCall Ltd.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.251.28.148:8081#BR--AS203020 HostRoyale Technologies Pvt Ltd
-http://34.143.221.240:8103#SG--AS396982 Google LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://23.166.88.209:3128#CH--AS63023 GTHost
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://154.73.87.241:8080#BW--AS327776 STATURE (PTY) LTD
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://187.50.29.242:8080#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
+http://103.106.219.132:1111#ID--AS137329 PT. ARTHA LINTAS DATA MANDIRI
+http://103.69.20.104:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
