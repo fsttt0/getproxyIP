@@ -1,39 +1,47 @@
+http://72.10.164.178:11965#TW--AS3462 Data Communication Business Group
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://103.161.130.153:3127#ID--AS141613 PT Jaringan Internet Nusantara
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://171.236.112.211:5106#VN--AS7552 Viettel Group
 http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
+http://172.99.188.154:3128#NL--AS63023 GTHost
 http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://185.123.101.187:8989#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://27.70.200.207:5106#VN--AS7552 Viettel Group
+http://185.123.101.187:8989#UZ--AS8193 "Uzbektelekom" Joint Stock Company
 http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://52.117.160.219:8081#US--AS36351 SoftLayer Technologies Inc.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://115.76.84.238:5102#VN--AS7552 Viettel Group
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://185.123.101.222:8989#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
+http://185.123.101.222:8989#LB--AS39010 TerraNet sal
+http://109.205.126.6:8080#LV--AS28699 Unistar
 http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://164.92.207.53:3128#ID--AS136093 PT Mitra Lintas Multimedia
+http://172.99.188.91:3128#NL--AS63023 GTHost
+http://164.92.207.53:3128#CZ--AS60068 Datacamp Limited
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://45.124.87.33:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://190.2.211.146:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
