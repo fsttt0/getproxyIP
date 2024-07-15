@@ -1,26 +1,47 @@
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://185.123.101.187:8989#TR--AS8386 Vodafone Net Iletisim Hizmetler AS
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.221.219.86:3128#NL--AS63023 GTHost
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://103.189.197.75:8181#ID--AS149912 PT Graha Sumber Teknologi
-http://190.12.95.170:47029#PE--AS27843 WIN EMPRESAS S.A.C.
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://116.102.69.220:5102#VN--AS7552 Viettel Group
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
+http://67.43.227.227:21739#VE--AS11562 Net Uno, C.A.
+http://67.43.236.20:22007#CL--AS7418 TELEFÓNICA CHILE S.A.
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://67.43.236.20:1493#IN--AS137282 KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY
+http://23.134.91.73:3128#FR--AS63023 GTHost
+http://72.10.164.178:24235#VE--AS273155 DATANET VZLA 2021, C.A
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://47.251.28.148:8081#US--AS20473 The Constant Company, LLC
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://103.109.125.155:4444#ID--AS137316 PT. PANCA DUTA UTAMA
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://103.154.90.190:8080#ID--AS131111 PT Mora Telematika Indonesia
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.166.88.209:3128#CH--AS63023 GTHost
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://27.71.175.0:5102#VN--AS7552 Viettel Group
+http://177.234.198.58:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://20.42.50.59:9090#US--AS8075 Microsoft Corporation
+http://116.102.69.220:5102#VN--AS7552 Viettel Group
+http://116.96.59.227:34004#VN--AS7552 Viettel Group
+http://27.79.42.144:5104#VN--AS7552 Viettel Group
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://115.76.84.238:5102#VN--AS7552 Viettel Group
 http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://194.44.36.114:6868#UA--AS3255 State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic and Research Network" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
