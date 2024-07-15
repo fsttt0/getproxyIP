@@ -1,49 +1,28 @@
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://121.126.128.102:45212#KR--AS4766 Korea Telecom
+http://103.171.240.162:8181#ID--AS142390 PT Abs Multimedia Indonesia
 http://31.28.163.149:31280#UA--AS15497 Colocall
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
-http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://47.251.28.148:8081#IT--AS203020 HostRoyale Technologies Pvt Ltd
+http://47.251.28.148:8081#NL--AS9009 M247 Europe SRL
 http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://185.123.101.187:8989#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://159.196.157.188:8080#AU--AS4764 Aussie Broadband
+http://185.123.101.187:8989#TR--AS16135 TURKCELL ILETISIM HIZMETLERI A.S.
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
+http://171.231.191.245:5106#VN--AS7552 Viettel Group
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://103.126.218.68:8090#BD--AS134806 Skyview Online Ltd
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://164.92.207.53:3128#PE--AS12252 America Movil Peru S.A.C.
-http://46.99.183.154:1234#AL--AS21246 IPKO Telecommunications LLC
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://164.92.207.53:3128#US--AS81 MCNC
+http://23.134.91.168:3128#FR--AS63023 GTHost
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://171.231.160.230:5106#VN--AS7552 Viettel Group
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://27.65.49.161:5102#VN--AS7552 Viettel Group
-http://202.179.91.97:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://27.147.139.225:58080#BD--AS23688 Link3 Technologies Ltd.
-http://45.124.87.17:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://23.134.91.77:3128#FR--AS63023 GTHost
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://103.175.236.233:8082#ID--AS147121 PT Marva Global Telekomunikasi
-http://23.134.91.156:3128#FR--AS63023 GTHost
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://43.251.84.242:8080#BD--AS45766 Triangle Services Limited.
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://216.176.200.36:3128#US--AS4213 Krypt Technologies
-http://123.31.19.244:3128#VN--AS45899 VNPT Corp
+http://103.36.8.55:8181#ID--AS133360 PT Awinet Global Mandiri
