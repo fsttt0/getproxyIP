@@ -1,21 +1,18 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://84.39.248.46:8080#RU--AS41704 JSC "Ufanet"
-http://77.48.22.49:33347#CZ--AS16019 Vodafone Czech Republic a.s.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://23.166.88.238:3128#CH--AS63023 GTHost
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://172.99.188.178:3128#NL--AS63023 GTHost
+http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
+http://103.48.70.209:83#IN--AS136290 Country Online Services PVT LTD
+http://172.99.188.91:3128#NL--AS63023 GTHost
+http://172.81.56.91:80#US--AS399275 Solid Systems LLC
+http://120.28.216.126:8181#PH--AS132199 Globe Telecom Inc.
+http://201.144.25.10:8080#MX--AS8151 UNINET
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://23.134.91.168:3128#FR--AS63023 GTHost
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://31.28.163.149:31280#UA--AS15497 Colocall
+http://23.166.88.14:3128#CH--AS63023 GTHost
 http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://182.253.178.68:3128#ID--AS17451 BIZNET NETWORKS
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
