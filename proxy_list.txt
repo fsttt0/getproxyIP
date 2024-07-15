@@ -1,47 +1,45 @@
-http://185.221.219.98:3128#NL--AS63023 GTHost
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
-http://31.28.163.149:31280#UA--AS15497 Colocall
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
 http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://27.65.49.161:5102#VN--AS7552 Viettel Group
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://103.133.63.135:8181#ID--AS138134 PT Tunas Link Indonesia
-http://60.53.94.92:8123#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
-http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://124.217.76.150:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://116.96.59.227:34006#VN--AS7552 Viettel Group
-http://91.228.53.239:4128#DE--AS41108 FirstRoot
+http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://103.168.254.138:8086#ID--AS142326 PT Fahasa Tri Data
-http://27.147.140.129:58080#BD--AS23688 Link3 Technologies Ltd.
-http://103.69.20.56:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://47.251.28.148:8081#FR--AS9009 M247 Europe SRL
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://202.169.225.130:3128#ID--AS23671 PT. Sarana InsanMuda Selaras
+http://185.221.219.98:3128#NL--AS63023 GTHost
+http://164.92.207.53:3128#JP--AS4713 NTT Communications Corporation
+http://23.134.91.168:3128#FR--AS63023 GTHost
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://103.54.218.202:8080#ID--AS131111 PT Mora Telematika Indonesia
+http://200.37.253.75:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://23.134.91.156:3128#FR--AS63023 GTHost
+http://180.189.163.102:8080#TL--AS38077 Timor Telecom, SA
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://180.211.186.158:8080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
-http://103.166.9.110:8080#ID--AS141978 PT Akses Bersama Sedaya
-http://47.251.28.148:8081#US--AS20473 The Constant Company, LLC
-http://77.137.21.78:19000#IL--AS12849 Hot-Net internet services Ltd.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://116.98.64.126:5104#VN--AS7552 Viettel Group
 http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://160.248.92.13:3128#JP--AS2514 NTT PC Communications, Inc.
-http://181.13.232.98:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
+http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
 http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://39.191.223.109:4096#CN--AS56041 China Mobile communications corporation
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
