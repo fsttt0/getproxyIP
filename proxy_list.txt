@@ -1,30 +1,31 @@
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://23.122.184.9:8888#US--AS396356 Latitude.sh
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.251.28.148:8081#ZA--AS36916 X-DSL Networking Solutions
+http://47.251.28.148:8081#CA--AS207990 HostRoyale Technologies Pvt Ltd
 http://34.143.221.240:8103#SG--AS396982 Google LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://181.198.1.82:999#EC--AS27947 Telconet S.A
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://119.92.75.48:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://190.114.245.122:999#VE--AS394684 GOLD DATA USA INC
+http://212.110.188.213:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://61.5.54.21:3128#ID--AS7713 PT Telekomunikasi Indonesia
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://103.49.28.23:12113#ID--AS63862 PT Pascal Solusi Nusantara
+http://103.87.85.198:80#ID--AS4787 PT Cyberindo Aditama
 http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
 http://45.92.68.8:8080#PT--AS208609 Pedro Pita Mendes Vaz
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://85.10.199.41:3128#DE--AS24940 Hetzner Online GmbH
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://211.253.36.172:5008#KR--AS4766 Korea Telecom
