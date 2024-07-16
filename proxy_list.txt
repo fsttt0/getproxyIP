@@ -1,28 +1,40 @@
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.28.148:8081#US--AS207990 HostRoyale Technologies Pvt Ltd
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://185.44.26.217:43097#ES--AS50564 Electronica Martinez de Cartagena S.L.
+http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://170.83.76.22:999#VE--AS266841 GALANET SOLUTION C.A.
+http://179.189.222.188:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://114.9.24.198:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://103.69.20.36:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://200.37.253.75:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://45.124.87.17:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://116.102.69.220:5102#VN--AS7552 Viettel Group
 http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
 http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://23.166.88.205:3128#CH--AS63023 GTHost
+http://221.118.79.16:8080#JP--AS9354 Community Network Center Inc.
+http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://38.52.208.4:999#GT--AS272818 CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
+http://23.166.88.240:3128#CH--AS63023 GTHost
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://203.74.125.18:8888#TW--AS3462 Data Communication Business Group
-http://89.30.96.166:3128#FR--AS4455 IX Reach Ltd
-http://45.231.11.220:8080#BR--AS28201 Companhia Itabirana Telecomunicações Ltda
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://50.204.36.138:60808#US--AS7922 Comcast Cable Communications, LLC
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://14.224.147.249:8080#VN--AS45899 VNPT Corp
-http://36.95.155.115:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://165.227.33.242:3128#CA--AS14061 DigitalOcean, LLC
-http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
-http://216.176.200.36:3128#US--AS4213 Krypt Technologies
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://41.173.7.82:8080#UG--AS30844 Liquid Telecommunications Ltd
+http://103.133.63.61:8080#ID--AS138134 PT Tunas Link Indonesia
