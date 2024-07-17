@@ -1,27 +1,32 @@
-http://117.55.202.206:3128#NL--AS3920 ESTOXY OU
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://216.176.200.36:3128#US--AS4213 Krypt Technologies
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://202.169.225.130:3128#ID--AS23671 PT. Sarana InsanMuda Selaras
+http://5.78.118.7:10000#US--AS21928 T-Mobile USA, Inc.
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://103.191.115.238:83#IN--AS150046 XPRESS FIBER PRIVATE LIMITED
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://84.247.129.226:3128#DE--AS51167 Contabo GmbH
-http://47.251.28.148:8081#US--AS207990 HostRoyale Technologies Pvt Ltd
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://47.251.28.148:8081#PL--AS207990 HostRoyale Technologies Pvt Ltd
+http://157.230.178.216:3128#US--AS14061 DigitalOcean, LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.26.110.125:84#IN--AS132774 Niss Internet services private limited
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://45.124.87.195:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://27.147.158.193:58080#BD--AS23688 Link3 Technologies Ltd.
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://45.124.87.16:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.52.12.86:8080#ID--AS55653 Skyline Semesta, PT
+http://191.242.126.94:8080#BR--AS262851 PLIM TELECOMUNICACOES LTDA-ME
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://103.165.155.69:1111#ID--AS141921 PT Jaringan Keluarga Bersama
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
