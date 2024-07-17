@@ -1,19 +1,23 @@
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://47.251.28.148:8081#AU--AS133499 HostRoyale Technologies Pvt Ltd
-http://131.0.235.9:55555#AR--AS61470 MUSURIT
+http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://41.173.7.82:8080#UG--AS30844 Liquid Telecommunications Ltd
+http://202.12.82.1:83#IN--AS56224 PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://71.14.23.121:8080#US--AS20115 Charter Communications
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://103.169.186.153:3125#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://190.40.234.18:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://159.196.157.188:8080#AU--AS4764 Aussie Broadband
+http://14.102.108.58:8080#IN--AS18002 AS Number for Interdomain Routing
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://114.130.86.145:5443#BD--AS132608 Mango Teleservices Limited (ISP)
+http://23.134.91.168:3128#FR--AS63023 GTHost
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
