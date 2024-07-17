@@ -1,20 +1,26 @@
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.251.28.148:8081#US--AS207990 HostRoyale Technologies Pvt Ltd
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://1.20.200.154:8081#TH--AS23969 TOT Public Company Limited
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://186.148.195.165:999#VE--AS269984 CORPORACION MATRIX TV, C.A.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://23.134.91.168:3128#FR--AS63023 GTHost
 http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://164.92.207.53:3128#US--AS396982 Google LLC
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
