@@ -1,23 +1,25 @@
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.28.148:8081#AU--AS133499 HostRoyale Technologies Pvt Ltd
-http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
-http://41.173.7.82:8080#UG--AS30844 Liquid Telecommunications Ltd
-http://202.12.82.1:83#IN--AS56224 PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED
+http://47.251.28.148:8081#VN--AS9009 M247 Europe SRL
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://71.14.23.121:8080#US--AS20115 Charter Communications
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://190.40.234.18:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://159.196.157.188:8080#AU--AS4764 Aussie Broadband
-http://14.102.108.58:8080#IN--AS18002 AS Number for Interdomain Routing
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://23.134.91.168:3128#FR--AS63023 GTHost
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://103.47.164.233:8080#IN--AS18002 AS Number for Interdomain Routing
