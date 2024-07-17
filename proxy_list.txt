@@ -1,4 +1,67 @@
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://2.138.25.228:3128#ES--AS3352 TELEFONICA DE ESPANA S.A.U.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://185.221.219.63:3128#NL--AS63023 GTHost
+http://164.92.207.53:3128#TN--AS2609 Tunisia BackBone AS
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://45.188.164.47:999#MX--AS265605 VELOCOM SA DE CV
+http://201.91.248.67:20183#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://188.165.52.148:3128#FR--AS16276 OVH SAS
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://103.18.77.50:1111#ID--AS55701 PT. Usaha Adisanggoro
+http://41.254.48.190:1976#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://103.144.18.37:3128#ID--AS139418 PT Gasatek Bintang Nusantara
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://51.91.119.25:3128#FR--AS16276 OVH SAS
+http://71.14.23.121:8080#US--AS20115 Charter Communications
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://103.158.253.29:8382#ID--AS141137 PT Media Cepat Indonesia
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://182.253.122.156:8080#ID--AS17451 BIZNET NETWORKS
+http://20.219.144.149:3128#IN--AS8075 Microsoft Corporation
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://190.94.213.81:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://23.166.88.209:3128#CH--AS63023 GTHost
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://152.231.87.10:999#CL--AS27651 ENTEL CHILE S.A.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://152.26.229.86:9443#US--AS81 MCNC
+http://31.28.163.149:31280#UA--AS15497 Colocall
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://91.189.237.78:8080#RU--AS42742 InterkamService LLC
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
+http://47.251.28.148:8081#IL--AS207990 HostRoyale Technologies Pvt Ltd
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
 http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://47.252.29.28:11222#UA--AS15596 IP Port LLC
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://23.166.88.240:3128#CH--AS63023 GTHost
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
+http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
