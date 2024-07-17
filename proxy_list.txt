@@ -1,43 +1,37 @@
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://175.6.171.225:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
 http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
-http://13.91.243.29:3128#US--AS8075 Microsoft Corporation
-http://66.31.130.117:8080#US--AS7922 Comcast Cable Communications, LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.28.148:8081#DE--AS203020 HostRoyale Technologies Pvt Ltd
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.172.42.111:8080#ID--AS142393 PT Media Solusi Sukses
+http://47.251.28.148:8081#US--AS207990 HostRoyale Technologies Pvt Ltd
 http://159.65.12.201:3128#SG--AS14061 DigitalOcean, LLC
-http://161.34.67.50:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://103.88.239.178:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://177.234.240.124:1993#EC--AS52468 UFINET PANAMA S.A.
+http://178.128.44.143:3128#GB--AS14061 DigitalOcean, LLC
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://38.183.209.33:8080#ID--AS139972 PT. Putra Lebak Banten
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://202.169.225.130:3128#ID--AS23671 PT. Sarana InsanMuda Selaras
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://103.25.210.141:3319#ID--AS132653 PT Transdata Sejahtera
 http://23.152.40.14:3128#US--AS16611 InfiniaHost.com
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://23.134.91.168:3128#FR--AS63023 GTHost
 http://23.134.91.47:3128#FR--AS63023 GTHost
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://177.54.226.50:8082#BR--AS262462 Aranet Comunicacao Ltda
+http://23.134.91.156:3128#FR--AS63023 GTHost
 http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://164.92.207.53:3128#JP--AS4713 NTT Communications Corporation
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://177.93.44.226:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://87.97.60.4:18080#HU--AS20845 DIGI Tavkozlesi es Szolgaltato Kft.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://190.120.249.61:999#VE--AS264628 CORPORACION FIBEX TELECOM, C.A.
+http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://41.59.200.27:3030#TZ--AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://185.221.219.19:3128#NL--AS63023 GTHost
-http://103.184.54.3:7777#ID--AS140401 PT Proxi Jaringan Nusantara
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://58.52.216.91:3128#CN--AS4134 CHINANET-BACKBONE
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://190.43.92.90:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://75.144.206.153:31280#US--AS7922 Comcast Cable Communications, LLC
+http://170.80.242.78:999#MX--AS265525 TV CABLE DEL GUADIANA S.A DE C.V.
+http://36.88.253.86:8080#ID--AS7713 PT Telekomunikasi Indonesia
