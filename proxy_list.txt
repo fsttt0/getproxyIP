@@ -1,29 +1,28 @@
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://23.134.91.191:3128#FR--AS63023 GTHost
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://116.97.240.147:4995#VN--AS7552 Viettel Group
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.77.110.129:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.131.18.183:8080#ID--AS138089 PT.Global Media Data Prima
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.252.29.28:11222#US--AS264850 TODAS LAS REDES SA
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://191.102.248.5:8085#AR--AS262934 IP·RED
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
 http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.68.133:3128#JP--AS2514 NTT PC Communications, Inc.
-http://23.134.91.73:3128#FR--AS63023 GTHost
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://187.1.181.124:23500#BR--AS21574 Century Telecom Ltda
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://193.225.140.88:3128#HU--AS1955 KIFU (Governmental Info Tech Development Agency)
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://164.92.207.53:3128#US--AS81 MCNC
-http://23.134.91.168:3128#FR--AS63023 GTHost
+http://164.92.207.53:3128#TN--AS2609 Tunisia BackBone AS
+http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
+http://185.221.219.63:3128#NL--AS63023 GTHost
