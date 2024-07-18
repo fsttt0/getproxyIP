@@ -1,24 +1,27 @@
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://186.125.218.146:999#AR--AS7303 Telecom Argentina S.A.
-http://82.64.186.155:8080#FR--AS12322 Free SAS
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://109.123.80.30:9480#DE--AS13213 UK-2 Limited
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://188.245.78.68:3128#DE--AS24940 Hetzner Online GmbH
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
 http://193.225.140.88:3128#HU--AS1955 KIFU (Governmental Info Tech Development Agency)
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://185.221.219.86:3128#NL--AS63023 GTHost
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://47.252.29.28:11222#US--AS395839 HOSTKEY
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
-http://164.92.207.53:3128#US--AS396982 Google LLC
