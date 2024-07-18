@@ -1,9 +1,8 @@
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.192.33.52:43801#CZ--AS47232 ISP Alliance a.s.
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
