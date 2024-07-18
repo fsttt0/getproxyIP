@@ -1,8 +1,24 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://186.125.218.146:999#AR--AS7303 Telecom Argentina S.A.
+http://82.64.186.155:8080#FR--AS12322 Free SAS
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://188.245.78.68:3128#DE--AS24940 Hetzner Online GmbH
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://193.225.140.88:3128#HU--AS1955 KIFU (Governmental Info Tech Development Agency)
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
+http://164.92.207.53:3128#US--AS396982 Google LLC
