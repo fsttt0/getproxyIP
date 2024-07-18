@@ -1,22 +1,27 @@
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://202.179.184.66:8080#ID--AS38750 Telemedia Dinamika Sarana, PT
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://212.110.188.198:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
+http://82.64.186.155:8080#FR--AS12322 Free SAS
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://23.134.91.47:3128#FR--AS63023 GTHost
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
 http://193.225.140.88:3128#HU--AS1955 KIFU (Governmental Info Tech Development Agency)
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.173.139.22:8080#ID--AS147078 PT Serayu Multi Connection
+http://80.66.81.26:4000#PL--AS9009 M247 Europe SRL
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://185.221.219.86:3128#NL--AS63023 GTHost
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.78.17.250:999#CO--AS52468 UFINET PANAMA S.A.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
