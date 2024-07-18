@@ -1,32 +1,26 @@
+http://178.128.44.143:3128#GB--AS14061 DigitalOcean, LLC
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://103.244.107.65:8080#ID--AS151542 PT Sahabat Fiber Indonesia
+http://119.159.224.89:8080#PK--AS17557 Pakistan Telecommunication Company Limited
+http://183.81.156.98:8080#ID--AS24527 Internet Service Provider
+http://187.251.230.10:3128#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://45.80.207.212:8080#RU--AS50340 JSC Selectel
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://187.1.181.124:23500#BR--AS21574 Century Telecom Ltda
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://194.34.232.76:8800#DE--AS51167 Contabo GmbH
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.114.52.130:8080#ID--AS137349 PT. GEMILANG SARANA MANDIRI
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://88.202.228.92:4545#GB--AS13213 UK-2 Limited
 http://152.42.245.98:3128#SG--AS14061 DigitalOcean, LLC
-http://82.64.186.155:8080#FR--AS12322 Free SAS
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://193.225.140.88:3128#HU--AS1955 KIFU (Governmental Info Tech Development Agency)
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
+http://115.248.66.131:3129#IN--AS18101 Reliance Communications Ltd.DAKC MUMBAI
 http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
 http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://201.251.61.143:8080#AR--AS22927 Telefonica de Argentina
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.181.122.97:999#CL--AS269733 INTERPIT TELECOMUNICACIONES LTDA
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
-http://103.165.155.195:2016#ID--AS141921 PT Jaringan Keluarga Bersama
-http://45.70.201.253:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.136.197.45:25124#HK--AS9009 M247 Europe SRL
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://202.51.121.59:8080#ID--AS17995 PT iForte Global Internet
-http://77.242.16.30:8080#AL--AS35047 Abissnet sh.a.
