@@ -1,22 +1,26 @@
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.97.228.198:999#VE--AS263703 VIGINET C.A
-http://103.159.194.249:8080#ID--AS141145 PT Giga Digital Nusantara
+http://81.163.56.104:23500#RU--AS57227 Subnet LLC
 http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.242.181.82:8080#CO--AS23520 Columbus Networks USA, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.32:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://154.38.176.83:3128#US--AS40021 Nubes, LLC
+http://45.142.212.77:4000#UA--AS15596 IP Port LLC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
 http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://181.174.115.9:1994#GT--AS23243 COMCEL GUATEMALA S.A.
+http://5.78.118.7:10000#US--AS21928 T-Mobile USA, Inc.
+http://103.56.160.78:2403#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://64.226.79.80:3128#DE--AS14061 DigitalOcean, LLC
 http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.93.22.154:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://212.92.148.162:8090#RU--AS8371 PJSC "Vimpelcom"
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://4.155.2.13:9480#US--AS8075 Microsoft Corporation
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
