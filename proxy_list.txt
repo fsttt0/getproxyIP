@@ -1,10 +1,16 @@
-http://182.253.40.149:8080#ID--AS17451 BIZNET NETWORKS
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
