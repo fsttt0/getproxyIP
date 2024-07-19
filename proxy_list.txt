@@ -1,16 +1,18 @@
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://38.51.243.145:999#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://179.189.222.188:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
