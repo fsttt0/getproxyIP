@@ -1,13 +1,9 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://190.97.228.198:999#VE--AS263703 VIGINET C.A
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://124.105.48.232:8082#PH--AS9299 Philippine Long Distance Telephone Company
