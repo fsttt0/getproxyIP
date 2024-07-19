@@ -1,9 +1,15 @@
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.56.70.81:9991#DO--AS271965 ORBITEK SRL
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://124.105.48.232:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
