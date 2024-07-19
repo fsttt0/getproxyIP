@@ -1,32 +1,32 @@
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://185.221.219.86:3128#NL--AS63023 GTHost
+http://176.106.22.125:8080#RU--AS52043 LLC "Multiservice"
 http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://187.49.114.26:666#BR--AS28144 G3 TELECOM
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://110.137.136.245:80#ID--AS7713 PT Telekomunikasi Indonesia
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
 http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://199.116.62.148:9999#PR--AS21559 OSNET Wireless
-http://45.224.151.252:999#EC--AS52468 UFINET PANAMA S.A.
-http://109.205.126.6:8080#LV--AS28699 Unistar
-http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
+http://38.188.249.41:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://66.31.130.117:8080#US--AS7922 Comcast Cable Communications, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://181.10.160.155:8080#AR--AS7303 Telecom Argentina S.A.
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
-http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://191.97.15.94:11201#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://203.110.145.82:63128#AU--AS17477 Macquarie Technology Operations Pty Limited
+http://20.232.120.176:80#US--AS8075 Microsoft Corporation
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.187.86.3:8182#ID--AS149718 PT Satunol Digital Teknologi
+http://114.9.27.14:3127#ID--AS4761 INDOSAT Internet Network Provider
+http://103.191.58.60:8080#ID--AS149909 PT Panjalu Sarana Data Indonesia
+http://37.194.44.125:8080#RU--AS31200 Novotelecom Ltd
