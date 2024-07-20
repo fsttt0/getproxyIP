@@ -1,16 +1,25 @@
-http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
-http://23.134.91.53:3128#FR--AS63023 GTHost
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://45.81.146.7:8080#IQ--AS208859 FACT LTD
+http://103.147.98.122:8080#IN--AS139533 Onquee Networks Pvt Ltd
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://185.241.176.227:3128#RU--AS8492 "OBIT" Ltd.
+http://177.36.14.137:8080#BR--AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA
+http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://14.162.146.186:19132#VN--AS45899 VNPT Corp
-http://181.10.160.155:8080#AR--AS7303 Telecom Argentina S.A.
-http://202.57.25.152:8099#ID--AS140469 PT Wahyu Adidaya Network
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
