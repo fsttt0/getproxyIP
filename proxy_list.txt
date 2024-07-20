@@ -1,33 +1,32 @@
-http://38.188.249.41:8181#ID--AS139981 PT. Menaksopal Link Nusantara
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://60.53.94.92:8123#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.134.91.53:3128#FR--AS63023 GTHost
+http://179.48.80.9:8085#BR--AS271241 Fbnet Telecom
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://14.225.3.194:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://212.92.148.164:8090#RU--AS8371 PJSC "Vimpelcom"
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://212.92.148.162:8090#RU--AS8371 PJSC "Vimpelcom"
 http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://103.168.254.34:1111#ID--AS142326 PT Fahasa Tri Data
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://102.213.248.39:8080#KE--AS329192 Optinode Group LLP
+http://114.9.24.198:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
+http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
+http://88.212.46.231:23500#SK--AS42841 ANTIK Telecom s.r.o
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://58.137.174.100:8080#TH--AS4750 CS LOXINFO PUBLIC COMPANY LIMITED
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://23.134.91.73:3128#FR--AS63023 GTHost
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://195.159.124.56:85#NO--AS2116 GLOBALCONNECT AS
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://200.24.153.151:999#EC--AS52468 UFINET PANAMA S.A.
