@@ -1,5 +1,16 @@
-http://179.189.222.188:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
+http://23.134.91.53:3128#FR--AS63023 GTHost
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://14.162.146.186:19132#VN--AS45899 VNPT Corp
+http://181.10.160.155:8080#AR--AS7303 Telecom Argentina S.A.
+http://202.57.25.152:8099#ID--AS140469 PT Wahyu Adidaya Network
