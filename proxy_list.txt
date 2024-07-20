@@ -1,8 +1,41 @@
-http://121.126.128.100:45212#KR--AS4766 Korea Telecom
-http://41.254.48.66:1976#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://189.240.60.163:9090#MX--AS8151 UNINET
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.180.123.19:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://85.209.153.175:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.148.25.201:8080#ID--AS139981 PT. Menaksopal Link Nusantara
+http://152.26.229.86:9443#US--AS81 MCNC
+http://45.71.184.197:999#EC--AS52468 UFINET PANAMA S.A.
+http://85.209.153.173:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://85.209.153.174:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
 http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
