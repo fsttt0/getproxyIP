@@ -1,38 +1,20 @@
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://5.45.107.19:3128#DE--AS197540 netcup GmbH
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.174.115.9:1994#GT--AS23243 COMCEL GUATEMALA S.A.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://46.243.71.2:8888#SK--AS39574 Minet Slovakia s.r.o.
+http://141.147.155.140:21000#JP--AS31898 Oracle Corporation
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://72.10.160.170:22215#MX--AS13999 Mega Cable, S.A. de C.V.
-http://190.94.212.36:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://189.51.123.7:80#BR--AS263349 Rapeedo Ltda
+http://94.251.95.138:5225#RU--AS21127 Joint Stock Company TransTeleCom
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.180.78.204:999#CO--AS27831 Colombia Móvil
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://45.124.87.64:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://185.221.219.63:3128#NL--AS63023 GTHost
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
-http://116.202.165.119:3124#DE--AS24940 Hetzner Online GmbH
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
