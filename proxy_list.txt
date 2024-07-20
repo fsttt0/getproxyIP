@@ -1,25 +1,22 @@
-http://45.81.146.7:8080#IQ--AS208859 FACT LTD
-http://103.147.98.122:8080#IN--AS139533 Onquee Networks Pvt Ltd
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
-http://185.241.176.227:3128#RU--AS8492 "OBIT" Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://177.174.126.203:8080#BR--AS26599 TELEFÔNICA BRASIL S.A
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://181.78.82.213:999#CO--AS3549 Level 3 Parent, LLC
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://177.36.14.137:8080#BR--AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA
 http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://49.156.151.246:83#IN--AS17483 CityOnline Services Ltd
 http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://84.39.248.46:8080#RU--AS41704 JSC "Ufanet"
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
