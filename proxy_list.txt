@@ -1,8 +1,8 @@
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
+http://41.254.48.66:1976#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://189.240.60.163:9090#MX--AS8151 UNINET
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
 http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://85.209.153.174:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
