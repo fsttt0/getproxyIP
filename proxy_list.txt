@@ -1,27 +1,30 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://23.134.91.73:3128#FR--AS63023 GTHost
+http://159.65.12.201:3128#SG--AS14061 DigitalOcean, LLC
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://41.254.48.54:19333#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://103.147.98.122:8080#IN--AS139533 Onquee Networks Pvt Ltd
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://201.251.61.143:8080#AR--AS22927 Telefonica de Argentina
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://38.45.46.2:6332#DO--AS272110 FENIX NETWORKS, S.R.L.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://200.94.96.174:999#MX--AS11172 Alestra, S. de R.L. de C.V.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.201.136.117:9812#KH--AS131178 EZECOM CO., LTD.
-http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
-http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://190.94.213.5:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://122.3.139.85:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://64.76.43.120:999#MX--AS3549 Level 3 Parent, LLC
+http://185.221.219.98:3128#NL--AS63023 GTHost
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
