@@ -1,3 +1,13 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://23.134.91.53:3128#FR--AS63023 GTHost
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
