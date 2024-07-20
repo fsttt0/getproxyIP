@@ -1,22 +1,8 @@
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
-http://177.174.126.203:8080#BR--AS26599 TELEFÔNICA BRASIL S.A
+http://103.81.64.52:8080#ID--AS136055 PT Queen Network Nusantara
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
 http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://181.78.82.213:999#CO--AS3549 Level 3 Parent, LLC
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://177.36.14.137:8080#BR--AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA
-http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://49.156.151.246:83#IN--AS17483 CityOnline Services Ltd
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://84.39.248.46:8080#RU--AS41704 JSC "Ufanet"
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
