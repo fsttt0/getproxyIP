@@ -1,42 +1,36 @@
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://186.67.74.52:3128#CL--AS27651 ENTEL CHILE S.A.
 http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
 http://45.22.209.157:8888#US--AS396356 Latitude.sh
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://36.72.246.233:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://23.95.246.27:3129#US--AS36352 HostPapa
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://70.114.40.153:808#US--AS11427 Charter Communications Inc
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://188.132.222.2:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://121.126.128.99:45212#KR--AS4766 Korea Telecom
-http://125.26.99.41:8080#TH--AS23969 TOT Public Company Limited
-http://199.116.62.148:9999#PR--AS21559 OSNET Wireless
-http://18.118.31.131:80#US--AS16509 Amazon.com, Inc.
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://58.69.137.62:8081#PH--AS9299 Philippine Long Distance Telephone Company
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
 http://128.199.69.25:3129#SG--AS14061 DigitalOcean, LLC
+http://36.88.102.63:80#ID--AS7713 PT Telekomunikasi Indonesia
+http://178.254.31.232:3128#DE--AS42730 EVANZO e-commerce GmbH
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.221.219.86:3128#NL--AS63023 GTHost
-http://179.52.208.6:999#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
-http://103.41.33.246:58080#IN--AS138296 Juweriyah Networks Private Limited
