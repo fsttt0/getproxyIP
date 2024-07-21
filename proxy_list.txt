@@ -1,23 +1,10 @@
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://36.72.246.233:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
+http://45.71.113.167:999#EC--AS52468 UFINET PANAMA S.A.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://23.95.246.27:3129#US--AS36352 HostPapa
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
