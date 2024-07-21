@@ -1,21 +1,11 @@
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
 http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://183.134.101.187:3128#CN--AS58461 CT-HangZhou-IDC
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://212.92.148.164:8090#RU--AS8371 PJSC "Vimpelcom"
 http://20.235.159.154:80#IN--AS8075 Microsoft Corporation
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://203.150.128.241:8080#TH--AS4618 Internet Thailand Company Limited
-http://188.132.221.188:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://124.106.66.194:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
