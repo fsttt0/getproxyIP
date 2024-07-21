@@ -1,4 +1,17 @@
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://152.26.229.86:9443#US--AS81 MCNC
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://36.72.246.233:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://212.92.148.162:8090#RU--AS8371 PJSC "Vimpelcom"
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://183.134.101.187:3128#CN--AS58461 CT-HangZhou-IDC
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
