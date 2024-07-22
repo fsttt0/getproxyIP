@@ -1,18 +1,9 @@
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://206.42.27.113:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://20.71.139.203:80#NL--AS8075 Microsoft Corporation
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://185.82.96.50:8092#LB--AS42183 NET 360 S.A.R.L
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
-http://112.19.241.37:19999#CN--AS139080 The Internet Data Center of Sichuan Mobile Communication Company Limited
-http://212.92.148.162:8090#RU--AS8371 PJSC "Vimpelcom"
+http://190.97.228.198:999#VE--AS263703 VIGINET C.A
