@@ -1,8 +1,7 @@
-http://103.80.82.178:8181#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://81.161.121.114:8080#RU--AS59475 Electron-Service Ltd.
+http://103.171.244.42:8088#ID--AS141674 PT Data Arta Sedaya
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
