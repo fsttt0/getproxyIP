@@ -1,10 +1,11 @@
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.79.62.116:8080#BR--AS27699 TELEFÔNICA BRASIL S.A
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://187.49.114.27:666#BR--AS28144 G3 TELECOM
