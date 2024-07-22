@@ -1,30 +1,8 @@
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
 http://152.26.229.86:9443#US--AS81 MCNC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
-http://113.160.154.32:19132#VN--AS45899 VNPT Corp
-http://103.161.130.153:3127#ID--AS141613 PT Jaringan Internet Nusantara
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://103.113.79.124:9080#ID--AS131111 PT Mora Telematika Indonesia
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://45.186.8.10:9947#BR--AS269453 LUCIANO YAMASHIRO PINTO
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://190.14.10.19:999#GT--AS23243 COMCEL GUATEMALA S.A.
-http://103.18.77.50:1111#ID--AS55701 PT. Usaha Adisanggoro
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://41.65.71.151:1981#EG--AS36992 ETISALAT MISR
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://103.69.20.55:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://103.173.230.88:8080#ID--AS147087 PT Jaringan Internet Banten
