@@ -1,62 +1,80 @@
-http://23.134.91.77:3128#FR--AS63023 GTHost
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://177.136.86.5:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
-http://165.16.27.42:1981#LY--AS37284 Aljeel Aljadeed For Technology
-http://20.84.219.130:3128#US--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://36.72.246.233:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.95.246.27:3129#US--AS36352 HostPapa
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://5.45.107.19:3128#DE--AS197540 netcup GmbH
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://189.240.60.164:9090#MX--AS8151 UNINET
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://212.92.148.162:8090#RU--AS8371 PJSC "Vimpelcom"
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://47.245.120.95:8080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://186.67.74.52:3128#CL--AS27651 ENTEL CHILE S.A.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://85.209.153.173:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://190.153.237.2:37453#CL--AS14259 Gtd Internet S.A.
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://85.209.153.173:4444#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.173:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://109.205.126.6:8080#LV--AS28699 Unistar
+http://85.209.153.174:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
+http://103.70.147.233:8080#IN--AS55836 Reliance Jio Infocomm Limited
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
+http://103.99.136.6:8090#ID--AS151575 PT Jelajah Kreasi Informatika
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://85.209.153.175:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://77.48.22.49:33347#CZ--AS16019 Vodafone Czech Republic a.s.
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://144.91.120.37:80#DE--AS51167 Contabo GmbH
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://188.244.38.227:7999#RU--AS8334 LLC SETEL
-http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
-http://198.71.49.163:3128#US--AS8560 IONOS SE
-http://121.126.128.99:45212#KR--AS4766 Korea Telecom
-http://103.88.90.54:8080#ID--AS150222 PT Paket Switch Bersama
-http://58.69.137.62:8081#PH--AS9299 Philippine Long Distance Telephone Company
-http://45.167.126.5:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
-http://179.48.11.6:8085#BR--AS271113 CARNAUBANET LTDA
-http://103.170.131.42:8080#TH--AS138524 Triple T Broadband Public Company Limited
+http://85.209.153.175:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.175:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://85.209.153.174:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://18.118.31.131:80#US--AS16509 Amazon.com, Inc.
+http://103.189.197.75:8181#ID--AS149912 PT Graha Sumber Teknologi
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://66.96.235.34:8080#ID--AS63859 PT. Eka Mas Republik
+http://38.183.209.61:8080#ID--AS139972 PT. Putra Lebak Banten
+http://85.209.153.175:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://58.80.134.185:1080#JP--AS17506 ARTERIA Networks Corporation
+http://102.66.222.137:8080#ZA--AS328471 HERO TELECOMS (PTY) LTD
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
 http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.117.29.33:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://181.209.119.234:8080#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://23.134.91.191:3128#FR--AS63023 GTHost
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://23.134.91.168:3128#FR--AS63023 GTHost
+http://85.209.153.175:4444#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://185.221.219.86:3128#NL--AS63023 GTHost
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://23.95.246.27:3129#US--AS36352 HostPapa
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://85.209.153.173:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://116.202.165.119:3121#DE--AS24940 Hetzner Online GmbH
+http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
+http://85.209.153.174:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://23.134.91.47:3128#FR--AS63023 GTHost
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://103.46.4.101:8080#ID--AS150460 PT Akses Sentral Teknologi
+http://23.134.91.77:3128#FR--AS63023 GTHost
+http://85.209.153.173:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
