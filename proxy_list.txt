@@ -1,36 +1,57 @@
-http://84.254.0.86:32650#GR--AS25472 Nova Telecommunications & Media Single Member S.A
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://45.56.96.113:3128#US--AS63949 Akamai Connected Cloud
+http://188.235.6.236:8080#RU--AS50542 JSC "ER-Telecom Holding"
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://103.161.130.153:3127#ID--AS141613 PT Jaringan Internet Nusantara
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://39.191.223.109:4096#CN--AS56041 China Mobile communications corporation
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://164.100.104.29:8080#IN--AS4758 National Informatics Centre
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://47.252.29.28:11222#US--AS52485 networksdelmanana.com
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://212.110.188.211:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://57.128.159.224:8005#GB--AS16276 OVH SAS
+http://182.253.40.149:8080#ID--AS17451 BIZNET NETWORKS
+http://52.117.160.219:8081#US--AS36351 SoftLayer Technologies Inc.
+http://191.102.248.9:8085#AR--AS262934 IP·RED
+http://5.104.83.232:8090#JP--AS141995 Contabo Asia Private Limited
+http://103.162.55.2:18080#ID--AS141649 Institut Agama Islam Negeri Madura
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://103.159.96.20:8080#ID--AS141140 PT Jinde Grup Indonesia
-http://177.54.226.50:8082#BR--AS262462 Aranet Comunicacao Ltda
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://190.97.228.198:999#VE--AS263703 VIGINET C.A
+http://20.3.145.1:3128#US--AS8075 Microsoft Corporation
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://43.218.142.212:9090#ID--AS16509 Amazon.com, Inc.
 http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.106.193.5:53281#IN--AS134319 Elyzium Technologies Pvt. Ltd.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.204.21.122:999#CO--AS27831 Colombia Móvil
 http://185.221.219.99:3128#NL--AS63023 GTHost
-http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://189.50.9.33:8080#BR--AS262288 Go In Tecnologia
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://168.138.14.205:3128#AU--AS31898 Oracle Corporation
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://122.3.139.85:8181#PH--AS9299 Philippine Long Distance Telephone Company
+http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://84.255.40.228:8998#MT--AS12709 Melita Limited
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
+http://203.150.128.212:8080#TH--AS4618 Internet Thailand Company Limited
