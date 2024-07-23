@@ -1,15 +1,10 @@
-http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://95.216.84.201:3128#FI--AS24940 Hetzner Online GmbH
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://182.253.40.149:8080#ID--AS17451 BIZNET NETWORKS
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
