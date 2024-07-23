@@ -1,10 +1,28 @@
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.215.87.194:6001#BR--AS4230 CLARO S.A.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://49.248.13.186:2487#IN--AS17762 Tata Teleservices Maharashtra Ltd
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://41.173.7.82:8080#ZA--AS30844 Liquid Telecommunications Ltd
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
