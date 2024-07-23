@@ -1,40 +1,19 @@
-http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://193.46.56.112:8888#TR--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://190.238.231.121:1994#PE--AS6147 Telefonica del Peru S.A.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://180.24.195.13:8080#JP--AS4713 NTT Communications Corporation
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://187.157.243.254:8080#MX--AS8151 UNINET
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://47.252.29.28:11222#DE--AS209372 SIA "Singularity Telecom"
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://191.81.218.87:8080#AR--AS22927 Telefonica de Argentina
-http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
+http://211.253.36.172:5008#KR--AS4766 Korea Telecom
+http://209.97.188.59:3128#GB--AS14061 DigitalOcean, LLC
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
