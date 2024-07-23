@@ -1,2 +1,28 @@
+http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://193.46.56.112:8888#TR--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#DE--AS209372 SIA "Singularity Telecom"
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://180.24.195.13:8080#JP--AS4713 NTT Communications Corporation
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://180.24.195.13:8080#JP--AS4713 NTT Communications Corporation
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://152.26.229.86:9443#US--AS81 MCNC
-http://191.243.46.154:43241#BR--AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME
