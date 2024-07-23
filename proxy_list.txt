@@ -1,14 +1,23 @@
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
 http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
 http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
 http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://158.247.217.8:7777#KR--AS20473 The Constant Company, LLC
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.165.155.165:1111#ID--AS141921 PT Jaringan Keluarga Bersama
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://62.241.133.227:1981#EG--AS24863 Link Egypt (Link.NET)
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.224.224.225:999#PE--AS267749 INVERSIONES TELCOTEL SAC
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://186.180.78.204:999#CO--AS27831 Colombia Móvil
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://185.53.104.96:8090#RU--AS203714 LLC Flex
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://171.234.239.0:10001#VN--AS7552 Viettel Group
+http://223.130.160.191:3128#KR--AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.
