@@ -1,1 +1,11 @@
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://181.224.224.225:999#PE--AS267749 INVERSIONES TELCOTEL SAC
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://185.53.104.96:8090#RU--AS203714 LLC Flex
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
