@@ -1,11 +1,13 @@
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.36:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://211.253.36.172:5008#KR--AS4766 Korea Telecom
 http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
