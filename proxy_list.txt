@@ -1,20 +1,30 @@
+http://171.241.132.124:10010#VN--AS7552 Viettel Group
+http://103.75.52.186:8080#ID--AS46023 PT Quantum Tera Network
+http://119.110.69.215:57413#ID--AS38320 PT Maxindo Mitra Solusi
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://101.255.210.18:8181#ID--AS38511 PT Remala Abadi
+http://37.148.212.219:3128#TR--AS34619 CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://72.10.160.173:28053#CA--AS812 Rogers Communications Canada Inc.
-http://67.43.228.253:28419#PH--AS9299 Philippine Long Distance Telephone Company
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://154.0.132.35:3128#UG--AS37063 Roke Investments International Ltd
 http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://67.43.228.253:1385#CY--AS8544 Primetel PLC
-http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
-http://38.60.254.172:3128#TH--AS138915 Kaopu Cloud HK Limited
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://185.53.104.96:8090#RU--AS203714 LLC Flex
 http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.94.27.73:8080#ID--AS38778 PT. Dutakom Wibawa Putra
-http://144.91.111.4:3128#DE--AS51167 Contabo GmbH
+http://103.41.35.162:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.180.66.138:8080#CO--AS27831 Colombia Móvil
