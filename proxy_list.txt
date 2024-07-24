@@ -1,21 +1,11 @@
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://103.175.46.31:8080#ID--AS147109 PT Internet Keluarga Indonesia
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://119.92.75.48:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.165.155.254:2016#ID--AS141921 PT Jaringan Keluarga Bersama
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://177.234.241.36:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
