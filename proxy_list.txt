@@ -1,16 +1,14 @@
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://1.52.48.25:11111#VN--AS18403 FPT Telecom Company
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://158.247.217.8:7777#KR--AS20473 The Constant Company, LLC
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://72.10.160.92:9775#IN--AS55836 Reliance Jio Infocomm Limited
-http://45.177.179.65:999#MX--AS270158 Wantelco SAS de CV
-http://23.134.91.73:3128#FR--AS63023 GTHost
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://103.41.35.162:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://103.63.114.203:80#VN--AS45903 CMC Telecom Infrastructure Company
-http://101.255.167.173:8080#ID--AS38511 PT Remala Abadi
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
