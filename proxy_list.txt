@@ -1,14 +1,20 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://72.10.160.173:28053#CA--AS812 Rogers Communications Canada Inc.
+http://67.43.228.253:28419#PH--AS9299 Philippine Long Distance Telephone Company
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://67.43.228.253:1385#CY--AS8544 Primetel PLC
+http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
+http://38.60.254.172:3128#TH--AS138915 Kaopu Cloud HK Limited
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://1.52.48.25:11111#VN--AS18403 FPT Telecom Company
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://172.183.241.1:8080#US--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://103.41.35.162:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://36.94.27.73:8080#ID--AS38778 PT. Dutakom Wibawa Putra
+http://144.91.111.4:3128#DE--AS51167 Contabo GmbH
