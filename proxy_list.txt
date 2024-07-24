@@ -1,39 +1,39 @@
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://182.160.100.156:5020#BD--AS24323 aamra networks limited,
+http://43.252.236.157:8080#ID--AS55701 PT. Usaha Adisanggoro
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.244.38.227:7999#RU--AS8334 LLC SETEL
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://185.53.104.96:8090#RU--AS203714 LLC Flex
-http://187.141.125.210:8080#MX--AS8151 UNINET
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
-http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
+http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
+http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
 http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://38.60.254.172:3128#TH--AS138915 Kaopu Cloud HK Limited
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://158.247.217.8:7777#KR--AS20473 The Constant Company, LLC
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
 http://198.99.81.198:8080#US--AS397142 City of Fort Collins
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://101.255.210.18:8181#ID--AS38511 PT Remala Abadi
-http://37.148.212.219:3128#TR--AS34619 CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
-http://103.191.165.4:7777#ID--AS149925 PT Sakti Wijaya Network
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
