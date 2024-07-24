@@ -1,30 +1,24 @@
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
 http://180.24.195.13:8080#JP--AS4713 NTT Communications Corporation
 http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://103.63.114.207:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://158.247.217.8:7777#KR--AS20473 The Constant Company, LLC
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://103.154.139.83:8080#ID--AS131111 PT Mora Telematika Indonesia
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://103.168.254.162:8086#ID--AS142326 PT Fahasa Tri Data
 http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://85.209.153.173:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://187.190.0.240:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://103.18.232.18:8080#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://158.101.172.65:3128#DE--AS31898 Oracle Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://72.167.150.35:3128#US--AS398101 GoDaddy.com, LLC
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://121.126.128.101:45212#KR--AS4766 Korea Telecom
-http://103.164.235.83:8087#ID--AS141916 PT Bantani Media Utama
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
-http://47.252.29.28:11222#US--AS8100 QuadraNet Enterprises LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://220.233.27.127:80#AU--AS10143 Exetel Pty Ltd
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://34.140.150.176:3128#BE--AS396982 Google LLC
