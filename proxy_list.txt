@@ -1,24 +1,19 @@
-http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://180.248.38.147:8088#ID--AS7713 PT Telekomunikasi Indonesia
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://158.247.217.8:7777#KR--AS20473 The Constant Company, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.143.168.58:84#IN--AS139490 Aspt Networks Pvt Ltd
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://138.121.161.86:8190#AR--AS263693 WICORP SA
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://81.94.135.202:1256#RU--AS8595 OOO WestCall Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://185.227.134.152:2456#SG--AS141995 Contabo Asia Private Limited
+http://124.243.139.146:3128#SG--AS136907 HUAWEI CLOUDS
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://54.183.41.1:80#US--AS16509 Amazon.com, Inc.
+http://109.207.172.90:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://182.253.39.242:8080#ID--AS17451 BIZNET NETWORKS
-http://45.230.51.130:999#CL--AS266731 TELECOMUNICACIONES MAURICIO ANDRES KASENDRA LARENAS E.I.R.L.
-http://94.141.98.62:3128#TR--AS208951 ITGLOBAL.COM NL B.V.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
-http://121.126.128.98:45212#KR--AS4766 Korea Telecom
-http://185.221.219.69:3128#NL--AS63023 GTHost
-http://161.34.40.116:3128#JP--AS2514 NTT PC Communications, Inc.
