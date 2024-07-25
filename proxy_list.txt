@@ -1,18 +1,13 @@
-http://105.184.246.32:8080#ZA--AS37457 Telkom SA Ltd.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://41.209.10.196:8080#KE--AS9129 MTN SA
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://181.78.64.172:999#CO--AS52468 UFINET PANAMA S.A.
-http://124.106.203.238:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://101.255.149.58:8080#ID--AS38511 PT Remala Abadi
-http://103.166.227.82:8085#ID--AS141959 PT Arta Flash Sintesa Nusantara
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://171.248.207.94:8080#VN--AS7552 Viettel Group
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://177.234.241.35:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://201.184.108.44:999#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
