@@ -1,12 +1,31 @@
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
+http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://181.39.24.155:999#EC--AS27947 Telconet S.A
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://186.125.218.146:999#AR--AS7303 Telecom Argentina S.A.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
+http://190.121.145.115:999#CO--AS27951 Media Commerce Partners S.A
 http://189.240.60.164:9090#MX--AS8151 UNINET
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://105.184.246.32:80#ZA--AS37457 Telkom SA Ltd.
+http://189.232.204.95:3128#MX--AS8151 UNINET
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
