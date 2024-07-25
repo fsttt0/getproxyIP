@@ -1,15 +1,14 @@
+http://152.26.229.86:9443#US--AS81 MCNC
+http://190.186.1.126:999#BO--AS25620 COTAS LTDA.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://103.176.96.245:8082#ID--AS147131 PT Global Sarana Elektronika
-http://171.241.132.124:10005#VN--AS7552 Viettel Group
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://38.60.254.172:3128#TH--AS138915 Kaopu Cloud HK Limited
