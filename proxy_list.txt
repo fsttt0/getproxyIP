@@ -1,12 +1,12 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.39.24.155:999#EC--AS27947 Telconet S.A
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
 http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://103.63.114.204:80#VN--AS45903 CMC Telecom Infrastructure Company
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://105.184.246.32:80#ZA--AS37457 Telkom SA Ltd.
