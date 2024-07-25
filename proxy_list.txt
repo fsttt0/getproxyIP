@@ -1,13 +1,12 @@
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://171.248.207.94:8080#VN--AS7552 Viettel Group
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
-http://177.234.241.35:999#EC--AS273190 VASQUEZ BURGOS LIVINGTON
+http://103.63.114.204:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://201.184.108.44:999#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
