@@ -1,33 +1,39 @@
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://103.87.85.198:80#ID--AS4787 Verizon Business
-http://190.95.183.242:2020#EC--AS27947 Telconet S.A
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://103.63.114.204:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://181.233.62.9:999#GT--AS272061 CROSS CONNECT LAC, S.A.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
 http://170.239.205.73:8080#CO--AS265629 FIBERNET
 http://34.91.114.10:8080#NL--AS396982 Google LLC
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
 http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://5.56.124.176:6734#MD--AS8926 Moldtelecom SA
 http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
-http://190.121.145.115:999#CO--AS27951 Media Commerce Partners S.A
-http://189.240.60.164:9090#MX--AS8151 UNINET
+http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
+http://84.247.129.226:3128#DE--AS51167 Contabo GmbH
+http://115.244.33.2:3129#IN--AS55836 Reliance Jio Infocomm Limited
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://189.232.204.95:3128#MX--AS8151 UNINET
+http://103.63.114.203:80#VN--AS45903 CMC Telecom Infrastructure Company
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://45.117.30.9:58081#IN--AS135724 Allnet Broadband Network Pvt Ltd
