@@ -1,2 +1,23 @@
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.26.229.86:9443#US--AS81 MCNC
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
+http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://47.252.29.28:11222#UA--AS15596 IP Port LLC
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
