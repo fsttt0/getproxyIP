@@ -3,16 +3,13 @@ http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://152.26.229.86:9443#US--AS81 MCNC
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://103.63.114.203:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://103.16.118.166:8080#ID--AS58482 PT. Palapa Media Indonesia
+http://152.67.8.225:80#IN--AS31898 Oracle Corporation
