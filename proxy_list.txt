@@ -6,28 +6,35 @@ http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
 http://125.212.231.103:808#VN--AS45899 VNPT Corp
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://189.240.60.169:9090#MX--AS8151 UNINET
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://149.51.224.105:3128#DE--AS398465 Rackdog, LLC
 http://195.201.126.184:80#DE--AS24940 Hetzner Online GmbH
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
-http://186.3.97.77:999#EC--AS27947 Telconet S.A
+http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://103.18.77.50:1111#ID--AS55701 PT. Usaha Adisanggoro
-http://131.0.234.219:55555#AR--AS61470 MUSURIT
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://172.81.56.91:80#US--AS399275 Solid Systems LLC
+http://188.132.222.238:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
 http://161.34.67.50:3128#JP--AS2514 NTT PC Communications, Inc.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://47.252.29.28:11222#US--AS19194 Sentris Network LLC
-http://72.167.150.35:3128#US--AS398101 GoDaddy.com, LLC
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
 http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://135.148.233.152:3127#US--AS16276 OVH SAS
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
 http://47.88.59.79:8088#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://3.34.138.145:3128#KR--AS16509 Amazon.com, Inc.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
