@@ -1,15 +1,11 @@
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://203.89.29.41:8080#ID--AS24521 PT. DATA Utama Dinamika
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.252.29.28:11222#US--AS202015 HZ Hosting Ltd
-http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
-http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
+http://103.63.114.207:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://103.81.64.52:8080#ID--AS136055 PT Queen Network Nusantara
+http://156.250.118.94:7001#HK--AS142286 LUOGELANG (FRANCE) LIMITED
+http://77.242.30.9:8088#AL--AS35047 Abissnet sh.a.
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://181.174.115.9:1994#GT--AS23243 COMCEL GUATEMALA S.A.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
