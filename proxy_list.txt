@@ -1,26 +1,27 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://72.167.150.35:3128#US--AS398101 GoDaddy.com, LLC
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
 http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
 http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
 http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
 http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
 http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://186.125.218.146:999#AR--AS7303 Telecom Argentina S.A.
+http://103.175.46.31:8080#ID--AS147109 PT Internet Keluarga Indonesia
+http://103.110.34.133:8089#ID--AS150936 PT RECONET SEMESTA INDONESIA
 http://103.41.33.246:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://181.78.13.68:999#CO--AS52468 UFINET PANAMA S.A.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://49.151.23.182:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
 http://187.1.181.124:23500#BR--AS21574 Century Telecom Ltda
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
