@@ -1,26 +1,15 @@
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://203.89.29.41:8080#ID--AS24521 PT. DATA Utama Dinamika
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#US--AS202015 HZ Hosting Ltd
+http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://182.253.109.67:8080#ID--AS17451 BIZNET NETWORKS
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://45.173.12.141:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://181.78.13.66:999#CO--AS52468 UFINET PANAMA S.A.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
