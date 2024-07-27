@@ -1,41 +1,44 @@
-http://37.195.222.7:52815#RU--AS31200 Novotelecom Ltd
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://80.73.89.78:8080#RU--AS21487 PJSC Rostelecom
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://103.76.149.198:8082#ID--AS150552 PT Link Data Sumber Barokah
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://135.148.233.152:3129#US--AS16276 OVH SAS
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
+http://103.189.96.38:8080#ID--AS45305 Lintas Data Prima, PT
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.18.77.36:1111#ID--AS55701 PT. Usaha Adisanggoro
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://187.49.114.27:666#BR--AS28144 G3 TELECOM
+http://104.128.103.32:51110#US--AS19233 Dialogix Telecom
+http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.184.54.3:7777#ID--AS140401 PT Proxi Jaringan Nusantara
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
 http://121.126.128.100:45212#KR--AS4766 Korea Telecom
 http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://103.155.46.250:8080#ID--AS141049 PT Profesional Internet Indonesia
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
+http://181.78.13.68:999#CO--AS52468 UFINET PANAMA S.A.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://135.148.233.152:20946#US--AS16276 OVH SAS
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://36.66.160.3:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://135.148.233.152:7777#US--AS16276 OVH SAS
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://202.138.241.179:8080#ID--AS9657 Melsa-i-net AS
