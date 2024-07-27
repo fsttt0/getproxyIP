@@ -1,43 +1,30 @@
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://38.41.0.60:11201#VE--AS269832 MDS TELECOM C.A.
-http://125.212.231.103:808#VN--AS45899 VNPT Corp
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://105.184.246.32:8080#ZA--AS37457 Telkom SA Ltd.
-http://121.126.128.98:45212#KR--AS4766 Korea Telecom
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://135.148.233.152:3127#US--AS16276 OVH SAS
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://36.93.130.219:66#ID--AS7713 PT Telekomunikasi Indonesia
+http://190.94.212.244:999#VE--AS8053 IFX Networks Venezuela C.A.
 http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.7.106.18:3125#ID--AS151599 PT Bintang Elektronik Netindo
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://217.160.74.198:3128#DE--AS8560 IONOS SE
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://15.235.171.203:3128#SG--AS16276 OVH SAS
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://138.201.135.176:3129#LU--AS53667 FranTech Solutions
+http://103.93.193.141:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://47.252.29.28:11222#UA--AS15596 IP Port LLC
