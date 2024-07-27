@@ -1,55 +1,54 @@
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://161.34.67.50:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://36.37.249.106:8080#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
+http://125.27.110.141:8080#TH--AS23969 TOT Public Company Limited
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
+http://38.54.42.57:8123#BD--AS138915 Kaopu Cloud HK Limited
+http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
+http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
 http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://189.240.60.171:9090#MX--AS8151 UNINET
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://103.247.23.198:8080#ID--AS58485 WIFIAN ID
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://189.240.60.166:9090#MX--AS8151 UNINET
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://135.148.233.152:20946#US--AS16276 OVH SAS
-http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://121.126.128.98:45212#KR--AS4766 Korea Telecom
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://135.148.233.152:3127#US--AS16276 OVH SAS
-http://103.69.20.115:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://135.148.233.152:24965#US--AS16276 OVH SAS
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://121.126.128.99:45212#KR--AS4766 Korea Telecom
-http://104.128.48.58:3128#US--AS30455 HostVenom LLC
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://186.67.74.52:3128#CL--AS27651 ENTEL CHILE S.A.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://43.153.10.60:40010#US--AS21928 T-Mobile USA, Inc.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://202.69.38.163:8080#PK--AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://36.93.129.73:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://38.242.141.110:8008#DE--AS51167 Contabo GmbH
