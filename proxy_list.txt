@@ -1,24 +1,30 @@
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://36.66.160.3:3128#ID--AS7713 PT Telekomunikasi Indonesia
 http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://179.191.39.221:3128#BR--AS28146 MHNET TELECOM
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://103.69.20.52:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://91.214.31.136:8080#UA--AS49327 TOV "Telza"
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://67.43.227.227:20019#HK--AS4760 HKT Limited
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://152.26.229.86:9443#US--AS81 MCNC
-http://47.252.29.28:11222#US--AS394814 ISP4Life INC
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.63.114.205:80#VN--AS45903 CMC Telecom Infrastructure Company
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://91.250.83.200:3128#FR--AS8972 Host Europe GmbH
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://179.191.39.221:3128#BR--AS28146 MHNET TELECOM
