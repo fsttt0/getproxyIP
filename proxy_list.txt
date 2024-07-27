@@ -1,30 +1,15 @@
+http://91.243.194.0:3128#UA--AS15377 TRADITIONAL LLC
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
 http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://189.232.204.95:3128#MX--AS8151 UNINET
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://135.148.233.152:3127#US--AS16276 OVH SAS
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://190.94.212.244:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://103.7.106.18:3125#ID--AS151599 PT Bintang Elektronik Netindo
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://103.93.193.141:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://123.58.223.110:8080#HK--AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
