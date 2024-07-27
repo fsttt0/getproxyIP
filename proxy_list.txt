@@ -1,13 +1,58 @@
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://63.141.253.42:6888#US--AS7018 AT&T Services, Inc.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://63.141.253.42:6694#US--AS397068 CarolinaConnect Cooperative
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://63.141.253.42:6740#US--AS13781 Hopkinsville Electric System
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://135.148.233.152:21450#US--AS16276 OVH SAS
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://80.66.81.26:4002#PL--AS9009 M247 Europe SRL
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://62.241.133.227:1981#EG--AS24863 Link Egypt (Link.NET)
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://135.148.233.152:20946#US--AS16276 OVH SAS
+http://63.141.253.42:6716#US--AS7018 AT&T Services, Inc.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://103.191.115.238:83#IN--AS150046 XPRESS FIBER PRIVATE LIMITED
+http://135.148.233.152:15691#US--AS16276 OVH SAS
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://135.148.233.152:24860#US--AS16276 OVH SAS
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://31.24.44.115:3128#ES--AS50926 AXARNET COMUNICACIONES, S.L.
+http://63.141.253.42:6763#US--AS7018 AT&T Services, Inc.
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://135.148.233.152:7777#US--AS16276 OVH SAS
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://129.146.167.15:3128#US--AS31898 Oracle Corporation
+http://148.72.140.24:10641#US--AS394380 Leaseweb USA, Inc.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
+http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
