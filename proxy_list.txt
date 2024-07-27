@@ -1,45 +1,24 @@
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://124.107.144.249:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
 http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://179.191.39.221:3128#BR--AS28146 MHNET TELECOM
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://181.204.21.122:999#CO--AS27831 Colombia Móvil
-http://94.70.195.145:8080#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
-http://103.18.232.18:8080#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://217.66.31.176:8089#RU--AS29194 MTS PJSC
-http://103.154.145.204:8081#ID--AS131111 PT Mora Telematika Indonesia
+http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://160.248.7.46:3128#JP--AS2514 NTT PC Communications, Inc.
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://15.235.171.194:8888#SG--AS16276 OVH SAS
-http://36.66.160.3:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://154.73.29.65:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://103.184.54.3:7777#ID--AS140401 PT Proxi Jaringan Nusantara
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://103.69.20.52:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
-http://135.148.233.152:24965#US--AS16276 OVH SAS
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://36.92.162.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
