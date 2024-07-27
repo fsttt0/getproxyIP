@@ -1,44 +1,13 @@
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://131.100.148.76:8080#BR--AS61633 ALLREDE TELECOM (LINKWAP PROVEDOR)
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://80.73.89.78:8080#RU--AS21487 PJSC Rostelecom
 http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://103.76.149.198:8082#ID--AS150552 PT Link Data Sumber Barokah
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://135.148.100.78:48149#US--AS16276 OVH SAS
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://135.148.233.152:3129#US--AS16276 OVH SAS
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://190.121.4.157:999#CL--AS14117 Telefonica del Sur S.A.
-http://103.189.96.38:8080#ID--AS45305 Lintas Data Prima, PT
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://104.128.103.32:51110#US--AS19233 Dialogix Telecom
-http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.184.54.3:7777#ID--AS140401 PT Proxi Jaringan Nusantara
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://121.126.128.100:45212#KR--AS4766 Korea Telecom
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://103.155.46.250:8080#ID--AS141049 PT Profesional Internet Indonesia
-http://181.78.13.68:999#CO--AS52468 UFINET PANAMA S.A.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://135.148.233.152:20946#US--AS16276 OVH SAS
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
