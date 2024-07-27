@@ -1,13 +1,13 @@
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://131.100.148.76:8080#BR--AS61633 ALLREDE TELECOM (LINKWAP PROVEDOR)
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://135.148.100.78:48149#US--AS16276 OVH SAS
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://135.148.233.152:3129#US--AS16276 OVH SAS
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://63.141.253.42:6740#US--AS13781 Hopkinsville Electric System
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
