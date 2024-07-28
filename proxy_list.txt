@@ -1,8 +1,7 @@
-http://129.213.69.94:80#US--AS31898 Oracle Corporation
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://80.66.81.37:4001#PL--AS9009 M247 Europe SRL
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
@@ -12,19 +11,16 @@ http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://121.126.128.102:45212#KR--AS4766 Korea Telecom
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://47.252.29.28:11222#US--AS265645 HOSTINGFOREX S.A.
+http://212.252.72.106:3128#TR--AS34984 Superonline Iletisim Hizmetleri A.S.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://103.165.156.171:8090#ID--AS136873 MEGADATA-ISP
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://187.141.125.210:8080#MX--AS8151 UNINET
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://192.46.229.19:3128#SG--AS63949 Akamai Connected Cloud
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://135.148.233.152:23451#US--AS16276 OVH SAS
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
-http://121.126.128.99:45212#KR--AS4766 Korea Telecom
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://180.189.163.102:8080#TL--AS38077 Timor Telecom, SA
+http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
