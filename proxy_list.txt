@@ -1,26 +1,42 @@
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://163.172.33.137:4003#NL--AS62240 Clouvider
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://80.66.81.37:4001#PL--AS9009 M247 Europe SRL
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://68.162.217.121:8080#US--AS701 Verizon Business
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://203.189.88.156:80#ID--AS38765 Departemen Energi dan Sumber Daya Mineral
 http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://185.244.150.224:3128#NL--AS60117 Host Sailor Ltd
+http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://121.126.128.102:45212#KR--AS4766 Korea Telecom
+http://137.184.62.237:9090#US--AS14061 DigitalOcean, LLC
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
 http://212.252.72.106:3128#TR--AS34984 Superonline Iletisim Hizmetleri A.S.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://192.46.229.19:3128#SG--AS63949 Akamai Connected Cloud
-http://135.148.233.152:11323#US--AS16276 OVH SAS
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://140.99.122.244:999#DO--AS271932 FUN TECHNOLOGY S.R.L
