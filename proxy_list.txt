@@ -1,27 +1,6 @@
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://135.148.233.152:18272#US--AS16276 OVH SAS
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://176.100.216.164:80#RU--AS57489 LLC "Telecom-Uslugi"
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://181.233.62.9:999#GT--AS272061 CROSS CONNECT LAC, S.A.
-http://15.235.171.203:3128#SG--AS16276 OVH SAS
+http://75.25.159.161:3128#US--AS7018 AT&T Services, Inc.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://24.204.29.115:8080#US--AS32505 Conterra
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
