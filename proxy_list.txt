@@ -1,65 +1,39 @@
-http://15.235.171.203:3128#SG--AS16276 OVH SAS
-http://116.107.163.200:10007#VN--AS7552 Viettel Group
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.75.54.230:8080#ID--AS46023 PT Quantum Tera Network
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://147.75.34.92:9443#NL--AS54825 Packet Host, Inc.
 http://147.75.34.92:443#NL--AS54825 Packet Host, Inc.
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://103.41.35.153:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://46.250.255.227:8000#JP--AS141995 Contabo Asia Private Limited
 http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
 http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
 http://147.75.34.92:9480#NL--AS54825 Packet Host, Inc.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://135.148.233.152:24965#US--AS16276 OVH SAS
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://34.140.150.176:3128#BE--AS396982 Google LLC
 http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://41.111.243.134:80#DZ--AS36947 Telecom Algeria
 http://135.148.233.152:3129#US--AS16276 OVH SAS
-http://187.141.125.210:8080#MX--AS8151 UNINET
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://114.9.27.14:3127#ID--AS4761 INDOSAT Internet Network Provider
-http://72.167.150.35:3128#US--AS398101 GoDaddy.com, LLC
-http://125.212.231.103:808#VN--AS45899 VNPT Corp
-http://202.173.217.4:8080#TH--AS24187 KIRZ Service Provider
+http://37.148.217.154:999#DO--AS271932 FUN TECHNOLOGY S.R.L
+http://103.69.20.89:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://103.162.141.146:3128#ID--AS141083 PT Filltech Antar Nusa
-http://41.65.251.49:1981#EG--AS36992 ETISALAT MISR
-http://103.165.157.241:8090#ID--AS136873 MEGADATA-ISP
+http://34.91.114.10:8080#NL--AS396982 Google LLC
 http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://103.171.244.47:8088#ID--AS141674 PT Data Arta Sedaya
-http://202.162.213.178:8080#ID--AS9341 North Korea Government
-http://112.213.39.74:3128#AU--AS133159 Mammoth Media Pty Ltd
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://45.124.87.60:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://103.184.19.77:8080#ID--AS149675 PT Garuda Lintas Cakrawala
-http://121.126.128.102:45212#KR--AS4766 Korea Telecom
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://135.148.233.152:7777#US--AS16276 OVH SAS
-http://103.135.48.30:8080#ID--AS38320 PT Maxindo Mitra Solusi
-http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://31.24.44.115:3128#ES--AS50926 AXARNET COMUNICACIONES, S.L.
