@@ -1,13 +1,10 @@
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://152.26.229.86:9443#US--AS81 MCNC
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://190.94.212.216:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://152.26.229.86:9443#US--AS81 MCNC
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://57.128.159.224:8005#GB--AS16276 OVH SAS
