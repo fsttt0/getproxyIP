@@ -1,58 +1,41 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://103.63.114.207:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
 http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
-http://18.116.72.195:3128#US--AS16509 Amazon.com, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://147.75.34.92:9443#NL--AS54825 Packet Host, Inc.
+http://147.75.34.92:443#NL--AS54825 Packet Host, Inc.
+http://163.172.33.137:4002#NL--AS62240 Clouvider
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
-http://181.78.13.68:999#CO--AS52468 UFINET PANAMA S.A.
-http://103.184.19.77:8080#ID--AS149675 PT Garuda Lintas Cakrawala
-http://191.243.46.166:43241#BR--AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME
-http://54.193.129.132:3128#US--AS16509 Amazon.com, Inc.
-http://41.111.167.61:80#DZ--AS36947 Telecom Algeria
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://135.148.233.152:7777#US--AS16276 OVH SAS
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://103.191.250.162:8083#ID--AS149940 PT Mulia Batam Net
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://36.88.253.86:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://181.65.180.190:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://87.247.40.82:3128#KZ--AS9198 JSC Kazakhtelecom
-http://177.12.107.167:443#BR--AS53118 NETLINE TELECOM
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://103.156.17.83:8181#ID--AS141077 RSTNET
-http://103.170.62.7:8080#IN--AS141253 Hyosec Solutions Private Limited
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://188.255.247.50:8088#RS--AS52116 Orion Telekom Tim d.o.o.Beograd
-http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
-http://101.255.166.142:3128#ID--AS38511 PT Remala Abadi
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://147.75.34.92:9480#NL--AS54825 Packet Host, Inc.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://110.77.180.133:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.156.219.180:8085#ID--AS150259 PT Multi Guna Sinergi
-http://121.126.128.98:45212#KR--AS4766 Korea Telecom
-http://141.144.231.186:3128#DE--AS31898 Oracle Corporation
-http://131.186.59.207:36666#JP--AS31898 Oracle Corporation
-http://202.146.230.102:8080#ID--AS9326 PT Centrin Utama
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://135.148.233.152:24965#US--AS16276 OVH SAS
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://195.159.124.57:85#NO--AS2116 GLOBALCONNECT AS
-http://208.67.28.28:58090#US--AS174 Cogent Communications
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#FI--AS57043 HOSTKEY B.V.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
+http://212.110.188.213:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://77.55.213.249:3128#PL--AS15967 Nazwa.pl Sp.z.o.o.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://135.148.233.152:7777#US--AS16276 OVH SAS
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
