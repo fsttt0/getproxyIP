@@ -1,69 +1,100 @@
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
-http://87.97.60.4:18080#HU--AS20845 DIGI Tavkozlesi es Szolgaltato Kft.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://121.126.128.102:45212#KR--AS4766 Korea Telecom
+http://103.113.3.25:8080#ID--AS137342 DISKOMINFO TANGERANG SELATAN
+http://135.148.233.152:31315#US--AS16276 OVH SAS
+http://45.181.189.213:999#CO--AS269735 KALU DE COLOMBIA SAS
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://85.209.153.175:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.173:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://85.209.153.173:4444#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://42.112.21.207:3141#VN--AS18403 FPT Telecom Company
+http://85.209.153.173:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://147.75.34.92:9400#NL--AS54825 Packet Host, Inc.
+http://135.148.233.152:20946#US--AS16276 OVH SAS
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://200.69.159.177:8080#AR--AS28065 CITARELLA S.A.
+http://179.60.235.250:8390#AR--AS263693 WICORP SA
+http://85.209.153.175:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://124.156.172.181:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://147.75.34.92:9443#NL--AS54825 Packet Host, Inc.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
-http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
-http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
-http://186.67.74.52:3128#CL--AS27651 ENTEL CHILE S.A.
-http://5.75.142.128:3128#DE--AS24940 Hetzner Online GmbH
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://184.168.124.233:5402#SG--AS26496 GoDaddy.com, LLC
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://135.148.233.152:18272#US--AS16276 OVH SAS
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://181.233.93.88:8080#BR--AS271441 J.A TELECOM.PE
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://187.141.125.210:8080#MX--AS8151 UNINET
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://129.146.167.15:3128#US--AS31898 Oracle Corporation
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://85.209.153.174:4444#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.175:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.173:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://91.236.74.5:8080#GR--AS212442 Mechmet CHATIP MEMET trading as SpeedNet
+http://38.188.249.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://5.161.247.171:3128#US--AS213230 Hetzner Online GmbH
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://45.136.198.90:3128#BG--AS9009 M247 Europe SRL
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://121.126.128.102:45212#KR--AS4766 Korea Telecom
+http://71.142.238.33:8888#JP--AS147049 PacketHub S.A.
+http://85.209.153.175:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://85.209.153.174:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://103.69.20.104:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://129.146.167.15:3128#US--AS31898 Oracle Corporation
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
 http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.156.17.83:8181#ID--AS141077 RSTNET
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://159.65.126.251:3128#DE--AS14061 DigitalOcean, LLC
+http://85.209.153.173:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.156.219.180:8085#ID--AS150259 PT Multi Guna Sinergi
 http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://103.90.156.220:8080#IN--AS136364 Myguru Online India Pvt Ltd
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
 http://121.126.128.101:45212#KR--AS4766 Korea Telecom
-http://63.141.253.42:6786#US--AS7018 AT&T Services, Inc.
 http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://135.148.233.152:18272#US--AS16276 OVH SAS
-http://103.113.3.25:8080#ID--AS137342 DISKOMINFO TANGERANG SELATAN
-http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
-http://135.148.233.152:14810#US--AS16276 OVH SAS
-http://103.174.236.63:8081#ID--AS147106 PT Global Erasiber Teknologi
-http://95.163.235.117:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://135.148.233.152:11323#US--AS16276 OVH SAS
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://212.19.5.137:3128#RU--AS8749 JSC "Redcom-lnternet"
-http://103.158.27.83:1212#ID--AS141675 PT Madina Solusi Indonesia
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://80.66.81.26:4002#PL--AS9009 M247 Europe SRL
-http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://135.148.233.152:20946#US--AS16276 OVH SAS
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
+http://85.209.153.173:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://85.209.153.174:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://35.225.16.82:2387#US--AS396982 Google LLC
