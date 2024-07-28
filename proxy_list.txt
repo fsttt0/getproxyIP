@@ -1,27 +1,26 @@
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://95.181.46.130:8123#RU--AS39927 E-Light-Telecom Ltd.
-http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
-http://135.148.233.152:6784#US--AS16276 OVH SAS
-http://46.252.255.90:18080#RU--AS24739 SEVEREN TELECOM
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://135.148.233.152:14810#US--AS16276 OVH SAS
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://135.148.233.152:11323#US--AS16276 OVH SAS
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://38.41.0.62:11201#VE--AS269832 MDS TELECOM C.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://63.141.253.42:6686#US--AS32181 GigeNET
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://191.102.123.196:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://191.6.112.5:8086#BR--AS262753 VOCE TELECOMUNICACOES LTDA
+http://5.189.239.157:80#RU--AS49505 JSC Selectel
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://135.148.233.152:10206#US--AS16276 OVH SAS
+http://160.16.109.252:18080#JP--AS9370 SAKURA Internet Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
+http://129.146.167.15:3128#US--AS31898 Oracle Corporation
+http://183.88.214.44:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://163.172.33.137:4000#NL--AS62240 Clouvider
