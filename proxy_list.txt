@@ -1,31 +1,19 @@
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.162.141.146:3128#ID--AS141083 PT Filltech Antar Nusa
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://103.172.17.51:8080#ID--AS142381 PT Media Access Telematika
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://161.49.87.222:8095#PH--AS17639 Converge ICT Solutions Inc.
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://148.72.140.24:10641#US--AS394380 Leaseweb USA, Inc.
-http://152.200.189.105:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
