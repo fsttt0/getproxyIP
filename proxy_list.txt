@@ -1,10 +1,27 @@
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://95.181.46.130:8123#RU--AS39927 E-Light-Telecom Ltd.
+http://20.244.104.182:3128#IN--AS8075 Microsoft Corporation
+http://135.148.233.152:6784#US--AS16276 OVH SAS
+http://46.252.255.90:18080#RU--AS24739 SEVEREN TELECOM
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://135.148.233.152:14810#US--AS16276 OVH SAS
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://152.26.229.86:9443#US--AS81 MCNC
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://57.128.159.224:8005#GB--AS16276 OVH SAS
