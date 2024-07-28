@@ -1,19 +1,29 @@
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.237.75.6:8080#BR--AS61591 WESTLINK TECNOLOGIA E COMUNICACAO LTDA. - ME
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://157.15.44.204:8181#ID--AS142394 PT Cahaya Solusindo Internusa
+http://34.91.114.10:8080#NL--AS396982 Google LLC
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://103.189.197.83:8181#ID--AS149912 PT Graha Sumber Teknologi
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://163.172.33.137:4002#NL--AS62240 Clouvider
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://135.148.233.152:15691#US--AS16276 OVH SAS
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://103.162.141.146:3128#ID--AS141083 PT Filltech Antar Nusa
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://103.172.17.51:8080#ID--AS142381 PT Media Access Telematika
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://161.49.87.222:8095#PH--AS17639 Converge ICT Solutions Inc.
-http://125.212.231.103:808#VN--AS45899 VNPT Corp
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://121.126.128.101:45212#KR--AS4766 Korea Telecom
+http://121.126.128.102:45212#KR--AS4766 Korea Telecom
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
