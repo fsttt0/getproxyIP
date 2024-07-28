@@ -1,26 +1,35 @@
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://171.241.132.124:10010#VN--AS7552 Viettel Group
+http://103.186.8.162:8080#ID--AS139977 PT PRISMA MEDIA NUSANTARA
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://103.25.110.222:8080#ID--AS9341 North Korea Government
 http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://38.41.0.62:11201#VE--AS269832 MDS TELECOM C.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://63.141.253.42:6686#US--AS32181 GigeNET
+http://121.126.128.100:45212#KR--AS4766 Korea Telecom
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://191.102.123.196:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://191.6.112.5:8086#BR--AS262753 VOCE TELECOMUNICACOES LTDA
+http://103.81.64.52:8080#ID--AS136055 PT Queen Network Nusantara
+http://105.184.246.32:80#ZA--AS37457 Telkom SA Ltd.
 http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://135.148.233.152:10206#US--AS16276 OVH SAS
-http://160.16.109.252:18080#JP--AS9370 SAKURA Internet Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://194.67.196.100:3128#RU--AS209641 I-SERVERS LTD
-http://129.146.167.15:3128#US--AS31898 Oracle Corporation
-http://183.88.214.44:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://163.172.33.137:4000#NL--AS62240 Clouvider
+http://103.63.114.204:80#VN--AS45903 CMC Telecom Infrastructure Company
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
