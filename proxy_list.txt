@@ -1,32 +1,10 @@
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://20.118.221.52:3128#US--AS8075 Microsoft Corporation
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://103.88.90.54:8080#ID--AS150222 PT Paket Switch Bersama
 http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
 http://183.134.101.187:3128#CN--AS58461 CT-HangZhou-IDC
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
 http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
 http://103.76.151.74:8080#ID--AS135477 PT. Java Digital Nusantara
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.79.146.98:8080#ID--AS152045 PT Petabyte Network Indonesia
-http://128.199.193.78:3128#SG--AS14061 DigitalOcean, LLC
-http://85.117.56.151:8080#GE--AS20771 Caucasus Online Ltd.
-http://121.126.128.100:45212#KR--AS4766 Korea Telecom
-http://91.214.31.136:8080#UA--AS49327 TOV "Telza"
-http://103.179.182.255:8080#ID--AS150247 PT Pandawa Lima Java Network
-http://103.38.183.63:80#IN--AS140171 Reis Network Solutions
-http://101.255.209.41:8080#ID--AS38511 PT Remala Abadi
-http://103.78.158.6:3125#ID--AS150248 PT Global Jaringan Borneo
-http://83.54.9.242:3128#ES--AS3352 TELEFONICA DE ESPANA S.A.U.
-http://177.93.36.151:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://41.59.200.27:5757#TZ--AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://203.89.29.41:8080#ID--AS24521 PT. DATA Utama Dinamika
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://206.1.250.72:9090#VE--AS61461 Airtek Solutions C.A.
+http://103.46.4.7:3030#ID--AS150460 PT Akses Sentral Teknologi
