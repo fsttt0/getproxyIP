@@ -1,13 +1,2 @@
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://103.228.36.164:10000#US--AS21769 Colocation America Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://140.238.216.189:3128#CH--AS31898 Oracle Corporation
-http://108.181.187.213:9001#US--AS21928 T-Mobile USA, Inc.
-http://103.99.27.26:7777#ID--AS150279 PT Lintas Network Solusi
-http://103.168.129.124:8080#ID--AS4800 PT Aplikanusa Lintasarta
+http://152.26.229.86:9443#US--AS81 MCNC
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
