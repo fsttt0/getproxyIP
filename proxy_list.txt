@@ -1,40 +1,39 @@
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://200.215.248.114:999#PE--AS269981 COMPUNETWORK S.A.C.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
-http://15.204.168.178:8888#US--AS16276 OVH SAS
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://5.45.93.252:4006#US--AS21928 T-Mobile USA, Inc.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://135.148.233.152:1234#US--AS16276 OVH SAS
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://135.148.233.152:10206#US--AS16276 OVH SAS
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://135.148.233.152:1212#US--AS16276 OVH SAS
-http://135.148.233.152:18531#US--AS16276 OVH SAS
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://135.148.233.152:3129#US--AS16276 OVH SAS
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.79.146.222:8085#ID--AS152045 PT Petabyte Network Indonesia
+http://200.39.120.45:999#MX--AS265606 DIGY NETWORKS
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://103.165.64.74:83#IN--AS149596 X3M INFRA PVT LTD
+http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://45.125.222.81:8080#BD--AS63526 Systems Solutions & development Technologies Limited
+http://138.201.135.176:3129#CH--AS29691 Nine Internet Solutions AG
+http://110.34.1.178:7777#NP--AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://103.41.35.162:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://135.148.233.152:3127#US--AS16276 OVH SAS
+http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://103.113.3.25:8080#ID--AS137342 DISKOMINFO TANGERANG SELATAN
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://157.20.218.202:8080#ID--AS152423 PT Sindoro Sumbing Network Solution
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://135.148.233.152:1234#US--AS16276 OVH SAS
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.172.240.145:7777#ID--AS142401 PT Inter Koneksi Media
+http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
+http://34.140.150.176:3128#BE--AS396982 Google LLC
+http://135.148.233.152:1212#US--AS16276 OVH SAS
+http://104.143.10.179:3128#US--AS36114 VegasNAP, LLC
