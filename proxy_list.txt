@@ -1,42 +1,57 @@
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://163.172.33.137:4001#NL--AS62240 Clouvider
-http://163.172.33.137:4003#NL--AS62240 Clouvider
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://68.162.217.121:8080#US--AS701 Verizon Business
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://203.189.88.156:80#ID--AS38765 Departemen Energi dan Sumber Daya Mineral
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://185.244.150.224:3128#NL--AS60117 Host Sailor Ltd
-http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://78.135.67.89:55555#TR--AS207326 HostLAB Bilisim Teknolojileri A.S.
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://116.235.238.47:3128#CN--AS4812 China Telecom (Group)
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://121.126.128.101:45212#KR--AS4766 Korea Telecom
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://103.242.104.146:3127#ID--AS58821 PT Lintas Jaringan Nusantara
 http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://15.204.168.178:8888#US--AS16276 OVH SAS
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://216.176.187.99:39865#US--AS21769 Colocation America Corporation
+http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://139.59.249.97:3128#SG--AS14061 DigitalOcean, LLC
+http://103.63.114.205:80#VN--AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch
 http://121.126.128.102:45212#KR--AS4766 Korea Telecom
-http://137.184.62.237:9090#US--AS14061 DigitalOcean, LLC
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://212.252.72.106:3128#TR--AS34984 Superonline Iletisim Hizmetleri A.S.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://104.143.10.179:3128#US--AS36114 VegasNAP, LLC
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://15.235.171.203:3128#SG--AS16276 OVH SAS
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://165.22.57.181:9090#SG--AS14061 DigitalOcean, LLC
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://68.162.217.121:8080#US--AS701 Verizon Business
+http://103.189.96.196:8085#ID--AS45305 Lintas Data Prima, PT
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://171.237.83.158:5102#VN--AS7552 Viettel Group
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
