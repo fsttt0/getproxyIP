@@ -1,18 +1,29 @@
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://135.148.233.152:3129#US--AS16276 OVH SAS
-http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://135.148.233.152:10206#US--AS16276 OVH SAS
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://135.148.233.152:7302#US--AS16276 OVH SAS
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://210.247.252.16:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://181.188.215.207:999#EC--AS52468 UFINET PANAMA S.A.
+http://154.0.132.35:3128#UG--AS37063 Roke Investments International Ltd
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://177.85.5.98:9090#BR--AS262595 OnNet Telecomunicacoes LTDA
+http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://41.59.200.27:5757#TZ--AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
