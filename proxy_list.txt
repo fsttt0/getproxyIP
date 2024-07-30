@@ -1,75 +1,58 @@
-http://135.148.233.152:15691#US--AS16276 OVH SAS
-http://157.66.50.81:8080#ID--AS150482 PT Gapura Era Digital
+http://15.204.168.178:8888#US--AS16276 OVH SAS
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://165.22.98.195:3128#SG--AS14061 DigitalOcean, LLC
+http://163.172.33.137:4002#NL--AS62240 Clouvider
+http://103.28.114.158:8080#ID--AS45305 Lintas Data Prima, PT
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://135.148.233.152:3127#US--AS16276 OVH SAS
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://38.64.60.254:999#US--AS265627 NIDIX NETWORKS S.A. DE C.V.
+http://135.148.233.152:18531#US--AS16276 OVH SAS
+http://15.235.171.232:8888#SG--AS16276 OVH SAS
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://135.148.233.152:15691#US--AS16276 OVH SAS
+http://190.153.237.2:37453#CL--AS14259 Gtd Internet S.A.
+http://135.148.233.152:21450#US--AS16276 OVH SAS
 http://135.148.233.152:1234#US--AS16276 OVH SAS
 http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
 http://135.148.233.152:22602#US--AS16276 OVH SAS
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://34.172.92.211:3128#US--AS396982 Google LLC
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://135.148.233.152:11911#US--AS16276 OVH SAS
-http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
+http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://210.247.252.23:3127#ID--AS131745 PT. Cybertechtonic Pratama
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
 http://135.148.233.152:13843#US--AS16276 OVH SAS
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://129.146.167.15:3128#US--AS31898 Oracle Corporation
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://135.148.233.152:14810#US--AS16276 OVH SAS
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://135.148.233.152:18128#US--AS16276 OVH SAS
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://135.148.233.152:12397#US--AS16276 OVH SAS
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://135.148.233.152:24965#US--AS16276 OVH SAS
 http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://135.148.233.152:18272#US--AS16276 OVH SAS
-http://135.148.233.152:11323#US--AS16276 OVH SAS
-http://15.204.168.178:8888#US--AS16276 OVH SAS
-http://192.248.95.1:3128#LK--AS38229 Lanka Education & Research Network, NREN
-http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
+http://103.156.219.180:8085#ID--AS150259 PT Multi Guna Sinergi
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://163.172.33.137:4002#NL--AS62240 Clouvider
 http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://135.148.233.152:24860#US--AS16276 OVH SAS
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://135.148.233.152:3127#US--AS16276 OVH SAS
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://200.119.141.114:999#GT--AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://125.212.231.103:808#VN--AS45899 VNPT Corp
-http://135.148.233.152:29885#US--AS16276 OVH SAS
-http://144.24.204.126:8118#FR--AS31898 Oracle Corporation
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://135.148.233.152:7302#US--AS16276 OVH SAS
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
-http://47.236.236.2:8899#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://183.88.223.211:8080#TH--AS45758 Triple T Broadband Public Company Limited
