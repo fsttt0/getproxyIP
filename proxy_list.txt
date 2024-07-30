@@ -1,41 +1,21 @@
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://135.148.233.152:3127#US--AS16276 OVH SAS
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://163.172.33.137:4001#NL--AS62240 Clouvider
 http://210.247.252.133:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://139.28.232.216:8899#US--AS133619 DESIVPS
 http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://135.148.233.152:21450#US--AS16276 OVH SAS
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://191.102.248.6:8085#AR--AS262934 IP·RED
 http://8.223.31.16:80#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
-http://198.52.243.9:7777#PR--AS401013 BNET
-http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
+http://120.28.76.192:8082#PH--AS132199 Globe Telecom Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://135.148.233.152:24965#US--AS16276 OVH SAS
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://8.223.31.16:443#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://45.142.212.228:3128#MD--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
 http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://210.247.252.113:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://210.247.253.172:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://34.91.114.10:8080#NL--AS396982 Google LLC
-http://152.26.229.86:9443#US--AS81 MCNC
-http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
