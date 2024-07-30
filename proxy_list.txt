@@ -1,7 +1,27 @@
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://133.242.203.223:80#JP--AS7684 SAKURA Internet Inc.
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://163.172.33.137:4001#NL--AS62240 Clouvider
+http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
+http://135.148.233.152:18531#US--AS16276 OVH SAS
+http://38.252.209.12:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
+http://153.122.62.109:8118#JP--AS131921 GMO GlobalSign Holdings K.K.
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://135.148.233.152:31315#US--AS16276 OVH SAS
+http://135.148.233.152:1234#US--AS16276 OVH SAS
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://135.148.233.152:1592#US--AS16276 OVH SAS
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://135.148.233.152:17955#US--AS16276 OVH SAS
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.74.50.78:443#FR--AS8075 Microsoft Corporation
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
