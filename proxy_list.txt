@@ -1,18 +1,7 @@
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://133.242.203.223:80#JP--AS7684 SAKURA Internet Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://210.247.252.6:3127#ID--AS131745 PT. Cybertechtonic Pratama
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://94.251.95.138:5225#RU--AS21127 Joint Stock Company TransTeleCom
-http://103.167.170.194:1111#ID--AS141983 PT Rajeg Media Telekomunikasi
-http://183.100.95.223:8080#KR--AS4766 Korea Telecom
-http://46.98.240.115:50001#UA--AS15377 TRADITIONAL LLC
-http://177.43.72.250:3128#BR--AS28178 Networld Provedor e Servicos de Internet Ltda
-http://103.162.141.146:3128#ID--AS141083 PT Filltech Antar Nusa
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://103.76.201.110:8080#ID--AS135480 PT. Arjuna Global Teknologi Indonesia
