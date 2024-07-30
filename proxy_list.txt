@@ -1,27 +1,52 @@
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://163.172.33.137:4001#NL--AS62240 Clouvider
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
-http://135.148.233.152:18531#US--AS16276 OVH SAS
-http://38.252.209.12:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
-http://153.122.62.109:8118#JP--AS131921 GMO GlobalSign Holdings K.K.
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://135.148.233.152:31315#US--AS16276 OVH SAS
-http://135.148.233.152:1234#US--AS16276 OVH SAS
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://135.148.233.152:1592#US--AS16276 OVH SAS
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://135.148.233.152:17955#US--AS16276 OVH SAS
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.74.50.78:443#FR--AS8075 Microsoft Corporation
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.176.97.98:999#DO--AS267846 Cable Onda Oriental, SRL
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://202.179.69.216:58080#IN--AS138311 Limerick Technologies Pvt. Ltd.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://135.148.233.152:14273#US--AS16276 OVH SAS
+http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://213.91.232.94:8080#BG--AS8866 Vivacom Bulgaria EAD
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://27.147.131.41:58080#BD--AS23688 Link3 Technologies Ltd.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
+http://103.247.22.233:3127#ID--AS58485 WIFIAN ID
+http://103.164.214.122:8080#ID--AS17995 PT iForte Global Internet
+http://190.94.212.255:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
+http://103.165.58.109:64999#ID--AS17995 PT iForte Global Internet
+http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://103.114.166.242:80#BD--AS135131 BROTHERS ONLINE
+http://188.132.222.13:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://15.204.168.178:8888#US--AS16276 OVH SAS
+http://211.253.36.172:5001#KR--AS4766 Korea Telecom
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
+http://103.151.246.54:7777#ID--AS151589 PT Citra Prima Media
+http://178.212.51.159:41258#PL--AS197025 Lubuskie Sieci Swiatlowodowe Sp. z o. o.
+http://217.66.31.176:8089#RU--AS29194 MTS PJSC
+http://135.148.233.152:18531#US--AS16276 OVH SAS
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://103.245.17.219:8080#ID--AS46023 PT Quantum Tera Network
+http://140.238.216.189:3128#CH--AS31898 Oracle Corporation
+http://135.148.233.152:1234#US--AS16276 OVH SAS
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://20.74.50.78:443#FR--AS8075 Microsoft Corporation
+http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
