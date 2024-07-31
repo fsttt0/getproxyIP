@@ -1,6 +1,2 @@
+http://152.26.229.86:9443#US--AS81 MCNC
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
