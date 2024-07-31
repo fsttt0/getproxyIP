@@ -1,21 +1,6 @@
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://188.132.222.13:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://182.253.177.230:3128#ID--AS17451 BIZNET NETWORKS
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://47.252.29.28:11222#US--AS3257 GTT Communications Inc.
-http://135.148.233.152:1387#US--AS16276 OVH SAS
-http://135.148.233.152:13533#US--AS16276 OVH SAS
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://182.253.109.28:8080#ID--AS17451 BIZNET NETWORKS
-http://45.228.233.94:999#GT--AS265684 INFINITUM S.A.
