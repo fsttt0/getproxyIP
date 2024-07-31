@@ -1,42 +1,45 @@
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://157.100.9.237:999#EC--AS27947 Telconet S.A
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://125.212.231.103:808#VN--AS45899 VNPT Corp
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
 http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://187.141.125.210:8080#MX--AS8151 UNINET
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://177.234.241.27:999#EC--AS52468 UFINET PANAMA S.A.
 http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
 http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://135.148.233.152:30590#US--AS16276 OVH SAS
-http://135.148.233.152:17955#US--AS16276 OVH SAS
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://135.148.233.152:10206#US--AS16276 OVH SAS
 http://20.74.50.78:443#FR--AS8075 Microsoft Corporation
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://187.73.225.96:777#BR--AS262676 Intervip Networks Ltda.
-http://103.46.4.101:8080#ID--AS150460 PT Akses Sentral Teknologi
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://159.196.157.188:8080#AU--AS4764 Aussie Broadband
-http://103.168.254.62:8080#ID--AS142326 PT Fahasa Tri Data
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://103.184.182.66:80#ID--AS149676 Dinas Komunikasi dan Informatika Kabupaten Lumajang
-http://103.191.129.245:8082#ID--AS149920 PT Metro Ring Bersama
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://135.148.233.152:18272#US--AS16276 OVH SAS
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://157.20.218.202:8080#ID--AS152423 PT Sindoro Sumbing Network Solution
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://135.148.233.152:6784#US--AS16276 OVH SAS
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://34.172.92.211:3128#US--AS396982 Google LLC
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://135.148.233.152:18128#US--AS16276 OVH SAS
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://135.148.233.152:7302#US--AS16276 OVH SAS
 http://135.148.233.152:24860#US--AS16276 OVH SAS
-http://5.45.93.252:4000#US--AS21928 T-Mobile USA, Inc.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://103.156.17.114:8080#ID--AS141077 RSTNET
