@@ -1,26 +1,15 @@
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
 http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://23.95.216.78:34561#US--AS36352 HostPapa
+http://165.22.97.101:9090#SG--AS14061 DigitalOcean, LLC
 http://49.12.232.205:24572#DE--AS24940 Hetzner Online GmbH
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
 http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.28.114.158:8080#ID--AS45305 Lintas Data Prima, PT
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://66.31.131.217:8080#US--AS7922 Comcast Cable Communications, LLC
-http://176.9.238.155:16379#NL--AS60404 The Infrastructure Group B.V.
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.233.152:15691#US--AS16276 OVH SAS
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://182.253.109.73:8080#ID--AS17451 BIZNET NETWORKS
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://152.200.189.105:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
+http://148.72.140.24:10641#US--AS40676 Psychz Networks
