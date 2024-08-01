@@ -1,35 +1,43 @@
-http://34.172.92.211:3128#US--AS396982 Google LLC
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://103.169.53.90:80#IN--AS141253 Hyosec Solutions Private Limited
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://135.148.233.152:14273#US--AS16276 OVH SAS
-http://135.148.233.152:13533#US--AS16276 OVH SAS
-http://134.236.231.116:8080#TH--AS131090 CAT TELECOM Public Company Ltd,CAT
-http://51.159.4.90:3128#FR--AS12876 SCALEWAY S.A.S.
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://34.91.114.10:8080#NL--AS396982 Google LLC
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.250.130.106:8085#ID--AS151555 PT Jawara Lintas Data Nusantara
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://223.206.116.158:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://24.152.58.132:999#CO--AS270003 CALLTOPBX S.A.S. (VIVERCOM)
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://101.128.92.243:7777#ID--AS135478 PT. Cyberindo Aditama
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://177.93.51.213:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://135.148.233.152:13533#US--AS16276 OVH SAS
+http://135.148.233.152:14810#US--AS16276 OVH SAS
+http://131.100.51.81:999#CO--AS3549 Level 3 Parent, LLC
 http://135.148.233.152:29910#US--AS16276 OVH SAS
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://103.156.17.153:1111#ID--AS141077 RSTNET
+http://54.169.179.248:8080#SG--AS16509 Amazon.com, Inc.
+http://135.148.233.152:12346#US--AS16276 OVH SAS
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://216.10.247.145:3128#IN--AS394695 PDR
 http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://103.93.140.129:8080#BD--AS150778 M/S ROMS NETWORK
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://179.24.94.171:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://84.0.136.195:8080#HU--AS5483 Magyar Telekom plc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://178.253.22.150:3128#NL--AS9123 TimeWeb Ltd.
-http://45.189.118.232:999#PE--AS273133 CONEX TV E.I.R.L.
-http://135.148.233.152:11911#US--AS16276 OVH SAS
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://80.66.81.26:4002#PL--AS9009 M247 Europe SRL
+http://187.251.130.156:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
