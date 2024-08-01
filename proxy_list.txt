@@ -1,36 +1,65 @@
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://135.148.233.152:1234#US--AS16276 OVH SAS
+http://223.206.186.88:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://128.199.193.78:3128#SG--AS14061 DigitalOcean, LLC
+http://80.66.81.44:4003#PL--AS9009 M247 Europe SRL
+http://135.148.233.152:18272#US--AS16276 OVH SAS
+http://67.43.228.251:17765#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
+http://135.148.233.152:14273#US--AS16276 OVH SAS
+http://67.43.236.18:23503#TW--AS209854 Cyberzone S.A.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://72.10.160.90:16457#MX--AS8151 UNINET
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://72.10.160.173:5081#US--AS14593 Space Exploration Technologies Corporation
+http://180.248.38.6:8088#ID--AS7713 PT Telekomunikasi Indonesia
+http://194.5.25.34:443#SG--AS3758 SingNet
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://203.142.78.150:8080#ID--AS17451 BIZNET NETWORKS
+http://67.43.227.226:16811#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://67.43.227.227:25307#ID--AS7713 PT Telekomunikasi Indonesia
+http://171.237.122.168:5102#VN--AS7552 Viettel Group
+http://135.148.233.152:18531#US--AS16276 OVH SAS
+http://67.43.228.251:13795#GE--AS35805 JSC "Silknet"
+http://135.148.233.152:16577#US--AS16276 OVH SAS
+http://135.148.233.152:1387#US--AS16276 OVH SAS
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://171.229.209.127:5102#VN--AS7552 Viettel Group
+http://103.93.140.129:8080#BD--AS150778 M/S ROMS NETWORK
+http://117.1.93.199:5106#VN--AS7552 Viettel Group
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://95.164.86.187:8889#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://13.233.179.36:3128#IN--AS16509 Amazon.com, Inc.
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://124.156.46.55:8009#IN--AS132203 Tencent Building, Kejizhongyi Avenue
+http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
+http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://171.236.208.228:5106#VN--AS24086 Viettel Corporation
+http://135.148.233.152:22602#US--AS16276 OVH SAS
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://171.248.32.90:5102#VN--AS7552 Viettel Group
+http://135.148.233.152:3129#US--AS16276 OVH SAS
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://135.148.233.152:20946#US--AS16276 OVH SAS
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
 http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://135.148.233.152:14810#US--AS16276 OVH SAS
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://135.148.233.152:11323#US--AS16276 OVH SAS
-http://135.148.233.152:18128#US--AS16276 OVH SAS
-http://135.148.233.152:13843#US--AS16276 OVH SAS
-http://135.148.233.152:14273#US--AS16276 OVH SAS
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://135.148.233.152:1212#US--AS16276 OVH SAS
+http://89.163.221.121:8080#DE--AS24961 WIIT AG
 http://204.157.185.2:999#PE--AS7195 EDGEUNO SAS
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://135.148.233.152:18272#US--AS16276 OVH SAS
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://70.34.254.116:31280#PL--AS20473 The Constant Company, LLC
-http://135.148.233.152:3743#US--AS16276 OVH SAS
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://206.238.197.194:8080#HK--AS399077 Tcloudnet
 http://135.148.233.152:12397#US--AS16276 OVH SAS
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://189.240.60.168:9090#MX--AS8151 UNINET
-http://174.138.19.138:9090#SG--AS14061 DigitalOcean, LLC
