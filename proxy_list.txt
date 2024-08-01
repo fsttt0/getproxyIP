@@ -1,27 +1,21 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://163.172.33.137:4059#NL--AS62240 Clouvider
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://103.133.27.197:8181#ID--AS138130 PT PHATRIA INTI PERSADA
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://84.247.129.226:3128#DE--AS51167 Contabo GmbH
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://66.31.131.217:8080#US--AS7922 Comcast Cable Communications, LLC
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://27.147.130.10:58080#BD--AS23688 Link3 Technologies Ltd.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://101.128.92.243:7777#ID--AS135478 PT. Cyberindo Aditama
-http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://103.169.53.90:80#IN--AS141253 Hyosec Solutions Private Limited
-http://45.234.61.1:999#VE--AS266766 SOLUCIONES INSTALRED CH&C C.A.
