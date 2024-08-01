@@ -1,22 +1,25 @@
-http://103.186.212.49:1111#ID--AS149714 PT Lare Osing Ndo
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://165.255.94.73:8080#ZA--AS37611 Afrihost (Pty) Ltd
-http://187.251.130.156:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://190.94.212.82:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://85.234.119.200:32650#RU--AS25381 LLC "Svyaztranzit"
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://152.26.229.86:9443#US--AS81 MCNC
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://135.148.233.152:20946#US--AS16276 OVH SAS
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://135.148.233.152:14273#US--AS16276 OVH SAS
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://213.160.150.237:8080#UA--AS12963 "SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://203.142.78.150:8080#ID--AS17451 BIZNET NETWORKS
+http://34.140.150.176:3128#BE--AS396982 Google LLC
