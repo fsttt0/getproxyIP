@@ -1,21 +1,39 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://163.172.33.137:4059#NL--AS62240 Clouvider
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://103.133.27.197:8181#ID--AS138130 PT PHATRIA INTI PERSADA
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
-http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
+http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://54.169.179.248:8080#SG--AS16509 Amazon.com, Inc.
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://170.239.205.74:8080#CO--AS265629 FIBERNET
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
+http://135.148.233.152:18272#US--AS16276 OVH SAS
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://135.148.233.152:3127#US--AS16276 OVH SAS
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://135.148.233.152:18128#US--AS16276 OVH SAS
+http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://170.239.207.78:8080#CO--AS265629 FIBERNET
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://74.207.235.213:1221#US--AS63949 Akamai Connected Cloud
+http://135.148.233.152:3743#US--AS16276 OVH SAS
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://135.148.233.152:16577#US--AS16276 OVH SAS
+http://135.148.233.152:30590#US--AS16276 OVH SAS
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://135.148.233.152:21045#US--AS16276 OVH SAS
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
