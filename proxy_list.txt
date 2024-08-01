@@ -1,63 +1,39 @@
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://203.142.78.150:8080#ID--AS17451 BIZNET NETWORKS
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://194.5.25.34:443#SG--AS3758 SingNet
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://103.217.224.53:3127#ID--AS151006 PT Nesta Indo Media
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://119.47.90.228:3127#ID--AS138089 PT.Global Media Data Prima
 http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://191.252.191.254:3128#BR--AS27715 Locaweb Serviços de Internet S/A
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://181.78.13.66:999#CO--AS52468 UFINET PANAMA S.A.
+http://181.198.1.82:999#EC--AS27947 Telconet S.A
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://102.0.12.224:8080#KE--AS36926 Airtel Networks Kenya Limited
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://45.234.61.1:999#VE--AS266766 SOLUCIONES INSTALRED CH&C C.A.
-http://165.22.57.181:9090#SG--AS14061 DigitalOcean, LLC
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://177.242.132.2:999#MX--AS262916 Mega Cable, S.A. de C.V.
+http://135.148.233.152:6784#US--AS16276 OVH SAS
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://203.142.78.150:8080#ID--AS17451 BIZNET NETWORKS
 http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://112.78.162.172:8080#ID--AS17451 BIZNET NETWORKS
 http://135.148.233.152:29910#US--AS16276 OVH SAS
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://169.255.56.177:3128#GH--AS327813 VIDOLU Group Pty Ltd-Web4Africa
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://34.140.150.176:3128#BE--AS396982 Google LLC
-http://206.238.197.194:8080#HK--AS399077 Tcloudnet
-http://179.24.94.171:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://137.184.123.71:1208#US--AS14061 DigitalOcean, LLC
+http://135.148.233.152:29885#US--AS16276 OVH SAS
+http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
 http://152.70.235.185:9002#ZA--AS37611 Afrihost (Pty) Ltd
-http://179.191.39.221:3128#BR--AS28146 MHNET TELECOM
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://135.148.233.152:3743#US--AS16276 OVH SAS
 http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://23.95.216.78:34561#US--AS36352 HostPapa
-http://223.206.116.158:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://135.148.233.152:24965#US--AS16276 OVH SAS
-http://120.28.213.45:8080#PH--AS132199 Globe Telecom Inc.
-http://135.148.233.152:30590#US--AS16276 OVH SAS
-http://135.148.233.152:12397#US--AS16276 OVH SAS
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.233.152:18128#US--AS16276 OVH SAS
-http://135.148.233.152:18531#US--AS16276 OVH SAS
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://178.214.80.28:1981#PS--AS51336 Gemzo information technology Private Joint-Stock company
-http://177.234.241.27:999#EC--AS52468 UFINET PANAMA S.A.
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.179.184.67:8080#ID--AS38750 Telemedia Dinamika Sarana, PT
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://171.6.73.104:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
