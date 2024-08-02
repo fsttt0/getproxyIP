@@ -1,35 +1,59 @@
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://72.10.164.178:2085#IT--AS29447 SCALEWAY S.A.S.
+http://187.137.1.83:8080#MX--AS8151 UNINET
+http://201.89.89.34:8080#BR--AS8167 V tal
+http://179.24.94.171:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://206.233.170.88:58394#HK--AS139646 HONG KONG Megalayer Technology Co.,Limited
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://110.34.1.31:8888#NP--AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal
-http://185.86.214.33:8080#ES--AS62332 AVATEL TELECOM, SA
-http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
-http://178.115.230.100:8080#AT--AS25255 Hutchison Drei Austria GmbH
-http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
-http://200.125.170.22:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
-http://135.148.233.152:1234#US--AS16276 OVH SAS
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://122.54.135.155:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://41.222.8.254:8082#KE--AS36866 Jamii Telecommunications Limited
-http://135.148.233.152:31315#US--AS16276 OVH SAS
+http://103.152.238.180:8080#ID--AS140448 PT Acces Prima Nusantara
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://135.148.233.152:14273#US--AS16276 OVH SAS
+http://135.148.233.152:22274#US--AS16276 OVH SAS
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://135.148.233.152:1387#US--AS16276 OVH SAS
-http://179.24.94.171:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
-http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
+http://135.148.233.152:7302#US--AS16276 OVH SAS
+http://135.148.233.152:24860#US--AS16276 OVH SAS
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://163.172.33.137:4059#NL--AS62240 Clouvider
+http://135.148.233.152:21450#US--AS16276 OVH SAS
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://135.148.233.152:5418#US--AS16276 OVH SAS
+http://170.239.205.74:8080#CO--AS265629 FIBERNET
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://23.95.216.78:34561#US--AS36352 HostPapa
+http://45.149.93.186:1201#ID--AS24203 PT XL Axiata
+http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://181.65.180.190:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://135.148.233.152:18128#US--AS16276 OVH SAS
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://103.166.158.191:7777#ID--AS141955 PT Timor Lintas Nusantara
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://187.251.130.156:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://202.57.18.3:8080#SG--AS149707 PT Akses Data Internusa
