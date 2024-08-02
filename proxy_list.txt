@@ -1,36 +1,26 @@
+http://201.47.88.21:3128#BR--AS18881 TELEFÔNICA BRASIL S.A
 http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
 http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://85.235.150.219:3128#IT--AS31034 Aruba S.p.A.
+http://120.28.217.227:8082#PH--AS132199 Globe Telecom Inc.
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://194.5.25.34:443#SG--AS3758 SingNet
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://36.93.130.219:66#ID--AS7713 PT Telekomunikasi Indonesia
-http://195.159.124.57:85#NO--AS2116 GLOBALCONNECT AS
-http://203.113.114.94:33107#TH--AS131293 TOT Public Company Limited
+http://146.196.96.186:7777#ID--AS38320 PT Maxindo Mitra Solusi
+http://109.205.126.6:8080#LV--AS28699 Unistar
+http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://103.165.155.254:2016#ID--AS141921 PT Jaringan Keluarga Bersama
+http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://45.112.127.222:8181#ID--AS58369 PT. Fiber Networks Indonesia
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
 http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://135.148.233.152:22602#US--AS16276 OVH SAS
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://135.148.233.152:18272#US--AS16276 OVH SAS
 http://135.148.233.152:21045#US--AS16276 OVH SAS
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://103.7.106.18:3125#ID--AS151599 PT Bintang Elektronik Netindo
-http://135.148.233.152:22274#US--AS16276 OVH SAS
-http://45.149.93.186:1201#ID--AS24203 PT XL Axiata
-http://64.227.44.70:9090#GB--AS14061 DigitalOcean, LLC
-http://5.196.111.29:20177#ES--AS6739 VODAFONE ONO, S.A.
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://135.148.233.152:2357#US--AS16276 OVH SAS
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://103.155.197.88:8080#ID--AS141071 PT Jembatan Data Pangrango
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://150.136.4.250:3128#US--AS31898 Oracle Corporation
