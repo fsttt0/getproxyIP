@@ -1,49 +1,36 @@
-http://66.31.131.217:8080#US--AS7922 Comcast Cable Communications, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://176.105.212.47:8080#UA--AS24812 NPK Home-Net Ltd.
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://206.238.197.194:8080#HK--AS399077 Tcloudnet
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
+http://175.111.117.3:8080#ID--AS46026 BATAM BINTAN TELEKOMUNIKASI, PT
+http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
 http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://103.169.53.90:80#IN--AS141253 Hyosec Solutions Private Limited
-http://45.184.152.97:999#AR--AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://103.152.238.180:8080#ID--AS140448 PT Acces Prima Nusantara
+http://179.1.98.102:8080#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://103.16.118.166:8080#ID--AS58482 PT. Palapa Media Indonesia
 http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
-http://135.148.233.152:14273#US--AS16276 OVH SAS
-http://135.148.233.152:22274#US--AS16276 OVH SAS
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://45.149.93.186:1207#ID--AS24203 PT XL Axiata
-http://187.62.67.146:8080#BR--AS269719 GN TELECOM
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://80.73.89.78:8080#RU--AS21487 PJSC Rostelecom
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://135.148.233.152:1592#US--AS16276 OVH SAS
+http://103.165.157.79:8090#ID--AS136873 MEGADATA-ISP
+http://45.124.87.58:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://23.95.216.78:34561#US--AS36352 HostPapa
 http://135.148.233.152:29885#US--AS16276 OVH SAS
 http://186.65.106.90:2020#BR--AS266142 Bahiadados Telecom Ltda.
 http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://135.148.233.152:12397#US--AS16276 OVH SAS
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
 http://34.172.92.211:3128#US--AS396982 Google LLC
-http://103.7.106.18:3125#ID--AS151599 PT Bintang Elektronik Netindo
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://49.148.151.204:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://135.148.233.152:1210#US--AS16276 OVH SAS
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://69.197.149.234:6376#US--AS11351 Charter Communications Inc
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://135.148.233.152:8050#US--AS16276 OVH SAS
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
