@@ -1,92 +1,70 @@
-http://72.10.160.173:18309#MX--AS8151 UNINET
-http://103.165.155.229:1111#ID--AS141921 PT Jaringan Keluarga Bersama
-http://45.136.197.202:8080#HK--AS9009 M247 Europe SRL
+http://122.2.48.121:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://4.155.2.13:9401#US--AS8075 Microsoft Corporation
+http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://170.239.205.74:8080#CO--AS265629 FIBERNET
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://194.5.25.34:443#SG--AS3758 SingNet
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://103.125.19.30:8080#ID--AS138087 PT JAVA MEDIANET TEKHNOLOGI
 http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
 http://54.169.179.248:8080#SG--AS16509 Amazon.com, Inc.
-http://31.128.69.121:8080#UA--AS3326 PRIVATE JOINT STOCK COMPANY "DATAGROUP"
 http://45.149.93.186:1201#ID--AS24203 PT XL Axiata
-http://37.120.187.59:80#DE--AS197540 netcup GmbH
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://163.172.33.137:4373#NL--AS62240 Clouvider
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
 http://163.172.33.137:4290#NL--AS62240 Clouvider
-http://189.240.60.166:9090#MX--AS8151 UNINET
 http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
 http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://34.172.92.211:3128#US--AS396982 Google LLC
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://170.187.181.222:3128#CA--AS63949 Akamai Connected Cloud
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://135.148.233.152:23451#US--AS16276 OVH SAS
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://167.71.202.234:3128#SG--AS14061 DigitalOcean, LLC
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://135.148.233.152:1212#US--AS16276 OVH SAS
 http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://205.185.125.235:3128#US--AS53667 FranTech Solutions
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://163.172.33.137:4371#NL--AS62240 Clouvider
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
 http://163.172.33.137:4352#NL--AS62240 Clouvider
 http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://51.159.4.90:3128#FR--AS12876 SCALEWAY S.A.S.
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
 http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://143.198.210.177:3128#SG--AS14061 DigitalOcean, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://135.148.233.152:10206#US--AS16276 OVH SAS
-http://80.66.81.44:4008#PL--AS9009 M247 Europe SRL
-http://179.24.94.171:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
 http://91.92.96.204:8080#BG--AS39251 NETGUARD LLC
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://103.69.20.28:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
 http://135.148.233.152:24965#US--AS16276 OVH SAS
 http://92.60.190.79:3128#UA--AS1820 WNET TELECOM USA Corp.
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://135.148.233.152:7302#US--AS16276 OVH SAS
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://206.238.197.194:8080#HK--AS399077 Tcloudnet
+http://135.148.233.152:14810#US--AS16276 OVH SAS
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.166.32.78:8090#ID--AS141929 PT Daniswara Citra Informatika
 http://135.148.233.152:13533#US--AS16276 OVH SAS
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://37.187.109.70:10111#FR--AS16276 OVH SAS
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://135.148.233.152:4556#US--AS16276 OVH SAS
 http://135.148.233.152:11323#US--AS16276 OVH SAS
+http://135.148.233.152:8050#US--AS16276 OVH SAS
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://216.10.247.145:3128#IN--AS394695 PDR
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://189.240.60.163:9090#MX--AS8151 UNINET
+http://135.148.233.152:4756#US--AS16276 OVH SAS
 http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
 http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://125.212.231.103:808#VN--AS45899 VNPT Corp
-http://103.113.79.123:80#ID--AS23949 PT Comtronics Systems
-http://200.233.131.170:8080#BR--AS16735 ALGAR TELECOM S/A
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
+http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
