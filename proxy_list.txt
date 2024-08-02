@@ -1,4 +1,25 @@
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://135.148.233.152:12346#US--AS16276 OVH SAS
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://152.26.229.86:9443#US--AS81 MCNC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://135.148.233.152:3127#US--AS16276 OVH SAS
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://135.148.233.152:31315#US--AS16276 OVH SAS
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://105.112.135.165:8080#NG--AS36873 Airtel Networks Limited
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
