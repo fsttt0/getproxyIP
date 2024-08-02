@@ -1,25 +1,19 @@
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
 http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
 http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
 http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
 http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://51.8.224.206:9000#US--AS8075 Microsoft Corporation
-http://47.236.236.2:8899#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://194.5.25.34:443#SG--AS3758 SingNet
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://51.15.11.160:3128#NL--AS12876 SCALEWAY S.A.S.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
