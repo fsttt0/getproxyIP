@@ -1,26 +1,5 @@
-http://201.47.88.21:3128#BR--AS18881 TELEFÔNICA BRASIL S.A
-http://95.217.105.20:9016#FI--AS24940 Hetzner Online GmbH
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://85.235.150.219:3128#IT--AS31034 Aruba S.p.A.
-http://120.28.217.227:8082#PH--AS132199 Globe Telecom Inc.
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://146.196.96.186:7777#ID--AS38320 PT Maxindo Mitra Solusi
-http://109.205.126.6:8080#LV--AS28699 Unistar
-http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://135.148.233.152:22602#US--AS16276 OVH SAS
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://135.148.233.152:18272#US--AS16276 OVH SAS
-http://135.148.233.152:21045#US--AS16276 OVH SAS
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://150.136.4.250:3128#US--AS31898 Oracle Corporation
+http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
