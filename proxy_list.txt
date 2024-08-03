@@ -1,44 +1,48 @@
-http://115.244.196.90:3129#IN--AS55836 Reliance Jio Infocomm Limited
+http://45.149.93.186:1207#ID--AS24203 PT XL Axiata
+http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://24.204.29.115:8080#US--AS32505 Conterra
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://118.97.237.18:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
+http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://114.79.146.166:8080#IN--AS45769 D-Vois Broadband Pvt Ltd
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://67.43.227.227:18859#PE--AS12252 America Movil Peru S.A.C.
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://72.10.160.90:1057#VN--AS7552 Viettel Group
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
 http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
-http://194.5.25.34:443#SG--AS3758 SingNet
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://38.68.134.189:80#US--AS63023 GTHost
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://15.235.171.199:3128#SG--AS16276 OVH SAS
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://77.242.30.9:8088#AL--AS35047 Abissnet sh.a.
+http://103.147.73.50:7777#ID--AS139951 PT Alfatih Indo Teknologi
 http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
 http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.71.184.197:999#EC--AS52468 UFINET PANAMA S.A.
-http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
+http://185.86.214.33:8080#ES--AS62332 AVATEL TELECOM, SA
 http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://186.65.106.90:2020#BR--AS266142 Bahiadados Telecom Ltda.
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://103.105.78.137:8080#ID--AS136874 PT. Garuda Media Telematika
+http://83.54.9.242:3128#ES--AS3352 TELEFONICA DE ESPANA S.A.U.
