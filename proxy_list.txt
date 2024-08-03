@@ -1,43 +1,44 @@
-http://180.191.14.123:8181#PH--AS132199 Globe Telecom Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://23.95.216.78:34561#US--AS36352 HostPapa
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://103.169.198.214:8080#ID--AS142351 PT Global Inayah Elektrindo
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://157.15.44.105:7777#ID--AS152391 PT Sheep Network Teknologi
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://103.161.131.150:8181#ID--AS141613 PT Jaringan Internet Nusantara
-http://47.236.236.2:8899#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://84.54.185.203:8080#BG--AS29084 Comnet Bulgaria Holding Ltd.
-http://216.10.247.145:3128#IN--AS394695 PDR
+http://115.244.196.90:3129#IN--AS55836 Reliance Jio Infocomm Limited
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://67.43.227.227:18859#PE--AS12252 America Movil Peru S.A.C.
+http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://72.10.160.90:1057#VN--AS7552 Viettel Group
+http://170.239.205.74:8080#CO--AS265629 FIBERNET
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
+http://194.5.25.34:443#SG--AS3758 SingNet
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://181.198.1.82:999#EC--AS27947 Telconet S.A
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://38.68.134.189:80#US--AS63023 GTHost
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://77.242.30.9:8088#AL--AS35047 Abissnet sh.a.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.71.184.197:999#EC--AS52468 UFINET PANAMA S.A.
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://186.65.106.90:2020#BR--AS266142 Bahiadados Telecom Ltda.
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
