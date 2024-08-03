@@ -1,19 +1,33 @@
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://104.211.67.168:80#IN--AS8075 Microsoft Corporation
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://216.10.247.145:3128#IN--AS394695 PDR
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://80.66.81.43:4067#PL--AS9009 M247 Europe SRL
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://177.234.236.134:8080#EC--AS52468 UFINET PANAMA S.A.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://91.92.96.204:8080#BG--AS39251 NETGUARD LLC
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://195.154.172.161:3128#FR--AS12876 SCALEWAY S.A.S.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://51.15.11.160:3128#NL--AS12876 SCALEWAY S.A.S.
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
