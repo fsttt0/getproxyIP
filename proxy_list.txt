@@ -1,39 +1,36 @@
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
 http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://103.173.230.147:9191#ID--AS147087 PT Jaringan Internet Banten
-http://103.114.97.98:8999#BD--AS137449 SKYNET CHOWMUHANI
-http://103.178.194.122:1111#ID--AS141921 PT Jaringan Keluarga Bersama
+http://121.101.131.57:8080#ID--AS131706 PT SELARAS CITRA TERABIT
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://103.165.156.171:8090#ID--AS136873 MEGADATA-ISP
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://194.5.25.34:443#SG--AS3758 SingNet
+http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://167.71.202.234:3128#SG--AS14061 DigitalOcean, LLC
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://103.82.126.34:1111#ID--AS136065 PT SOLUSI TRIMEGAH PERSADA
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://200.69.159.177:8080#AR--AS28065 CITARELLA S.A.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://128.199.193.78:3128#SG--AS14061 DigitalOcean, LLC
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
 http://51.15.11.160:3128#NL--AS12876 SCALEWAY S.A.S.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
+http://103.159.196.81:1111#ID--AS140470 PT Andalan Dinamika Informatika
 http://89.250.152.76:8080#RU--AS41682 JSC "ER-Telecom Holding"
-http://92.60.190.79:3128#UA--AS1820 WNET TELECOM USA Corp.
-http://182.253.216.158:8080#ID--AS17451 BIZNET NETWORKS
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://87.247.40.82:3128#KZ--AS9198 JSC Kazakhtelecom
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
+http://179.105.138.70:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
