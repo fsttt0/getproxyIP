@@ -1,25 +1,13 @@
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://103.69.20.99:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
-http://222.127.241.158:8082#PH--AS132199 Globe Telecom Inc.
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://154.55.129.28:58394#HK--AS139646 HONG KONG Megalayer Technology Co.,Limited
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://103.218.24.67:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://103.69.20.118:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://109.164.38.189:2306#CZ--AS44489 STARNET, s.r.o.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://103.152.238.180:8080#ID--AS140448 PT Acces Prima Nusantara
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
