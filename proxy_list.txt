@@ -1,48 +1,57 @@
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://193.30.13.231:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://177.93.40.182:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.109.176.76:8080#TH--AS23969 TOT Public Company Limited
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://51.15.11.160:3128#NL--AS12876 SCALEWAY S.A.S.
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://186.65.106.90:2020#BR--AS266142 Bahiadados Telecom Ltda.
+http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
+http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://115.223.11.212:50000#CN--AS134771 WENZHOU, ZHEJIANG Province, P.R.China.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
 http://89.250.152.76:8080#RU--AS41682 JSC "ER-Telecom Holding"
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://23.95.216.78:34561#US--AS36352 HostPapa
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
-http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
-http://119.39.109.233:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://202.57.18.3:8080#SG--AS149707 PT Akses Data Internusa
+http://34.172.92.211:3128#US--AS396982 Google LLC
 http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://103.171.244.67:8088#ID--AS141674 PT Data Arta Sedaya
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://114.130.154.118:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://165.255.95.21:8888#ZA--AS37611 Afrihost (Pty) Ltd
+http://165.255.95.21:8888#ZA--AS37611 Afrihost (Pty) Ltd
+http://38.7.1.88:999#VE--AS271899 GIGAPOP, C.A.
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
-http://46.98.240.115:50001#UA--AS15377 TRADITIONAL LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://51.15.11.160:3128#NL--AS12876 SCALEWAY S.A.S.
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://102.0.12.234:8080#KE--AS36926 Airtel Networks Kenya Limited
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://4.155.2.13:9401#US--AS8075 Microsoft Corporation
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://200.69.21.207:3128#SG--AS55293 A2 Hosting, Inc.
+http://206.233.164.66:58394#HK--AS139646 HONG KONG Megalayer Technology Co.,Limited
+http://103.125.174.17:7777#ID--AS139415 PT Trinity Teknologi Nusantara
