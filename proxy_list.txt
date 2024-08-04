@@ -1,3 +1,6 @@
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
@@ -6,29 +9,19 @@ http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.160.123.113:5020#BD--AS24323 aamra networks limited,
-http://112.78.134.133:7777#ID--AS17451 BIZNET NETWORKS
-http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
-http://101.255.209.118:8089#ID--AS38511 PT Remala Abadi
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://5.9.140.243:3128#DE--AS24940 Hetzner Online GmbH
-http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://118.175.30.26:8080#TH--AS131293 TOT Public Company Limited
+http://195.42.234.173:3128#GB--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://80.66.81.26:4014#PL--AS9009 M247 Europe SRL
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://181.209.78.76:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
+http://113.160.155.121:19132#VN--AS45899 VNPT Corp
+http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
-http://45.71.200.175:999#EC--AS52468 UFINET PANAMA S.A.
