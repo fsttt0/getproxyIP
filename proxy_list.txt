@@ -1,34 +1,32 @@
+http://101.255.166.114:7777#ID--AS38511 PT Remala Abadi
+http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://189.50.9.33:8080#BR--AS262288 Go In Tecnologia
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://181.78.95.138:999#PY--AS52468 UFINET PANAMA S.A.
-http://36.93.8.34:11000#ID--AS7713 PT Telekomunikasi Indonesia
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://181.204.39.202:26312#CO--AS27831 Colombia Móvil
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://191.81.212.135:8080#AR--AS22927 Telefonica de Argentina
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://103.120.175.243:9191#ID--AS63859 PT. Eka Mas Republik
 http://189.240.60.168:9090#MX--AS8151 UNINET
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://52.117.160.219:8081#US--AS36351 SoftLayer Technologies Inc.
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://189.240.60.166:9090#MX--AS8151 UNINET
 http://103.122.0.115:8181#ID--AS135477 PT. Java Digital Nusantara
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://14.177.4.119:23500#VN--AS45899 VNPT Corp
-http://103.165.155.254:2016#ID--AS141921 PT Jaringan Keluarga Bersama
+http://45.239.30.1:999#CL--AS266840 CMP WILL TELECOMUNICACIONES SPA
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://203.150.128.35:8080#TH--AS4618 Internet Thailand Company Limited
+http://37.120.187.59:80#DE--AS197540 netcup GmbH
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://103.82.126.34:1111#ID--AS136065 PT SOLUSI TRIMEGAH PERSADA
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://103.247.14.37:8080#ID--AS131706 PT SELARAS CITRA TERABIT
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://175.111.117.3:8080#ID--AS46026 BATAM BINTAN TELEKOMUNIKASI, PT
