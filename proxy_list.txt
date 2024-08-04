@@ -1,27 +1,26 @@
+http://162.253.155.94:3128#US--AS62838 Reprise Hosting
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
 http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://118.175.30.26:8080#TH--AS131293 TOT Public Company Limited
-http://195.42.234.173:3128#GB--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.7.207:3128#JP--AS2514 NTT PC Communications, Inc.
+http://179.105.138.70:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://101.255.209.118:8089#ID--AS38511 PT Remala Abadi
+http://212.123.230.250:8181#NL--AS8220 COLT Technology Services Group Limited
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://24.204.29.115:8080#US--AS32505 Conterra
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://80.66.81.26:4014#PL--AS9009 M247 Europe SRL
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://113.160.155.121:19132#VN--AS45899 VNPT Corp
-http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
+http://186.227.112.65:8080#BR--AS263002 ORSSATTO TELECOM TELECOMUNICACOES - EIRELI
+http://94.253.81.152:8080#RU--AS48149 Ivanteevskie telecommunicacii Ltd
+http://103.155.47.194:8080#ID--AS141049 PT Profesional Internet Indonesia
 http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
