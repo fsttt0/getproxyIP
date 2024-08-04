@@ -1,39 +1,8 @@
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://188.209.49.99:80#NL--AS47674 Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://103.41.33.165:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://200.24.131.125:999#EC--AS52468 UFINET PANAMA S.A.
-http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://103.81.221.168:8080#ID--AS55699 PT. Cemerlang Multimedia
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://210.236.68.210:8080#JP--AS59108 KATCH NETWORK INC.
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://200.24.131.126:999#EC--AS52468 UFINET PANAMA S.A.
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://134.249.185.223:41890#UA--AS15895 "Kyivstar" PJSC
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://5.9.140.243:3128#DE--AS24940 Hetzner Online GmbH
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://200.37.252.122:8080#PE--AS6147 Telefonica del Peru S.A.A.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://103.22.99.93:7777#ID--AS45305 Lintas Data Prima, PT
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
-http://213.165.168.190:9898#MT--AS12709 Melita Limited
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
