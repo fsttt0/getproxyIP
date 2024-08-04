@@ -1,12 +1,31 @@
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://80.66.81.26:4014#PL--AS9009 M247 Europe SRL
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://107.172.80.62:3128#US--AS36352 HostPapa
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://124.156.237.232:1080#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
+http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://178.253.22.150:3128#NL--AS9123 TimeWeb Ltd.
+http://5.9.140.243:3128#DE--AS24940 Hetzner Online GmbH
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://45.143.108.118:8080#GE--AS208320 AIRMAX LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
 http://3.10.93.50:1080#GB--AS16509 Amazon.com, Inc.
 http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
-http://154.90.49.34:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://36.64.153.4:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
