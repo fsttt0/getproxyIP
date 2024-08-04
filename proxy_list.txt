@@ -1,8 +1,39 @@
-http://103.81.221.168:8080#ID--AS55699 PT. Cemerlang Multimedia
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.75.85.100:1111#ID--AS136873 MEGADATA-ISP
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://178.128.47.83:9090#GB--AS14061 DigitalOcean, LLC
+http://203.150.128.35:8080#TH--AS4618 Internet Thailand Company Limited
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://154.90.48.183:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://103.153.62.155:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://101.255.166.114:7777#ID--AS38511 PT Remala Abadi
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
+http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://103.41.250.97:8080#ID--AS58369 PT. Fiber Networks Indonesia
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
