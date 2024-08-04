@@ -1,47 +1,67 @@
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://212.98.152.55:8080#LB--AS9051 IncoNet Data Management sal
-http://45.234.60.2:999#VE--AS266766 SOLUCIONES INSTALRED CH&C C.A.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://82.179.94.21:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://150.240.2.211:3128#US--AS36351 SoftLayer Technologies Inc.
+http://103.174.236.43:3127#ID--AS147106 PT Global Erasiber Teknologi
+http://38.45.33.130:999#VE--AS272122 TELECOMUNICACIONES G-NETWORK, C.A.
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://140.227.204.70:3128#JP--AS2514 NTT PC Communications, Inc.
 http://154.38.180.194:3128#US--AS40021 Nubes, LLC
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://223.25.110.226:1080#ID--AS136873 MEGADATA-ISP
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.156.141.151:3127#ID--AS149883 PT Tekling Media Telematika
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://45.169.98.121:8080#CO--AS267790 NET ISP S.A.S
+http://154.94.5.241:7001#DE--AS142403 YISU CLOUD LTD
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://103.155.47.194:8080#ID--AS141049 PT Profesional Internet Indonesia
+http://95.154.20.113:34248#DK--AS39642 Norlys Digital A/S
 http://103.236.177.154:8081#PH--AS135607 Infinivan Incorporated
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://144.48.222.240:80#HK--AS135357 Shenzhen Katherine Heng Technology Information Co., Ltd.
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://124.156.237.232:1080#JP--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.133.26.107:8181#ID--AS138130 PT PHATRIA INTI PERSADA
+http://188.132.222.9:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://154.90.49.240:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://154.90.48.82:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://4.155.2.13:9401#US--AS8075 Microsoft Corporation
 http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
 http://154.90.49.34:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
 http://5.9.140.243:3128#DE--AS24940 Hetzner Online GmbH
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://167.99.228.84:3128#US--AS14061 DigitalOcean, LLC
+http://154.90.49.103:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://154.90.48.166:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://91.238.105.56:8080#UA--AS50321 FOP "Reznichenko Sergey Mykolayovich"
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://154.90.49.119:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://154.90.49.196:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://154.90.48.9:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://92.60.190.79:3128#UA--AS1820 WNET TELECOM USA Corp.
+http://171.231.28.200:49236#VN--AS7552 Viettel Group
+http://187.204.50.239:53281#MX--AS8151 UNINET
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://36.93.8.34:11000#ID--AS7713 PT Telekomunikasi Indonesia
-http://119.47.90.25:1080#ID--AS138089 PT.Global Media Data Prima
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://191.81.212.135:8080#AR--AS22927 Telefonica de Argentina
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://103.16.118.166:8080#ID--AS58482 PT. Palapa Media Indonesia
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://47.236.236.2:8899#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://117.0.193.88:5102#VN--AS7552 Viettel Group
-http://36.85.57.62:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.80.81.53:8090#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://45.71.184.197:999#EC--AS52468 UFINET PANAMA S.A.
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://103.75.85.100:1111#ID--AS136873 MEGADATA-ISP
