@@ -1,15 +1,34 @@
+http://103.165.157.234:8090#ID--AS136873 MEGADATA-ISP
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://125.212.224.58:3128#VN--AS7552 Viettel Group
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://35.226.46.36:3128#US--AS396982 Google LLC
+http://217.160.74.198:3128#DE--AS8560 IONOS SE
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
+http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
+http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://110.39.4.242:8080#PK--AS38264 National WiMAX/IMS environment
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://162.253.155.94:9999#US--AS62838 Reprise Hosting
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://195.201.138.150:80#DE--AS24940 Hetzner Online GmbH
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://155.133.26.75:7778#DE--AS51167 Contabo GmbH
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
