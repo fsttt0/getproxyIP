@@ -1,29 +1,12 @@
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://92.60.190.79:3128#UA--AS1820 WNET TELECOM USA Corp.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://15.235.171.223:8888#SG--AS16276 OVH SAS
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://154.38.180.194:3128#US--AS40021 Nubes, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://177.75.1.33:8080#BR--AS28178 Networld Provedor e Servicos de Internet Ltda
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://103.18.232.18:8080#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://103.177.9.104:8080#ID--AS147137 HELIUM
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://166.1.22.160:8080#NL--AS26383 Baxet Group Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://112.198.129.234:8085#PH--AS132199 Globe Telecom Inc.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://103.125.17.22:8080#ID--AS138087 PT JAVA MEDIANET TEKHNOLOGI
+http://190.94.213.14:999#VE--AS8053 IFX Networks Venezuela C.A.
