@@ -1,42 +1,38 @@
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://20.243.212.74:3128#JP--AS8075 Microsoft Corporation
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
 http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
 http://85.172.174.26:3128#RU--AS43132 PJSC Rostelecom
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://101.255.149.202:8080#ID--AS38511 PT Remala Abadi
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://148.153.38.222:3128#US--AS63199 CDS Global Cloud Co., Ltd
+http://27.147.129.26:58080#BD--AS23688 Link3 Technologies Ltd.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://176.102.49.228:3128#UA--AS3326 PRIVATE JOINT STOCK COMPANY "DATAGROUP"
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://103.169.187.158:8787#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://35.226.46.36:3128#US--AS396982 Google LLC
-http://51.222.32.203:3128#CA--AS16276 OVH SAS
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://103.24.212.250:8082#ID--AS132649 PT Adau Putra Network
+http://43.243.174.26:83#IN--AS134254 Shah Infinite Solutions Pvt. Ltd.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
 http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
