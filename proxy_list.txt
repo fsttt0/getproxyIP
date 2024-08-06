@@ -1,36 +1,30 @@
+http://188.166.222.236:3128#SG--AS14061 DigitalOcean, LLC
+http://189.240.60.163:9090#MX--AS8151 UNINET
 http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
 http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
 http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://95.31.222.217:3128#RU--AS8402 PJSC "Vimpelcom"
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://195.201.138.150:80#DE--AS24940 Hetzner Online GmbH
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://189.240.60.164:9090#MX--AS8151 UNINET
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://172.183.241.1:8090#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://135.148.171.194:18080#NL--AS205016 HERN Labs AB
+http://162.253.155.94:9999#US--AS62838 Reprise Hosting
+http://188.132.222.46:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://12.7.109.1:9812#US--AS7018 AT&T Services, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://189.240.60.166:9090#MX--AS8151 UNINET
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://35.226.46.36:3128#US--AS396982 Google LLC
-http://188.132.222.13:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://177.70.174.103:8080#BR--AS53019 infotec- serviços de provedor da internet ltda
-http://212.127.78.23:39811#PL--AS35179 Korbank S. A.
-http://217.160.74.198:3128#DE--AS8560 IONOS SE
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://166.1.22.160:8080#NL--AS26383 Baxet Group Inc.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
-http://119.47.90.228:3127#ID--AS138089 PT.Global Media Data Prima
-http://216.10.247.145:3128#IN--AS394695 PDR
