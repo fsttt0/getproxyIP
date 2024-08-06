@@ -1,32 +1,40 @@
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://206.238.197.194:8080#HK--AS399077 Tcloudnet
+http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://187.190.127.212:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://177.130.25.76:8080#BR--AS52742 HELP INTERNET
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://182.253.162.82:8080#ID--AS17451 BIZNET NETWORKS
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.41.34.185:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://191.81.229.155:8080#AR--AS22927 Telefonica de Argentina
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://51.159.4.90:3128#FR--AS12876 SCALEWAY S.A.S.
+http://45.136.197.45:25124#HK--AS9009 M247 Europe SRL
+http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://103.155.196.40:8080#ID--AS63859 PT. Eka Mas Republik
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://179.1.123.51:8080#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://85.172.174.26:3128#RU--AS43132 PJSC Rostelecom
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
-http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
-http://203.145.58.234:8080#ID--AS142375 PT Hayat Teknologi Informatika
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
