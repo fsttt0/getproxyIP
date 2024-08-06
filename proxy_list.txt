@@ -1,35 +1,22 @@
-http://204.137.238.6:3129#US--AS395597 Apogee Telecom Inc.
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://82.65.27.56:80#FR--AS12322 Free SAS
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
-http://103.148.192.82:9012#ID--AS139995 PT. Akashia Thuba Jaya
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://103.156.248.45:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://45.65.137.218:999#CO--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://20.243.212.74:3128#JP--AS8075 Microsoft Corporation
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
-http://103.156.128.58:8080#ID--AS141091 PT Skynet Lintas Nusantara
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://191.81.229.155:8080#AR--AS22927 Telefonica de Argentina
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://146.196.96.186:7777#ID--AS38320 PT Maxindo Mitra Solusi
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://72.10.164.178:4937#EC--AS27947 Telconet S.A
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://36.85.57.62:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://13.115.229.80:3128#JP--AS16509 Amazon.com, Inc.
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
-http://85.172.174.26:3128#RU--AS43132 PJSC Rostelecom
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://186.233.119.140:8080#BR--AS266181 GOLDEN LINK
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://186.233.118.211:8080#BR--AS266181 GOLDEN LINK
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
