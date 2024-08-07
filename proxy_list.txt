@@ -1,26 +1,48 @@
-http://131.196.42.95:667#BR--AS52872 VOANET Telecomunicações Ltda.
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://189.50.9.30:8080#BR--AS28323 VIPRede Telecomunicações Ltda
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://124.106.66.194:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://85.172.174.26:3128#RU--AS43132 PJSC Rostelecom
-http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
-http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
-http://13.115.229.80:3128#JP--AS16509 Amazon.com, Inc.
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://187.141.125.210:8080#MX--AS8151 UNINET
+http://157.230.180.44:3128#US--AS14061 DigitalOcean, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://14.97.102.90:8080#IN--AS45820 Tata Teleservices ISP AS
+http://85.209.153.174:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://101.255.166.114:7777#ID--AS38511 PT Remala Abadi
+http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://85.172.174.26:3128#RU--AS43132 PJSC Rostelecom
+http://43.129.64.28:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.124.198.118:8080#ID--AS138096 PT INFORMASI NUSANTARA TEKNOLOGI
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
+http://82.179.94.11:3128#RU--AS3267 Federal State Institution "Federal Scientific Research Institute for System Analysis of the Russian Academy of Sciences"
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.169.148.2:1111#ID--AS142339 PT Kangen Network Solusindo
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://183.36.24.13:3128#CN--AS4134 CHINANET-BACKBONE
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://154.38.180.194:3128#US--AS40021 Nubes, LLC
+http://114.130.86.145:5443#BD--AS132608 Mango Teleservices Limited (ISP)
+http://103.114.166.246:80#BD--AS135131 BROTHERS ONLINE
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://102.222.173.33:8080#BW--AS328757 Donya Digital (Pty) Ltd
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://14.143.145.36:80#IN--AS4755 TATA Communications formerly VSNL is Leading ISP
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://158.255.215.50:7497#FR--AS9009 M247 Europe SRL
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://131.196.42.95:667#BR--AS52872 VOANET Telecomunicações Ltda.
