@@ -1,50 +1,45 @@
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
 http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://157.230.180.44:3128#US--AS14061 DigitalOcean, LLC
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://34.97.45.196:8561#JP--AS396982 Google LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://206.238.197.194:8080#HK--AS399077 Tcloudnet
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
-http://52.185.132.193:8080#JP--AS8075 Microsoft Corporation
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
 http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://112.163.160.223:3128#KR--AS4766 Korea Telecom
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
 http://162.253.155.94:9999#US--AS62838 Reprise Hosting
-http://212.110.188.213:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
-http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://36.88.253.86:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://177.184.199.36:80#BR--AS28165 Wireless Comm Services LTDA
-http://103.155.196.40:8080#ID--AS63859 PT. Eka Mas Republik
-http://186.86.143.161:999#CO--AS14080 Telmex Colombia S.A.
-http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
-http://103.165.155.195:2016#ID--AS141921 PT Jaringan Keluarga Bersama
-http://45.189.118.92:999#PE--AS269857 FIBER DIGITAL S.R.L
+http://103.175.238.122:8085#ID--AS147122 PT Uliz Netmedia Solusindo
+http://84.201.248.233:8090#RU--AS34590 JSC "ER-Telecom Holding"
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
 http://103.173.244.210:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
-http://65.108.221.203:443#FI--AS24940 Hetzner Online GmbH
+http://103.188.136.44:32650#BD--AS138346 Sajid Trading Ltd.
+http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://120.28.222.2:8081#PH--AS132199 Globe Telecom Inc.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
 http://43.153.18.252:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.248.90.18:3128#JP--AS2514 NTT PC Communications, Inc.
-http://80.66.81.39:4000#PL--AS9009 M247 Europe SRL
-http://177.129.249.165:8080#BR--AS28335 MAXCOMM LTDA EPP
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://72.10.160.174:5625#MN--AS55805 MobiCom Corporation
+http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
