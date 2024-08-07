@@ -1,42 +1,44 @@
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://43.250.175.68:38080#JP--AS21859 Zenlayer Inc
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://34.97.45.196:8561#JP--AS396982 Google LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
+http://61.247.52.158:8080#ID--AS23700 Linknet-Fastnet ASN
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://103.162.55.2:18080#ID--AS141649 Institut Agama Islam Negeri Madura
 http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://5.58.25.124:8080#UA--AS16223 MAXNET TELECOM, LTD
+http://181.224.205.42:999#DO--AS52412 BW TELECOM SRL
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://62.173.146.70:3128#RU--AS34300 Internet-Cosmos LLC
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://216.10.247.145:3128#IN--AS394695 PDR
 http://206.238.197.194:8080#HK--AS399077 Tcloudnet
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
 http://166.1.22.160:8080#NL--AS26383 Baxet Group Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
-http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://103.149.238.27:3128#ID--AS140384 PT BITNIAGA CIPTA GEMILANG
+http://95.47.136.50:3128#UA--AS6846 Joint Ukrainan-German Enterprise "INFOCOM" LLC
 http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.27:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://162.253.155.94:9999#US--AS62838 Reprise Hosting
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://186.3.98.230:999#EC--AS27947 Telconet S.A
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.255.169.249:8080#ID--AS38511 PT Remala Abadi
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://180.151.80.35:8080#IN--AS24560 Bharti Airtel Ltd., Telemedia Services
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
