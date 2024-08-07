@@ -1,31 +1,33 @@
-http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://162.253.155.94:9999#US--AS62838 Reprise Hosting
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://158.255.212.55:9300#AT--AS57169 EDIS GmbH
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://206.238.197.194:8080#HK--AS399077 Tcloudnet
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://177.200.80.6:11221#BR--AS28368 SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://46.246.4.16:8118#SE--AS42708 GleSYS AB
-http://187.141.125.210:8080#MX--AS8151 UNINET
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://14.97.102.90:8080#IN--AS45820 Tata Teleservices ISP AS
+http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://143.64.224.32:3128#CN--AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.215.74.117:3128#US--AS16509 Amazon.com, Inc.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://162.253.155.94:9999#US--AS62838 Reprise Hosting
