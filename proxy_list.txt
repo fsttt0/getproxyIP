@@ -1,40 +1,44 @@
-http://181.119.106.85:8080#GT--AS52468 UFINET PANAMA S.A.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
+http://103.209.38.132:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://103.169.135.77:8080#ID--AS142338 PT Neo Santara Solusi
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://203.190.44.252:8090#ID--AS45317 Jaringan Lintas Utara, PT
+http://36.94.60.26:4480#ID--AS7713 PT Telekomunikasi Indonesia
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://211.253.36.172:5010#KR--AS4766 Korea Telecom
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
 http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://177.234.194.226:999#EC--AS52468 UFINET PANAMA S.A.
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://211.253.36.172:5015#KR--AS4766 Korea Telecom
 http://43.153.18.252:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://182.253.109.61:8080#ID--AS17451 BIZNET NETWORKS
+http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://112.163.160.223:3128#KR--AS4766 Korea Telecom
