@@ -1,46 +1,16 @@
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
 http://43.129.64.28:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://154.0.132.35:3128#UG--AS37063 Roke Investments International Ltd
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
 http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
-http://103.107.236.193:8080#HK--AS136970 YISU CLOUD LTD
-http://103.180.118.99:8090#ID--AS149359 PT Persada Data Multimedia
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://103.89.136.82:3128#IN--AS136475 Planetcast Media Services Limited
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
-http://124.106.203.238:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://223.205.178.7:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
