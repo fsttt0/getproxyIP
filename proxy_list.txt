@@ -1,50 +1,30 @@
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://24.204.29.115:8080#US--AS32505 Conterra
+http://103.164.235.105:8087#ID--AS141916 PT Bantani Media Utama
+http://113.164.94.137:3218#VN--AS45899 VNPT Corp
+http://77.242.16.30:8080#AL--AS35047 Abissnet sh.a.
+http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
+http://119.47.90.228:3127#ID--AS138089 PT.Global Media Data Prima
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.70.85.33:58080#BR--AS267593 B.B.S COMUNICAÇÕES LTDA ME
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://187.204.30.19:8081#MX--AS8151 UNINET
+http://34.97.45.196:8561#JP--AS396982 Google LLC
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://201.217.246.212:8080#AR--AS52373 ECOM CHACO S.A.
 http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
 http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://41.65.55.2:1976#EG--AS36992 ETISALAT MISR
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://103.160.69.97:8009#ID--AS141607 PT Gayatri Lintas Nusantara
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://211.253.36.172:5015#KR--AS4766 Korea Telecom
-http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://102.213.179.56:8081#KE--AS329261 NEXT THING NETWORKS Limited
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://121.172.51.237:3128#KR--AS4766 Korea Telecom
-http://101.255.209.242:8080#ID--AS38511 PT Remala Abadi
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://187.141.125.210:8080#MX--AS8151 UNINET
-http://103.167.68.75:8080#ID--AS141982 PT Kataji Nukami Indonesia
-http://188.132.222.168:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://103.173.244.210:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://52.26.114.229:3128#US--AS16509 Amazon.com, Inc.
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://36.73.142.68:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://34.97.45.196:8561#JP--AS396982 Google LLC
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://101.108.120.162:8080#TH--AS23969 TOT Public Company Limited
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
-http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://203.74.125.18:8888#TW--AS3462 Data Communication Business Group
