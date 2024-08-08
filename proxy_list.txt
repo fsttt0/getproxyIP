@@ -1,46 +1,26 @@
-http://103.69.20.81:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://103.250.130.104:1111#ID--AS151555 PT Jawara Lintas Data Nusantara
-http://47.243.55.21:8118#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.87.68.234:8181#ID--AS150249 PT Atharva Telematika Persada
-http://202.165.25.230:3128#MY--AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
-http://213.218.240.1:3128#US--AS47583 Hostinger International Limited
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.119.218.94:999#BO--AS25620 COTAS LTDA.
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://85.209.153.173:5678#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://85.209.153.175:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://68.162.217.121:8080#US--AS701 Verizon Business
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.84.177.246:8084#PH--AS136244 Panay Broadband / Buenavista Cable TV Inc.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://85.209.153.174:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://223.205.178.7:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://190.94.212.82:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://85.209.153.175:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://85.209.153.174:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://34.172.92.211:3128#US--AS396982 Google LLC
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://62.173.146.70:3128#RU--AS34300 Internet-Cosmos LLC
-http://85.209.153.174:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://85.209.153.173:8080#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://103.245.17.219:8080#ID--AS46023 PT Quantum Tera Network
+http://170.239.205.74:8080#CO--AS265629 FIBERNET
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
