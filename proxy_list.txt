@@ -1,14 +1,13 @@
-http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://3.10.93.50:3128#GB--AS16509 Amazon.com, Inc.
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://34.97.45.196:8561#JP--AS396982 Google LLC
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://102.68.128.212:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://14.162.146.186:19132#VN--AS45899 VNPT Corp
+http://154.73.111.133:1981#LY--AS37284 Aljeel Aljadeed For Technology
+http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
