@@ -1,48 +1,68 @@
-http://143.244.40.201:3128#JP--AS60068 Datacamp Limited
+http://5.104.83.232:8090#JP--AS141995 Contabo Asia Private Limited
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://113.102.80.8:8118#CN--AS4134 CHINANET-BACKBONE
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://175.196.233.101:3128#KR--AS4766 Korea Telecom
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://103.105.78.137:8080#ID--AS136874 PT. Garuda Media Telematika
+http://222.127.241.158:8082#PH--AS132199 Globe Telecom Inc.
+http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
 http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://103.132.52.59:8080#ID--AS138123 PT. ADEAKSA INDO JAYATAMA
+http://34.124.190.108:8090#US--AS396507 Emerald Onion
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://43.153.18.252:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://36.67.8.169:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://171.6.110.182:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
 http://34.172.92.211:3128#US--AS396982 Google LLC
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://184.174.96.152:3129#US--AS16276 OVH SAS
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://34.45.205.168:3128#US--AS396982 Google LLC
+http://103.242.104.146:3127#ID--AS58821 PT Lintas Jaringan Nusantara
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.169.241.97:3128#US--AS8075 Microsoft Corporation
+http://103.133.26.75:8080#ID--AS138130 PT PHATRIA INTI PERSADA
+http://103.159.195.193:8080#ID--AS141145 PT Giga Digital Nusantara
 http://144.91.109.79:3128#DE--AS51167 Contabo GmbH
 http://170.187.229.123:3128#SG--AS63949 Akamai Connected Cloud
-http://71.142.238.33:8888#US--AS136787 TEFINCOM S.A.
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.250.130.104:1111#ID--AS151555 PT Jawara Lintas Data Nusantara
+http://20.169.241.185:3128#US--AS8075 Microsoft Corporation
+http://112.201.183.45:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://71.142.238.33:8888#US--AS262287 Latitude.sh LTDA
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://20.169.241.108:3128#US--AS8075 Microsoft Corporation
 http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://189.127.190.109:8080#BR--AS269681 BEAM TELECOM IMP EXP LTDA
+http://154.90.49.240:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://20.169.241.90:3128#US--AS8075 Microsoft Corporation
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.129.64.28:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.247.23.181:1111#ID--AS58485 WIFIAN ID
+http://181.78.82.211:999#CO--AS3549 Level 3 Parent, LLC
+http://36.90.217.58:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://36.88.102.63:80#ID--AS7713 PT Telekomunikasi Indonesia
+http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
 http://168.63.153.150:3128#HK--AS8075 Microsoft Corporation
 http://20.243.138.252:3128#JP--AS8075 Microsoft Corporation
 http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
-http://116.104.93.5:5102#VN--AS7552 Viettel Group
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://200.188.123.247:999#MX--AS11172 Alestra, S. de R.L. de C.V.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://175.196.233.101:3128#KR--AS4766 Korea Telecom
-http://190.94.213.81:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://177.234.241.25:999#EC--AS52468 UFINET PANAMA S.A.
-http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://193.105.123.194:8123#AZ--AS209360 Bulud Telecom LLC
-http://125.212.224.58:3128#VN--AS7552 Viettel Group
-http://102.222.51.105:8080#ZA--AS327750 JENNY INTERNET (PTY) LTD
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://154.90.48.47:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://15.235.47.90:3128#CA--AS16276 OVH SAS
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
