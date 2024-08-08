@@ -1,50 +1,49 @@
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
-http://190.2.215.234:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://186.96.174.168:80#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://223.205.178.7:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://202.21.117.75:8080#MN--AS9484 Mobinet LLC. AS Mobinet Internet Service Provider
-http://103.80.81.53:8090#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://92.51.126.42:8080#GE--AS44327 DELTA COMM LLC
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://103.35.108.190:5020#BD--AS23991 Ranks ITT Ltd.
+http://193.38.224.169:8081#ES--AS206276 Citelia s.a.
+http://45.237.75.6:8080#BR--AS61591 WESTLINK TECNOLOGIA E COMUNICACAO LTDA. - ME
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://103.189.117.142:8080#ID--AS149878 PT Callysta Total Solusindo
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
+http://154.90.49.240:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
+http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://182.253.168.77:8080#ID--AS17451 BIZNET NETWORKS
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://217.78.231.41:8123#RU--AS197349 IDALGO TELECOM
 http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
 http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://171.5.16.97:8080#TH--AS45758 Triple T Broadband Public Company Limited
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://171.244.8.191:3128#VN--AS7552 Viettel Group
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
-http://8.242.154.36:999#CO--AS3549 Level 3 Parent, LLC
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://43.129.64.28:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://144.91.109.79:3128#DE--AS51167 Contabo GmbH
+http://51.222.32.203:3128#CA--AS16276 OVH SAS
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
-http://103.28.114.140:8090#ID--AS45305 Lintas Data Prima, PT
+http://34.172.92.211:3128#US--AS396982 Google LLC
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://118.179.28.154:8080#BD--AS58656 bdHUB Limited
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
