@@ -1,37 +1,73 @@
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://103.179.182.211:8080#ID--AS142394 PT Cahaya Solusindo Internusa
+http://168.63.153.150:3128#HK--AS8075 Microsoft Corporation
+http://20.243.138.252:3128#JP--AS8075 Microsoft Corporation
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://103.208.102.6:8080#ID--AS134648 PT Tidar Lintas Nusa
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://95.217.178.129:3128#FI--AS24940 Hetzner Online GmbH
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://177.136.86.5:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
+http://20.169.241.250:3128#US--AS8075 Microsoft Corporation
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://102.0.9.138:32650#KE--AS36926 Airtel Networks Kenya Limited
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://194.186.248.97:80#RU--AS3216 PJSC "Vimpelcom"
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://49.157.62.204:8181#PH--AS9658 Eastern Telecoms Phils., Inc.
+http://117.55.202.206:3128#NL--AS3920 ESTOXY OU
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://103.133.27.143:8080#ID--AS138130 PT PHATRIA INTI PERSADA
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
-http://120.28.222.2:8081#PH--AS132199 Globe Telecom Inc.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://182.253.109.59:8080#ID--AS17451 BIZNET NETWORKS
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://103.125.19.29:8080#ID--AS138087 PT JAVA MEDIANET TEKHNOLOGI
 http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://120.28.195.40:8282#PH--AS132199 Globe Telecom Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://181.209.82.206:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://222.127.241.158:8082#PH--AS132199 Globe Telecom Inc.
-http://103.145.34.162:8081#ID--AS139449 PT Lintas Data Multimedia
-http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
-http://182.23.127.2:8080#ID--AS4800 PT Aplikanusa Lintasarta
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://217.78.231.41:8123#RU--AS197349 IDALGO TELECOM
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://158.51.210.75:8888#CA--AS22682 Prairie-Sky Wireless
-http://52.13.248.29:3128#US--AS16509 Amazon.com, Inc.
-http://171.5.16.97:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://103.122.1.130:3127#ID--AS135477 PT. Java Digital Nusantara
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://111.172.239.145:3128#CN--AS138982 Hubei Jiangxia IDC
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://103.35.108.190:5020#BD--AS23991 Ranks ITT Ltd.
+http://103.164.235.105:8087#ID--AS141916 PT Bantani Media Utama
+http://103.137.52.85:100#BD--AS24323 aamra networks limited,
+http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.250.130.104:1111#ID--AS151555 PT Jawara Lintas Data Nusantara
