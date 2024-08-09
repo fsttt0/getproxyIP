@@ -1,40 +1,49 @@
-http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://3.10.93.50:80#GB--AS16509 Amazon.com, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://186.50.30.235:3128#UY--AS6057 Administracion Nacional de Telecomunicaciones
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
+http://71.142.238.33:8888#FR--AS136787 TEFINCOM S.A.
+http://103.193.144.13:8181#ID--AS58821 PT Lintas Jaringan Nusantara
+http://103.40.121.91:8080#ID--AS63508 PT DINAMIKA MEDIAKOM
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://103.165.156.171:8090#ID--AS136873 MEGADATA-ISP
+http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://193.192.124.74:8080#TR--AS12735 TurkNet Iletisim Hizmetleri A.S.
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://18.132.201.250:3128#GB--AS16509 Amazon.com, Inc.
-http://138.197.129.19:8090#CA--AS14061 DigitalOcean, LLC
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://162.253.155.94:9999#US--AS62838 Reprise Hosting
 http://13.229.203.40:8080#SG--AS16509 Amazon.com, Inc.
-http://177.242.132.2:999#MX--AS13999 Mega Cable, S.A. de C.V.
-http://187.190.127.212:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://103.12.77.162:3128#VN--AS140825 Thien Quang Digital technology joint stock company
 http://54.179.51.247:8080#SG--AS16509 Amazon.com, Inc.
+http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.212.39.146:8080#SG--AS16509 Amazon.com, Inc.
 http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
+http://103.231.203.234:8080#ID--AS133352 PT. Berdikari Prima Mandiri
 http://54.254.246.94:8080#SG--AS16509 Amazon.com, Inc.
+http://162.253.155.96:9999#US--AS62838 Reprise Hosting
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://54.179.148.153:8080#SG--AS16509 Amazon.com, Inc.
-http://154.73.28.129:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://52.221.228.246:8080#SG--AS16509 Amazon.com, Inc.
-http://125.163.201.206:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://47.128.78.44:8080#SG--AS16509 Amazon.com, Inc.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://54.183.247.11:3128#US--AS16509 Amazon.com, Inc.
-http://46.137.200.214:8080#SG--AS16509 Amazon.com, Inc.
-http://114.130.153.58:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://52.221.244.218:8080#SG--AS16509 Amazon.com, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
