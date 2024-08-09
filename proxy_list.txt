@@ -1,41 +1,52 @@
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://18.134.236.231:3128#GB--AS16509 Amazon.com, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://175.196.233.101:3128#KR--AS4766 Korea Telecom
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.136.86.5:999#AR--AS271784 ACCESS AIR SOCIEDAD SIMPLE
+http://168.63.153.150:3128#HK--AS8075 Microsoft Corporation
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://170.239.205.74:8080#CO--AS265629 FIBERNET
-http://152.0.84.253:8080#DO--AS6400 Compañía Dominicana de Teléfonos S. A.
+http://138.197.129.19:8085#CA--AS14061 DigitalOcean, LLC
+http://103.125.19.29:8080#ID--AS138087 PT JAVA MEDIANET TEKHNOLOGI
+http://103.124.225.41:80#BD--AS58682 Level3 Carrier Ltd.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://114.130.154.118:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://138.197.129.19:8090#CA--AS14061 DigitalOcean, LLC
+http://103.41.33.246:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://57.128.193.70:1088#US--AS174 Cogent Communications
+http://138.197.129.19:8088#CA--AS14061 DigitalOcean, LLC
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://85.209.153.173:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://138.197.129.19:8089#CA--AS14061 DigitalOcean, LLC
-http://20.169.241.171:3128#US--AS8075 Microsoft Corporation
-http://103.152.101.69:8080#PK--AS150750 IN CABLE INTERNET (PRIVATE) LIMITED
+http://85.172.174.25:3128#RU--AS43132 PJSC Rostelecom
+http://104.156.140.145:3128#US--AS35916 MULTACOM CORPORATION
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://175.196.233.101:3128#KR--AS4766 Korea Telecom
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://52.221.250.131:8080#SG--AS16509 Amazon.com, Inc.
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.153.18.252:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://162.253.155.96:9999#US--AS62838 Reprise Hosting
+http://47.74.40.128:7788#JP--AS45102 Alibaba (US) Technology Co., Ltd.
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://193.203.15.61:3128#DE--AS51167 Contabo GmbH
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
+http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://103.231.173.114:3128#HK--AS45753 Netsec Limited
+http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://124.121.58.200:8080#TH--AS17552 True Online
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://103.109.39.5:3128#VN--AS135942 Adsota Corporation
