@@ -1,8 +1,8 @@
+http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://103.209.38.132:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://157.230.89.122:18085#US--AS205016 HERN Labs AB
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
@@ -11,50 +11,48 @@ http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://164.163.43.102:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://154.90.48.166:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://103.127.220.130:8080#ID--AS150259 PT Multi Guna Sinergi
+http://80.66.81.27:4000#RU--AS29182 JSC IOT
+http://103.173.230.147:9191#ID--AS147087 PT Jaringan Internet Banten
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
 http://46.137.200.214:8080#SG--AS16509 Amazon.com, Inc.
-http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://57.128.193.70:1088#US--AS174 Cogent Communications
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
 http://13.229.203.40:8080#SG--AS16509 Amazon.com, Inc.
 http://103.231.173.114:3128#HK--AS45753 Netsec Limited
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://116.0.53.34:8080#PK--AS24435 Supernet Limited Transit Autonomous System Number
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
 http://52.221.244.218:8080#SG--AS16509 Amazon.com, Inc.
+http://49.48.40.95:8080#TH--AS45758 Triple T Broadband Public Company Limited
 http://47.128.78.44:8080#SG--AS16509 Amazon.com, Inc.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
 http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://54.183.247.11:3128#US--AS16509 Amazon.com, Inc.
-http://157.120.61.160:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
 http://52.221.228.246:8080#SG--AS16509 Amazon.com, Inc.
+http://71.142.238.33:8888#BG--AS136787 TEFINCOM S.A.
 http://54.254.202.240:8080#SG--AS16509 Amazon.com, Inc.
 http://54.179.148.153:8080#SG--AS16509 Amazon.com, Inc.
 http://13.212.39.146:8080#SG--AS16509 Amazon.com, Inc.
-http://164.92.207.53:30000#NL--AS14061 DigitalOcean, LLC
-http://103.107.84.191:8080#ID--AS136879 DELAPAN BIT
+http://101.255.209.118:8089#ID--AS38511 PT Remala Abadi
 http://13.212.87.176:8080#SG--AS16509 Amazon.com, Inc.
 http://54.179.51.247:8080#SG--AS16509 Amazon.com, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://41.216.186.146:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://190.128.248.134:999#PY--AS23201 Telecel S.A.
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://54.254.246.94:8080#SG--AS16509 Amazon.com, Inc.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
