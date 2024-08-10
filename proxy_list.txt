@@ -1,31 +1,27 @@
 http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
 http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.124.160.147:8080#HN--AS27932 Redes y Telecomunicaciones
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.42.120.31:8080#ID--AS24534 PT. Transhybrid Communication
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
+http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
 http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.231.173.114:3128#HK--AS45753 Netsec Limited
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://189.203.201.146:8080#MX--AS8151 UNINET
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://124.6.168.26:80#PH--AS132199 Globe Telecom Inc.
-http://218.145.131.182:443#KR--AS4766 Korea Telecom
-http://46.98.240.115:50001#UA--AS15377 TRADITIONAL LLC
