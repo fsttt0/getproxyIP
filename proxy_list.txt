@@ -1,27 +1,20 @@
-http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://200.119.44.50:9090#CO--AS19429 ETB - Colombia
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://171.231.28.200:49236#VN--AS7552 Viettel Group
+http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
+http://18.132.201.250:3128#GB--AS16509 Amazon.com, Inc.
 http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
-http://189.203.201.146:8080#MX--AS8151 UNINET
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://124.158.167.155:2909#ID--AS9341 North Korea Government
