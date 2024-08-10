@@ -1,43 +1,35 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://134.195.158.44:3128#US--AS399296 Rackdog, LLC
+http://67.43.227.228:8337#MM--AS136210 IT Spectrum Company Limited
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.231.203.234:8080#ID--AS133352 PT. Berdikari Prima Mandiri
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://181.198.53.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.180.198.23:8181#ID--AS149368 PT Bentang Johar Awal
 http://103.161.131.150:8181#ID--AS141613 PT Jaringan Internet Nusantara
-http://103.158.27.88:1212#ID--AS141675 PT Madina Solusi Indonesia
-http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
-http://103.76.109.50:3127#ID--AS151576 PT Mahawira Nusantara Grup
-http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
-http://167.88.166.70:3128#US--AS14956 RouterHosting LLC
+http://103.93.193.141:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://45.190.79.251:999#MX--AS265622 WISTARIP S DE RL DE CV
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://115.244.33.2:3129#IN--AS55836 Reliance Jio Infocomm Limited
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://171.101.216.74:8080#TH--AS17552 True Online
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://181.39.24.157:999#EC--AS27947 Telconet S.A
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://182.253.109.91:8080#ID--AS17451 BIZNET NETWORKS
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
