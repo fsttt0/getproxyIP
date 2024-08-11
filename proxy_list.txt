@@ -1,20 +1,30 @@
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://171.231.28.200:49236#VN--AS7552 Viettel Group
-http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.132.201.250:3128#GB--AS16509 Amazon.com, Inc.
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
 http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://124.158.167.155:2909#ID--AS9341 North Korea Government
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://177.67.86.96:999#BR--AS53013 W I X NET DO BRASIL LTDA - ME
+http://85.209.153.174:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://152.26.229.86:9443#US--AS81 MCNC
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://45.92.156.40:3128#NL--AS202602 365 Online Technology Joint Stock Company
+http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
