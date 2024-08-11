@@ -1,52 +1,40 @@
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://103.172.70.203:8080#ID--AS142386 PT JARINGAN LINTAS ARTHA
+http://154.90.49.196:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://103.145.149.36:8080#ID--AS45325 PT PC24 Telekomunikasi Indonesia
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://168.119.79.176:60118#CA--AS812 Rogers Communications Canada Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
+http://154.90.49.34:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://103.208.102.6:8080#ID--AS134648 PT Tidar Lintas Nusa
+http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://119.47.90.228:3127#ID--AS138089 PT.Global Media Data Prima
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://46.243.71.2:8888#SK--AS39574 Minet Slovakia s.r.o.
+http://200.10.29.129:9991#CO--AS270075 SUPER REDES S.A.S
 http://203.111.253.40:8080#ID--AS151993 PT Wifian Global Nusantara
-http://186.208.244.112:8080#BR--AS262887 RAPIX INTERNET
 http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://157.120.61.160:3128#JP--AS2514 NTT PC Communications, Inc.
+http://112.198.143.104:8082#PH--AS132199 Globe Telecom Inc.
+http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
 http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://14.162.146.186:19132#VN--AS45899 VNPT Corp
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://159.69.80.113:3128#DE--AS24940 Hetzner Online GmbH
+http://45.174.95.221:999#MX--AS28429 Enlace de Datos y Redes SA de CV
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://190.71.60.195:999#CO--AS27831 Colombia Móvil
 http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://46.253.99.71:8080#CZ--AS42306 Edera Group a.s.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://38.183.146.97:8090#ID--AS140457 PT Ikhlas Cipta Teknologi
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://45.184.152.97:999#AR--AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://31.42.7.177:8080#PL--AS49528 MARCIN MALOLEPSZY @ALFANET
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
-http://177.201.19.204:8080#BR--AS8167 V tal
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://119.18.37.201:8888#US--AS62240 Clouvider
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://186.96.174.168:80#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://212.110.188.207:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://59.11.82.215:3128#KR--AS4766 Korea Telecom
-http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://181.204.21.122:999#CO--AS27831 Colombia Móvil
-http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://103.154.86.22:8080#ID--AS131111 PT Mora Telematika Indonesia
+http://101.255.166.142:3128#ID--AS38511 PT Remala Abadi
+http://113.192.30.161:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://45.181.189.213:999#CO--AS269735 KALU DE COLOMBIA SAS
