@@ -1,23 +1,14 @@
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
 http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://190.124.160.147:8080#HN--AS27932 Redes y Telecomunicaciones
 http://18.135.133.116:3128#GB--AS16509 Amazon.com, Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
-http://85.117.63.37:8080#GE--AS20771 Caucasus Online Ltd.
+http://199.168.175.179:80#US--AS33070 Rackspace Hosting
+http://193.105.123.194:8123#AZ--AS209360 Bulud Telecom LLC
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://144.91.120.37:80#DE--AS51167 Contabo GmbH
-http://103.189.197.75:8181#ID--AS149912 PT Graha Sumber Teknologi
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://203.210.85.215:3128#ID--AS55699 PT. Cemerlang Multimedia
+http://103.167.170.210:7777#ID--AS141983 PT Rajeg Media Telekomunikasi
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://103.144.102.230:8085#ID--AS139421 PT Dharma Sarana Solusindo
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
