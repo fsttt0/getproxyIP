@@ -1,34 +1,9 @@
+http://85.209.153.173:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://185.204.0.94:8080#RU--AS204997 FIRST SERVER LIMITED
+http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
+http://120.28.222.2:8081#PH--AS132199 Globe Telecom Inc.
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
 http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
 http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://36.93.214.253:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://85.209.153.174:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://85.209.153.174:4444#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://154.90.49.196:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://168.119.79.176:60118#CA--AS812 Rogers Communications Canada Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://167.172.79.6:9090#SG--AS14061 DigitalOcean, LLC
-http://103.172.42.149:1111#ID--AS142393 PT Media Solusi Sukses
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://185.142.64.90:8080#RU--AS50289 Limited Liability Company WELLCOM-L
-http://103.155.196.40:8080#ID--AS63859 PT. Eka Mas Republik
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://103.121.22.163:3127#ID--AS63859 PT. Eka Mas Republik
-http://103.48.71.18:83#IN--AS136290 Country Online Services PVT LTD
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://157.120.61.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
-http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
