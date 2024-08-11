@@ -1,26 +1,23 @@
-http://67.43.236.21:9743#US--AS5650 Frontier Communications of America, Inc.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://182.253.122.156:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://216.10.247.145:3128#IN--AS394695 PDR
 http://103.171.244.42:8088#ID--AS141674 PT Data Arta Sedaya
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://216.122.181.249:8080#DO--AS273162 PELLEGRINI SKYNET SOLUTIONS SRL
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://103.189.250.67:8080#ID--AS150247 PT Pandawa Lima Java Network
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
 http://84.247.146.104:3128#SG--AS141995 Contabo Asia Private Limited
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://63.239.220.117:8080#US--AS209 CenturyLink Communications, LLC
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://103.183.98.222:7777#ID--AS139428 PT.LEXXA DATA INDONUSA
-http://171.97.9.177:8080#TH--AS17552 True Online
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
-http://65.52.174.95:3128#HK--AS8075 Microsoft Corporation
+http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://103.48.68.218:83#IN--AS136290 Country Online Services PVT LTD
+http://43.250.175.68:38080#JP--AS21859 Zenlayer Inc
