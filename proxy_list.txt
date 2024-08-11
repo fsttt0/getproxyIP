@@ -1,30 +1,29 @@
-http://57.128.193.70:1088#US--AS174 Cogent Communications
-http://57.128.193.70:1148#US--AS174 Cogent Communications
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://118.99.119.119:8080#ID--AS17451 BIZNET NETWORKS
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://190.195.225.34:80#AR--AS7303 Telecom Argentina S.A.
-http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://205.209.108.206:8080#US--AS19318 Interserver, Inc
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://118.172.184.25:8180#TH--AS23969 TOT Public Company Limited
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://175.6.171.225:30000#CN--AS63835 CT-HuNan-Changsha-IDC
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
-http://180.183.248.103:8080#TH--AS45758 Triple T Broadband Public Company Limited
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://57.128.193.70:1088#US--AS174 Cogent Communications
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://57.128.193.70:1148#US--AS174 Cogent Communications
+http://103.144.146.49:8080#ID--AS139428 PT.LEXXA DATA INDONUSA
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://182.23.127.2:8080#ID--AS4800 PT Aplikanusa Lintasarta
+http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://103.156.17.63:8080#ID--AS141077 RSTNET
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
