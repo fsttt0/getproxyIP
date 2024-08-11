@@ -1,47 +1,30 @@
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
+http://57.128.193.70:1088#US--AS174 Cogent Communications
+http://57.128.193.70:1148#US--AS174 Cogent Communications
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://118.99.119.119:8080#ID--AS17451 BIZNET NETWORKS
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://187.204.30.19:8081#MX--AS8151 UNINET
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://92.51.122.174:8080#GE--AS44327 DELTA COMM LLC
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.195.225.34:80#AR--AS7303 Telecom Argentina S.A.
 http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://187.109.22.46:8080#BR--AS53112 SULNET TELECOM
-http://157.20.218.31:8080#ID--AS152423 PT Sindoro Sumbing Network Solution
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.170.131.42:8080#TH--AS138524 Triple T Broadband Public Company Limited
-http://160.248.185.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://118.172.184.25:8180#TH--AS23969 TOT Public Company Limited
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
 http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
 http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
 http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
-http://192.140.93.6:3128#EC--AS265711 KOLVECH S.A. (TELECOMVAS)
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
-http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://180.183.248.103:8080#TH--AS45758 Triple T Broadband Public Company Limited
