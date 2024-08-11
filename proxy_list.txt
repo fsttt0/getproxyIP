@@ -1,9 +1,27 @@
-http://85.209.153.173:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://185.204.0.94:8080#RU--AS204997 FIRST SERVER LIMITED
-http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
-http://120.28.222.2:8081#PH--AS132199 Globe Telecom Inc.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://165.16.67.238:8080#LY--AS37284 Aljeel Aljadeed For Technology
 http://205.209.108.206:8080#US--AS19318 Interserver, Inc
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://24.199.84.240:3128#US--AS14061 DigitalOcean, LLC
+http://64.23.232.139:3128#US--AS14061 DigitalOcean, LLC
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://157.230.188.193:3128#US--AS14061 DigitalOcean, LLC
+http://159.223.34.114:3128#SG--AS14061 DigitalOcean, LLC
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://152.42.224.138:3128#SG--AS14061 DigitalOcean, LLC
+http://128.199.136.56:3128#SG--AS14061 DigitalOcean, LLC
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://64.23.176.37:3128#US--AS14061 DigitalOcean, LLC
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://154.73.111.133:1981#LY--AS37284 Aljeel Aljadeed For Technology
+http://85.209.153.173:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
