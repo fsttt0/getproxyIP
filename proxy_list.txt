@@ -1,47 +1,34 @@
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
 http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
 http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
 http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://58.215.177.24:3128#CN--AS138950 Jiangsu Wuxi International IDC network
-http://187.204.30.19:8081#MX--AS8151 UNINET
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://103.20.16.141:3128#ID--AS149963 PT Layanan Internet Sakti
-http://85.209.153.173:4145#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://200.24.159.158:999#EC--AS52468 UFINET PANAMA S.A.
-http://116.254.99.14:8080#ID--AS45700 PT. NAP Info Lintas Nusa
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://27.112.70.42:8083#ID--AS46063 PT.Graha Telekomunikasi Indonesia
+http://36.93.163.219:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://20.169.241.90:3128#US--AS8075 Microsoft Corporation
 http://157.120.61.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://161.97.131.23:8899#DE--AS51167 Contabo GmbH
+http://185.87.49.14:3128#RU--AS209641 I-SERVERS LTD
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://216.10.247.145:3128#IN--AS394695 PDR
-http://45.95.232.128:3128#CH--AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
 http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://115.244.33.2:3129#IN--AS55836 Reliance Jio Infocomm Limited
 http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://85.209.153.173:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://85.209.153.175:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://200.125.170.106:999#DO--AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://85.209.153.174:4153#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
+http://103.162.54.251:8080#ID--AS141645 PT Pratama Asia Globalindo
 http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://20.169.241.103:3128#US--AS8075 Microsoft Corporation
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://38.183.209.49:8080#ID--AS139972 PT. Putra Lebak Banten
-http://85.209.153.175:8888#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://222.122.110.26:80#KR--AS4766 Korea Telecom
-http://85.209.153.173:80#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://114.5.199.222:80#ID--AS4761 INDOSAT Internet Network Provider
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
