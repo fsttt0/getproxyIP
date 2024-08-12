@@ -1,21 +1,29 @@
-http://115.127.39.18:58080#BD--AS24342 BRACNet Limited
-http://103.190.230.42:8080#ID--AS149921 PT Mandiri Global Data
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://180.211.177.206:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
+http://3.108.115.48:1080#IN--AS16509 Amazon.com, Inc.
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://103.75.85.115:1111#ID--AS136873 MEGADATA-ISP
+http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://203.190.44.252:8090#ID--AS45317 Jaringan Lintas Utara, PT
 http://156.225.70.152:39151#US--AS23470 ReliableSite.Net LLC
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://136.60.0.212:80#US--AS16591 Google Fiber Inc.
-http://119.18.146.114:5020#BD--AS45326 Broad Band Telecom Services Ltd
+http://159.65.221.55:3128#US--AS14061 DigitalOcean, LLC
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://84.247.146.104:3128#SG--AS141995 Contabo Asia Private Limited
+http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://190.8.47.122:999#DO--AS269965 LIGHTWAVE S.R.L
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://202.138.240.9:1212#ID--AS9657 Melsa-i-net AS
+http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
 http://119.18.37.201:8888#US--AS62240 Clouvider
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://186.113.232.105:8080#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://13.112.9.71:3128#JP--AS16509 Amazon.com, Inc.
+http://160.248.3.55:3128#JP--AS2514 NTT PC Communications, Inc.
 http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
-http://185.142.64.90:8080#RU--AS50289 Limited Liability Company WELLCOM-L
-http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
