@@ -1,28 +1,27 @@
+http://103.147.118.237:8080#ID--AS139962 PT.Bestcamp Prima Data
+http://103.231.173.114:3128#HK--AS45753 Netsec Limited
+http://103.12.77.162:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://103.35.108.190:5020#BD--AS23991 Ranks ITT Ltd.
+http://190.128.248.134:999#PY--AS23201 Telecel S.A.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://38.51.243.137:9991#CO--AS272869 INTERCOMM DE NARIÑO SAS
+http://91.243.194.0:3128#UA--AS15377 TRADITIONAL LLC
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://180.191.23.221:8081#PH--AS9299 Philippine Long Distance Telephone Company
-http://103.190.230.42:8080#ID--AS149921 PT Mandiri Global Data
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://103.38.183.63:80#IN--AS140171 Reis Network Solutions
-http://103.180.196.141:8080#ID--AS149369 PT Dekadata Lingkar Nusantara
-http://91.136.142.153:8080#DE--AS41585 ELEMENTMEDIA GmbH
-http://202.191.125.147:8080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
-http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://159.69.80.113:3128#DE--AS24940 Hetzner Online GmbH
-http://156.225.70.152:39151#US--AS23470 ReliableSite.Net LLC
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://36.93.130.218:66#ID--AS7713 PT Telekomunikasi Indonesia
-http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.162.62.92:8080#ID--AS141642 PT Ring Media Nusantara
+http://38.41.5.85:999#VE--AS269832 MDS TELECOM C.A.
