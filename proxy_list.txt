@@ -1,19 +1,16 @@
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://101.255.151.70:3125#ID--AS38511 PT Remala Abadi
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://115.72.43.231:10001#VN--AS7552 Viettel Group
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://161.34.35.168:3128#JP--AS2514 NTT PC Communications, Inc.
-http://61.74.61.57:3128#KR--AS4766 Korea Telecom
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://200.10.28.89:8083#CO--AS270075 SUPER REDES S.A.S
-http://119.18.37.201:8888#US--AS62240 Clouvider
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
