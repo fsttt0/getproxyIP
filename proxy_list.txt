@@ -1,27 +1,40 @@
-http://102.0.12.224:8080#KE--AS36926 Airtel Networks Kenya Limited
+http://222.127.139.2:80#PH--AS4775 Globe Telecoms
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://223.25.110.206:1080#ID--AS136873 MEGADATA-ISP
+http://101.255.118.89:8080#ID--AS38511 PT Remala Abadi
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.162.62.92:8080#ID--AS141642 PT Ring Media Nusantara
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://20.169.241.111:3128#US--AS8075 Microsoft Corporation
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://185.80.128.201:3128#LT--AS61053 UAB ESNET
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://190.8.47.122:999#DO--AS269965 LIGHTWAVE S.R.L
+http://59.6.28.174:3128#KR--AS4766 Korea Telecom
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://119.18.37.201:8888#US--AS60068 Datacamp Limited
+http://160.248.3.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
-http://103.169.131.18:8080#ID--AS142340 PT Lancar Artha Media Data
 http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://103.174.18.11:8080#ID--AS131111 PT Mora Telematika Indonesia
+http://8.212.18.158:808#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://216.10.247.145:3128#IN--AS394695 PDR
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://67.43.227.227:5065#PH--AS9299 Philippine Long Distance Telephone Company
+http://154.90.49.240:9090#ID--AS138915 Kaopu Cloud HK Limited
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://171.243.154.52:10000#VN--AS7552 Viettel Group
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
-http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://103.144.102.230:8085#ID--AS139421 PT Dharma Sarana Solusindo
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
-http://103.189.197.83:8181#ID--AS149912 PT Graha Sumber Teknologi
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://203.190.46.159:3127#ID--AS45317 Jaringan Lintas Utara, PT
-http://103.35.109.205:58080#BD--AS23991 Ranks ITT Ltd.
-http://124.6.168.26:80#PH--AS132199 Globe Telecom Inc.
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
