@@ -1,3 +1,7 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://149.11.58.226:3128#FR--AS174 Cogent Communications
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
@@ -5,32 +9,20 @@ http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporatio
 http://35.154.71.72:1080#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
 http://35.154.78.253:1080#IN--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://72.128.133.154:16099#US--AS11427 Charter Communications Inc
-http://103.182.213.65:8080#BD--AS141737 Rapid Network
-http://177.37.114.5:3128#BR--AS262808 Brasilnet Telecomunicações Ltda ME
+http://180.191.23.221:8081#PH--AS9299 Philippine Long Distance Telephone Company
+http://103.190.230.42:8080#ID--AS149921 PT Mandiri Global Data
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://103.38.183.63:80#IN--AS140171 Reis Network Solutions
+http://103.180.196.141:8080#ID--AS149369 PT Dekadata Lingkar Nusantara
 http://91.136.142.153:8080#DE--AS41585 ELEMENTMEDIA GmbH
+http://202.191.125.147:8080#BD--AS24556 Bijoy Online Ltd. Multihome Internet Service Provider
+http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
 http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
-http://61.247.185.50:8080#BD--AS38031 OptiMax Communication Ltd.
-http://177.75.1.33:8080#BR--AS28178 Networld Provedor e Servicos de Internet Ltda
-http://114.130.86.145:5443#BD--AS132608 Mango Teleservices Limited (ISP)
-http://66.70.235.23:5454#CA--AS16276 OVH SAS
-http://103.159.194.121:8080#ID--AS141145 PT Giga Digital Nusantara
-http://103.189.250.67:8080#ID--AS150247 PT Pandawa Lima Java Network
-http://138.117.85.141:8080#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://36.66.242.117:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://103.111.136.110:443#ID--AS136093 PT Mitra Lintas Multimedia
-http://146.196.41.141:8080#ID--AS132652 PT. Cahaya Buana Raksa
-http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://159.69.80.113:3128#DE--AS24940 Hetzner Online GmbH
+http://156.225.70.152:39151#US--AS23470 ReliableSite.Net LLC
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://36.93.130.218:66#ID--AS7713 PT Telekomunikasi Indonesia
+http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.162.62.92:8080#ID--AS141642 PT Ring Media Nusantara
