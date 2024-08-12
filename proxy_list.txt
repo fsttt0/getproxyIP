@@ -1,34 +1,35 @@
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://13.126.184.76:1080#IN--AS16509 Amazon.com, Inc.
+http://103.231.173.114:3128#HK--AS45753 Netsec Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
+http://61.74.61.57:3128#KR--AS4766 Korea Telecom
+http://52.35.240.119:1080#US--AS16509 Amazon.com, Inc.
+http://18.169.83.87:1080#GB--AS16509 Amazon.com, Inc.
+http://77.243.81.20:3128#KZ--AS48716 PS Internet Company LLP
+http://78.46.126.141:3128#DE--AS24940 Hetzner Online GmbH
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://45.190.184.137:999#HN--AS52468 UFINET PANAMA S.A.
+http://103.69.20.56:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://172.104.39.91:80#SG--AS63949 Akamai Connected Cloud
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
+http://103.247.23.33:1111#ID--AS58485 WIFIAN ID
+http://38.183.146.97:8090#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
+http://222.108.214.141:8080#KR--AS4766 Korea Telecom
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.20:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://164.163.42.25:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.9:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
-http://195.87.136.2:5331#TR--AS15924 Vodafone Net Iletisim Hizmetler AS
-http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://58.215.177.24:3128#CN--AS138950 Jiangsu Wuxi International IDC network
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.20.16.141:3128#ID--AS149963 PT Layanan Internet Sakti
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://27.112.70.42:8083#ID--AS46063 PT.Graha Telekomunikasi Indonesia
-http://36.93.163.219:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://20.169.241.90:3128#US--AS8075 Microsoft Corporation
-http://157.120.61.160:3128#JP--AS2514 NTT PC Communications, Inc.
-http://185.87.49.14:3128#RU--AS209641 I-SERVERS LTD
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://85.209.153.173:999#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://103.162.54.251:8080#ID--AS141645 PT Pratama Asia Globalindo
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
