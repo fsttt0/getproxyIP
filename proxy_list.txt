@@ -1,42 +1,29 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://181.224.224.225:999#PE--AS267749 INVERSIONES TELCOTEL SAC
+http://103.67.78.186:8800#ID--AS136052 PT Cloud Hosting Indonesia
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://114.130.154.130:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.252.29.28:11222#NL--AS60781 LeaseWeb Netherlands B.V.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://103.247.22.233:3127#ID--AS58485 WIFIAN ID
-http://101.255.134.100:8080#ID--AS38511 PT Remala Abadi
-http://103.122.1.74:8181#ID--AS135477 PT. Java Digital Nusantara
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://210.79.146.222:8085#ID--AS152045 PT Petabyte Network Indonesia
-http://103.147.118.237:8080#ID--AS139962 PT.Bestcamp Prima Data
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
-http://185.142.64.90:8080#RU--AS50289 Limited Liability Company WELLCOM-L
+http://103.177.107.117:8008#ID--AS141674 PT Data Arta Sedaya
+http://103.7.26.142:8080#KH--AS38566 NTTCTNET
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://88.255.102.40:8080#TR--AS207474 Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://103.172.42.177:1111#ID--AS142393 PT Media Solusi Sukses
-http://112.201.187.211:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://187.102.236.209:999#MX--AS270114 SERVICIOS DE INFRAESTRUCTURA DE RADIOCOMUNICACION Y REDES PRIVADAS DE DATOS HYPERNET, SC DE RL DE CV
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://45.187.105.197:8080#BR--AS269494 GPR NET COMUNICACOES EIRELI
-http://103.57.80.28:58080#IN--None
 http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://132.255.50.126:3128#BR--AS264452 R & B Serviços de Telecomunicações Ltda.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://103.76.108.74:3127#ID--AS151576 PT Mahawira Nusantara Grup
-http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://103.35.109.205:58080#BD--AS23991 Ranks ITT Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://94.68.245.147:8080#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
+http://47.51.30.226:3128#US--AS20115 Charter Communications
+http://200.94.102.12:3128#MX--AS11172 Alestra, S. de R.L. de C.V.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://201.77.48.147:8080#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
+http://103.230.49.132:8080#ID--AS140031 PT Mandala Lintas Nusa
+http://103.134.246.32:8080#ID--AS131773 PT WISUANDHA NETWORK GLOBALINDO
