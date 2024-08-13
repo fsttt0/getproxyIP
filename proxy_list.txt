@@ -1,13 +1,20 @@
-http://72.10.164.178:21029#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://15.235.171.213:8888#SG--AS16276 OVH SAS
+http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://65.20.189.104:9090#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://103.250.130.149:8181#ID--AS151555 PT Jawara Lintas Data Nusantara
+http://187.190.127.212:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://103.69.20.100:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://119.148.54.78:1419#BD--AS23923 Agni Systems Limited
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://187.141.125.210:8080#MX--AS8151 UNINET
+http://200.119.218.94:999#BO--AS25620 COTAS LTDA.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://5.45.93.252:4000#RU--AS16345 PJSC "Vimpelcom"
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://121.101.134.214:1111#ID--AS131706 PT SELARAS CITRA TERABIT
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
