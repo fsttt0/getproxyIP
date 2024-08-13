@@ -1,30 +1,13 @@
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://199.168.175.179:80#US--AS33070 Rackspace Hosting
-http://170.82.30.91:8080#BR--AS266441 LWNET COMERCIO E SERVICOS DE COMUNICACOES LTDA
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://185.153.92.229:8079#RU--AS211506 Slavcom Ltd.
-http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
-http://222.127.55.214:5050#PH--AS132199 Globe Telecom Inc.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://160.248.3.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://177.242.132.2:999#MX--AS13999 Mega Cable, S.A. de C.V.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://72.10.164.178:21029#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://5.45.93.252:4000#RU--AS16345 PJSC "Vimpelcom"
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
+http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://121.101.134.214:1111#ID--AS131706 PT SELARAS CITRA TERABIT
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
