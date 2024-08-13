@@ -1,31 +1,29 @@
-http://103.168.254.162:8086#ID--AS142326 PT Fahasa Tri Data
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://103.191.250.162:8083#ID--AS149940 PT Mulia Batam Net
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://101.255.134.100:8080#ID--AS38511 PT Remala Abadi
+http://154.70.134.151:6969#ZA--AS328471 HERO TELECOMS (PTY) LTD
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://185.142.64.90:8080#RU--AS50289 Limited Liability Company WELLCOM-L
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
-http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://103.169.186.151:3125#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
-http://103.191.165.4:7777#ID--AS149925 PT Sakti Wijaya Network
-http://112.201.187.211:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://190.94.212.82:999#VE--AS8053 IFX Networks Venezuela C.A.
 http://216.10.247.145:3128#IN--AS394695 PDR
-http://39.62.2.54:3127#PK--AS136969 KK Networks (Pvt) Ltd.
-http://45.187.105.197:8080#BR--AS269494 GPR NET COMUNICACOES EIRELI
-http://210.87.89.229:8080#ID--AS63859 PT. Eka Mas Republik
-http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
-http://132.255.50.126:3128#BR--AS264452 R & B Serviços de Telecomunicações Ltda.
+http://103.170.131.42:8080#TH--AS138524 Triple T Broadband Public Company Limited
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.137.111.169:8080#ID--AS63859 PT. Eka Mas Republik
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://139.28.232.216:8899#US--AS133619 DESIVPS
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://119.18.37.201:8888#US--AS212238 Datacamp Limited
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
