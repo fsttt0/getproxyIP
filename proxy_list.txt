@@ -1,23 +1,30 @@
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://199.168.175.179:80#US--AS33070 Rackspace Hosting
+http://170.82.30.91:8080#BR--AS266441 LWNET COMERCIO E SERVICOS DE COMUNICACOES LTDA
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://185.153.92.229:8079#RU--AS211506 Slavcom Ltd.
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://222.127.55.214:5050#PH--AS132199 Globe Telecom Inc.
+http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://160.248.3.55:3128#JP--AS2514 NTT PC Communications, Inc.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://177.242.132.2:999#MX--AS13999 Mega Cable, S.A. de C.V.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://158.140.169.9:8081#ID--AS63859 PT. Eka Mas Republik
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://41.216.186.146:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://134.35.17.130:8080#YE--AS30873 Public Telecommunication Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.218.24.67:58080#BD--AS63526 Systems Solutions & development Technologies Limited
-http://103.145.34.162:8081#ID--AS139449 PT Lintas Data Multimedia
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
-http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
