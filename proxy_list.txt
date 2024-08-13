@@ -1,23 +1,8 @@
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://152.26.229.86:9443#US--AS81 MCNC
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://18.132.201.250:3128#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://103.134.220.128:1111#ID--AS138810 PT Global Media Pratama Solusindo
-http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://95.154.20.113:34248#DK--AS39642 Norlys Digital A/S
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://119.18.37.201:8888#US--AS212238 Datacamp Limited
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
