@@ -1,27 +1,29 @@
+http://103.188.252.160:8080#ID--AS149737 PT Data Lintas Media Indonesia
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
+http://65.20.188.53:9090#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
+http://103.12.76.115:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://103.127.220.251:8080#ID--AS150259 PT Multi Guna Sinergi
+http://38.56.118.53:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
 http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.220.206.138:59417#BD--AS59362 KS Network Limited
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://57.128.193.70:1148#US--AS212238 Datacamp Limited
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
 http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://177.37.114.5:3128#BR--AS262808 Brasilnet Telecomunicações Ltda ME
 http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://103.189.250.69:8080#ID--AS150247 PT Pandawa Lima Java Network
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://188.132.222.247:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://88.255.102.40:8080#TR--AS207474 Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi
-http://103.53.170.199:3128#VN--AS135942 Adsota Corporation
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://103.170.131.42:8080#TH--AS138524 Triple T Broadband Public Company Limited
