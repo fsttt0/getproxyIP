@@ -1,29 +1,11 @@
-http://103.188.252.160:8080#ID--AS149737 PT Data Lintas Media Indonesia
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.153.142.18:8080#IN--AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED
 http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://3.9.71.167:1080#GB--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://78.111.85.50:3128#NL--AS208951 ITGLOBAL.COM NL B.V.
-http://65.20.188.53:9090#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
-http://103.12.76.115:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://38.64.60.254:999#US--AS265627 NIDIX NETWORKS S.A. DE C.V.
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://45.230.169.6:999#VE--AS266742 SOLUCIONES DCN NETWORK C.A
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://103.127.220.251:8080#ID--AS150259 PT Multi Guna Sinergi
-http://38.56.118.53:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://57.128.193.70:1148#US--AS212238 Datacamp Limited
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://177.37.114.5:3128#BR--AS262808 Brasilnet Telecomunicações Ltda ME
-http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
-http://103.189.250.69:8080#ID--AS150247 PT Pandawa Lima Java Network
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
