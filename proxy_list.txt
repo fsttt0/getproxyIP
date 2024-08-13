@@ -1,32 +1,17 @@
-http://20.169.241.173:3128#US--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
+http://103.35.109.205:58080#BD--AS23991 Ranks ITT Ltd.
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://103.48.68.67:83#IN--AS136290 Country Online Services PVT LTD
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://119.18.37.201:8888#US--AS60068 Datacamp Limited
+http://119.18.37.201:8888#US--AS62240 Clouvider
 http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://143.0.243.80:8080#BR--AS271217 Nova Info Internet e Telecomunicações LTDA
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://103.153.62.155:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://27.54.150.122:8080#BD--AS133854 X-press Technologies Limited.
-http://103.174.236.43:3127#ID--AS147106 PT Global Erasiber Teknologi
-http://103.209.38.132:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
