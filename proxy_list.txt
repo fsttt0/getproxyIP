@@ -1,20 +1,17 @@
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.173.138.252:8080#ID--AS147078 PT Serayu Multi Connection
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
-http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
-http://15.235.171.213:8888#SG--AS16276 OVH SAS
-http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://65.20.189.104:9090#IQ--AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://103.250.130.149:8181#ID--AS151555 PT Jawara Lintas Data Nusantara
-http://187.190.127.212:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://103.69.20.100:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://119.148.54.78:1419#BD--AS23923 Agni Systems Limited
+http://94.198.221.4:3128#KZ--AS9123 TimeWeb Ltd.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://157.100.9.237:999#EC--AS27947 Telconet S.A
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://187.141.125.210:8080#MX--AS8151 UNINET
-http://200.119.218.94:999#BO--AS25620 COTAS LTDA.
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
