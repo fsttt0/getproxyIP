@@ -1,24 +1,23 @@
-http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://160.248.3.55:3128#JP--AS2514 NTT PC Communications, Inc.
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
-http://101.128.92.243:7777#ID--AS135478 PT. Cyberindo Aditama
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://103.172.120.219:7777#ID--AS142398 PT Digital Akses Nusantara
-http://200.24.159.155:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.231.173.114:3128#HK--AS45753 Netsec Limited
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
-http://139.28.232.216:8899#US--AS133619 DESIVPS
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://114.130.154.118:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://18.132.201.250:3128#GB--AS16509 Amazon.com, Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://103.134.220.128:1111#ID--AS138810 PT Global Media Pratama Solusindo
+http://36.88.123.218:41890#ID--AS7713 PT Telekomunikasi Indonesia
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://95.154.20.113:34248#DK--AS39642 Norlys Digital A/S
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://212.110.188.204:34411#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://119.18.37.201:8888#US--AS212238 Datacamp Limited
+http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
