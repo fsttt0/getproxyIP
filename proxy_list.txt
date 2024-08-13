@@ -1,18 +1,23 @@
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://103.70.123.6:8085#ID--AS150980 PT Menara Digital Salama
+http://34.64.138.103:3128#KR--AS396982 Google LLC
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://103.209.38.132:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://119.18.37.201:8888#US--AS212238 Datacamp Limited
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://190.61.80.98:999#HN--AS52468 UFINET PANAMA S.A.
+http://20.84.219.130:3128#US--AS8075 Microsoft Corporation
+http://91.243.194.0:3128#UA--AS15377 TRADITIONAL LLC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://13.83.94.137:3128#US--AS8075 Microsoft Corporation
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://3.9.71.167:3128#GB--AS16509 Amazon.com, Inc.
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://58.69.117.149:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://158.140.169.9:8081#ID--AS63859 PT. Eka Mas Republik
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
