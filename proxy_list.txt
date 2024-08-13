@@ -1,23 +1,31 @@
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://154.90.48.212:9090#ID--AS138915 Kaopu Cloud HK Limited
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://103.168.254.162:8086#ID--AS142326 PT Fahasa Tri Data
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://13.40.239.130:1080#GB--AS16509 Amazon.com, Inc.
+http://18.135.211.182:3128#GB--AS16509 Amazon.com, Inc.
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
+http://36.95.194.52:22#ID--AS7713 PT Telekomunikasi Indonesia
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://103.169.186.151:3125#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
+http://103.191.165.4:7777#ID--AS149925 PT Sakti Wijaya Network
+http://112.201.187.211:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://190.94.212.82:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://39.62.2.54:3127#PK--AS136969 KK Networks (Pvt) Ltd.
+http://45.187.105.197:8080#BR--AS269494 GPR NET COMUNICACOES EIRELI
+http://210.87.89.229:8080#ID--AS63859 PT. Eka Mas Republik
+http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://132.255.50.126:3128#BR--AS264452 R & B Serviços de Telecomunicações Ltda.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.137.111.169:8080#ID--AS63859 PT. Eka Mas Republik
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.63.26.226:1111#ID--AS138089 PT.Global Media Data Prima
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://103.70.123.6:8085#ID--AS150980 PT Menara Digital Salama
-http://34.64.138.103:3128#KR--AS396982 Google LLC
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://103.209.38.132:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
-http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
 http://119.18.37.201:8888#US--AS212238 Datacamp Limited
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://190.61.80.98:999#HN--AS52468 UFINET PANAMA S.A.
-http://20.84.219.130:3128#US--AS8075 Microsoft Corporation
-http://91.243.194.0:3128#UA--AS15377 TRADITIONAL LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
