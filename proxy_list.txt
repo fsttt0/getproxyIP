@@ -1,15 +1,14 @@
-http://203.190.46.17:8080#ID--AS45317 Jaringan Lintas Utara, PT
-http://190.94.198.17:999#VE--AS8053 IFX Networks Venezuela C.A.
-http://5.45.93.252:4456#RU--AS16345 PJSC "Vimpelcom"
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://103.148.130.50:8080#ID--AS141127 PT Anugerah Cimanuk Raya
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://72.10.164.178:30513#PK--AS45669 PMCL /LDI IP TRANSIT
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://38.156.236.162:999#DO--AS272882 BITNET DOMINICANA, S.R.L.
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.88.85.102:3389#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
+http://61.74.61.57:3128#KR--AS4766 Korea Telecom
+http://188.132.221.21:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://78.130.246.65:1881#BG--AS9070 Cooolbox AD
+http://41.193.81.7:80#ZA--AS11845 Vox Telecom Ltd
