@@ -1,14 +1,16 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.85.102:3389#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://120.28.76.192:8082#PH--AS132199 Globe Telecom Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.252.29.28:11222#UA--AS15596 IP Port LLC
 http://61.74.61.57:3128#KR--AS4766 Korea Telecom
-http://188.132.221.21:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://78.130.246.65:1881#BG--AS9070 Cooolbox AD
-http://41.193.81.7:80#ZA--AS11845 Vox Telecom Ltd
+http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
+http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
+http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
