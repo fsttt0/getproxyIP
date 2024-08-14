@@ -1,25 +1,45 @@
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
+http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.76.151.114:8080#ID--AS135477 PT. Java Digital Nusantara
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://146.190.177.173:3128#DE--AS14061 DigitalOcean, LLC
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://43.154.128.33:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://180.149.221.251:8080#PK--AS136030 Redtone Telecommunications Pakistan (Private) Limited
+http://59.98.151.237:8080#IN--AS9829 National Internet Backbone
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.48.68.218:83#IN--AS136290 Country Online Services PVT LTD
 http://41.65.251.49:1981#EG--AS36992 ETISALAT MISR
-http://175.100.91.212:8080#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-http://103.247.23.198:8080#ID--AS58485 WIFIAN ID
-http://103.173.231.18:3127#ID--AS147087 PT Jaringan Internet Banten
+http://157.15.63.230:8090#ID--AS152373 PT Anugerah Media Data Nusantara
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://103.165.156.148:8090#ID--AS136873 MEGADATA-ISP
+http://201.184.107.26:999#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
+http://189.240.60.164:9090#MX--AS8151 UNINET
 http://216.122.181.249:8080#DO--AS273162 PELLEGRINI SKYNET SOLUTIONS SRL
 http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://103.165.156.171:8090#ID--AS136873 MEGADATA-ISP
 http://161.34.0.253:3128#JP--AS2514 NTT PC Communications, Inc.
+http://177.242.132.2:999#MX--AS13999 Mega Cable, S.A. de C.V.
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://217.100.239.117:8090#NL--AS33915 Vodafone Libertel B.V.
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://46.243.71.2:8888#SK--AS39574 Minet Slovakia s.r.o.
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://103.161.131.150:8181#ID--AS141613 PT Jaringan Internet Nusantara
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://74.48.129.170:8443#US--AS35916 MULTACOM CORPORATION
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://103.132.52.59:8080#ID--AS138123 PT. ADEAKSA INDO JAYATAMA
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://124.6.168.26:80#PH--AS132199 Globe Telecom Inc.
-http://103.41.34.185:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://103.76.108.74:3127#ID--AS151576 PT Mahawira Nusantara Grup
-http://171.97.16.245:8080#TH--AS17552 True Online
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://72.10.160.170:31319#US--AS7922 Comcast Cable Communications, LLC
