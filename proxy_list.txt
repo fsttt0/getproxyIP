@@ -1,24 +1,42 @@
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://45.81.235.16:3128#DE--AS44486 Oliver Horscht is trading as "SYNLINQ"
+http://201.149.100.32:8085#BR--AS61872 CRZNET TELECOM LTDA
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://94.43.164.242:8080#GE--AS35805 JSC "Silknet"
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://114.130.154.118:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
+http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://103.169.187.158:8787#ID--AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://103.237.248.3:3128#CN--AS4808 China Unicom Beijing Province Network
 http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://103.166.159.163:8080#ID--AS141955 PT Timor Lintas Nusantara
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://103.191.165.109:8081#ID--AS149925 PT Sakti Wijaya Network
+http://190.124.160.147:8080#HN--AS27932 Redes y Telecomunicaciones
+http://200.118.152.126:3128#CO--AS10620 Telmex Colombia S.A.
+http://209.14.113.2:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
+http://103.30.115.154:8080#ID--AS58731 Telekomunikasi Indonesia International (T.L.) S.A.
+http://103.250.130.106:8085#ID--AS151555 PT Jawara Lintas Data Nusantara
 http://103.172.42.187:1111#ID--AS142393 PT Media Solusi Sukses
+http://45.201.136.117:9812#KH--AS131178 EZECOM CO., LTD.
+http://36.93.163.219:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.172.120.219:7777#ID--AS142398 PT Digital Akses Nusantara
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://202.74.244.139:5020#BD--AS24323 aamra networks limited,
+http://38.242.141.110:8008#DE--AS51167 Contabo GmbH
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
 http://61.74.61.57:3128#KR--AS4766 Korea Telecom
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.134.246.32:8080#ID--AS131773 PT WISUANDHA NETWORK GLOBALINDO
-http://36.64.4.127:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://157.20.144.138:8181#ID--AS150279 PT Lintas Network Solusi
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
