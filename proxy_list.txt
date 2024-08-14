@@ -1,20 +1,15 @@
+http://203.190.46.17:8080#ID--AS45317 Jaringan Lintas Utara, PT
+http://190.94.198.17:999#VE--AS8053 IFX Networks Venezuela C.A.
+http://5.45.93.252:4456#RU--AS16345 PJSC "Vimpelcom"
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://103.177.177.249:8080#ID--AS141898 PT Milenial Inti Telekomunikasi
-http://101.109.176.57:8080#TH--AS23969 TOT Public Company Limited
+http://103.148.130.50:8080#ID--AS141127 PT Anugerah Cimanuk Raya
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://72.10.164.178:30513#PK--AS45669 PMCL /LDI IP TRANSIT
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://38.156.236.162:999#DO--AS272882 BITNET DOMINICANA, S.R.L.
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
 http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://102.0.12.234:8080#KE--AS36926 Airtel Networks Kenya Limited
-http://161.34.0.253:3128#JP--AS2514 NTT PC Communications, Inc.
-http://81.215.229.55:1453#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://38.56.118.53:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
-http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://35.185.196.38:3128#US--AS396982 Google LLC
