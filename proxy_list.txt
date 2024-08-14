@@ -1,19 +1,36 @@
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.87.169.146:32650#IN--AS55507 Tejays Dynamic Limited
-http://187.157.243.254:8080#MX--AS8151 UNINET
-http://174.138.184.82:32897#CA--AS207990 HostRoyale Technologies Pvt Ltd
-http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
-http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
-http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
+http://188.161.150.35:8080#PS--AS12975 Palestine Telecommunications Company (PALTEL)
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://157.230.89.122:18085#US--AS205016 HERN Labs AB
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://103.159.169.210:1111#IN--AS132964 Fibernet Solutions (OPC) Pvt. Ltd.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://216.10.247.145:3128#IN--AS394695 PDR
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://119.47.90.230:1111#ID--AS138089 PT.Global Media Data Prima
-http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
-http://61.74.61.57:3128#KR--AS4766 Korea Telecom
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://101.255.209.242:8080#ID--AS38511 PT Remala Abadi
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.236.107.160:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://187.141.125.210:8080#MX--AS8151 UNINET
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.252.29.28:11222#US--AS209372 SIA "Singularity Telecom"
+http://209.121.164.50:31147#CA--AS852 TELUS Communications Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://194.5.25.34:443#SG--AS3758 SingNet
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
+http://66.211.155.34:8080#US--AS10367 Fibercast Corporation
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
