@@ -1,16 +1,19 @@
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://103.48.70.209:83#IN--AS136290 Country Online Services PVT LTD
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://161.34.35.226:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://61.74.61.57:3128#KR--AS4766 Korea Telecom
-http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://108.181.56.101:3128#US--AS40676 Psychz Networks
-http://103.161.131.150:8181#ID--AS141613 PT Jaringan Internet Nusantara
+http://67.43.236.21:32251#PH--AS132199 Globe Telecom Inc.
+http://103.106.195.177:8080#IN--AS134319 Elyzium Technologies Pvt. Ltd.
+http://177.55.247.174:8080#BR--AS262532 NET ONDA SERVICOS DE INTERNET LTDA
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://103.28.114.158:8080#ID--AS45305 Lintas Data Prima, PT
+http://103.81.221.168:8080#ID--AS55699 PT. Cemerlang Multimedia
+http://198.52.243.9:7777#PR--AS401013 BNET
+http://103.122.1.130:3127#ID--AS135477 PT. Java Digital Nusantara
+http://103.122.1.74:8181#ID--AS135477 PT. Java Digital Nusantara
+http://20.169.241.56:3128#US--AS8075 Microsoft Corporation
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://171.239.232.48:10001#VN--AS24086 Viettel Corporation
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
