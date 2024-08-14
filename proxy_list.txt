@@ -1,16 +1,19 @@
-http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://120.28.76.192:8082#PH--AS132199 Globe Telecom Inc.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.87.169.146:32650#IN--AS55507 Tejays Dynamic Limited
+http://187.157.243.254:8080#MX--AS8151 UNINET
+http://174.138.184.82:32897#CA--AS207990 HostRoyale Technologies Pvt Ltd
+http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://183.242.69.113:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
+http://103.159.169.210:1111#IN--AS132964 Fibernet Solutions (OPC) Pvt. Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://119.47.90.230:1111#ID--AS138089 PT.Global Media Data Prima
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
 http://61.74.61.57:3128#KR--AS4766 Korea Telecom
-http://45.171.108.253:999#EC--AS267778 LAGONET-TV CIA. LTDA.
-http://103.126.86.17:3127#ID--AS138109 PT. Rasi Bintang Perkasa
-http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
