@@ -1,10 +1,10 @@
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://194.5.25.34:443#SG--AS3758 SingNet
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://47.252.29.28:11222#UA--AS15596 IP Port LLC
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://94.68.245.147:8080#GR--AS6799 Ote SA (Hellenic Telecommunications Organisation)
+http://102.221.40.114:8080#ZA--AS5713 Telkom SA Ltd.
+http://103.158.27.88:1212#ID--AS141675 PT Madina Solusi Indonesia
+http://113.192.30.185:8080#ID--AS149360 PT Indo Telemedia Solusi
