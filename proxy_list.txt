@@ -1,28 +1,33 @@
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://37.235.53.208:3256#ES--AS39020 Comvive Servidores S.L.
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://194.5.25.34:443#SG--AS3758 SingNet
+http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
+http://103.175.237.222:8080#ID--AS147121 PT Marva Global Telekomunikasi
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://103.30.115.154:8080#ID--AS58731 Telekomunikasi Indonesia International (T.L.) S.A.
-http://38.41.5.107:999#VE--AS269832 MDS TELECOM C.A.
+http://181.78.13.68:999#CO--AS52468 UFINET PANAMA S.A.
+http://101.128.92.243:7777#ID--AS135478 PT. Cyberindo Aditama
+http://156.236.73.161:8082#JP--AS138152 YISU CLOUD LTD
+http://103.75.54.230:8080#ID--AS46023 PT Quantum Tera Network
+http://112.208.252.255:8081#PH--AS9299 Philippine Long Distance Telephone Company
+http://174.138.20.66:9090#SG--AS14061 DigitalOcean, LLC
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://187.251.130.156:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://103.208.102.6:8080#ID--AS134648 PT Tidar Lintas Nusa
 http://3.10.176.60:8081#GB--AS16509 Amazon.com, Inc.
 http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://191.97.15.94:11201#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://38.242.141.110:8008#DE--AS51167 Contabo GmbH
 http://61.74.61.57:3128#KR--AS4766 Korea Telecom
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
-http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
-http://182.253.154.62:8080#ID--AS17451 BIZNET NETWORKS
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://103.17.182.130:8585#ID--AS38165 PT. AMBHARA DUTA SHANTI
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://179.48.11.6:8085#BR--AS271113 CARNAUBANET LTDA
-http://45.171.242.3:8083#BR--AS268733 MaetingaNET Informática e Telecomunicações
-http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
