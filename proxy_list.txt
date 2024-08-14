@@ -1,13 +1,49 @@
-http://219.151.19.1:3128#CN--AS4134 CHINANET-BACKBONE
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://38.56.118.53:999#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
+http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://72.10.160.90:10737#MX--AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://189.240.60.166:9090#MX--AS8151 UNINET
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://177.200.80.6:11221#BR--AS28368 SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME
-http://158.255.215.50:14449#FR--AS9009 M247 Europe SRL
-http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://189.240.60.171:9090#MX--AS8151 UNINET
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://113.192.30.185:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://152.26.229.86:9443#US--AS81 MCNC
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://187.141.125.210:8080#MX--AS8151 UNINET
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://149.28.134.107:2020#SG--AS20473 The Constant Company, LLC
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://143.0.243.80:8080#BR--AS271217 Nova Info Internet e Telecomunicações LTDA
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.203.234.28:8085#ID--AS151006 PT Nesta Indo Media
-http://43.154.128.33:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.181.142.87:3128#JP--AS16509 Amazon.com, Inc.
+http://108.181.56.101:3128#US--AS40676 Psychz Networks
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://13.231.108.224:3128#JP--AS16509 Amazon.com, Inc.
+http://103.144.102.230:8085#ID--AS139421 PT Dharma Sarana Solusindo
+http://210.245.83.71:2305#VN--AS18403 FPT Telecom Company
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://36.72.252.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://219.144.80.144:3128#CN--AS134768 CHINANET SHAANXI province Cloud Base network
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://187.157.243.254:8080#MX--AS8151 UNINET
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://36.67.223.231:8090#ID--AS7713 PT Telekomunikasi Indonesia
