@@ -1,35 +1,34 @@
-http://154.94.5.241:7001#HK--AS142403 YISU CLOUD LTD
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://185.195.71.217:18080#CH--AS56803 Datasource AG
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://203.189.96.232:80#JP--AS7506 GMO Internet,Inc
-http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
-http://200.119.141.114:999#GT--AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
-http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
-http://200.10.28.217:8083#CO--AS270075 SUPER REDES S.A.S
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://158.255.215.50:3538#FR--AS9009 M247 Europe SRL
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://115.244.33.2:3129#IN--AS55836 Reliance Jio Infocomm Limited
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://148.72.140.24:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://18.220.239.46:3128#US--AS16509 Amazon.com, Inc.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.250.130.149:8181#ID--AS151555 PT Jawara Lintas Data Nusantara
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://194.4.57.152:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
-http://119.95.252.172:8080#PH--AS9299 Philippine Long Distance Telephone Company
+http://84.204.138.51:8080#RU--AS20632 PJSC MegaFon
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://103.157.59.75:8080#ID--AS63859 PT. Eka Mas Republik
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://203.175.102.44:8090#ID--AS152014 PT. Mitra Kita Brilian
-http://103.160.184.155:8080#ID--AS139952 PT Trisari Data Indonusa
-http://45.5.196.62:9898#BR--AS266105 RPNET INFORMATICA LTDA - ME
-http://120.28.76.192:8082#PH--AS132199 Globe Telecom Inc.
-http://103.162.63.127:8080#ID--AS141642 PT Ring Media Nusantara
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://141.148.26.234:8081#US--AS9009 M247 Europe SRL
