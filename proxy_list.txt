@@ -1,16 +1,18 @@
+http://119.95.252.172:8080#PH--AS9299 Philippine Long Distance Telephone Company
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
+http://103.193.145.27:8080#ID--AS58821 PT Lintas Jaringan Nusantara
 http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://200.39.120.43:999#MX--AS265606 DIGY NETWORKS
+http://103.125.16.50:8080#ID--AS138087 PT JAVA MEDIANET TEKHNOLOGI
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://103.180.122.52:8091#ID--AS149360 PT Indo Telemedia Solusi
-http://166.1.201.166:3128#NL--AS26383 Baxet Group Inc.
-http://45.5.196.62:9898#BR--AS266105 RPNET INFORMATICA LTDA - ME
-http://120.28.76.192:8082#PH--AS132199 Globe Telecom Inc.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://203.175.102.44:8090#ID--AS152014 PT. Mitra Kita Brilian
+http://102.214.106.114:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://143.0.243.70:8080#BR--AS271217 Nova Info Internet e Telecomunicações LTDA
+http://110.74.222.174:8082#KH--AS38901 EZECOM CO., LTD.
+http://103.248.9.226:8181#ID--AS151538 PT Flashnet Inovasi Teknologi
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://114.9.26.238:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://103.69.20.42:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://103.172.17.51:8080#ID--AS142381 PT Media Access Telematika
