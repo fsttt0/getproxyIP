@@ -1,15 +1,21 @@
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://203.176.129.85:8080#KH--AS38235 ANGKOR DATA COMMUNICATION
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#US--AS394814 ISP4Life INC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://177.234.241.27:999#EC--AS52468 UFINET PANAMA S.A.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://187.141.125.210:8080#MX--AS8151 UNINET
 http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
+http://18.135.133.116:80#GB--AS16509 Amazon.com, Inc.
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
-http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://152.166.69.34:8080#DO--AS28118 ALTICE DOMINICANA S.A.
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
