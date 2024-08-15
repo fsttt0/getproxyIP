@@ -1,20 +1,17 @@
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://194.5.25.34:443#SG--AS3758 SingNet
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
