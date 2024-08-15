@@ -1,29 +1,20 @@
-http://2.32.87.44:58080#IT--AS30722 Vodafone Italia S.p.A.
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
-http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://171.228.219.71:4008#VN--AS7552 Viettel Group
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://169.255.56.177:3128#GH--AS327813 VIDOLU Group Pty Ltd-Web4Africa
-http://182.252.80.1:8082#BD--AS23923 Agni Systems Limited
-http://158.101.244.172:3128#SA--AS31898 Oracle Corporation
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://119.95.252.172:8080#PH--AS9299 Philippine Long Distance Telephone Company
-http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://103.38.183.63:80#IN--AS140171 Reis Network Solutions
-http://45.90.160.141:3128#FR--AS39421 Sapinet SAS
-http://103.153.136.93:8080#ID--AS140465 PT Andalas Global Network
-http://103.180.118.138:1111#ID--AS149359 PT Persada Data Multimedia
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://103.180.118.170:8080#ID--AS149359 PT Persada Data Multimedia
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://41.209.10.196:8080#KE--AS9129 MTN SA
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
 http://194.5.25.34:443#SG--AS3758 SingNet
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
+http://189.240.60.171:9090#MX--AS8151 UNINET
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
