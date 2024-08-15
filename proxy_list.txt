@@ -1,22 +1,15 @@
+http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
-http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
+http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
 http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
 http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://103.186.90.19:8080#ID--AS149707 PT Akses Data Internusa
-http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://177.242.132.2:999#MX--AS13999 Mega Cable, S.A. de C.V.
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://157.100.60.170:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
-http://113.192.30.161:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://152.166.69.34:8080#DO--AS28118 ALTICE DOMINICANA S.A.
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.158.253.187:8027#ID--AS141137 PT Media Cepat Indonesia
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
