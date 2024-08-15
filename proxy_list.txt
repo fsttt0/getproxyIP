@@ -1,41 +1,8 @@
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://216.122.181.249:8080#DO--AS273162 PELLEGRINI SKYNET SOLUTIONS SRL
-http://101.255.166.185:8080#ID--AS38511 PT Remala Abadi
-http://187.141.125.210:8080#MX--AS8151 UNINET
-http://152.26.229.86:9443#US--AS81 MCNC
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://115.127.39.18:58080#BD--AS24342 BRACNet Limited
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://47.252.29.28:11222#US--AS394814 ISP4Life INC
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://61.74.61.57:3128#KR--AS4766 Korea Telecom
-http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://18.181.142.87:3128#JP--AS16509 Amazon.com, Inc.
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://13.231.108.224:3128#JP--AS16509 Amazon.com, Inc.
-http://179.1.123.51:8080#CO--AS262589 INTERNEXA Brasil Operadora de Telecomunicações S.A
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://103.152.93.158:7777#ID--AS138860 PT. JAYA LINTAS INDONESIA
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://103.76.109.50:3127#ID--AS151576 PT Mahawira Nusantara Grup
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://88.255.65.113:8080#TR--AS9121 Turk Telekomunikasyon Anonim Sirketi
