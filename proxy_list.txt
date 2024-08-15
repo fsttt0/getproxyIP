@@ -1,8 +1,15 @@
-http://103.156.141.151:3127#ID--AS149883 PT Tekling Media Telematika
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
-http://103.44.19.220:3127#ID--AS150191 PT Sarana Intimedia Telematika
-http://103.25.110.222:8080#ID--AS9341 North Korea Government
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://84.204.138.51:8080#RU--AS20632 PJSC MegaFon
-http://58.22.61.222:57981#CN--AS4837 CHINA UNICOM China169 Backbone
+http://103.148.130.50:8080#ID--AS141127 PT Anugerah Cimanuk Raya
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://47.243.166.133:18080#HK--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://27.72.244.228:8080#VN--AS7552 Viettel Group
+http://103.169.254.9:8090#ID--AS142370 PT Master Star Network
+http://67.43.236.20:15415#KR--AS17858 LG POWERCOMM
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
