@@ -1,25 +1,25 @@
-http://47.252.29.28:11222#FI--AS57043 HOSTKEY B.V.
+http://186.67.74.52:3128#CL--AS27651 ENTEL CHILE S.A.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://185.195.71.217:18080#CH--AS56803 Datasource AG
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.87.169.176:32650#IN--AS55507 Tejays Dynamic Limited
 http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://117.219.10.150:8080#IN--AS9829 National Internet Backbone
 http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://101.32.161.39:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://102.211.209.117:3128#TN--AS328853 OXAHOST
+http://179.105.138.70:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://88.135.210.179:8080#UA--AS49125 Uteam LTD
+http://87.247.186.40:1080#DE--AS14061 DigitalOcean, LLC
+http://146.196.41.141:8080#ID--AS132652 PT. Cahaya Buana Raksa
 http://152.26.229.86:9443#US--AS81 MCNC
-http://103.163.134.95:8090#ID--AS141902 PT Jawa Provider Telematika
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
-http://85.166.192.78:3128#NO--AS2119 Telenor Norge AS
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://101.128.92.243:7777#ID--AS135478 PT. Cyberindo Aditama
+http://89.44.243.125:3128#DE--AS24940 Hetzner Online GmbH
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
