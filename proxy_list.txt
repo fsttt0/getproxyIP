@@ -1,21 +1,41 @@
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.88.90.117:8080#ID--AS150222 PT Paket Switch Bersama
+http://157.230.89.122:18085#US--AS205016 HERN Labs AB
+http://119.18.37.201:8888#US--AS212238 Datacamp Limited
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
+http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
+http://18.220.239.46:3128#US--AS16509 Amazon.com, Inc.
+http://103.144.18.49:8080#ID--AS139418 PT Gasatek Bintang Nusantara
+http://45.201.136.117:9812#KH--AS131178 EZECOM CO., LTD.
+http://180.191.32.5:8082#PH--AS132199 Globe Telecom Inc.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://177.75.223.29:8080#BR--AS28270 Videomar Rede Nordeste S/A
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
 http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.69.20.115:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://163.172.33.137:4004#NL--AS62240 Clouvider
+http://148.72.140.24:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://59.6.28.174:3128#KR--AS4766 Korea Telecom
 http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://177.93.58.182:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.126.44.74:8080#CN--AS137718 Beijing Volcano Engine Technology Co., Ltd.
 http://3.9.71.167:80#GB--AS16509 Amazon.com, Inc.
-http://103.105.76.100:8080#ID--AS136874 PT. Garuda Media Telematika
-http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
