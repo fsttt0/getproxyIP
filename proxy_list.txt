@@ -1,9 +1,28 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://200.32.51.179:8080#AR--AS10834 Telefonica de Argentina
-http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://200.116.198.222:9812#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
-http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://146.196.41.141:8080#ID--AS132652 PT. Cahaya Buana Raksa
+http://72.10.164.178:9763#JM--AS40786 Digicel Jamaica
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://152.26.229.86:9443#US--AS81 MCNC
+http://36.92.162.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://207.188.6.20:3128#US--AS396356 Latitude.sh
+http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://24.204.29.115:8080#US--AS32505 Conterra
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://185.195.71.217:18080#CH--AS56803 Datasource AG
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
