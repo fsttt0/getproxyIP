@@ -1,12 +1,14 @@
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://163.172.33.137:4003#NL--AS62240 Clouvider
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
+http://15.235.171.235:8888#SG--AS16276 OVH SAS
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
