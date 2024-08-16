@@ -1,35 +1,9 @@
+http://44.226.167.102:80#US--AS16509 Amazon.com, Inc.
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://103.69.20.55:58080#IN--AS135724 Allnet Broadband Network Pvt Ltd
-http://36.92.162.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://119.18.37.201:8888#US--AS62240 Clouvider
-http://118.27.111.97:80#JP--AS7506 GMO Internet,Inc
-http://103.163.134.95:8090#ID--AS141902 PT Jawa Provider Telematika
-http://82.64.186.155:8080#FR--AS12322 Free SAS
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://171.239.232.48:10001#VN--AS7552 Viettel Group
-http://18.220.239.46:3128#US--AS16509 Amazon.com, Inc.
-http://85.166.192.78:3128#NO--AS2119 Telenor Norge AS
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://117.5.2.211:10001#VN--AS7552 Viettel Group
-http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://177.234.241.30:999#EC--AS52468 UFINET PANAMA S.A.
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://163.172.33.137:4004#NL--AS62240 Clouvider
-http://148.72.140.24:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://119.18.37.201:8888#US--AS212238 Datacamp Limited
+http://62.173.146.70:3128#RU--AS34300 Internet-Cosmos LLC
+http://95.216.218.146:3128#FI--AS24940 Hetzner Online GmbH
