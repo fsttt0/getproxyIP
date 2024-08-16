@@ -1,72 +1,68 @@
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://213.160.150.237:8080#UA--AS12963 "SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
+http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
+http://185.195.71.217:18080#CH--AS56803 Datasource AG
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://124.158.153.218:8180#ID--AS17451 BIZNET NETWORKS
+http://163.172.33.137:4000#NL--AS62240 Clouvider
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://101.32.161.39:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://119.18.149.9:5020#BD--AS45326 Broad Band Telecom Services Ltd
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://158.140.177.206:8080#ID--AS63859 PT. Eka Mas Republik
 http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://18.220.239.46:3128#US--AS16509 Amazon.com, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://148.66.21.202:3128#HK--AS45753 Netsec Limited
+http://189.240.60.166:9090#MX--AS8151 UNINET
 http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
 http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
-http://103.76.108.74:3127#ID--AS151576 PT Mahawira Nusantara Grup
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://195.62.32.117:22331#DE--AS198584 PIO-Hosting GmbH
-http://72.10.164.178:8843#BB--AS35900 Digicel Barbados Ltd
+http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
 http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://216.10.247.145:3128#IN--AS394695 PDR
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://189.240.60.168:9090#MX--AS8151 UNINET
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://186.113.232.105:8080#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
-http://185.195.71.217:18080#CH--AS56803 Datasource AG
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://201.65.173.180:8080#BR--AS4230 CLARO S.A.
-http://185.86.214.33:8080#ES--AS62332 AVATEL TELECOM, SA
+http://212.231.230.141:20500#ES--AS15704 XTRA TELECOM S.A.
 http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
-http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://45.90.160.141:3128#FR--AS39421 Sapinet SAS
-http://78.130.246.65:1881#BG--AS9070 Cooolbox AD
-http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://103.162.141.146:3128#ID--AS141083 PT Filltech Antar Nusa
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
 http://158.255.215.50:3538#FR--AS9009 M247 Europe SRL
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.41.32.182:58080#IN--AS138296 Juweriyah Networks Private Limited
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://148.72.165.7:30135#PT--AS9186 ONITELECOM - INFOCOMUNICACOES, S.A.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
-http://78.47.185.44:2020#DE--AS24940 Hetzner Online GmbH
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://189.240.60.171:9090#MX--AS8151 UNINET
-http://103.13.204.24:8082#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
