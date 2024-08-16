@@ -1,15 +1,15 @@
-http://103.154.145.204:8081#ID--AS141140 PT Jinde Grup Indonesia
+http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
 http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://35.185.196.38:3128#US--AS396982 Google LLC
+http://181.78.13.67:999#CO--AS52468 UFINET PANAMA S.A.
+http://177.200.80.6:11221#BR--AS28368 SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
 http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://103.65.202.209:8080#IN--AS138239 Vaishnavi Online Internet Services Pvt. Ltd.
+http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://36.94.101.111:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
