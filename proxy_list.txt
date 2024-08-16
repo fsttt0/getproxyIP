@@ -1,15 +1,21 @@
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://181.78.13.67:999#CO--AS52468 UFINET PANAMA S.A.
-http://177.200.80.6:11221#BR--AS28368 SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME
-http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
-http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
-http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.184.152.97:999#AR--AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)
+http://43.153.225.192:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://119.18.37.201:8888#US--AS62240 Clouvider
+http://20.169.241.185:3128#US--AS8075 Microsoft Corporation
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://79.137.136.254:8079#RU--AS211506 Slavcom Ltd.
+http://77.105.147.162:3128#DE--AS210644 AEZA INTERNATIONAL LTD
+http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
