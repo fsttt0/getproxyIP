@@ -1,14 +1,12 @@
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://43.252.107.102:7777#ID--AS45305 Lintas Data Prima, PT
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://15.235.171.235:8888#SG--AS16276 OVH SAS
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
