@@ -1,24 +1,22 @@
+http://183.242.69.118:3218#CN--AS56048 China Mobile Communicaitons Corporation
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
-http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
-http://103.162.63.127:8080#ID--AS141642 PT Ring Media Nusantara
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://163.172.33.137:4003#NL--AS62240 Clouvider
 http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://47.252.29.28:11222#US--AS212238 Datacamp Limited
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://186.125.218.185:999#AR--AS7303 Telecom Argentina S.A.
 http://115.244.33.2:3129#IN--AS55836 Reliance Jio Infocomm Limited
-http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
+http://43.153.225.192:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://119.18.37.201:8888#US--AS62240 Clouvider
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://79.137.136.254:8079#RU--AS211506 Slavcom Ltd.
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
