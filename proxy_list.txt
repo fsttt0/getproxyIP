@@ -1,12 +1,15 @@
+http://103.154.145.204:8081#ID--AS141140 PT Jinde Grup Indonesia
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://103.65.202.209:8080#IN--AS138239 Vaishnavi Online Internet Services Pvt. Ltd.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
 http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://36.94.101.111:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://13.40.239.130:3128#GB--AS16509 Amazon.com, Inc.
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://43.252.107.102:7777#ID--AS45305 Lintas Data Prima, PT
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
