@@ -1,33 +1,9 @@
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://164.163.42.8:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://200.32.51.179:8080#AR--AS10834 Telefonica de Argentina
+http://164.163.42.5:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://200.116.198.222:9812#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
+http://164.163.42.19:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://208.87.243.199:9898#US--AS40676 Psychz Networks
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://189.240.60.168:9090#MX--AS8151 UNINET
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://185.195.71.217:18080#CH--AS56803 Datasource AG
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://47.252.29.28:11222#US--AS3257 GTT Communications Inc.
-http://124.217.77.115:8181#PH--AS9299 Philippine Long Distance Telephone Company
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://141.145.216.17:3128#FR--AS31898 Oracle Corporation
-http://36.93.22.154:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://119.18.149.9:5020#BD--AS45326 Broad Band Telecom Services Ltd
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://117.102.76.253:8080#ID--AS17451 BIZNET NETWORKS
-http://182.253.109.147:8080#ID--AS17451 BIZNET NETWORKS
-http://171.4.28.190:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
-http://207.188.6.20:3128#US--AS396356 Latitude.sh
-http://187.111.144.102:8080#BR--AS262715 Caezar Provedor de Internet EIRELI
-http://143.0.243.70:8080#BR--AS271217 Nova Info Internet e Telecomunicações LTDA
