@@ -1,15 +1,13 @@
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://163.172.33.137:4003#NL--AS62240 Clouvider
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
 http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://119.18.37.201:8888#US--AS62240 Clouvider
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://103.161.131.150:8181#ID--AS141613 PT Jaringan Internet Nusantara
-http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://45.114.88.214:8080#BD--AS134116 Md. Manzurul Haque Khan T/A THE NET HEADS
-http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
+http://103.116.82.136:8080#ID--AS150959 PT SSR Digital Informatika
+http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
