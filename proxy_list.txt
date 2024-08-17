@@ -1,46 +1,50 @@
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.48.68.67:83#IN--AS136290 Country Online Services PVT LTD
-http://62.173.146.70:3128#RU--AS34300 Internet-Cosmos LLC
-http://115.127.137.51:58080#BD--AS24342 BRACNet Limited
-http://117.68.38.139:20002#CN--AS56046 China Mobile communications corporation
-http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://15.235.171.211:8888#SG--AS16276 OVH SAS
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://43.153.225.192:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://80.66.81.36:4006#NL--AS6830 Liberty Global B.V.
+http://212.110.188.198:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://196.213.196.210:8088#ZA--AS3741 Dimension Data
+http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://103.156.16.243:8080#ID--AS141077 RSTNET
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
+http://161.34.35.168:3128#JP--AS2514 NTT PC Communications, Inc.
+http://202.5.36.164:5020#BD--AS45326 Broad Band Telecom Services Ltd
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://101.32.161.39:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.153.225.192:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://216.10.247.145:3128#IN--AS394695 PDR
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://189.240.60.169:9090#MX--AS8151 UNINET
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://189.240.60.168:9090#MX--AS8151 UNINET
-http://200.119.141.114:999#GT--AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://128.254.207.181:8080#US--AS23470 ReliableSite.Net LLC
+http://123.103.51.22:3128#CN--AS23724 IDC, China Telecommunications Corporation
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
 http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://158.255.215.50:3538#FR--AS9009 M247 Europe SRL
-http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://103.40.121.33:8089#ID--AS63508 PT DINAMIKA MEDIAKOM
-http://190.90.233.33:8080#CO--AS267869 CABLE Y TELECOMUNICACIONES DE COLOMBIA S.A.S (CABLETELCO)
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://80.66.81.36:4006#NL--AS6830 Liberty Global B.V.
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://189.240.60.163:9090#MX--AS8151 UNINET
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.149.100.32:8085#BR--AS61872 CRZNET TELECOM LTDA
