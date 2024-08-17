@@ -1,29 +1,46 @@
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://185.86.214.33:8080#ES--AS62332 AVATEL TELECOM, SA
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://82.152.165.218:20000#HK--AS202662 Hytron Network Services Limited
+http://189.240.60.169:9090#MX--AS8151 UNINET
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
 http://158.255.215.50:3538#FR--AS9009 M247 Europe SRL
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://195.159.124.57:85#NO--AS2116 GLOBALCONNECT AS
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://46.250.255.227:8000#JP--AS141995 Contabo Asia Private Limited
-http://103.40.121.33:8089#ID--AS63508 PT DINAMIKA MEDIAKOM
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://189.240.60.163:9090#MX--AS8151 UNINET
 http://101.32.161.39:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://190.90.233.33:8080#CO--AS267869 CABLE Y TELECOMUNICACIONES DE COLOMBIA S.A.S (CABLETELCO)
 http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://161.34.40.35:3128#JP--AS2514 NTT PC Communications, Inc.
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://94.179.109.254:8081#UA--AS6849 JSC "Ukrtelecom"
-http://87.247.188.186:8080#IR--AS41227 Insightometrics B.V.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.9.55.17:3128#MX--AS28436 Konecta Sonora SA de CV
+http://191.243.46.2:18283#BR--AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://119.18.37.201:8888#US--AS62240 Clouvider
+http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
+http://103.246.79.10:1111#ID--AS150213 PT Saka Media Komunika
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
 http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://38.156.72.172:8080#TR--AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
+http://201.77.48.147:8080#PE--AS273000 TELCOM MIKROTIK PERU S.A.C.
+http://148.66.21.202:3128#HK--AS45753 Netsec Limited
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://103.12.76.22:3128#VN--AS140825 Thien Quang Digital technology joint stock company
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
