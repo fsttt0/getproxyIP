@@ -1,17 +1,22 @@
+http://84.204.138.51:8080#RU--AS20632 PJSC MegaFon
 http://15.207.35.241:1080#IN--AS16509 Amazon.com, Inc.
 http://13.126.184.76:3128#IN--AS16509 Amazon.com, Inc.
+http://35.161.172.205:3128#US--AS16509 Amazon.com, Inc.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://45.121.41.11:8080#ID--AS149921 PT Mandiri Global Data
 http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://59.175.199.130:7777#CN--AS4134 CHINANET-BACKBONE
 http://177.153.33.94:80#BR--AS27715 Locaweb Serviços de Internet S/A
 http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
-http://201.77.110.129:999#MX--AS265627 NIDIX NETWORKS S.A. DE C.V.
-http://24.116.218.204:8080#US--AS11492 CABLE ONE, INC.
-http://103.180.118.138:1111#ID--AS149359 PT Persada Data Multimedia
+http://103.106.240.18:96#BD--AS137385 Saddam Hossain t/a Asian Network
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://103.224.124.239:8080#ID--AS150197 PT Curug Lintas Indonesia
+http://45.189.252.57:999#MX--AS265613 TRACERED SA DE CV
 http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.152.5.17:39888#EC--AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
-http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://101.255.209.242:8080#ID--AS38511 PT Remala Abadi
+http://113.192.30.161:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
