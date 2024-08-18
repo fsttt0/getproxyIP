@@ -1,2 +1,6 @@
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
+http://200.35.50.22:5556#CO--AS27695 EDATEL S.A. E.S.P
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
-http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
