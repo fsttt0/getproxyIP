@@ -1,16 +1,12 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.100.78:48149#US--AS16276 OVH SAS
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://171.244.60.55:8080#VN--AS7552 Viettel Group
-http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://186.113.232.105:8080#CO--AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
+http://69.48.183.181:3128#US--AS55293 A2 Hosting, Inc.
+http://103.217.224.139:8090#ID--AS151006 PT Nesta Indo Media
+http://152.42.186.226:9090#SG--AS14061 DigitalOcean, LLC
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.93.129.73:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://130.61.181.220:3128#DE--AS31898 Oracle Corporation
+http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.87.169.161:32650#IN--AS55507 Tejays Dynamic Limited
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
