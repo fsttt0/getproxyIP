@@ -1,44 +1,24 @@
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
 http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://177.153.33.94:80#BR--AS27715 Locaweb Serviços de Internet S/A
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://47.251.70.179:80#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://222.122.110.26:80#KR--AS4766 Korea Telecom
-http://59.6.28.174:3128#KR--AS4766 Korea Telecom
+http://45.228.233.92:999#GT--AS265684 INFINITUM S.A.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://163.172.33.137:4017#NL--AS62240 Clouvider
-http://72.10.164.178:31889#CA--AS577 Bell Canada
 http://171.246.149.74:33333#VN--AS7552 Viettel Group
-http://101.255.209.242:8080#ID--AS38511 PT Remala Abadi
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
-http://103.193.144.75:8080#ID--AS58821 PT Lintas Jaringan Nusantara
 http://47.252.29.28:11222#US--AS212238 Datacamp Limited
-http://216.10.247.145:3128#IN--AS394695 PDR
 http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://27.74.247.173:8080#VN--AS7552 Viettel Group
-http://181.143.181.34:8080#CO--AS13489 EPM Telecomunicaciones S.A. E.S.P.
-http://185.86.214.33:8080#ES--AS62332 AVATEL TELECOM, SA
-http://134.209.144.177:80#IN--AS14061 DigitalOcean, LLC
-http://43.153.25.122:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://160.22.16.16:3128#VN--AS45899 VNPT Corp
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://194.246.34.224:8080#US--AS979 NetLab Global
 http://43.153.225.192:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://153.179.16.236:8080#JP--AS4713 NTT Communications Corporation
 http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://200.35.50.22:5556#CO--AS27695 EDATEL S.A. E.S.P
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://154.12.242.82:8889#SG--AS206092 Internet Utilities Europe and Asia Limited
 http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://133.242.171.242:3128#JP--AS7684 SAKURA Internet Inc.
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://223.206.61.6:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://80.66.81.36:4002#DE--AS61317 Hivelocity LLC
-http://185.8.67.90:8080#FR--AS43142 ADELI SAS
-http://103.168.44.18:8080#ID--AS142307 PT CYB Media Group
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
