@@ -1,6 +1,2 @@
-http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://35.178.104.4:3128#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.32:3128#JP--AS2514 NTT PC Communications, Inc.
