@@ -1,12 +1,9 @@
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://103.156.17.63:8080#ID--AS141077 RSTNET
+http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
+http://103.65.202.209:8080#IN--AS138239 Vaishnavi Online Internet Services Pvt. Ltd.
 http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
-http://69.48.183.181:3128#US--AS55293 A2 Hosting, Inc.
-http://103.217.224.139:8090#ID--AS151006 PT Nesta Indo Media
+http://45.122.123.182:8080#IN--AS134375 Fusionnet Web Services Private Limited
 http://152.42.186.226:9090#SG--AS14061 DigitalOcean, LLC
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://130.61.181.220:3128#DE--AS31898 Oracle Corporation
-http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.87.169.161:32650#IN--AS55507 Tejays Dynamic Limited
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
