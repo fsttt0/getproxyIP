@@ -1,9 +1,6 @@
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
+http://205.164.84.247:8591#BR--AS264275 ROLIM NET TECNOLOGIA LTDA
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://103.156.17.63:8080#ID--AS141077 RSTNET
 http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://103.65.202.209:8080#IN--AS138239 Vaishnavi Online Internet Services Pvt. Ltd.
-http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
-http://45.122.123.182:8080#IN--AS134375 Fusionnet Web Services Private Limited
-http://152.42.186.226:9090#SG--AS14061 DigitalOcean, LLC
