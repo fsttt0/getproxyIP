@@ -1,30 +1,36 @@
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://34.215.74.117:80#US--AS16509 Amazon.com, Inc.
-http://158.255.215.50:3538#FR--AS9009 M247 Europe SRL
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://157.230.89.122:18085#US--AS205016 HERN Labs AB
-http://54.255.115.141:3128#SG--AS16509 Amazon.com, Inc.
-http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://202.51.199.100:8080#ID--AS55685 PT Jala Lintas Media
-http://130.61.181.220:3128#DE--AS31898 Oracle Corporation
-http://199.21.175.222:3128#TH--AS56309 Siamdata Communication Co.,Ltd.
-http://190.95.202.210:999#EC--AS27947 Telconet S.A
-http://103.13.204.24:8082#ID--AS64300 PT JARINGANKU SARANA NUSANTARA
-http://212.110.188.202:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
-http://201.149.100.32:8085#BR--AS61872 CRZNET TELECOM LTDA
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
-http://69.160.223.129:8181#US--AS53989 Swayzee Telephone Company, Inc.
-http://187.190.99.229:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://45.173.230.227:999#EC--AS263238 Eliana Vanessa Morocho Oña
+http://103.177.9.120:8181#ID--AS147137 HELIUM
+http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://118.27.111.97:80#JP--AS7506 GMO Internet,Inc
+http://72.10.160.170:3223#SG--AS13335 Cloudflare, Inc.
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://59.175.199.130:7777#CN--AS4134 CHINANET-BACKBONE
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://208.87.243.199:9898#US--AS40676 Psychz Networks
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
+http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://94.131.9.215:4000#NL--AS399820 Atomic Networks LLC
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
+http://189.240.60.166:9090#MX--AS8151 UNINET
+http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://146.196.41.141:8080#ID--AS132652 PT. Cahaya Buana Raksa
+http://103.209.36.58:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
+http://103.190.230.42:8080#ID--AS149921 PT Mandiri Global Data
+http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
+http://18.135.133.116:1080#GB--AS16509 Amazon.com, Inc.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://164.163.42.30:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.124.139.210:8080#ID--AS138089 PT.Global Media Data Prima
+http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
+http://103.156.17.41:8818#ID--AS141077 RSTNET
+http://103.83.97.46:7777#ID--AS136078 PT. FOXLINE MEDIADATA INDONUSA
+http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
+http://103.176.97.223:3127#ID--AS147131 PT Global Sarana Elektronika
