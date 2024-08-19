@@ -1,8 +1,17 @@
-http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://23.122.184.9:8888#US--AS396356 Latitude.sh
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://136.232.224.202:8080#IN--AS55836 Reliance Jio Infocomm Limited
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.81.220.29:8080#ID--AS55699 PT. Cemerlang Multimedia
+http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://131.196.198.209:8888#BR--AS265919 BB Host LTDA
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
