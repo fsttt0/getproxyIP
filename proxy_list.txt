@@ -1,22 +1,12 @@
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://123.103.51.22:3128#CN--AS23724 IDC, China Telecommunications Corporation
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#US--AS18779 EGIHosting
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://161.34.35.181:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.171.83.242:8080#ID--AS142373 PT Multi Network Indonesia
 http://36.64.142.177:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://103.155.190.94:8080#ID--AS141067 PT Trisula Media Data
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://203.190.46.159:3127#ID--AS45317 Jaringan Lintas Utara, PT
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://103.193.144.75:8080#ID--AS58821 PT Lintas Jaringan Nusantara
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
+http://161.34.36.127:9999#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.172.70.28:1111#ID--AS142386 PT JARINGAN LINTAS ARTHA
-http://152.26.229.86:9443#US--AS81 MCNC
-http://120.28.189.82:8181#PH--AS132199 Globe Telecom Inc.
-http://179.105.138.70:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
-http://182.253.168.5:8080#ID--AS17451 BIZNET NETWORKS
-http://41.65.224.69:1981#EG--AS36992 ETISALAT MISR
