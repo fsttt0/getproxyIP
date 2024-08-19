@@ -1,12 +1,5 @@
+http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
 http://164.163.42.33:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://190.223.60.131:3128#PE--AS12252 America Movil Peru S.A.C.
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://13.234.24.116:1080#IN--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
-http://54.212.22.168:1080#US--AS16509 Amazon.com, Inc.
-http://200.188.74.182:6969#MX--AS32098 Transtelco Inc
-http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
