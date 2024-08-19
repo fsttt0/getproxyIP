@@ -1,19 +1,16 @@
 http://177.234.241.29:999#EC--AS52468 UFINET PANAMA S.A.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
 http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://45.173.12.138:1994#CO--AS267823 ATENEA TELECOMUNICACIONES S.A.S
-http://103.144.221.218:8080#ID--AS9341 North Korea Government
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
+http://103.153.62.155:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://103.209.36.58:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://161.34.40.113:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.252.29.28:11222#US--AS209372 SIA "Singularity Telecom"
-http://216.10.247.145:3128#IN--AS394695 PDR
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
