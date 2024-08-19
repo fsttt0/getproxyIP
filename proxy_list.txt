@@ -1,43 +1,42 @@
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://49.51.244.112:8888#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
+http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://43.132.124.11:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
+http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://189.240.60.168:9090#MX--AS8151 UNINET
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://103.247.22.233:3127#ID--AS58485 WIFIAN ID
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
+http://94.232.244.122:3128#NL--AS44477 STARK INDUSTRIES SOLUTIONS LTD
 http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://116.107.232.189:10039#VN--AS7552 Viettel Group
 http://186.96.174.168:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://89.187.191.120:8888#CZ--AS60068 Datacamp Limited
-http://182.253.109.192:8080#ID--AS17451 BIZNET NETWORKS
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.209.36.58:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://80.66.81.36:4002#DE--AS61317 Hivelocity LLC
-http://50.29.238.9:8888#US--AS3737 PenTeleData Inc.
-http://188.132.166.120:8080#TR--AS207474 Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
 http://163.172.33.137:4182#NL--AS62240 Clouvider
+http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
+http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://103.193.144.85:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://125.26.25.179:8080#TH--AS23969 TOT Public Company Limited
-http://103.42.120.31:8080#ID--AS24534 PT. Transhybrid Communication
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.187.191.121:8888#CZ--AS60068 Datacamp Limited
-http://59.175.199.130:7777#CN--AS4134 CHINANET-BACKBONE
-http://89.187.191.122:8888#CZ--AS60068 Datacamp Limited
-http://177.129.249.165:8080#BR--AS28335 MAXCOMM LTDA EPP
-http://89.187.191.112:8888#CZ--AS60068 Datacamp Limited
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://62.193.118.59:1981#EG--AS36992 ETISALAT MISR
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
