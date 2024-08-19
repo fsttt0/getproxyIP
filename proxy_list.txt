@@ -1,25 +1,20 @@
-http://103.236.177.154:8081#PH--AS135607 Infinivan Incorporated
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://49.0.2.194:8090#ID--AS55701 PT. Usaha Adisanggoro
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://163.172.33.137:4017#NL--AS62240 Clouvider
-http://194.246.34.224:8080#US--AS979 NetLab Global
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://194.246.34.224:8080#US--AS979 NetLab Global
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://103.81.64.52:8080#ID--AS136055 PT Queen Network Nusantara
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://189.5.161.201:3128#BR--AS28573 Claro NXT Telecomunicacoes Ltda
+http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
 http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://23.122.184.9:8888#US--AS396356 Latitude.sh
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://46.17.63.166:9480#GB--AS39326 HighSpeed Office Limited
