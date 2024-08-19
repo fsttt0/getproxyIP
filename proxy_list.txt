@@ -1,9 +1,16 @@
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://131.196.198.209:8888#BR--AS265919 BB Host LTDA
-http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
-http://122.155.165.191:3128#TH--AS9335 CAT Telecom Public Company Limited
+http://103.41.33.169:58080#IN--AS138296 Juweriyah Networks Private Limited
+http://103.76.149.134:8080#ID--AS135477 PT. Java Digital Nusantara
 http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://103.165.155.254:2016#ID--AS141921 PT Jaringan Keluarga Bersama
+http://47.252.29.28:11222#FR--AS6939 Hurricane Electric LLC
+http://114.33.18.16:3128#TW--AS3462 Data Communication Business Group
 http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
+http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
 http://200.92.201.126:999#MX--AS262916 Mega Cable, S.A. de C.V.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://148.72.165.7:30135#PT--AS204094 I4W - Web Solutions, Lda
