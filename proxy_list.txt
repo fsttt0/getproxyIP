@@ -1,34 +1,27 @@
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://20.44.188.17:3129#JP--AS8075 Microsoft Corporation
+http://189.240.60.164:9090#MX--AS8151 UNINET
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://160.22.16.16:3128#VN--AS45899 VNPT Corp
+http://156.250.117.24:7001#HK--AS142286 LUOGELANG (FRANCE) LIMITED
+http://212.109.194.183:3128#RU--AS29182 JSC IOT
+http://41.231.37.76:3128#TN--AS2609 Tunisia BackBone AS
+http://187.190.99.229:8080#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://45.235.16.121:27234#BR--AS262391 ACESSOLINE TELECOMUNICAÇÕES LTDA
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.228.233.92:999#GT--AS265684 INFINITUM S.A.
+http://203.14.18.242:8080#ID--AS136880 PT. Sumatra Multimedia Solusi
 http://187.1.181.124:23500#BR--AS21574 Century Telecom Ltda
+http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://135.148.100.78:48149#US--AS16276 OVH SAS
-http://157.100.57.180:999#EC--AS52468 UFINET PANAMA S.A.
-http://161.34.40.33:3128#JP--AS2514 NTT PC Communications, Inc.
+http://46.173.211.221:12880#RU--AS47196 Garant Park Internet
+http://43.134.59.218:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://103.210.35.131:8080#ID--AS59151 Diskominfo DIY
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://119.47.90.240:1111#ID--AS138089 PT.Global Media Data Prima
-http://119.96.235.202:30000#CN--AS58563 CHINANET Hubei province network
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://189.240.60.163:9090#MX--AS8151 UNINET
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
