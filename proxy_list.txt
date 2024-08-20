@@ -1,14 +1,13 @@
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
-http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
-http://45.224.22.29:999#EC--AS52468 UFINET PANAMA S.A.
-http://103.68.214.97:8080#ID--AS150517 PT Media Grasi Internet
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.54.80.162:1111#ID--AS45305 Lintas Data Prima, PT
-http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
+http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://80.66.81.36:4005#DE--AS61317 Hivelocity LLC
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
