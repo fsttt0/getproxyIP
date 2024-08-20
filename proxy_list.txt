@@ -1,13 +1,21 @@
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://187.251.224.25:8081#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://80.66.81.36:4005#DE--AS61317 Hivelocity LLC
+http://190.95.183.242:2020#EC--AS27947 Telconet S.A
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://113.192.30.161:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://122.222.186.86:8080#JP--AS2519 ARTERIA Networks Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://177.37.160.81:8085#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://190.193.142.156:3128#AR--AS7303 Telecom Argentina S.A.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
