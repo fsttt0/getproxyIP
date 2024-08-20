@@ -1,45 +1,14 @@
-http://103.30.115.154:8080#ID--AS58731 Telekomunikasi Indonesia International (T.L.) S.A.
-http://135.148.100.78:48149#US--AS16276 OVH SAS
-http://189.240.60.168:9090#MX--AS8151 UNINET
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://161.34.40.117:3128#JP--AS2514 NTT PC Communications, Inc.
+http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
+http://45.224.22.29:999#EC--AS52468 UFINET PANAMA S.A.
+http://103.68.214.97:8080#ID--AS150517 PT Media Grasi Internet
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.54.80.162:1111#ID--AS45305 Lintas Data Prima, PT
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://156.250.116.228:7001#HK--AS142286 LUOGELANG (FRANCE) LIMITED
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.40.110:3128#JP--AS2514 NTT PC Communications, Inc.
-http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://203.176.129.85:8080#KH--AS38235 ANGKOR DATA COMMUNICATION
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://189.205.215.202:8080#MX--AS6503 Axtel, S.A.B. de C.V.
-http://45.70.85.33:58080#BR--AS267593 B.B.S COMUNICAÇÕES LTDA ME
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
-http://180.211.183.130:8080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://170.239.205.73:8080#CO--AS265629 FIBERNET
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://58.137.174.101:8080#TH--AS4750 CS LOXINFO PUBLIC COMPANY LIMITED
-http://194.246.34.224:8080#US--AS979 NetLab Global
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://162.205.138.210:3128#US--AS7018 AT&T Services, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://222.108.214.141:8080#KR--AS4766 Korea Telecom
-http://103.184.19.77:8080#ID--AS149675 PT Garuda Lintas Cakrawala
-http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://154.0.14.116:3128#ZA--AS37680 Cool Ideas Service Provider (Pty) Ltd
-http://189.240.60.164:9090#MX--AS8151 UNINET
-http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
-http://186.148.175.118:999#CO--AS262186 TV AZTECA SUCURSAL COLOMBIA
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
