@@ -1,4 +1,5 @@
-http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://23.122.184.9:8888#US--AS396356 Latitude.sh
-http://182.253.109.187:8080#ID--AS17451 BIZNET NETWORKS
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://154.94.5.241:7001#HK--AS142403 YISU CLOUD LTD
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://161.34.39.54:9999#JP--AS2514 NTT PC Communications, Inc.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
