@@ -1,17 +1,13 @@
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://152.26.229.86:9443#US--AS81 MCNC
-http://119.96.100.63:30000#CN--AS58563 CHINANET Hubei province network
 http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
-http://47.252.29.28:11222#DE--AS209372 SIA "Singularity Telecom"
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://69.197.135.43:18080#US--AS32097 WholeSale Internet, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://198.91.163.172:808#CA--AS11814 Distributel Communications Limited
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://118.99.127.1:8080#ID--AS17451 BIZNET NETWORKS
-http://180.74.171.206:8080#MY--AS4788 TM TECHNOLOGY SERVICES SDN. BHD.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://182.253.162.82:8080#ID--AS17451 BIZNET NETWORKS
+http://181.65.180.190:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
