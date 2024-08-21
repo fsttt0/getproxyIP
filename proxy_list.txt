@@ -1,27 +1,23 @@
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://67.43.228.253:5405#VE--AS21826 Corporación Telemic C.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
-http://95.216.78.251:3128#FI--AS24940 Hetzner Online GmbH
+http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://148.251.139.51:13128#DE--AS24940 Hetzner Online GmbH
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://35.197.150.32:8888#SG--AS396982 Google LLC
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://27.66.108.112:3128#VN--AS7552 Viettel Group
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
 http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://43.130.146.142:3128#US--AS132203 Tencent Building, Kejizhongyi Avenue
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://103.151.35.164:1111#ID--AS140413 PT. GAYUH MEDIA INFORMATIKA
+http://103.157.79.158:8080#ID--AS141114 PT Super Media Indonesia
 http://112.204.116.105:8082#PH--AS9299 Philippine Long Distance Telephone Company
-http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
