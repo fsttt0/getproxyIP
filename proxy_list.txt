@@ -1,23 +1,26 @@
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://103.189.122.107:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://157.66.85.104:8181#ID--AS139981 PT. Menaksopal Link Nusantara
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://15.204.161.192:18080#NL--AS205016 HERN Labs AB
 http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://35.197.150.32:8888#SG--AS396982 Google LLC
 http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://27.66.108.112:3128#VN--AS7552 Viettel Group
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://45.180.182.17:8080#PY--AS269725 ACAS TECNOLOGÍAS S.A.
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
 http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://103.151.35.164:1111#ID--AS140413 PT. GAYUH MEDIA INFORMATIKA
-http://103.157.79.158:8080#ID--AS141114 PT Super Media Indonesia
-http://112.204.116.105:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://162.205.138.210:3128#US--AS7018 AT&T Services, Inc.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
