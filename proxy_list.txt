@@ -1,6 +1,17 @@
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://27.66.108.112:3128#VN--AS7552 Viettel Group
+http://114.130.153.122:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://65.1.40.47:1080#IN--AS16509 Amazon.com, Inc.
+http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://160.248.4.99:8888#JP--AS2514 NTT PC Communications, Inc.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
-http://103.167.170.98:1111#ID--AS141983 PT Rajeg Media Telekomunikasi
-http://44.226.29.99:3128#US--AS16509 Amazon.com, Inc.
-http://103.158.97.203:3125#ID--AS141130 PT Dinar Wahana Gemilang
-http://103.237.144.232:1311#VN--AS131414 Long Van Soft Solution JSC
+http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
