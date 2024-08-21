@@ -1,48 +1,32 @@
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
+http://130.36.47.108:80#US--AS21899 Abbott Laboratories
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://120.28.216.126:8181#PH--AS132199 Globe Telecom Inc.
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
+http://163.172.33.137:4017#NL--AS62240 Clouvider
+http://203.14.18.242:8080#ID--AS136880 PT. Sumatra Multimedia Solusi
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://164.163.42.12:10000#AR--AS64104 CABASE Camara Arg de Base de Datos y Serv en Linea
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://47.252.29.28:11222#UA--AS15596 IP Port LLC
-http://189.240.60.169:9090#MX--AS8151 UNINET
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.185.196.38:3128#US--AS396982 Google LLC
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
-http://189.240.60.166:9090#MX--AS8151 UNINET
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
 http://135.148.100.78:48149#US--AS16276 OVH SAS
 http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://189.240.60.163:9090#MX--AS8151 UNINET
 http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
 http://216.10.247.145:3128#IN--AS394695 PDR
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://103.131.19.156:3127#ID--AS138089 PT.Global Media Data Prima
-http://189.240.60.164:9090#MX--AS8151 UNINET
+http://103.148.130.107:8080#ID--AS141127 PT Anugerah Cimanuk Raya
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://5.135.188.78:3127#FR--AS16276 OVH SAS
-http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
+http://179.105.138.70:8080#BR--AS28573 Claro NXT Telecomunicacoes Ltda
 http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://189.240.60.168:9090#MX--AS8151 UNINET
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
 http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://156.250.116.228:7001#HK--AS142286 LUOGELANG (FRANCE) LIMITED
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://89.35.237.187:8888#SA--AS51095 EdgeUno, Inc.
-http://189.240.60.171:9090#MX--AS8151 UNINET
 http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://15.235.171.203:8888#SG--AS16276 OVH SAS
-http://35.178.104.4:80#GB--AS16509 Amazon.com, Inc.
-http://130.36.47.108:80#US--AS21899 Abbott Laboratories
