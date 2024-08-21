@@ -1,7 +1,8 @@
-http://35.178.141.189:5020#GB--AS16509 Amazon.com, Inc.
+http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
 http://130.36.47.108:443#US--AS21899 Abbott Laboratories
 http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://200.37.252.122:8080#PE--AS6147 Telefonica del Peru S.A.A.
