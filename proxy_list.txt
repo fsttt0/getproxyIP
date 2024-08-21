@@ -1,21 +1,24 @@
-http://103.140.188.155:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
+http://35.185.196.38:3128#US--AS396982 Google LLC
+http://135.148.100.78:48149#US--AS16276 OVH SAS
+http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://148.251.139.51:13128#DE--AS24940 Hetzner Online GmbH
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://46.166.165.33:4001#PL--AS9009 M247 Europe SRL
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://155.126.176.23:11223#CN--AS35163 Procter & Gamble Service GmbH
 http://130.36.47.108:80#US--AS21899 Abbott Laboratories
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://140.227.204.70:3128#JP--AS2514 NTT PC Communications, Inc.
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://103.124.139.210:8080#ID--AS138089 PT.Global Media Data Prima
 http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://38.41.0.62:11201#VE--AS269832 MDS TELECOM C.A.
 http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://135.148.100.78:48149#US--AS16276 OVH SAS
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://47.252.29.28:11222#US--AS212238 Datacamp Limited
+http://37.187.109.70:10111#FR--AS16276 OVH SAS
+http://203.190.46.159:3127#ID--AS45317 Jaringan Lintas Utara, PT
+http://170.239.205.73:8080#CO--AS265629 FIBERNET
+http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.185.196.38:3128#US--AS396982 Google LLC
-http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://205.185.125.235:3128#US--AS53667 FranTech Solutions
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
