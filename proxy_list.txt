@@ -1,26 +1,21 @@
-http://181.129.1.226:999#CO--AS27831 Colombia Móvil
+http://103.140.188.155:8080#ID--AS138881 PT INDONESIA TRANS NETWORK
 http://130.36.47.108:80#US--AS21899 Abbott Laboratories
-http://159.89.209.26:3128#SG--AS14061 DigitalOcean, LLC
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://140.227.204.70:3128#JP--AS2514 NTT PC Communications, Inc.
 http://212.109.194.183:3128#RU--AS29182 JSC IOT
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.124.139.210:8080#ID--AS138089 PT.Global Media Data Prima
+http://20.205.16.47:3128#HK--AS8075 Microsoft Corporation
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://103.187.117.6:8080#ID--AS140401 PT Proxi Jaringan Nusantara
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://89.108.74.198:3128#RU--AS197695 "Domain names registrar REG.RU", Ltd
-http://222.108.214.141:8080#KR--AS4766 Korea Telecom
-http://161.34.40.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://135.148.100.78:48149#US--AS16276 OVH SAS
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://159.65.0.8:3128#SG--AS14061 DigitalOcean, LLC
-http://15.204.161.192:18080#NL--AS205016 HERN Labs AB
-http://37.120.192.154:8080#NL--AS9009 M247 Europe SRL
-http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
+http://205.185.125.235:3128#US--AS53667 FranTech Solutions
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
