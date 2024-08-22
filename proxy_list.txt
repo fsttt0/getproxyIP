@@ -1,14 +1,22 @@
-http://130.36.47.108:443#US--AS21899 Abbott Laboratories
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
+http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://164.52.206.180:80#IN--AS132420 282, Sector 19
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
 http://216.10.247.145:3128#IN--AS394695 PDR
 http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
 http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.5.107.6:8080#ID--AS38320 PT Maxindo Mitra Solusi
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://95.216.78.251:3128#FI--AS24940 Hetzner Online GmbH
 http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
