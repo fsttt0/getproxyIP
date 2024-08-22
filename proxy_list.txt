@@ -1,38 +1,31 @@
+http://210.61.207.92:3128#TW--AS3462 Data Communication Business Group
 http://130.36.47.108:80#US--AS21899 Abbott Laboratories
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://45.184.155.238:999#AR--AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
+http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://135.148.100.78:48149#US--AS16276 OVH SAS
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://113.219.247.226:30000#CN--AS63835 CT-HuNan-Changsha-IDC
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://130.36.47.108:443#US--AS21899 Abbott Laboratories
-http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
-http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
-http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
-http://150.129.5.226:8080#PK--AS141342 FIBERISH (PVT) LTD
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://92.60.190.79:3128#UA--AS41540 Wnet Ukraine LLC
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
 http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://36.92.44.82:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://113.192.30.71:8080#ID--AS149360 PT Indo Telemedia Solusi
+http://45.167.124.230:999#CO--AS269804 SEPCOM COMUNICACIONES SAS
+http://200.35.50.22:5556#CO--AS27695 EDATEL S.A. E.S.P
+http://54.255.115.141:3128#SG--AS16509 Amazon.com, Inc.
 http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
 http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://216.10.247.145:3128#IN--AS394695 PDR
-http://103.234.159.5:8080#IN--AS55839 Microsense Private Limited
-http://35.197.150.32:8888#SG--AS396982 Google LLC
-http://203.190.46.159:3127#ID--AS45317 Jaringan Lintas Utara, PT
+http://45.184.224.194:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://27.66.108.112:3128#VN--AS7552 Viettel Group
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
