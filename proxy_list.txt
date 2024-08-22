@@ -2,26 +2,24 @@ http://130.36.47.108:80#US--AS21899 Abbott Laboratories
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
 http://200.174.198.86:8888#BR--AS4230 CLARO S.A.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://135.148.100.78:48149#US--AS16276 OVH SAS
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://15.204.161.192:18080#NL--AS205016 HERN Labs AB
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://130.36.47.108:443#US--AS21899 Abbott Laboratories
-http://103.48.69.54:83#IN--AS136290 Country Online Services PVT LTD
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
+http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
+http://119.96.188.171:30000#CN--AS58563 CHINANET Hubei province network
 http://27.98.187.65:8080#JP--AS10010 TOKAI Communications Corporation
-http://45.226.205.33:999#EC--AS265863 JEA.PC COMUNICACIONES S.A.
-http://182.253.109.27:8080#ID--AS17451 BIZNET NETWORKS
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
