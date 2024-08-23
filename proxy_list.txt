@@ -1,19 +1,24 @@
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
+http://148.72.140.24:30127#HU--AS9009 M247 Europe SRL
 http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
 http://35.185.196.38:3128#US--AS396982 Google LLC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
-http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://130.36.47.108:443#US--AS21899 Abbott Laboratories
 http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
-http://216.10.247.145:3128#IN--AS394695 PDR
+http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
-http://27.66.108.112:3128#VN--AS7552 Viettel Group
+http://45.65.137.218:999#VE--AS273001 TELECOMUNICACIONES DEL CATATUMBO S.A.S
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
+http://95.216.78.251:3128#FI--AS24940 Hetzner Online GmbH
+http://180.31.234.71:8080#JP--AS4713 NTT Communications Corporation
