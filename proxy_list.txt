@@ -1,10 +1,4 @@
-http://200.25.254.193:54240#CO--AS27763 ANDITEL S.A.S.
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
-http://27.66.108.112:3128#VN--AS7552 Viettel Group
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://103.168.44.18:8080#ID--AS142307 PT CYB Media Group
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
