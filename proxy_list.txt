@@ -3,32 +3,17 @@ http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
 http://177.234.241.26:999#EC--AS52468 UFINET PANAMA S.A.
 http://119.96.118.113:30000#CN--AS58563 CHINANET Hubei province network
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://47.252.29.28:11222#US--AS7029 Windstream Communications LLC
-http://119.96.113.193:30000#CN--AS58563 CHINANET Hubei province network
-http://15.204.161.192:18080#NL--AS205016 HERN Labs AB
 http://35.185.196.38:3128#US--AS396982 Google LLC
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://177.234.241.24:999#EC--AS52468 UFINET PANAMA S.A.
 http://181.188.27.162:8080#TT--AS27665 Columbus Communications Trinidad Limited.
 http://130.36.47.108:443#US--AS21899 Abbott Laboratories
-http://164.52.206.180:80#IN--AS132420 282, Sector 19
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://45.77.147.46:3128#US--AS20473 The Constant Company, LLC
 http://119.96.195.62:30000#CN--AS58563 CHINANET Hubei province network
-http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
 http://216.10.247.145:3128#IN--AS394695 PDR
-http://89.35.237.187:999#SA--AS51095 EdgeUno, Inc.
-http://45.184.224.200:999#EC--AS269805 MEDIA COMMERCE MEDCOMM S.A
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://89.35.237.187:5678#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
-http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
-http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
-http://103.168.44.18:8080#ID--AS142307 PT CYB Media Group
-http://89.35.237.187:80#SA--AS51095 EdgeUno, Inc.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://69.160.223.33:8181#US--AS53989 Swayzee Telephone Company, Inc.
+http://27.66.108.112:3128#VN--AS7552 Viettel Group
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
