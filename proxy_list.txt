@@ -1,1 +1,6 @@
+http://27.66.108.112:3128#VN--AS7552 Viettel Group
+http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
+http://103.168.44.18:8080#ID--AS142307 PT CYB Media Group
+http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://154.94.5.241:7001#HK--AS142403 YISU CLOUD LTD
