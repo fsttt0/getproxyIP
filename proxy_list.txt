@@ -1,4 +1,8 @@
+http://218.76.247.34:30000#CN--AS63835 CT-HuNan-Changsha-IDC
+http://216.10.247.145:3128#IN--AS394695 PDR
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://159.138.123.253:8080#SG--AS136907 HUAWEI CLOUDS
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
