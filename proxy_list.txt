@@ -1,1 +1,2 @@
+http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
 http://152.26.229.86:9443#US--AS81 MCNC
