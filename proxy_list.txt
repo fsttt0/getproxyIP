@@ -1,3 +1,2 @@
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://65.1.244.232:80#IN--AS16509 Amazon.com, Inc.
