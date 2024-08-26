@@ -1,5 +1,9 @@
+http://89.35.237.187:3128#SA--AS51095 EdgeUno, Inc.
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://89.35.237.187:4153#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4444#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:4145#SA--AS51095 EdgeUno, Inc.
+http://89.35.237.187:8080#SA--AS51095 EdgeUno, Inc.
 http://65.1.244.232:1080#IN--AS16509 Amazon.com, Inc.
 http://46.17.63.166:9091#GB--AS39326 HighSpeed Office Limited
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
-http://154.94.5.241:7001#HK--AS142403 YISU CLOUD LTD
