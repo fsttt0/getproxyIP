@@ -1,1 +1,1 @@
-http://177.234.241.31:999#EC--AS52468 UFINET PANAMA S.A.
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
