@@ -1,1 +1,1 @@
-http://152.26.229.86:9443#US--AS81 MCNC
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
