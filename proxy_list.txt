@@ -1,2 +1,1 @@
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
