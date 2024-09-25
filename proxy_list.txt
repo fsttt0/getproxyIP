@@ -1,17 +1,6 @@
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://219.157.144.226:8118#CN--AS4837 CHINA UNICOM China169 Backbone
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
 http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
-http://36.72.252.213:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://36.72.250.3:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
-http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
-http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
-http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://125.26.195.109:8080#TH--AS23969 TOT Public Company Limited
+http://102.68.129.54:8080#LY--AS21003 General Post and Telecommunication Company (GPTC)
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
