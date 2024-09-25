@@ -1,22 +1,25 @@
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://165.85.253.175:8080#JP--AS394089 Google LLC
+http://211.104.20.205:8080#KR--AS4766 Korea Telecom
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
 http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
 http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://35.220.254.137:8080#HK--AS396982 Google LLC
 http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://15.204.161.192:18080#US--AS205016 HERN Labs AB
 http://36.72.250.3:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://36.72.252.213:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://31.46.175.173:8118#HU--AS5483 Magyar Telekom plc.
-http://45.56.227.46:3128#GB--AS203101 NAVARINO SINGLE MEMBER S.A.
 http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
 http://220.127.10.46:8080#KR--AS4766 Korea Telecom
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
 http://45.157.177.167:8080#DE--AS197540 netcup GmbH
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://58.27.218.28:3128#PK--AS38264 National WiMAX/IMS environment
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://194.146.43.39:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
 http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
-http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
