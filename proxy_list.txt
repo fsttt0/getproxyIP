@@ -1,11 +1,9 @@
+http://103.133.61.173:8181#ID--None
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://37.16.29.249:3128#FR--AS30081 CacheNetworks, Inc.
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://87.229.205.227:8080#RU--AS3216 PJSC "Vimpelcom"
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
 http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
-http://149.154.157.17:4145#IT--AS9009 M247 Europe SRL
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://158.160.63.194:8090#RU--AS200350 Yandex.Cloud LLC
