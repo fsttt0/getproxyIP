@@ -1,18 +1,11 @@
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://34.92.88.81:33333#HK--AS396982 Google LLC
+http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
 http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
-http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://149.154.157.17:4145#IT--AS9009 M247 Europe SRL
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://174.138.167.250:38864#US--AS21928 T-Mobile USA, Inc.
 http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://158.160.63.194:8090#RU--AS200350 Yandex.Cloud LLC
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://159.65.221.55:3128#US--AS14061 DigitalOcean, LLC
