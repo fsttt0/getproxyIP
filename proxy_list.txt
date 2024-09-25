@@ -1,1 +1,5 @@
+http://159.65.221.55:3128#US--AS14061 DigitalOcean, LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://116.104.133.55:5020#VN--AS7552 Viettel Group
