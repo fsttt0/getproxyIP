@@ -1,27 +1,22 @@
-http://103.131.232.16:8080#AU--AS45447 YLess4U Regional Broadband
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://104.168.107.28:8080#US--AS36352 HostPapa
-http://211.104.20.205:8080#KR--AS4766 Korea Telecom
-http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
 http://165.85.253.175:8080#JP--AS394089 Google LLC
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
 http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://15.204.161.192:18080#NL--AS205016 HERN Labs AB
-http://89.150.34.136:3128#NL--AS216154 CLODO CLOUD SERVICE CO. L.L.C
-http://116.80.93.34:3128#JP--AS2514 NTT PC Communications, Inc.
 http://36.72.250.3:8080#ID--AS7713 PT Telekomunikasi Indonesia
 http://36.72.252.213:8080#ID--AS7713 PT Telekomunikasi Indonesia
-http://8.213.17.87:3128#SA--AS45102 Alibaba (US) Technology Co., Ltd.
+http://31.46.175.173:8118#HU--AS5483 Magyar Telekom plc.
+http://45.56.227.46:3128#GB--AS203101 NAVARINO SINGLE MEMBER S.A.
+http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
+http://220.127.10.46:8080#KR--AS4766 Korea Telecom
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://152.42.191.186:8888#SG--AS14061 DigitalOcean, LLC
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
+http://45.157.177.167:8080#DE--AS197540 netcup GmbH
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://103.68.214.97:8080#ID--AS150517 PT Media Grasi Internet
-http://38.183.214.50:8080#VE--AS273093 WISP TECNOGER, C.A.
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://37.235.53.208:18888#ES--AS39020 Comvive Servidores S.L.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
