@@ -1,13 +1,14 @@
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
 http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://176.105.220.74:3129#UA--AS24812 NPK Home-Net Ltd.
-http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
 http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
-http://199.195.253.213:3128#US--AS53667 FranTech Solutions
-http://103.182.212.201:6969#BD--AS141737 Rapid Network
-http://43.131.45.21:8443#DE--AS132203 Tencent Building, Kejizhongyi Avenue
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://180.97.68.130:25000#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://165.85.253.175:8080#JP--AS394089 Google LLC
 http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://180.191.16.9:8085#PH--AS132199 Globe Telecom Inc.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://1.55.30.182:8080#VN--AS18403 FPT Telecom Company
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://83.229.61.203:8118#IT--AS25198 ZetServers
