@@ -1,19 +1,21 @@
+http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://8.213.34.58:3128#SA--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://148.72.165.7:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
+http://45.238.118.156:27234#BR--AS268323 AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
-http://182.52.137.15:8080#TH--AS23969 TOT Public Company Limited
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://106.227.95.142:3129#CN--AS149837 China Telecom
 http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://8.213.34.58:3128#SA--AS45102 Alibaba (US) Technology Co., Ltd.
-http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://43.129.238.55:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
+http://159.65.237.225:1693#CA--AS200373 3xK Tech GmbH
