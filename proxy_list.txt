@@ -1,6 +1,18 @@
-http://152.26.229.86:9443#US--AS81 MCNC
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://165.85.253.175:8080#JP--AS394089 Google LLC
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://104.168.107.28:8080#US--AS36352 HostPapa
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://177.153.33.94:80#BR--AS27715 Locaweb Serviços de Internet S/A
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://142.171.102.136:3128#US--AS35916 MULTACOM CORPORATION
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://103.4.76.58:8082#ID--AS150216 PT Khazanah Net Indonesia
+http://202.47.88.38:3127#ID--AS135477 PT. Java Digital Nusantara
+http://152.26.229.86:9443#US--AS81 MCNC
