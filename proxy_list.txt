@@ -1,14 +1,20 @@
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
 http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://18.183.250.177:5050#JP--AS16509 Amazon.com, Inc.
+http://95.217.45.15:8080#FI--AS24940 Hetzner Online GmbH
+http://211.104.20.205:8080#KR--AS4766 Korea Telecom
+http://89.217.193.0:8080#CH--AS6730 Sunrise GmbH
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
 http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
 http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://35.220.254.137:8080#HK--AS396982 Google LLC
 http://180.97.68.130:25000#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
 http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://83.229.61.203:8118#IT--AS25198 ZetServers
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://43.131.45.21:8443#DE--AS132203 Tencent Building, Kejizhongyi Avenue
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
+http://47.252.29.28:11222#US--AS394814 ISP4Life INC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
