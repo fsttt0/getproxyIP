@@ -1,20 +1,23 @@
+http://112.201.189.202:8082#PH--AS9299 Philippine Long Distance Telephone Company
+http://103.41.33.169:58080#IN--AS138296 Juweriyah Networks Private Limited
 http://158.255.212.55:9005#AT--AS57169 EDIS GmbH
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
 http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://104.168.107.28:8080#US--AS36352 HostPapa
+http://54.39.163.156:3128#CA--AS16276 OVH SAS
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://37.46.135.225:3128#RU--AS29182 JSC IOT
 http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
-http://190.186.1.126:999#BO--AS25620 COTAS LTDA.
-http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://4.155.2.13:9443#US--AS8075 Microsoft Corporation
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://116.102.111.238:10001#VN--AS24086 Viettel Corporation
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
