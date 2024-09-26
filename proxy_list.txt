@@ -1,20 +1,26 @@
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://18.183.250.177:5050#JP--AS16509 Amazon.com, Inc.
-http://95.217.45.15:8080#FI--AS24940 Hetzner Online GmbH
-http://211.104.20.205:8080#KR--AS4766 Korea Telecom
-http://89.217.193.0:8080#CH--AS6730 Sunrise GmbH
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://180.97.68.130:25000#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://34.205.61.74:3128#US--AS14618 Amazon.com, Inc.
 http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
-http://43.131.45.21:8443#DE--AS132203 Tencent Building, Kejizhongyi Avenue
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://47.252.29.28:11222#US--AS394814 ISP4Life INC
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
+http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://38.7.1.198:8080#VE--AS271899 GIGAPOP, C.A.
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://211.104.20.205:8080#KR--AS4766 Korea Telecom
+http://114.130.153.70:58080#BD--AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.
+http://103.153.62.155:8080#ID--AS140457 PT Ikhlas Cipta Teknologi
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
+http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
