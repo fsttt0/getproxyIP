@@ -1,6 +1,15 @@
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
-http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://180.97.68.130:25000#CN--AS140292 CHINATELECOM Jiangsu province Suzhou 5G network
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://165.85.253.175:8080#JP--AS394089 Google LLC
+http://199.195.253.213:3128#US--AS53667 FranTech Solutions
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
+http://83.229.61.203:8118#IT--AS25198 ZetServers
