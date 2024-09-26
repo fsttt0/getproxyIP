@@ -1,11 +1,6 @@
 http://152.26.229.86:9443#US--AS81 MCNC
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://37.46.135.225:3128#RU--AS29182 JSC IOT
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://104.168.107.28:8080#US--AS36352 HostPapa
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
-http://103.56.157.39:8181#US--AS26548 PureVoltage Hosting Inc.
