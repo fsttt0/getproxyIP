@@ -1,15 +1,19 @@
-http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://52.119.85.34:8080#US--AS18616 Natural Wireless, LLC
-http://47.252.29.28:11222#US--AS265645 HOSTINGFOREX S.A.
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://200.24.154.219:8080#EC--AS52468 UFINET PANAMA S.A.
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://182.253.109.108:8080#ID--AS17451 BIZNET NETWORKS
+http://182.52.137.15:8080#TH--AS23969 TOT Public Company Limited
+http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://103.126.87.120:8082#ID--AS138109 PT. Rasi Bintang Perkasa
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://8.213.34.58:3128#SA--AS45102 Alibaba (US) Technology Co., Ltd.
+http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
+http://43.129.238.55:3128#HK--AS132203 Tencent Building, Kejizhongyi Avenue
+http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
+http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
