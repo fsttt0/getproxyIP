@@ -1,18 +1,23 @@
-http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://38.65.81.118:8080#US--AS398946 ContentKeeper Technologies
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://177.153.33.94:80#BR--AS27715 Locaweb Serviços de Internet S/A
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://142.171.102.136:3128#US--AS35916 MULTACOM CORPORATION
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://103.4.76.58:8082#ID--AS150216 PT Khazanah Net Indonesia
-http://202.47.88.38:3127#ID--AS135477 PT. Java Digital Nusantara
-http://152.26.229.86:9443#US--AS81 MCNC
+http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
+http://104.248.165.240:80#GB--AS14061 DigitalOcean, LLC
