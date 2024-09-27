@@ -1,9 +1,9 @@
+http://103.4.76.58:8082#ID--AS150216 PT Khazanah Net Indonesia
+http://38.183.214.50:8080#VE--AS273093 WISP TECNOGER, C.A.
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
 http://58.240.211.250:7890#CN--AS4837 CHINA UNICOM China169 Backbone
 http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
-http://200.37.187.58:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://139.84.220.140:3129#IN--AS20473 The Constant Company, LLC
-http://139.84.214.147:3129#IN--AS20473 The Constant Company, LLC
-http://116.99.173.71:8118#VN--AS24086 Viettel Corporation
+http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
@@ -11,7 +11,13 @@ http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://165.85.253.175:8080#JP--AS394089 Google LLC
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://45.177.179.65:999#MX--AS270158 Wantelco SAS de CV
 http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
+http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
 http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
+http://148.72.165.7:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
 http://164.70.64.241:3128#JP--AS2514 NTT PC Communications, Inc.
