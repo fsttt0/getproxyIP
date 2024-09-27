@@ -1,11 +1,16 @@
+http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
+http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://116.80.76.82:3128#JP--AS2514 NTT PC Communications, Inc.
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://182.253.122.172:3127#ID--AS17451 BIZNET NETWORKS
-http://125.99.106.250:3128#IN--AS17488 Hathway IP Over Cable Internet
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://18.133.16.21:1080#GB--AS16509 Amazon.com, Inc.
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://190.186.18.161:999#BO--AS25620 COTAS LTDA.
