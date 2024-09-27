@@ -1,16 +1,17 @@
-http://165.85.253.175:8080#JP--AS394089 Google LLC
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://147.75.88.36:10003#US--AS54825 Packet Host, Inc.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://62.106.70.185:8118#JP--AS3258 xTom Japan Co., Ltd.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://58.240.211.250:7890#CN--AS4837 CHINA UNICOM China169 Backbone
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://147.75.88.36:10003#US--AS54825 Packet Host, Inc.
 http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://192.53.114.26:80#SG--AS63949 Akamai Connected Cloud
-http://38.133.217.120:8080#US--AS398946 ContentKeeper Technologies
+http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
 http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
