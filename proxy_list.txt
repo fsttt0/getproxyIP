@@ -1,18 +1,31 @@
+http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://190.121.145.115:999#CO--AS27951 Media Commerce Partners S.A
+http://45.22.209.157:8888#US--AS206092 Internet Utilities Europe and Asia Limited
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://58.240.211.250:7890#CN--AS4837 CHINA UNICOM China169 Backbone
-http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://186.96.50.113:999#MX--AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://147.75.88.36:10003#US--AS54825 Packet Host, Inc.
 http://165.85.253.175:8080#JP--AS394089 Google LLC
 http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://116.114.20.148:3128#CN--AS4837 CHINA UNICOM China169 Backbone
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://58.27.218.28:3128#PK--AS38264 National WiMAX/IMS environment
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://194.146.43.39:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://116.80.47.14:3128#JP--AS2514 NTT PC Communications, Inc.
+http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
 http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
-http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://134.209.139.1:3128#NL--AS14061 DigitalOcean, LLC
