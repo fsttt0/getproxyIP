@@ -1,20 +1,23 @@
-http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
-http://45.22.209.157:8888#US--AS396356 Latitude.sh
-http://203.192.217.6:8080#IN--AS17665 ONEOTT INTERTAINMENT LIMITED
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://46.17.63.166:9090#GB--AS39326 HighSpeed Office Limited
-http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
-http://45.119.133.218:3128#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
+http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
+http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://80.240.55.242:3128#RU--AS20895 "Yuzhniy TELECOM" ltd.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://171.242.153.16:8000#VN--AS7552 Viettel Group
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://161.34.40.111:3128#JP--AS2514 NTT PC Communications, Inc.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
+http://143.0.243.80:8080#BR--AS271217 Nova Info Internet e Telecomunicações LTDA
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://91.26.124.18:3128#DE--AS3320 Deutsche Telekom AG
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://4.155.2.13:9400#US--AS8075 Microsoft Corporation
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
