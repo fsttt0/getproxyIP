@@ -1,19 +1,11 @@
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
 http://158.255.215.50:16993#FR--AS9009 M247 Europe SRL
 http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
 http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://20.204.212.45:3129#IN--AS8075 Microsoft Corporation
-http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://45.119.133.218:3128#KH--AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-http://158.255.215.50:11857#FR--AS9009 M247 Europe SRL
-http://103.91.137.193:8181#ID--AS150266 PT Inhqi Media Infotek
+http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
 http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
+http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
