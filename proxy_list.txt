@@ -1,30 +1,19 @@
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
+http://85.214.10.133:3128#DE--AS8560 IONOS SE
+http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
 http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://212.110.187.185:34405#GB--AS35425 IOMART MANAGED SERVICES LIMITED
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
 http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
 http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
+http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
 http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
-http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
-http://186.215.87.194:6034#BR--AS4230 CLARO S.A.
-http://20.252.53.196:3128#US--AS8075 Microsoft Corporation
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
 http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://164.70.64.241:3128#JP--AS2514 NTT PC Communications, Inc.
-http://171.97.12.92:8080#TH--AS17552 True Online
+http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
 http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://46.17.63.166:12727#GB--AS39326 HighSpeed Office Limited
-http://190.61.101.95:8080#GT--AS52468 UFINET PANAMA S.A.
-http://163.172.33.137:4003#NL--AS62240 Clouvider
-http://116.80.92.220:3128#JP--AS2514 NTT PC Communications, Inc.
