@@ -1,25 +1,7 @@
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
+http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
-http://163.172.33.137:4003#NL--AS62240 Clouvider
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
-http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
-http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://161.34.40.109:3128#JP--AS2514 NTT PC Communications, Inc.
-http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://58.240.211.250:7890#CN--AS4837 CHINA UNICOM China169 Backbone
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
