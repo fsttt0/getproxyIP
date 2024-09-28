@@ -1,8 +1,16 @@
-http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
-http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
+http://116.80.47.31:3128#JP--AS2514 NTT PC Communications, Inc.
+http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://190.193.142.156:3128#AR--AS7303 Telecom Argentina S.A.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.83.0.46:8080#ID--AS150252 PT Kia Integrasi Akses
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
