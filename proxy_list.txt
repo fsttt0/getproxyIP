@@ -1,19 +1,5 @@
-http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
 http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://193.84.2.199:8080#FI--AS57043 HOSTKEY B.V.
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
-http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://161.34.40.114:3128#JP--AS2514 NTT PC Communications, Inc.
-http://45.174.57.26:999#MX--AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
-http://161.34.40.36:3128#JP--AS2514 NTT PC Communications, Inc.
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
