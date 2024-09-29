@@ -1,24 +1,14 @@
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://139.59.147.47:3128#DE--AS14061 DigitalOcean, LLC
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://69.197.135.43:40943#US--AS32097 WholeSale Internet, Inc.
-http://45.55.156.110:3128#US--AS14061 DigitalOcean, LLC
-http://119.47.90.76:8080#ID--AS138089 PT.Global Media Data Prima
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.40.37:3128#JP--AS2514 NTT PC Communications, Inc.
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://54.39.163.156:3128#CA--AS16276 OVH SAS
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://195.191.158.172:80#RU--AS50577 Intelsc Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
