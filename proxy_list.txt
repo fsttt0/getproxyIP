@@ -1,18 +1,15 @@
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://139.84.208.147:3129#IN--AS20473 The Constant Company, LLC
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://38.133.217.120:8080#US--AS398946 ContentKeeper Technologies
+http://139.84.149.57:3129#IN--AS20473 The Constant Company, LLC
 http://86.109.3.27:10048#US--AS54825 Packet Host, Inc.
-http://190.121.145.115:999#CO--AS27951 Media Commerce Partners S.A
-http://131.100.148.76:8080#BR--AS18881 TELEFÔNICA BRASIL S.A
-http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
 http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
 http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
