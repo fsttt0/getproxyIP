@@ -1,14 +1,20 @@
-http://94.232.11.178:46449#RU--AS12714 PJSC MegaFon
-http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://38.45.249.118:999#MX--AS270209 JESUS MANUEL OLGUIN GUZMAN
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
+http://116.80.47.17:3128#JP--AS2514 NTT PC Communications, Inc.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://181.209.82.196:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
+http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://20.204.212.76:3129#IN--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://45.22.209.157:8888#US--AS396356 Latitude.sh
+http://103.4.76.58:8082#ID--AS7713 PT Telekomunikasi Indonesia
