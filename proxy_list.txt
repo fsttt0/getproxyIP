@@ -1,23 +1,21 @@
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://47.252.29.28:11222#US--AS3257 GTT Communications Inc.
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.56.157.39:8080#VN--AS45899 VNPT Corp
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
-http://212.110.188.193:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://103.107.182.16:25512#VN--AS7552 Viettel Group
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
+http://139.84.148.89:3129#IN--AS20473 The Constant Company, LLC
+http://179.124.206.88:8080#BR--AS52817 NEWCENTER TELECOM
 http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.236.150.172:1080#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://139.84.220.140:3129#IN--AS20473 The Constant Company, LLC
+http://187.1.57.206:20183#BR--AS28201 Companhia Itabirana Telecomunicações Ltda
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://47.252.29.28:11222#US--AS264850 TODAS LAS REDES SA
+http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
