@@ -1,10 +1,4 @@
-http://38.45.249.118:999#MX--AS270209 JESUS MANUEL OLGUIN GUZMAN
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://58.27.218.28:3128#PK--AS38264 National WiMAX/IMS environment
