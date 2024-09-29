@@ -1,14 +1,13 @@
-http://139.59.147.47:3128#DE--AS14061 DigitalOcean, LLC
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://69.197.135.43:40943#US--AS32097 WholeSale Internet, Inc.
-http://189.113.117.135:8080#BR--AS28213 LCI Equipamentos de Informatica LTDA - LCI Telecom
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://164.70.64.241:3128#JP--AS2514 NTT PC Communications, Inc.
+http://139.84.149.57:3129#IN--AS20473 The Constant Company, LLC
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
+http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
