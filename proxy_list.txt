@@ -1,15 +1,16 @@
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://185.240.49.141:8888#KE--AS329272 Servercore Africa Ltd
-http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://139.84.149.57:3129#IN--AS20473 The Constant Company, LLC
-http://86.109.3.27:10048#US--AS54825 Packet Host, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://187.62.209.119:8080#BR--AS28165 Wireless Comm Services LTDA
+http://206.42.19.56:8080#BR--AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
 http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
+http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
 http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
