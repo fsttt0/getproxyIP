@@ -1,24 +1,21 @@
 http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://92.60.190.79:3128#UA--AS41540 Load.me sp. z o. o.
-http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://35.220.254.137:8080#HK--AS396982 Google LLC
 http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
 http://35.198.189.129:8080#DE--AS396982 Google LLC
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
 http://139.84.214.147:3129#IN--AS20473 The Constant Company, LLC
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
 http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://47.252.29.28:11222#US--AS3257 GTT Communications Inc.
 http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
 http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://149.154.157.17:10040#IT--AS9009 M247 Europe SRL
