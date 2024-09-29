@@ -1,30 +1,13 @@
-http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://185.191.236.162:8080#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
-http://116.80.47.21:3128#JP--AS2514 NTT PC Communications, Inc.
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://145.40.97.148:10001#NL--AS54825 Packet Host, Inc.
-http://222.122.110.26:80#KR--AS4766 Korea Telecom
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://148.72.165.7:30127#HU--AS56322 ServerAstra Kft.
-http://85.214.10.133:3128#DE--AS8560 IONOS SE
-http://161.34.40.38:3128#JP--AS2514 NTT PC Communications, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://4.155.2.13:80#US--AS8075 Microsoft Corporation
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://163.172.33.137:4005#NL--AS62240 Clouvider
+http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
+http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
+http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
