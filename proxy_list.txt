@@ -1,13 +1,16 @@
+http://41.242.116.150:50003#YT--AS37614 STOI Internet
+http://149.154.157.17:12345#IT--AS9009 M247 Europe SRL
+http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://164.70.64.241:3128#JP--AS2514 NTT PC Communications, Inc.
-http://139.84.149.57:3129#IN--AS20473 The Constant Company, LLC
+http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
+http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://159.65.237.225:1085#GB--AS200373 3xK Tech GmbH
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
