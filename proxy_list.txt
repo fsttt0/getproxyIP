@@ -1,13 +1,14 @@
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
+http://94.232.11.178:46449#RU--AS12714 PJSC MegaFon
+http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
 http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://38.45.249.118:999#MX--AS270209 JESUS MANUEL OLGUIN GUZMAN
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://181.209.82.196:999#AR--AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://163.172.33.137:4005#NL--AS62240 Clouvider
 http://145.40.97.148:9400#NL--AS54825 Packet Host, Inc.
-http://74.207.236.34:3128#US--AS63949 Akamai Connected Cloud
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
 http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://145.40.97.148:80#NL--AS54825 Packet Host, Inc.
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
