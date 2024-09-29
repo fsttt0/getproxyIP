@@ -1,16 +1,24 @@
-http://41.242.116.150:50003#YT--AS37614 STOI Internet
-http://149.154.157.17:12345#IT--AS9009 M247 Europe SRL
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
-http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
-http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://200.37.187.59:999#PE--AS6147 Telefonica del Peru S.A.A.
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
-http://159.65.237.225:1085#GB--AS200373 3xK Tech GmbH
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://161.34.39.56:9999#JP--AS2514 NTT PC Communications, Inc.
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://47.252.29.28:11222#US--AS265645 HOSTINGFOREX S.A.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
+http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
 http://18.133.16.21:80#GB--AS16509 Amazon.com, Inc.
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://149.154.157.17:10040#IT--AS9009 M247 Europe SRL
+http://77.242.98.39:8080#RU--AS15493 "Russian company" LLC
+http://103.182.212.201:6969#BD--AS141737 Rapid Network
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://103.107.182.16:25512#VN--AS7552 Viettel Group
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://149.154.157.17:12345#IT--AS9009 M247 Europe SRL
