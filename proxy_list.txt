@@ -1,1 +1,6 @@
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://34.205.61.74:3128#US--AS14618 Amazon.com, Inc.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
