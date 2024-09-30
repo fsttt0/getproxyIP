@@ -1,5 +1,16 @@
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://172.105.99.212:8989#BR--AS262611 Ivr informatica ltda me
+http://34.205.61.74:3128#US--AS14618 Amazon.com, Inc.
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
 http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
