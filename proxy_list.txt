@@ -1,27 +1,46 @@
-http://152.26.229.86:9443#US--AS81 MCNC
-http://222.122.110.26:80#KR--AS4766 Korea Telecom
-http://116.102.111.238:10001#VN--AS24086 Viettel Corporation
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://188.165.52.148:3128#FR--AS16276 OVH SAS
+http://212.110.188.193:34409#GB--AS35425 IOMART MANAGED SERVICES LIMITED
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://139.84.148.89:3129#IN--AS20473 The Constant Company, LLC
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://159.65.237.225:1610#NL--AS200373 3xK Tech GmbH
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://38.133.217.120:8080#US--AS398946 ContentKeeper Technologies
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://159.65.237.225:1974#DE--AS200373 3xK Tech GmbH
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://139.84.214.147:3129#IN--AS20473 The Constant Company, LLC
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://139.84.208.147:3129#IN--AS20473 The Constant Company, LLC
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://139.84.149.57:3129#IN--AS20473 The Constant Company, LLC
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://148.72.165.7:30127#HU--AS9009 M247 Europe SRL
+http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
+http://38.65.81.118:8080#US--AS398946 ContentKeeper Technologies
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://216.39.233.105:8080#PR--AS393573 Fuse Telecom LLC
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.252.29.28:11222#DE--AS209372 SIA "Singularity Telecom"
