@@ -1,9 +1,5 @@
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
