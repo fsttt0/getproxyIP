@@ -1,24 +1,5 @@
-http://38.133.217.120:8080#US--AS398946 ContentKeeper Technologies
-http://139.84.208.147:3129#IN--AS20473 The Constant Company, LLC
-http://5.189.130.42:23055#DE--AS51167 Contabo GmbH
+http://49.51.244.112:8888#US--AS132203 Tencent Building, Kejizhongyi Avenue
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://89.116.32.140:3128#IN--AS47583 Hostinger International Limited
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://139.84.144.214:3129#IN--AS20473 The Constant Company, LLC
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://139.84.220.140:3129#IN--AS20473 The Constant Company, LLC
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
-http://49.49.210.109:8080#TH--AS45758 Triple T Broadband Public Company Limited
-http://116.80.96.170:3128#JP--AS2514 NTT PC Communications, Inc.
