@@ -1,18 +1,16 @@
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://200.35.50.89:3028#CO--AS27695 EDATEL S.A. E.S.P
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://83.143.24.66:80#BW--AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://188.166.197.129:3128#SG--AS14061 DigitalOcean, LLC
+http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
 http://149.154.157.17:12345#IT--AS9009 M247 Europe SRL
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://37.46.135.225:3128#RU--AS29182 JSC IOT
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://86.109.3.27:10011#US--AS54825 Packet Host, Inc.
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://106.227.95.142:3129#CN--AS149837 China Telecom
 http://31.46.175.173:8118#HU--AS5483 Magyar Telekom plc.
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://158.255.212.55:10434#AT--AS57169 EDIS GmbH
