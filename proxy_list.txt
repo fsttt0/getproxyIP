@@ -1,12 +1,8 @@
-http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://173.249.60.246:14344#DE--AS51167 Contabo GmbH
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
 http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://195.189.70.51:3128#KZ--AS41007 CTC ASTANA LTD
