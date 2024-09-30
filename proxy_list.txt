@@ -1,6 +1,18 @@
-http://34.205.61.74:3128#US--AS14618 Amazon.com, Inc.
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
 http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://38.65.81.118:8080#US--AS398946 ContentKeeper Technologies
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.56.157.223:8181#US--AS14576 Hosting Solution Ltd.
+http://139.84.220.140:3129#IN--AS20473 The Constant Company, LLC
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
