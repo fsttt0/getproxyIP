@@ -1,5 +1,12 @@
-http://49.51.244.112:8888#US--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://20.27.86.185:8080#JP--AS8075 Microsoft Corporation
+http://15.235.153.57:8089#SG--AS16276 OVH SAS
