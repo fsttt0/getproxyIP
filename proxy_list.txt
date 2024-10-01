@@ -1,19 +1,22 @@
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
-http://139.178.67.134:10004#US--AS54825 Packet Host, Inc.
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://144.86.187.41:3129#US--AS64249 Charles River Operation
+http://139.178.67.134:10004#US--AS54825 Packet Host, Inc.
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://131.100.51.161:999#CO--AS3549 Level 3 Parent, LLC
-http://190.52.108.248:6666#VE--AS394684 GOLD DATA USA INC
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
 http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://104.168.107.28:8080#US--AS36352 HostPapa
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://144.86.187.37:3129#US--AS64249 Charles River Operation
+http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
+http://37.16.29.249:3128#FR--AS30081 CacheNetworks, Inc.
+http://51.159.75.249:3128#FR--AS12876 SCALEWAY S.A.S.
+http://147.28.155.20:10089#US--AS54825 Packet Host, Inc.
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
