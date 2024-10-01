@@ -1,23 +1,22 @@
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://144.86.187.36:3129#US--AS64249 Charles River Operation
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://104.168.107.28:8080#US--AS36352 HostPapa
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
 http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://31.44.7.32:8080#US--AS208951 ITGLOBAL.COM NL B.V.
 http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://182.140.146.149:3128#CN--AS38283 CHINANET SiChuan Telecom Internet Data Center
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://125.99.106.250:3128#IN--AS17488 Hathway IP Over Cable Internet
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://86.109.3.27:33333#US--AS54825 Packet Host, Inc.
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
 http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
 http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://139.178.67.134:10004#US--AS54825 Packet Host, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
