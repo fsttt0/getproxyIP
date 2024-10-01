@@ -1,24 +1,26 @@
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
 http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
 http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://195.189.70.51:3128#KZ--AS41007 CTC ASTANA LTD
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://149.154.157.17:4145#IT--AS9009 M247 Europe SRL
 http://149.154.157.17:6789#IT--AS9009 M247 Europe SRL
-http://147.28.155.20:10089#US--AS54825 Packet Host, Inc.
+http://177.44.161.8:3128#BR--AS262434 WIIP TELECOM SERVIÇOS DE INTERNET LTDA
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
 http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://182.252.70.220:8082#BD--AS23923 Agni Systems Limited
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://203.104.34.144:3128#CN--AS133774 Fuzhou
+http://104.168.107.28:8080#US--AS36352 HostPapa
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://185.253.32.26:8080#RU--AS29182 JSC IOT
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
+http://138.0.231.202:999#HN--AS263725 MULTICABLE DE HONDURAS
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://36.91.115.133:80#ID--AS7713 PT Telekomunikasi Indonesia
+http://119.47.90.76:8080#ID--AS138089 PT.Global Media Data Prima
