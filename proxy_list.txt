@@ -1,8 +1,30 @@
+http://58.27.218.28:3128#PK--AS38264 National WiMAX/IMS environment
 http://191.252.219.129:8889#BR--AS27715 Locaweb Serviços de Internet S/A
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://31.46.175.173:8118#HU--AS5483 Magyar Telekom plc.
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://152.26.229.86:9443#US--AS81 MCNC
 http://190.107.232.138:999#EC--AS263245 CINECABLE TV
-http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
+http://203.104.34.144:3128#CN--AS133774 Fuzhou
+http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
+http://31.46.175.173:8118#HU--AS5483 Magyar Telekom plc.
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://67.43.227.227:32363#MY--AS9534 Binariang Berhad
+http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://148.72.140.24:30127#HU--AS56322 ServerAstra Kft.
+http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
+http://116.0.53.34:8080#PK--AS24435 Supernet Limited Transit Autonomous System Number
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://2.59.181.125:33420#TR--AS207633 KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://173.255.223.18:3128#US--AS63949 Akamai Connected Cloud
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
