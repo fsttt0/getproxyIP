@@ -1,11 +1,1 @@
-http://4.155.2.13:80#US--AS8075 Microsoft Corporation
-http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
-http://139.178.67.134:10004#US--AS54825 Packet Host, Inc.
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://213.148.10.199:3128#KZ--AS48988 HAICOM LIMITED
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
