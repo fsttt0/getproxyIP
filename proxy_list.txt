@@ -1,1 +1,1 @@
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
