@@ -1,25 +1,24 @@
-http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
+http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://203.104.34.144:3128#CN--AS133774 Fuzhou
-http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
+http://201.20.118.146:27234#BR--AS28598 DB3 SERVICOS DE TELECOMUNICACOES S.A
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://145.40.97.148:10005#NL--AS54825 Packet Host, Inc.
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://143.107.199.248:8080#BR--AS28571 UNIVERSIDADE DE SAO PAULO
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://103.189.197.113:8181#ID--AS149912 PT Graha Sumber Teknologi
+http://138.0.231.202:999#HN--AS263725 MULTICABLE DE HONDURAS
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://147.28.155.20:10089#US--AS54825 Packet Host, Inc.
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://51.159.75.249:3128#FR--AS12876 SCALEWAY S.A.S.
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
