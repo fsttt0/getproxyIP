@@ -1,12 +1,13 @@
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://185.253.32.26:8080#RU--AS29182 JSC IOT
+http://104.248.98.31:3128#SG--AS14061 DigitalOcean, LLC
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
 http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
