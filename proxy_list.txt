@@ -1,15 +1,22 @@
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+http://144.86.187.36:3129#US--AS64249 Charles River Operation
+http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
+http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://35.198.189.129:8080#DE--AS396982 Google LLC
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://213.148.10.199:3128#KZ--AS48988 HAICOM LIMITED
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
 http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.182.213.65:8080#BD--AS141737 Rapid Network
+http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
