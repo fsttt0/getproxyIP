@@ -1,1 +1,15 @@
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://35.198.189.129:8080#DE--AS396982 Google LLC
+http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://213.148.10.199:3128#KZ--AS48988 HAICOM LIMITED
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://64.92.82.59:8080#PH--AS4775 Globe Telecoms
+http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://103.182.213.65:8080#BD--AS141737 Rapid Network
