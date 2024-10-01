@@ -1,21 +1,16 @@
-http://103.200.20.56:3128#VN--AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
-http://146.196.41.141:8080#ID--AS132652 PT. Cahaya Buana Raksa
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://86.109.3.28:80#US--AS54825 Packet Host, Inc.
+http://87.247.186.40:1081#DE--AS14061 DigitalOcean, LLC
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
 http://147.28.155.20:10089#US--AS54825 Packet Host, Inc.
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
 http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
-http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://23.95.216.78:34561#US--AS36352 HostPapa
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
