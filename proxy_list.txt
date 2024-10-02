@@ -1,21 +1,21 @@
-http://61.129.2.212:8080#CN--AS4812 China Telecom (Group)
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://149.154.157.17:4542#IT--AS9009 M247 Europe SRL
-http://111.1.61.49:3128#CN--AS56041 China Mobile communications corporation
 http://149.154.157.17:4145#IT--AS9009 M247 Europe SRL
 http://149.154.157.17:6789#IT--AS9009 M247 Europe SRL
-http://114.9.52.98:8080#ID--AS4761 INDOSAT Internet Network Provider
+http://45.4.148.70:8080#BR--AS266073 Fausto Silva de Almeida Serviços - ME
 http://203.104.34.144:3128#CN--AS133774 Fuzhou
 http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://192.9.237.224:3128#US--AS31898 Oracle Corporation
+http://139.178.67.134:10010#US--AS54825 Packet Host, Inc.
 http://212.88.109.97:8080#UG--AS20294 MTN Uganda
-http://147.28.155.20:10089#US--AS54825 Packet Host, Inc.
 http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://103.209.36.58:81#IN--AS45194 Syscon Infoway Pvt. Ltd.
 http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
 http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
 http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
-http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
+http://103.59.44.33:2022#ID--AS138881 PT INDONESIA TRANS NETWORK
+http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://148.72.165.7:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://194.164.206.37:3128#DE--AS8560 IONOS SE
