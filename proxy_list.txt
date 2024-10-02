@@ -1,19 +1,19 @@
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
 http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://23.95.216.78:34561#US--AS36352 HostPapa
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://124.198.6.54:12362#KR--AS4766 Korea Telecom
+http://177.44.161.8:3128#BR--AS262434 WIIP TELECOM SERVIÇOS DE INTERNET LTDA
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
+http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
+http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
+http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://144.86.187.41:3129#US--AS64249 Charles River Operation
+http://51.91.119.25:3128#FR--AS16276 OVH SAS
+http://43.134.121.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://182.23.127.2:8080#ID--AS4800 PT Aplikanusa Lintasarta
+http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://124.6.168.26:80#PH--AS132199 Globe Telecom Inc.
-http://144.86.187.44:3129#US--AS64249 Charles River Operation
+http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
