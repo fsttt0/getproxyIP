@@ -1,16 +1,15 @@
+http://141.145.204.7:3128#FR--AS31898 Oracle Corporation
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
-http://152.26.229.86:9443#US--AS81 MCNC
-http://20.44.189.184:3129#JP--AS8075 Microsoft Corporation
-http://104.168.107.28:8080#US--AS36352 HostPapa
+http://37.235.53.208:6789#ES--AS39020 Comvive Servidores S.L.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://36.92.162.220:8080#ID--AS7713 PT Telekomunikasi Indonesia
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
 http://35.198.189.129:8080#DE--AS396982 Google LLC
-http://15.235.153.57:8089#SG--AS16276 OVH SAS
-http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
-http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://85.210.84.189:8080#GB--AS8075 Microsoft Corporation
-http://177.44.161.8:3128#BR--AS262434 WIIP TELECOM SERVIÇOS DE INTERNET LTDA
-http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://5.189.184.6:80#DE--AS51167 Contabo GmbH
+http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
