@@ -1,2 +1,6 @@
-http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://147.75.34.93:9400#NL--AS54825 Packet Host, Inc.
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
