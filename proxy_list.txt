@@ -1,25 +1,20 @@
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
 http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://23.95.216.78:34561#US--AS36352 HostPapa
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://124.198.6.54:12362#KR--AS4766 Korea Telecom
+http://212.88.109.97:8080#UG--AS20294 MTN Uganda
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://51.158.173.222:3128#NL--AS12876 SCALEWAY S.A.S.
-http://43.134.68.153:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://103.189.96.196:8085#ID--AS45305 Lintas Data Prima, PT
-http://103.78.75.91:8080#ID--AS9341 North Korea Government
-http://5.161.114.204:4228#US--AS213230 Hetzner Online GmbH
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
-http://161.34.40.115:3128#JP--AS2514 NTT PC Communications, Inc.
-http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://101.251.204.174:8080#CN--AS23724 IDC, China Telecommunications Corporation
+http://158.255.215.50:9005#FR--AS9009 M247 Europe SRL
+http://158.255.215.50:9090#FR--AS9009 M247 Europe SRL
+http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://50.6.193.80:3128#US--AS19871 Network Solutions, LLC
+http://37.131.166.62:58080#PL--AS35745 Provector Sp. z o.o
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://148.72.165.7:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
+http://38.137.203.10:999#PE--AS272979 UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA
+http://8.219.97.248:80#SG--AS45102 Alibaba (US) Technology Co., Ltd.
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://54.39.163.156:3128#CA--AS16276 OVH SAS
+http://182.252.70.220:8082#BD--AS23923 Agni Systems Limited
