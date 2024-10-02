@@ -1,1 +1,9 @@
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://190.107.232.138:999#EC--AS263245 CINECABLE TV
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://147.75.34.93:9400#NL--AS54825 Packet Host, Inc.
+http://129.226.193.16:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
