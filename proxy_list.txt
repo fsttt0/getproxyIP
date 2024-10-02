@@ -1,22 +1,19 @@
+http://36.95.102.111:3128#ID--AS7713 PT Telekomunikasi Indonesia
+http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://23.95.216.78:34561#US--AS36352 HostPapa
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
 http://124.198.6.54:12362#KR--AS4766 Korea Telecom
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://99.233.122.60:3128#CA--AS812 Rogers Communications Canada Inc.
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
+http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://62.33.53.248:3128#RU--AS20485 Joint Stock Company TransTeleCom
 http://65.1.244.232:3128#IN--AS16509 Amazon.com, Inc.
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://185.142.66.110:8080#RU--AS50289 Limited Liability Company WELLCOM-L
-http://192.9.237.224:3128#US--AS31898 Oracle Corporation
-http://35.220.254.137:8080#HK--AS396982 Google LLC
+http://43.134.33.254:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://103.74.229.133:8080#BD--AS139009 Windstream Communication Limited
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://144.86.187.41:3129#US--AS64249 Charles River Operation
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://159.203.104.153:4550#US--AS14061 DigitalOcean, LLC
-http://144.86.187.57:3129#US--AS64249 Charles River Operation
-http://5.189.158.162:3128#DE--AS51167 Contabo GmbH
-http://197.242.146.109:3128#ZA--AS37611 Afrihost (Pty) Ltd
+http://124.6.168.26:80#PH--AS132199 Globe Telecom Inc.
+http://144.86.187.44:3129#US--AS64249 Charles River Operation
