@@ -1,4 +1,4 @@
-http://20.26.249.29:8080#GB--AS8075 Microsoft Corporation
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://4.159.61.189:8080#GB--AS8075 Microsoft Corporation
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
+http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://212.88.109.97:8080#UG--AS20294 MTN Uganda
+http://171.244.60.55:8080#VN--AS7552 Viettel Group
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
