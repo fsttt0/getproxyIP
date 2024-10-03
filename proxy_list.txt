@@ -1,6 +1,8 @@
+http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
+http://99.233.122.60:3128#CA--AS812 Rogers Communications Canada Inc.
+http://115.178.49.195:1080#ID--AS38783 PT. Simaya Jejaring Mandiri
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
-http://104.168.107.28:8080#US--AS36352 HostPapa
 http://15.235.12.19:3128#CA--AS16276 OVH SAS
-http://124.198.6.54:12362#KR--AS4766 Korea Telecom
-http://191.9.116.119:9010#BR--AS26599 TELEFÔNICA BRASIL S.A
+http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
+http://49.0.3.172:7777#ID--AS55701 PT. Usaha Adisanggoro
+http://194.146.43.39:3128#KZ--AS202958 LLP "Kompaniya Hoster.KZ"
