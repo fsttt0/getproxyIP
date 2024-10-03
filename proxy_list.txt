@@ -1,12 +1,5 @@
 http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
 http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
-http://195.25.20.155:3128#FR--AS3215 Orange S.A.
-http://104.168.107.28:8080#US--AS36352 HostPapa
-http://124.198.6.54:12362#KR--AS4766 Korea Telecom
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
 http://45.230.169.6:999#VE--AS266742 SOLUCIONES DCN NETWORK C.A
-http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
+http://207.211.168.178:3128#US--AS31898 Oracle Corporation
 http://149.154.157.17:10040#IT--AS9009 M247 Europe SRL
