@@ -1,16 +1,6 @@
-http://148.72.165.7:30118#GB--AS20860 IOMART CLOUD SERVICES LIMITED
-http://5.189.239.157:80#RU--AS49505 JSC Selectel
-http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
-http://20.219.176.57:3129#IN--AS8075 Microsoft Corporation
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://20.204.214.79:3129#IN--AS8075 Microsoft Corporation
-http://47.252.29.28:11222#NL--AS60781 LeaseWeb Netherlands B.V.
-http://20.204.214.23:3129#IN--AS8075 Microsoft Corporation
-http://210.61.207.92:80#TW--AS3462 Data Communication Business Group
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
-http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
-http://104.168.107.28:8080#US--AS36352 HostPapa
-http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
 http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://5.161.219.13:4228#US--AS213230 Hetzner Online GmbH
+http://104.168.107.28:8080#US--AS36352 HostPapa
+http://15.235.12.19:3128#CA--AS16276 OVH SAS
+http://124.198.6.54:12362#KR--AS4766 Korea Telecom
+http://191.9.116.119:9010#BR--AS26599 TELEFÔNICA BRASIL S.A
