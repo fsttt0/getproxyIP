@@ -1,27 +1,17 @@
+http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://147.28.155.20:10006#US--AS54825 Packet Host, Inc.
+http://181.212.45.226:8080#CL--AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)
 http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
 http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://103.107.182.16:25512#VN--AS45899 VNPT Corp
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://147.75.34.103:80#NL--AS54825 Packet Host, Inc.
-http://140.227.228.202:10101#JP--AS2514 NTT PC Communications, Inc.
+http://46.17.63.166:10000#GB--AS39326 HighSpeed Office Limited
 http://212.88.109.97:8080#UG--AS20294 MTN Uganda
-http://158.255.212.55:3256#AT--AS57169 EDIS GmbH
-http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://23.122.184.9:8888#US--AS206092 Internet Utilities Europe and Asia Limited
-http://98.147.60.146:48678#US--AS20001 Charter Communications Inc
 http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
 http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
-http://47.90.205.231:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
-http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://223.135.156.183:8080#JP--AS2527 Sony Network Communications Inc.
-http://35.220.254.137:8080#HK--AS396982 Google LLC
-http://43.134.1.40:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://43.153.237.252:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
-http://15.235.12.19:3128#CA--AS16276 OVH SAS
-http://103.30.43.183:3128#HK--AS55933 Cloudie Limited
-http://190.61.106.97:8080#CR--AS52468 UFINET PANAMA S.A.
-http://99.233.122.60:3128#CA--AS812 Rogers Communications Canada Inc.
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://47.88.18.204:8023#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://171.238.237.206:5000#VN--AS7552 Viettel Group
+http://144.86.187.56:3129#US--AS64249 Charles River Operation
+http://191.9.116.119:9010#BR--AS26599 TELEFÔNICA BRASIL S.A
