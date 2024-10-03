@@ -1,13 +1,12 @@
-http://178.63.180.104:3128#DE--AS24940 Hetzner Online GmbH
+http://151.236.14.178:18080#NL--AS57169 EDIS GmbH
+http://151.236.14.178:14673#NL--AS57169 EDIS GmbH
+http://47.88.31.196:8080#US--AS45102 Alibaba (US) Technology Co., Ltd.
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
 http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
 http://195.25.20.155:3128#FR--AS3215 Orange S.A.
-http://43.153.208.148:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://85.210.121.11:8080#GB--AS8075 Microsoft Corporation
 http://104.168.107.28:8080#US--AS36352 HostPapa
 http://124.198.6.54:12362#KR--AS4766 Korea Telecom
-http://4.158.55.159:8080#GB--AS8075 Microsoft Corporation
-http://161.34.40.112:3128#JP--AS2514 NTT PC Communications, Inc.
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
-http://103.4.76.58:8082#ID--AS7713 PT Telekomunikasi Indonesia
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
+http://45.230.169.6:999#VE--AS266742 SOLUCIONES DCN NETWORK C.A
+http://4.158.175.186:8080#GB--AS8075 Microsoft Corporation
 http://149.154.157.17:10040#IT--AS9009 M247 Europe SRL
