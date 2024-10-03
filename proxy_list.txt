@@ -1,5 +1,21 @@
+http://43.133.59.220:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://43.134.32.184:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://201.91.82.155:3128#BR--AS10429 TELEFÔNICA BRASIL S.A
+http://149.154.157.17:10040#IT--AS9009 M247 Europe SRL
+http://194.164.206.37:3128#DE--AS8560 IONOS SE
+http://94.23.204.27:3128#FR--AS16276 OVH SAS
+http://147.75.34.103:80#NL--AS54825 Packet Host, Inc.
+http://43.134.229.98:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://46.17.63.166:9002#GB--AS39326 HighSpeed Office Limited
+http://212.88.109.97:8080#UG--AS20294 MTN Uganda
+http://46.17.63.166:14673#GB--AS39326 HighSpeed Office Limited
 http://185.191.236.162:3128#CH--AS264617 GRUPO PANAGLOBAL 15 S.A
-http://152.26.229.86:9443#US--AS81 MCNC
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://146.59.16.105:3128#PL--AS16276 OVH SAS
-http://43.153.207.93:3128#SG--AS132203 Tencent Building, Kejizhongyi Avenue
+http://38.51.232.18:8080#CO--AS267708 SP SISTEMAS PALACIOS LTDA
+http://61.247.185.50:8080#BD--AS38031 OptiMax Communication Ltd.
+http://47.251.43.115:33333#US--AS45102 Alibaba (US) Technology Co., Ltd.
+http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://13.234.24.116:3128#IN--AS16509 Amazon.com, Inc.
+http://54.212.22.168:80#US--AS16509 Amazon.com, Inc.
+http://44.226.167.102:3128#US--AS16509 Amazon.com, Inc.
+http://147.75.34.93:9400#NL--AS54825 Packet Host, Inc.
+http://85.210.84.11:8080#GB--AS8075 Microsoft Corporation
