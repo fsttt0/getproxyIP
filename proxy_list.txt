@@ -1,8 +1,4 @@
-http://178.48.68.61:18080#HU--AS21334 Vodafone Hungary Ltd.
+http://35.220.254.137:8080#HK--AS396982 Google LLC
 http://123.126.158.50:80#CN--AS4808 China Unicom Beijing Province Network
-http://20.26.97.150:8080#GB--AS8075 Microsoft Corporation
-http://23.95.216.78:34561#US--AS36352 HostPapa
-http://160.86.242.23:8080#JP--AS2527 Sony Network Communications Inc.
-http://199.195.253.14:1080#EE--AS197537 WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.
-http://94.23.204.27:3128#FR--AS16276 OVH SAS
-http://212.88.109.97:8080#UG--AS20294 MTN Uganda
+http://4.158.61.222:8080#GB--AS8075 Microsoft Corporation
+http://85.210.203.188:8080#GB--AS8075 Microsoft Corporation
